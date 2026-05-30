@@ -1,0 +1,179 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 503,
+      "toChapterSeq": 522,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "控制",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "恐惧",
+          "hierarchy": "下级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩制服达尼兹后将其作为人质，达尼兹被迫服从，后两人合作对抗海盗和班西港事件，达尼兹受伤后克莱恩救治，并决定合作狩猎“血之上将”。"
+    },
+    {
+      "fromChapterSeq": 503,
+      "toChapterSeq": 522,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "艾尔兰",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "两人在班西港事件中合作对抗堕落主教米勒及无头活尸，克莱恩信任艾尔兰处理善后。"
+    },
+    {
+      "fromChapterSeq": 503,
+      "toChapterSeq": 522,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "堂娜",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在班西港事件中救援堂娜及其家人，堂娜感激并参与筹款补偿。"
+    },
+    {
+      "fromChapterSeq": 512,
+      "toChapterSeq": 514,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩以“愚者”身份借“世界”之口透露班西港涉及“救赎蔷薇”与“天使之王”梅迪奇的信息，促使阿尔杰向风暴教会举报。"
+    },
+    {
+      "fromChapterSeq": 512,
+      "toChapterSeq": 512,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过“世界”委托奥黛丽购买无线电收报机，延续塔罗会内的互助关系。"
+    },
+    {
+      "fromChapterSeq": 516,
+      "toChapterSeq": 522,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "达尼兹被麦维提袭击后向克莱恩求助，克莱恩救治后双方为狩猎“血之上将”正式合作。"
+    },
+    {
+      "fromChapterSeq": 519,
+      "toChapterSeq": 519,
+      "characterA": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "达尼兹与阿尔杰在赌场交谈，阿尔杰推测克莱恩是“愚者”眷者，并得知“死神的钥匙”情报。"
+    }
+  ]
+}

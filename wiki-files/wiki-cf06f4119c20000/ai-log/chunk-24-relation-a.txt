@@ -1,0 +1,154 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 474,
+      "toChapterSeq": 474,
+      "characterA": {
+        "name": "埃德萨克·奥古斯都",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被欺骗者"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "恋人",
+          "narrativeRole": "欺骗者"
+        }
+      },
+      "relationSummary": "埃德萨克王子审问特莉丝，特莉丝坦白自己原是男性特里斯，两人的相遇是王室与魔女教派合作的安排，王子只是牺牲品，特莉丝作为人质和伪装。王子放走特莉丝。两人曾是恋人关系。"
+    },
+    {
+      "fromChapterSeq": 474,
+      "toChapterSeq": 482,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "阿兹克救出克莱恩并带其逃入灵界，后透露因斯·赞格威尔受伤逃遁，建议克莱恩暂离贝克兰德。克莱恩使用阿兹克铜哨求助，二人继续巩固盟友关系。"
+    },
+    {
+      "fromChapterSeq": 474,
+      "toChapterSeq": 478,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "破坏者"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被破坏者"
+        }
+      },
+      "relationSummary": "克莱恩目睹A先生献祭启动真实造物主降临仪式，投出万能钥匙破坏仪式并重创A先生。A先生追杀克莱恩，两人激烈战斗。"
+    },
+    {
+      "fromChapterSeq": 474,
+      "toChapterSeq": 475,
+      "characterA": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "绝望女士",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "A先生与绝望女士商议通过纵火掩盖痕迹，由极光会承担恶名并迎接真实造物主降临。A先生使用记录能力将绝望女士传送至东区制造大雾霾。"
+    },
+    {
+      "fromChapterSeq": 480,
+      "toChapterSeq": 482,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩化身新模样离开贝克兰德，在车站与班森、梅丽莎擦肩而过，没有相认。"
+    },
+    {
+      "fromChapterSeq": 480,
+      "toChapterSeq": 482,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "班森·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩化身新模样离开贝克兰德，在车站与班森、梅丽莎擦肩而过，没有相认。"
+    }
+  ]
+}

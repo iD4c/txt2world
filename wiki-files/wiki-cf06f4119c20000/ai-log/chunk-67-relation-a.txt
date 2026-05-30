@@ -1,0 +1,254 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1287,
+      "toChapterSeq": 1289,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "阿里安娜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩与阿里安娜合作处理“0-02”封印，通过制造悖论使其规则失效，阿里安娜承受绞刑隐秘规则，克莱恩负责传送。"
+    },
+    {
+      "fromChapterSeq": 1287,
+      "toChapterSeq": 1287,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "拜尔斯",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩让拜尔斯进入图书馆翻动“0-02”，利用其市民身份制造悖论，属于短暂利用关系。"
+    },
+    {
+      "fromChapterSeq": 1289,
+      "toChapterSeq": 1289,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "蕾妮特为克莱恩带回拉里昂遗留的山羊角，进行战利品分配。"
+    },
+    {
+      "fromChapterSeq": 1290,
+      "toChapterSeq": 1295,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "感谢",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "韦尔奇的父亲",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "感激",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩祭奠韦尔奇时遇见其父，被问能否让城市恢复，克莱恩承诺尽力并最终实现，韦尔奇的父亲见证康斯顿完整重现。"
+    },
+    {
+      "fromChapterSeq": 1290,
+      "toChapterSeq": 1292,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "埃里克",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩协助红手套队长埃里克处理公寓异常，调查望远镜污染事件，埃里克提供现场情况，克莱恩作为专家指导。"
+    },
+    {
+      "fromChapterSeq": 1297,
+      "toChapterSeq": 1298,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "多里安·格雷",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩指示多里安在亚伯拉罕家族会议中告知“门”先生真相，并劝阻极端分子，多里安执行并宣扬“愚者”信仰。"
+    },
+    {
+      "fromChapterSeq": 1292,
+      "toChapterSeq": 1298,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过佛尔思了解“门”先生对话，指示她向家族传达部分真相以保护亚伯拉罕家族。"
+    },
+    {
+      "fromChapterSeq": 1300,
+      "toChapterSeq": 1301,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在灰雾上协助贝尔纳黛封印被污染的罗塞尔，利用“源堡”力量嫁接生死并维持封印。"
+    },
+    {
+      "fromChapterSeq": 1300,
+      "toChapterSeq": 1301,
+      "characterA": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "爱慕",
+          "hierarchy": "下级",
+          "favorability": "爱慕",
+          "bond": "女",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "爱慕",
+          "bond": "父",
+          "narrativeRole": "被依附者"
+        }
+      },
+      "relationSummary": "贝尔纳黛找到父亲陵寝，罗塞尔被污染但清醒后要求封印，父女短暂交流后罗塞尔沉眠，贝尔纳黛悲伤离去。"
+    },
+    {
+      "fromChapterSeq": 1300,
+      "toChapterSeq": 1301,
+      "characterA": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "爱慕",
+          "bond": "女",
+          "narrativeRole": "被依附者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "爱慕",
+          "hierarchy": "下级",
+          "favorability": "爱慕",
+          "bond": "父",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "罗塞尔被污染后依然深爱女儿，要求被封印以保护她，最后叮嘱并送走贝尔纳黛。"
+    }
+  ]
+}

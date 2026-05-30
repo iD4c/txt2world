@@ -1,0 +1,909 @@
+{
+  "characters": [
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在托斯卡特港猎杀“新鲁恩党”莫索纳，将其转化为傀儡，并让莫索纳向“愚者”献祭“蠕动的饥饿”，手套吞噬莫索纳。之后在酒吧巧遇“屠杀者”吉尔希艾斯，主动攻击，经过激战将其击杀，放牧其灵魂获得“污秽之语（缓慢）”、“岩浆之剑”、“硫磺火球”三种能力。发现吉尔希艾斯尸体析出细长血液结晶，占卜得知其源于活着的封印物“告死号”，命名为“呓语者”的气息。将吉尔希艾斯尸体交给酒吧老板代领赏金，获得6000镑。与安德森乘船离开，在奥拉维岛找命运议员瑞乔德解除安德森的厄运诅咒。收到达尼兹求救信，得知艾德雯娜失踪，占卜确认其进入《格罗塞尔游记》书中世界。将达尼兹和安德森送入书中，随后自己也滴血进入。在书中找到艾德雯娜，结识巨人格罗塞尔、精灵夏塔丝、所罗门帝国贵族莫贝特、苦修士斯诺曼、鲁恩士兵龙泽尔，得知大量历史秘辛。与众人合力激战并击杀“北方之王”冰霜巨龙尤里斯安，格罗塞尔战死。离开书中世界后，莫贝特、夏塔丝、斯诺曼、龙泽尔因在书中度过数百年而瞬间衰老死亡，析出非凡特性。获得“海洋歌者”配方。",
+      "identInfos": [
+        "最强冒险家",
+        "冷峻疯狂",
+        "赏金猎人",
+        "手持左轮手枪",
+        "戴半高丝绸礼帽穿黑色双排扣礼服",
+        "无面人"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 683,
+          "extractReason": "UPDATE",
+          "evidenceText": "是的，“新鲁恩党”的莫索纳已经成为了他的傀儡！"
+        },
+        {
+          "chapterSeq": 684,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩毫不犹豫转向，拿着左轮，从酒吧的人群里，从下蹲的醉鬼赌徒头上，敏捷又快速地冲到了通往酒吧二层的楼梯口处。"
+        },
+        {
+          "chapterSeq": 685,
+          "extractReason": "UPDATE",
+          "evidenceText": "“屠杀者”吉尔希艾斯！……克莱恩嘴角微勾，发现再没有比巧遇更合适狩猎“恶魔”了！"
+        },
+        {
+          "chapterSeq": 690,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收到达尼兹求救信，“冰山中将”艾德雯娜神秘失踪，通过信使蕾妮特·缇尼科尔得知其失踪与《格罗塞尔游记》有关。克莱恩占卜确认艾德雯娜进入书中世界，将达尼兹和安德森也送入书中作为助手。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "莫索纳",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“新鲁恩党”的黑帮大佬，在酒吧观看拳击赛时被克莱恩操纵“灵体之线”转化为傀儡。成为傀儡后，向“愚者”献祭“蠕动的饥饿”，被手套吞噬死亡。",
+      "identInfos": [
+        "新鲁恩党老大",
+        "酒糟鼻",
+        "黑帮头目",
+        "涉及毒品犯罪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 683,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "源于不同生命的黑色“灵体之线”出现在了克莱恩的眼中，但他并没有立刻延伸出自我灵性去尝试操纵。分辨并确认了哪些“灵体之线”属于莫索纳后，他咕噜喝了口麦芽啤酒，专注地欣赏起擂台上的拳击赛，就像一位真正的观众。"
+        },
+        {
+          "chapterSeq": 683,
+          "extractReason": "UPDATE",
+          "evidenceText": "是的，“新鲁恩党”的莫索纳已经成为了他的傀儡！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        683
+      ]
+    },
+    {
+      "name": "吉尔希艾斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“不死之王”阿加里图的二副，赏金9500镑的“屠杀者”，序列5“欲望使徒”。在酒吧被克莱恩主动攻击，经过激战后被击杀，灵体被放牧入“蠕动的饥饿”，尸体析出血液结晶（源于“告死号”的污染）。",
+      "identInfos": [
+        "屠杀者",
+        "赏金9500镑",
+        "不死之王二副",
+        "恶魔途径序列5",
+        "欲望使徒"
+      ],
+      "aliases": [
+        {
+          "alias": "屠杀者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 683,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这人影身材中等，嘴唇发紫，褐色眼眸内藏着让人畏惧的强烈恶意，正是“不死之王”阿加里图的二副，赏金9500镑的“屠杀者”吉尔希艾斯！"
+        },
+        {
+          "chapterSeq": 685,
+          "extractReason": "UPDATE",
+          "evidenceText": "寒冷阴森的微风随之出现，“屠杀者”吉尔希艾斯的灵体连同黑雾般的非凡特性，惨叫着钻进了“蠕动的饥饿”内，固定于空白的那根手指。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        683,
+        684,
+        685
+      ]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "最强猎人，在托斯卡特港与克莱恩会合，一同乘船前往奥拉维岛。在奥拉维岛由命运议员瑞乔德解除厄运诅咒。随克莱恩登上“黄金梦想号”，滴血进入《格罗塞尔游记》，参与击杀冰霜巨龙尤里斯安。",
+      "identInfos": [
+        "最强猎人",
+        "宝藏猎人",
+        "嘴瑣乐观",
+        "擅于埋伏和潜入",
+        "金色短发三七开"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 694,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩指了指桌上的《格罗塞尔游记》道：“用你的血液涂抹这本书的封皮，不需要太多。”"
+        },
+        {
+          "chapterSeq": 699,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森·胡德手中凝出了一柄炽白的火焰长枪，然后一个前跨摆背，将它投了出去。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "瑞乔德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "生命学派命运议员，盲人（戴遮眼罩），半神。在奥拉维岛为安德森·胡德解除厄运诅咒，只收取一枚金币。克莱恩向其询问“欲望母树”的信息。",
+      "identInfos": [
+        "命运议员",
+        "盲人",
+        "半神",
+        "生命学派",
+        "戴黑色眼罩"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 689,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这老者发白如雪，脸庞没有明显的皱纹，眼睛位置戴着个遮住全部视线的黑色眼罩。"
+        },
+        {
+          "chapterSeq": 689,
+          "extractReason": "UPDATE",
+          "evidenceText": "瑞乔德接住金币，缓慢合拢五指，将手收了回来。他旋即笑道：“好了，你的厄运已经被解除了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        689
+      ]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“冰山中将”，知识与智慧之神信徒，序列5“阅读者”。在研究《格罗塞尔游记》时神秘失踪，进入书中世界，成为故事中的“海盗女士”。在书中世界与主角队汇合，参与击杀冰霜巨龙尤里斯安。离开书中世界后，目睹莫贝特等同伴因时间流速衰老死亡。",
+      "identInfos": [
+        "冰山中将",
+        "知识之神的信徒",
+        "宝藏猎人",
+        "棕发浅蓝眼眸",
+        "黄金梦想号船长"
+      ],
+      "aliases": [
+        {
+          "alias": "冰山中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 692,
+          "extractReason": "UPDATE",
+          "evidenceText": "“她为什么会离开‘大地母神’教会？”提着皮箱的克莱恩明知故问。"
+        },
+        {
+          "chapterSeq": 696,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿着繁复衬衣和深色长裤的“冰山中将”艾德雯娜扫过他们三人，惯来冷淡的表情里出现了较为明显的错愕，似乎没想到格尔曼·斯帕罗和安德森·胡德会在这里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        690,
+        692,
+        696,
+        697,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“黄金梦想号”船员，知名大海盗，赏金较高。发现船长艾德雯娜失踪后，向克莱恩写信求助。在克莱恩指示下滴血进入《格罗塞尔游记》，诵念“愚者”尊名获得庇护。书中世界负责供暖，后参与抬格罗塞尔尸体离开。",
+      "identInfos": [
+        "烈焰",
+        "黄金梦想号船员",
+        "艾德雯娜下属",
+        "纵火家"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 690,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹惊恐地发现了一个问题：船长有三天没出现了！"
+        },
+        {
+          "chapterSeq": 693,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹握着那把铜制小刀，在左手的手背上比划了几下，迟疑着没有发力。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        690,
+        691,
+        693,
+        694,
+        695,
+        699,
+        702
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的信使，灵界强者，疑似半神层次。将达尼兹的求救信送给克莱恩，并主动查探“黄金梦想号”情况。等待克莱恩回信，具备半神实力，差点杀死安德森。",
+      "identInfos": [
+        "无头信使",
+        "灵界生物",
+        "半神层次",
+        "身穿黑色长裙",
+        "提着四个脑袋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 690,
+          "extractReason": "UPDATE",
+          "evidenceText": "蕾妮特·缇尼科尔不快不慢地钻了出来，依旧穿着那身阴沉繁复的黑色长裙，提着四个一模一样的美丽脑袋。"
+        },
+        {
+          "chapterSeq": 690,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森·胡德好奇地凑了过来，上下打量蕾妮特·缇尼科尔，啧啧有声道：“有种难以描述的血腥美感……”他话音未落，双手突然抬起，掐住了自己的喉咙，掐得舌头伸出，口吐白沫，而脖子上空空荡荡的蕾妮特·缇尼科尔并没有多余反应。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        690,
+        691
+      ]
+    },
+    {
+      "name": "格罗塞尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "巨人守护者，《格罗塞尔游记》主角，身高近四米，灰蓝色皮肤，竖直独眼。与冰霜巨龙尤里斯安激战，燃烧生命抵挡攻击，最终战死。尸体腐烂析出非凡特性。",
+      "identInfos": [
+        "巨人守护者",
+        "格罗塞尔游记主角",
+        "身高近四米",
+        "灰蓝色皮肤",
+        "竖直独眼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 696,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这巨人肤色灰蓝，胸腹和腰胯间裹着厚厚的野兽毛皮，其余地方则裸露在外，就连双脚都缺乏保护。他杵着比人类门板还宽的巨剑，用那标志性的竖直独眼俯视着安德森和克莱恩等人"
+        },
+        {
+          "chapterSeq": 701,
+          "extractReason": "UPDATE",
+          "evidenceText": "格罗塞尔就像在燃烧生命，散发出光与热，一剑劈向了目标。“巨人永不退缩！”怒吼声里，格罗塞尔一次次挡下了冰霜巨龙的拍击"
+        },
+        {
+          "chapterSeq": 701,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们，成功了！巨人永不，退缩……”他的声音戛然而止，长着竖直独眼的脑袋垂了下去。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        696,
+        698,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "夏塔丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "女性精灵歌者，与巨人格罗塞尔是同伴。擅长弓箭，使用风暴途径能力。在击杀冰霜巨龙后离开书中世界，因时间流速影响衰老死亡，析出非凡特性。将“海洋歌者”配方送给克莱恩。",
+      "identInfos": [
+        "精灵歌者",
+        "格罗塞尔同伴",
+        "风暴途径",
+        "黑发马尾",
+        "略尖耳朵"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 696,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这女子有一头柔亮发光的黑发，并将它绑成了简单的马尾，五官轮廓非常柔和，与北大陆所有国家的人都不相同。她穿着棕色的古代款猎人外套和长裤"
+        },
+        {
+          "chapterSeq": 702,
+          "extractReason": "UPDATE",
+          "evidenceText": "她一下明白了是怎么回事，眼中的泪水顿时止不住地滑落，身体则努力着，挣扎着，试图爬向莫贝特。"
+        },
+        {
+          "chapterSeq": 702,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你要的配方。”不是出去才交易吗？克莱恩疑惑地无声嘀咕，接过了自己的钢笔和“海洋歌者”魔药配方。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        696,
+        698,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "莫贝特·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "所罗门帝国子爵，“偷盗者”途径序列5“窃梦家”。在书中世界度过数百年，与主角队一同击杀冰霜巨龙。离开后衰老死亡，析出非凡特性。提供了大量第四纪历史秘辛。",
+      "identInfos": [
+        "所罗门帝国子爵",
+        "窃梦家",
+        "偷盗者途径序列5",
+        "索罗亚斯德家族",
+        "戴尖硬黑帽"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 697,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "所罗门帝国的莫贝特·索罗亚斯德子爵，一位可以拿走别人理想和梦境的先生。"
+        },
+        {
+          "chapterSeq": 697,
+          "extractReason": "UPDATE",
+          "evidenceText": "“序列7，‘解密学者’，序列6，‘盗火人’，哈哈，我来帮你们介绍。”莫贝特热情地指着背对众人的祈祷者道"
+        },
+        {
+          "chapterSeq": 702,
+          "extractReason": "UPDATE",
+          "evidenceText": "只是一个呼吸的时间，她眼里的莫贝特就已衰老至垂死。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        697,
+        698,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "斯诺曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "苦修士，信仰创造一切的主，全知全能的神。在书中世界度过数百年，参与击杀冰霜巨龙。离开后衰老死亡，析出非凡特性。",
+      "identInfos": [
+        "苦修士",
+        "信仰原始造物主",
+        "格罗塞尔同伴",
+        "褐色寸发",
+        "裸露双脚"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 697,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "虔诚的斯诺曼苦修士，他信仰着创造一切的主，全知全能的神"
+        },
+        {
+          "chapterSeq": 702,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯诺曼则盘坐于旁边，尸骸保持着祈祷的姿态。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        697,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "龙泽尔·爱德华",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "前鲁恩士兵，“惩戒骑士”。在书中世界度过超过165年，参与击杀冰霜巨龙。离开后衰老死亡，未析出非凡特性，因为力量是书中世界虚假的。",
+      "identInfos": [
+        "惩戒骑士",
+        "前鲁恩士兵",
+        "格罗塞尔同伴",
+        "黑发蓝眼",
+        "身穿黑色全身盔甲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 697,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "睡觉的黑甲骑士缓慢醒来，睁眼望向了克莱恩等人。忽然，金属碰撞声里，他一下站起，盯着克莱恩道：“鲁恩人？”"
+        },
+        {
+          "chapterSeq": 702,
+          "extractReason": "UPDATE",
+          "evidenceText": "这正是“惩戒骑士”龙泽尔，他坐在椅上，眺望的是西面，是贝克兰德的方向。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        697,
+        698,
+        699,
+        700,
+        701,
+        702
+      ]
+    },
+    {
+      "name": "尤里斯安",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“北方之王”，冰霜巨龙，书中世界的BOSS级怪物。拥有半神实力但并非真正半神，是聚集冰霜非凡特性的失控怪物。与主角队激战，最终被击杀，尸体化为通往外界的大门。",
+      "identInfos": [
+        "北方之王",
+        "冰霜巨龙",
+        "聚集冰霜非凡特性",
+        "半透明鳞片",
+        "幽蓝眼眸"
+      ],
+      "aliases": [
+        {
+          "alias": "北方之王",
+          "type": "称号"
+        },
+        {
+          "alias": "冰霜巨龙",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 695,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩脑海里一下闪过了这个称号。"
+        },
+        {
+          "chapterSeq": 701,
+          "extractReason": "UPDATE",
+          "evidenceText": "尤里斯安的身体抖动了一下，轰隆倒在了地面，仿佛一座冰雪化成的小山。它体内一道道淡蓝近白的光芒迸发，搅动血肉，飞快游走，很快就将这巨大的龙尸化成了一扇厚沉高大覆盖白雪的对开之门。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        695,
+        698,
+        699,
+        700,
+        701
+      ]
+    },
+    {
+      "name": "卡诺",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "风暴教会圣德拉科教堂的敲钟人，大地母神教会人体炼成产物，身份不对称极为丑陋。带克莱恩去找命运议员瑞乔德。",
+      "identInfos": [
+        "敲钟人",
+        "大地母神教会人体炼成产物",
+        "极为丑陋",
+        "佝偻"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 689,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "听完格尔曼·斯帕罗的来意，佝偻着身体的卡诺点了点头：“我带你去找瑞乔德议员先生，他已经伤愈，不在原来的地方。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        689
+      ]
+    },
+    {
+      "name": "布鲁·沃尔斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“黄金梦想号”大副，赏金6200镑的“美食家”，梦想成为工匠。在船长失踪后协助克莱恩救人。",
+      "identInfos": [
+        "美食家",
+        "黄金梦想号大副",
+        "赏金6200镑",
+        "戴单片眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "美食家",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 692,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你好，斯帕罗先生，我是这艘船的大副，布鲁·沃尔斯。”一位戴单片眼镜，身高近1米8的男子客气地行了一礼。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        692,
+        694
+      ]
+    },
+    {
+      "name": "奥尔弗斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“黄金梦想号”二副，赏金5500镑的“歌唱家”，序列6“公证人”，因蒂斯人。在船长失踪后协助克莱恩救人。",
+      "identInfos": [
+        "歌唱家",
+        "黄金梦想号二副",
+        "赏金5500镑",
+        "因蒂斯人",
+        "太阳途径序列6"
+      ],
+      "aliases": [
+        {
+          "alias": "歌唱家",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 692,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我们的二副，‘歌唱家’奥尔弗斯。”赏金5500镑……“黄金梦想号”上的非凡者，绰号都很奇怪啊"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        692
+      ]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "红手套小队的“安魂师”，队长。在讨论恶魔杀人事件时点名伦纳德发言。",
+      "identInfos": [
+        "安魂师",
+        "红手套小队队长"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 688,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“安魂师”索斯特拿着粉笔，指着黑板道：“这次的恶魔杀人事件和贝克兰德的尼根公爵被刺案有一定的共同之处。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        688
+      ]
+    },
+    {
+      "name": "阿加里图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“不死之王”，“告死号”的实际控制者或代言人，四王之一。吉尔希艾斯的上司，未在剧情中直接出场，但被多次提及。",
+      "identInfos": [
+        "不死之王",
+        "四王之一",
+        "告死号控制者",
+        "不是半神或合作者"
+      ],
+      "aliases": [
+        {
+          "alias": "不死之王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 687,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是否表示，真正的‘不死之王’其实是‘告死号’，阿加里图只是它的代言人，或者说污染对象的管理者？呵，传闻阿加里图不是半神，没到序列4，全靠‘告死号’才能成为四王之一”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        683,
+        687,
+        688
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "生命学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "命运议员瑞乔德所属组织，负责看守“0”级封印物“概率之骰”，与玫瑰学派敌对。克莱恩委托瑞乔德解除安德森厄运诅咒。",
+      "identInfos": [
+        "崇拜月亮",
+        "掌握命运领域",
+        "与玫瑰学派敌对",
+        "命运议员为半神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 689,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩这是不想暴露“生命学派”的联络人。"
+        }
+      ]
+    },
+    {
+      "name": "所罗门帝国",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "莫贝特·索罗亚斯德出身的古代帝国，第四纪初期存在，神灵行于地上的时代。拥有诸多贵族家族，后裔建立图铎、特伦索斯特帝国。",
+      "identInfos": [
+        "第四纪帝国",
+        "神灵行于地上",
+        "黑皇帝途径",
+        "索罗亚斯德等贵族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 697,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特摇了摇头，“艾德雯娜已经问过我，呵，在我那个年代，图铎、特伦索斯特和我们索罗亚斯德家族一样，是所罗门帝国的大贵族，效忠着‘黑皇帝’。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩的封印物手套，通过莫索纳献祭重新装备，吞噬莫索纳。在击杀吉尔希艾斯后放牧其灵魂，获得“污秽之语（缓慢）”、“岩浆之剑”、“硫磺火球”三种能力。",
+      "identInfos": [
+        "人皮制成的手套",
+        "放牧灵魂",
+        "每天需进食一个活人",
+        "克莱恩主力装备"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 683,
+          "extractReason": "UPDATE",
+          "evidenceText": "然后，克莱恩拿起“蠕动的饥饿”，将它也扔进了仪式大门！"
+        },
+        {
+          "chapterSeq": 685,
+          "extractReason": "UPDATE",
+          "evidenceText": "他运气不错地得到了三种非凡能力，其中一个正是“污秽之语”，但并非“死”和“堕落”，而是“缓慢”"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "一本羊皮纸书册，创造了书中世界。艾德雯娜、达尼兹、安德森、克莱恩相继滴血进入。书中世界时间流速与外界不同，存在主角队和冰霜巨龙。击杀冰霜巨龙后，出口打开。离开后，书中度过数百年的人瞬间衰老死亡。秘密尚多。",
+      "identInfos": [
+        "羊皮纸书册",
+        "创造书中世界",
+        "历任主人多有失踪",
+        "疑似与巨龙和利维希德有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 692,
+          "extractReason": "UPDATE",
+          "evidenceText": "而在书桌正中，是一本羊皮纸装订成的书册，它深棕色的表面上用古弗萨克语写有“格罗塞尔游记”等单词。"
+        },
+        {
+          "chapterSeq": 693,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜在这本书的故事里。"
+        },
+        {
+          "chapterSeq": 694,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩亲眼目睹了达尼兹先是没有缘由地变得虚幻，继而消失不见，对进入《格罗塞尔游记》的办法再没有疑问。"
+        }
+      ]
+    },
+    {
+      "name": "呓语者的气息",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "吉尔希艾斯尸体析出的细长血液结晶，源于活着的封印物“告死号”，具有强烈污染性。克莱恩为其命名并占卜得知可用来召唤高位恶魔。",
+      "identInfos": [
+        "细长血液结晶",
+        "硫磺味",
+        "源于告死号污染",
+        "可召唤高位恶魔"
+      ],
+      "aliases": [
+        {
+          "alias": "呓语者的气息",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 685,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那是一截纯粹由血液组成的细长晶体，淡淡的硫磺味弥漫四周。"
+        },
+        {
+          "chapterSeq": 687,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩随手就将细长的血液晶体连同“光之祭司”留下的发亮晶石——非凡特性丢进了杂物堆里，并非常敷衍地为前者命了个名：“呓语者”的气息！"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩的强力封印物，可掌控海洋与风暴。在进入书中世界后，克莱恩计划利用它在灰雾之上响应祈祷以提供支援。",
+      "identInfos": [
+        "白骨短杖",
+        "青蓝色宝石",
+        "掌控海洋和风暴",
+        "负面效果严重"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 687,
+          "extractReason": "UPDATE",
+          "evidenceText": "如果这个假设错了，那只要“告死号”出现在海平线上，克莱恩就会直接进入房间，向自己祈祷，然后去灰雾之上用权杖响应，看一看在海上是“呓语者”强，还是“海神”厉害！"
+        }
+      ]
+    },
+    {
+      "name": "告死号",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“不死之王”阿加里图的海盗船，活着的封印物，具备深渊污染特性。通过血液结晶控制船员。克莱恩占卜得知其对应“呓语者”，不是序列0位阶。",
+      "identInfos": [
+        "活着的封印物",
+        "两头翘起巨帆船",
+        "控制和污染船员",
+        "深渊特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 686,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他在灰蒙蒙的世界里看见了那艘两头高高翘起的巨大帆船“告死号”，看见吉尔希艾斯攀爬软梯，上至甲板。"
+        },
+        {
+          "chapterSeq": 686,
+          "extractReason": "UPDATE",
+          "evidenceText": "“您的意志就是我的意愿，伟大的‘告死号’！”"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩拥有的神奇物品，提供强力净化驱邪能力，但需忍受持续炎热。克莱恩进入冰雪环境时将其丢到灰雾之上，准备特定场合才使用。",
+      "identInfos": [
+        "净化驱邪",
+        "带来精神炎热",
+        "太阳领域"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 695,
+          "extractReason": "UPDATE",
+          "evidenceText": "这次他并没有戴“太阳胸针”，因为这产生的是精神层次的炎热"
+        }
+      ]
+    },
+    {
+      "name": "海洋歌者魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "精灵歌者夏塔丝赠予克莱恩的配方，用于“风暴”途径序列5“海洋歌者”。夏塔丝在书中世界直接书写交给克莱恩，以换取“天灾女王”的高希纳姆酒杯。",
+      "identInfos": [
+        "风暴途径序列5配方",
+        "夏塔丝书写",
+        "精灵语",
+        "倒吊人所需"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 702,
+          "extractReason": "UPDATE",
+          "evidenceText": "你要的配方。不是出去才交易吗？克莱恩疑惑地无声嘀咕，接过了自己的钢笔和“海洋歌者”魔药配方。"
+        }
+      ]
+    }
+  ]
+}

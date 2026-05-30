@@ -1,0 +1,404 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托奥黛丽入梦询问威尔·昂赛汀关于“奇迹师”材料来源，奥黛丽成功带回情报；奥黛丽晋升“操纵师”后，参与塔罗会狩猎布提斯的商讨。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托嘉德丽雅猎杀“秘之圣者”布提斯以获取“星之虫”和“旅法师”配方线索，嘉德丽雅接受委托并提出条件。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "佛尔思受克莱恩委托，向亚伯拉罕家族求购“星之虫”，并作为鱼饵配合猎杀布提斯；她还通过历史投影帮助克莱恩返回贝克兰德获取情报。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "佛尔思召唤的格尔曼·斯帕罗历史投影通过支付800金币，请蕾妮特护送佛尔思前往灵界深处设置坐标，使克莱恩意识能借投影返回贝克兰德。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "伦纳德向帕列斯寻求帮助克莱恩脱困的建议，并参与后续塔罗会狩猎行动，在必要时动用官方势力。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿罗德斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩通过佛尔思询问“魔镜”阿罗德斯，确认“奇迹师”特性分布情况，为决策提供依据。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩指示达尼兹献祭美食以支持神弃之地生活，达尼兹照办。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩接受阿尔杰关于“天灾女王”委托的祈祷，并给予指引；塔罗会上“世界”建议阿尔杰在苏尼亚岛寻找精灵遗迹。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林在塔罗会上询问何时获释，“愚者”预言本周内；伦纳德受命释放埃姆林。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "休加入军情九处，按要求为塔罗会搜集情报。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "克莱恩赐予戴里克一管血液，并利用其作为复活坐标摆脱阿蒙追踪；戴里克获得“愚者”祝福。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "科林晋升“银骑士”引发异常，克莱恩借此机会利用“欺瞒子弹”欺诈复活规则，成功在白银城复活。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "奥黛丽受克莱恩委托入梦询问威尔关于“奇迹师”材料来源，威尔告知六份特性的下落。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "高希纳姆",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "高希纳姆在梦境中委托阿尔杰从《天灾之书》取出一物并在西大陆重现时送去，承诺助其成为半神；阿尔杰接受委托。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "克莱恩在诺斯古城遭遇阿蒙分身，阿蒙提议游戏被拒；克莱恩利用复活规则摆脱阿蒙追踪，双方持续对抗。"
+    },
+    {
+      "fromChapterSeq": 1171,
+      "toChapterSeq": 1190,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "斯提弗",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在诺斯古城遭遇“圣言天使”斯提弗袭击，斯提弗使用“圣言”能力攻击，克莱恩诵念“风暴之主”真名引发雷击将其击退。"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+server:
+  port: 49600
+spring:
+  datasource:
+    driverClassName: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+    url: jdbc:log4jdbc:mysql://localhost:3306/txt2world?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8&rewriteBatchedStatements=true&allowPublicKeyRetrieval=true
+    username: root
+    password: techysky123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: true
+    database: mysql
+    generate-ddl: true
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+  thymeleaf:
+    prefix: classpath:/client/dist/
+  web:
+    resources:
+      static-locations: classpath:/META-INF/resources/, classpath:/resources/, classpath:/static/, classpath:/public/, classpath:/templates/, classpath:/client/dist/
+  servlet:
+    multipart:
+      max-file-size: 4096MB
+      max-request-size: 4096MB
+ai:
+  deepseek:
+    base-url: https://api.deepseek.com
+    model: deepseek-v4-pro
+    api-key:

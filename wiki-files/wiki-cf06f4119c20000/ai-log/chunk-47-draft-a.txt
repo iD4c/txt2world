@@ -1,0 +1,1295 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩与阿兹克会合，登上“黑色郁金香号”，将“地狱上将”路德维尔转化为秘偶，后随阿兹克进入狂暴海死神陵寝，目睹阿兹克灵魂真相，获黑夜女神干预。返回后，他独自探索卡尔德隆城外层，遭遇灵界掠夺者袭击，凭借“窃运者”符咒和“暴君”牌反杀，获得真实魂体与粉尘，但在撤离时遭遇“命运天使”乌洛琉斯，紧急逃回灰雾之上。之后，他通过向“人造死神”祈求获知因斯·赞格威尔被恶灵附身的情报，并写信与伦纳德交流。此外，他利用“海神权杖”和“暴君”牌组合提升实力，研究秘偶伪装，准备晋升序列4。",
+      "identInfos": [
+        "格尔曼·斯帕罗",
+        "道恩·唐泰斯",
+        "愚者眷者",
+        "持有“蠕动的饥饿”手套",
+        "掌握“秘偶大师”能力",
+        "黑夜女神眷者"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 913,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩见阿兹克先生已回信，最近就有可能过来会合，他最终决定除非特殊情况，否则都把“蠕动的饥饿”留于现实世界。"
+        },
+        {
+          "chapterSeq": 914,
+          "extractReason": "UPDATE",
+          "evidenceText": "“地狱上将”路德维尔什么反抗都没做，直接就匍匐于地，亲吻甲板，如同阿兹克最忠诚最谦卑的仆人。"
+        },
+        {
+          "chapterSeq": 915,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克恢复记忆，克莱恩提议将一次次新人生视作锚。"
+        },
+        {
+          "chapterSeq": 917,
+          "extractReason": "UPDATE",
+          "evidenceText": "一只纤细白皙的女性手掌凭空出现，按在了阿兹克额头的鸟型黄金饰品之上。"
+        },
+        {
+          "chapterSeq": 927,
+          "extractReason": "UPDATE",
+          "evidenceText": "“窃运者”符咒，对调命运！"
+        },
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌洛琉斯银色的眼眸已映出了远处那道身影——戴三重冠冕穿深蓝法衣极为威严极为暴虐的身影。"
+        },
+        {
+          "chapterSeq": 932,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔被恶灵附身，正寻求灵教团的帮助。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [913, 914, 915, 916, 917, 918, 920, 921, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克与克莱恩会合，带其登上“黑色郁金香号”，令路德维尔臣服并成为克莱恩秘偶。他取走死神戒指，与铜哨共鸣进入死神陵寝，恢复记忆，得知自己灵魂被分割，与人造死神羽蛇融合。在融合危机中，黑夜女神介入，给出三个选择，阿兹克选择放弃晋升，维持原状，被抽出黄金饰品，灵魂撕裂。之后他陷入沉眠，将铜哨留给克莱恩，嘱其可向灵界七光求助。",
+      "identInfos": [
+        "第四纪死亡执政官",
+        "拜朗帝国血裔",
+        "克莱恩的老师与盟友",
+        "拥有铜哨和死神戒指",
+        "灵魂被分割，不断死亡复活失忆",
+        "霍伊大学历史教员"
+      ],
+      "aliases": [
+        {
+          "alias": "死亡执政官",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 914,
+          "extractReason": "UPDATE",
+          "evidenceText": "路德维尔弯下了腰背，面朝阿兹克·艾格斯，匍匐于地上，亲吻起甲板。"
+        },
+        {
+          "chapterSeq": 915,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克恢复记忆，讲述自己一次次新人生，克莱恩提议将其作为锚。"
+        },
+        {
+          "chapterSeq": 916,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的灵魂并不完整！那就是另一个“阿兹克·艾格斯”！"
+        },
+        {
+          "chapterSeq": 917,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一只纤细白皙的女性手掌凭空出现，按在了阿兹克额头的鸟型黄金饰品之上。"
+        }
+      ],
+      "lifeStatus": "沉睡中",
+      "appearanceChapterSeqs": [913, 914, 915, 916, 917]
+    },
+    {
+      "name": "路德维尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "地狱上将路德维尔一见阿兹克即跪拜称死亡执政官，放弃抵抗，被迫成为克莱恩的秘偶一年。他被克莱恩研究能力，确认为“看门人”，半亡灵半人类，体内封印冥界生物，面具安魂。后随克莱恩探索卡尔德隆城，实验各种能力。",
+      "identInfos": [
+        "地狱上将",
+        "海盗将军赏金最高",
+        "黑色郁金香号船长",
+        "死神途径序列5看门人",
+        "克莱恩的秘偶"
+      ],
+      "aliases": [
+        {
+          "alias": "地狱上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 913,
+          "extractReason": "UPDATE",
+          "evidenceText": "“地狱上将”路德维尔弯下了腰背，面朝阿兹克·艾格斯，匍匐于地上，亲吻起甲板。"
+        },
+        {
+          "chapterSeq": 914,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你做他一年的秘偶，到了时限，可以回归灵界。”"
+        },
+        {
+          "chapterSeq": 918,
+          "extractReason": "UPDATE",
+          "evidenceText": "路德维尔是“死神”途径的序列5“看门人”，并且不是正常人类。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [913, 914, 918, 920, 921, 924, 925, 926, 927, 928, 929, 930]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉在狂暴海异变时感到呼唤，后确认一切正常。作为红手套小队成员，她参与调查灵教团，通灵俘虏得知因斯·赞格威尔与帕伦克见面。对因斯·赞格威尔这个名字表现出特殊关注。",
+      "identInfos": [
+        "红手套小队成员",
+        "看门人",
+        "通灵者",
+        "克莱恩前同事"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 916,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我听见了奇怪的声音，感受到了不知来源于哪里的呼唤……我甚至想要跪倒在地上……”戴莉·西蒙妮说道。"
+        },
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉·西蒙妮点了点头：“是的。”她旋即望向俘虏，嗓音空灵飘忽地问道：“帕伦克·塔西布去了哪里？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [916, 917, 929]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伦纳德在红手套行动中获知格尔曼·斯帕罗将路德维尔制成秘偶，通过体内天使帕列斯得知死亡执政官为阿兹克，推测克莱恩背后有隐秘组织。后得知因斯·赞格威尔与灵教团接触，内心震动。他写信给克莱恩告知因斯踪迹，后收到克莱恩回信，得知因斯被恶灵附身。",
+      "identInfos": [
+        "红手套小队成员",
+        "克莱恩前同事",
+        "体内寄生帕列斯·索罗亚斯德",
+        "调查因斯·赞格威尔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 919,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔悚然一惊，趁队友们讨论的机会，低声自语道：“老头，道恩·唐泰斯会不会就是‘死亡执政官’？”"
+        },
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "“因斯·赞格威尔。”听到这个名字，在场所有“红手套”都沉默了下来，一时竟没人开口说话。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [916, 919, 929, 930, 932]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "星之上将嘉德丽雅与倒吊人阿尔杰在拜亚姆见面，讨论格尔曼·斯帕罗将路德维尔制成秘偶一事，确认其背后有死亡天使作为眷者。随后，他们合作行动，利用弗兰克的蘑菇使“工匠”夏尔夫身边的原始月亮信徒中毒，成功控制夏尔夫，获取其神奇物品，并留下后手监控。",
+      "identInfos": [
+        "星之上将",
+        "摩斯苦修会成员",
+        "塔罗会“隐者”",
+        "未来号船长"
+      ],
+      "aliases": [
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        },
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 920,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星之上将”嘉德丽雅沉默几秒，点了点头：“他将‘地狱上将’变成了自己的秘偶。”"
+        },
+        {
+          "chapterSeq": 922,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅摘下了鼻梁上架着的沉重眼镜，用显出神秘紫色的眼眸望向有墙壁阻隔的房屋餐厅位置。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [920, 922, 923]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "倒吊人阿尔杰与星之上将会面，得知格尔曼·斯帕罗将路德维尔制成秘偶，推测其背后死亡天使为愚者眷者。随后参与行动，协助嘉德丽雅控制工匠夏尔夫，获得“海之言”手杖和“石像鬼眼镜”等物品。",
+      "identInfos": [
+        "倒吊人",
+        "塔罗会成员",
+        "风暴教会序列5海洋歌者",
+        "幽蓝复仇者号船长"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 920,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰摇了摇头：“我正要弄清楚具体情况，就看见了你的联络标志，赶过来见面了。”"
+        },
+        {
+          "chapterSeq": 923,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅随即侧头看向“倒吊人”：“你先挑。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [920, 922, 923]
+    },
+    {
+      "name": "夏尔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "工匠夏尔夫被原始月亮信徒控制制作神奇物品，因信仰原始月亮而不敢逃走。在嘉德丽雅和阿尔杰行动中被控制，交出大部分神奇物品，并被迫提供血液。他暗藏命运人偶，自信能规避追踪，隐瞒了被找到的原因。",
+      "identInfos": [
+        "工匠",
+        "神奇物品制作师",
+        "原始月亮信徒",
+        "因蒂斯人"
+      ],
+      "aliases": [
+        {
+          "alias": "工匠",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 922,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“工匠”夏尔夫早在目睹异变时就吓得呆住了，有人闯入后，本想依靠一身的神奇物品反抗，可很快就认出来者是“星之上将”嘉德丽雅，于是，理智放弃，果断站立于原地等待。"
+        },
+        {
+          "chapterSeq": 923,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏尔夫眼神闪烁了一下道：“这不是很简单很直观的事情吗？让我给他们制作神奇物品……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [922, 923]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "信使小姐蕾妮特被克莱恩召唤，告知无法进入卡尔德隆城，收取金币后离去。后为克莱恩向莎伦送信并获得回信，同时为伦纳德送信。克莱恩对其送信能力表示不放心，询问是否记得地址。",
+      "identInfos": [
+        "克莱恩的信使",
+        "灵界强者",
+        "金发红眼，提四个脑袋",
+        "莎伦的老师",
+        "收取金币作为报酬"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 923,
+          "extractReason": "UPDATE",
+          "evidenceText": "无声无息间，提着四个脑袋的信使小姐蕾妮特·缇尼科尔从虚空里走了出来。"
+        },
+        {
+          "chapterSeq": 924,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿阴沉繁复衣裙的蕾妮特·缇尼科尔就像从未离开附近一样，瞬间就跨出虚空，来到了他的面前。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [923, 924, 931, 932]
+    },
+    {
+      "name": "乌洛琉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "命运天使乌洛琉斯在克莱恩逃离卡尔德隆城时出现，试图拦截，但克莱恩及时返回灰雾之上。祂试图用命运之河的力量重启场景未果。",
+      "identInfos": [
+        "命运天使",
+        "吞尾者",
+        "天使之王",
+        "真实造物主座下",
+        "怪物途径"
+      ],
+      "aliases": [
+        {
+          "alias": "命运天使",
+          "type": "称号"
+        },
+        {
+          "alias": "吞尾者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌洛琉斯！吞尾者！命运天使！天使之王！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [929]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹收到愚者转达的警告，小心灵教团和极光会的人，他感到震惊和担忧。在与安德森交谈中，得知安德森曾加入信仰真实造物主的铁血十字会，更加恐惧。他透露自己是来西拜朗调查各阶层民众信仰情况的。",
+      "identInfos": [
+        "烈焰达尼兹",
+        "冰山中将艾德雯娜的属下",
+        "愚者信徒",
+        "格尔曼·斯帕罗的同伴"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 930,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹的表情先是一僵，旋即扭曲了起来。他还不清楚七大海盗将军之首已经换人。"
+        },
+        {
+          "chapterSeq": 931,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹沉默了一秒，放好手中的事物，不快不慢地整理了下衣服道：“西拜朗各阶层民众信仰情况调查。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [930, 931]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安德森与达尼兹一起，透露自己曾加入信仰真实造物主的铁血十字会，但骗东西后退出。他听从达尼兹转达的警告，小心极光会和灵教团。他调侃格尔曼·斯帕罗得罪势力多，适合做猎人。",
+      "identInfos": [
+        "迷雾海最强猎人",
+        "厄运诅咒者",
+        "格尔曼·斯帕罗的同伴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 930,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森呵呵笑道：“我曾经在因蒂斯加入过一个组织，他们叫铁血十字会，信仰的也是‘真实造物主’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [930, 931]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思收到月亮关于古老怨灵的消息，准备探索废弃古堡获取记录官主材料。她收到老师多里安来信，得知卡尔德隆城危险。休告知攒够功勋可兑换审讯者魔药配方，她为休庆祝。",
+      "identInfos": [
+        "魔术师",
+        "塔罗会成员",
+        "作家",
+        "记录官途径"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 919,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思一阵欣喜，当即感谢起“愚者”先生，并请祂转告“月亮”，稍后就会支付报酬。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [919]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "休告知佛尔思自己攒够功勋，很快可兑换审讯者魔药配方，佛尔思为她庆祝。休帮佛尔思拿信，发现老师多里安的信件。",
+      "identInfos": [
+        "佛尔思的好友",
+        "值夜者中的序列8",
+        "即将晋升审讯者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 919,
+          "extractReason": "UPDATE",
+          "evidenceText": "休将其中一袋迪西馅饼丢了过去，难掩笑意地说道：“我攒够功勋了！很快就可以兑换‘审讯者’魔药配方了！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [919]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "索斯特作为红手套小队长，在行动中指挥，获知格尔曼·斯帕罗将路德维尔制成秘偶，命令队员休整并调查因斯·赞格威尔线索。",
+      "identInfos": [
+        "红手套小队长",
+        "值夜者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 919,
+          "extractReason": "ALIAS",
+          "evidenceText": "索斯特伸手接过那张纸，展开看了几秒，表情凝重地说道：“格尔曼·斯帕罗又出现了，利用占卜的手段确认，就是本人。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [916, 919, 929]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯在伦纳德脑海中告知死亡执政官是序列2天使，并指出道恩·唐泰斯是阿兹克。他指出值夜者曾与阿兹克有过接触，帮助伦纳德串联线索。在伦纳德收到克莱恩请求时之虫的信后，保持沉默。",
+      "identInfos": [
+        "索罗亚斯德家族天使",
+        "寄生在伦纳德体内",
+        "偷盗者途径",
+        "被伦纳德称为老头"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 919,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德略显苍老的嗓音带着些微笑意道：“不是。拜朗帝国的‘死亡执政官’既是地位称号，也是当时‘死神’途径序列2的名称。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [919, 929, 932]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔出现在东拜朗，与灵教团半神帕伦克·塔西布会面，目的是寻求驱除恶灵。克莱恩通过向人造死神祈求获知此情报，并写信告知伦纳德。",
+      "identInfos": [
+        "前任大主教",
+        "值夜者叛徒",
+        "持有0-08封印物",
+        "克莱恩的仇敌",
+        "被恶灵附身"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "“因斯·赞格威尔。”听到这个名字，在场所有“红手套”都沉默了下来。"
+        },
+        {
+          "chapterSeq": 932,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那些粉末无风自动，形成了一个又一个单词：“恶灵附身，需要驱除。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [929, 931, 932]
+    },
+    {
+      "name": "黑夜女神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神在死神陵寝中现出化身（女性手掌），阻止阿兹克与人造死神融合，给出三个选择，并抽出阿兹克体内黄金饰品，分割灵魂。祂疑似已经控制死神途径唯一性，并标记克莱恩。克莱恩通过向人造死神祈求（实为女神响应）获得因斯·赞格威尔情报。",
+      "identInfos": [
+        "黑夜女神",
+        "绯红之主",
+        "安眠与寂静的领主",
+        "厄运权柄持有者",
+        "克莱恩疑似眷者"
+      ],
+      "aliases": [
+        {
+          "alias": "女神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 917,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一只纤细白皙的女性手掌凭空出现，按在了阿兹克额头的鸟型黄金饰品之上。"
+        },
+        {
+          "chapterSeq": 918,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抬起右手，顺时针点了四下，画了个绯红之月，并喃喃自语道：“赞美女神。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [917, 918]
+    },
+    {
+      "name": "萨林格尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "死神萨林格尔，第四纪掀起苍白之灾的死神，在阿兹克体内留有复活布置。其名号在陵寝中被提及，作为阿兹克体内归来的可能存在。",
+      "identInfos": [
+        "第四纪死神",
+        "拜朗帝国死神",
+        "苍白之灾的制造者",
+        "阿兹克的父亲或先祖"
+      ],
+      "aliases": [
+        {
+          "alias": "死神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 917,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“一是继续向前，寻求完整，让萨林格尔从你体内重生；”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [917]
+    },
+    {
+      "name": "恩佐",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "秘偶恩佐作为克莱恩的秘偶，戴血之花和绿华戒指，持握“海之言”手杖。在卡尔德隆探索中，他作为诱饵探路，消耗幸运抵御危险，配合克莱恩战斗。事后被克莱恩利用灵界掠夺者真实魂体改造伪装。",
+      "identInfos": [
+        "克莱恩的秘偶",
+        "赢家",
+        "怪物途径非凡者",
+        "佩戴“血之花”戒指"
+      ],
+      "aliases": [
+        {
+          "alias": "赢家",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 913,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那只手套还有待封印。”他说话的同时，皮肤发红脱皮的恩佐就用戴“血之花”和“绿华”两枚戒指的左手取下了覆盖右掌的人皮手套。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [913, 914, 918, 920, 921, 924, 925, 926, 927, 928, 929, 930]
+    },
+    {
+      "name": "弗兰克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗兰克是未来号船员，创造了能在接触鱼肉和水后产生剧毒的蘑菇，被嘉德丽雅用于对付原始月亮信徒。嘉德丽雅承诺将来给他猎杀一个极光会的“蔷薇主教”。",
+      "identInfos": [
+        "未来号船员",
+        "蘑菇杂交专家",
+        "生命领域研究者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 922,
+          "extractReason": "ALIAS",
+          "evidenceText": "这一点，弗兰克之前创造的那种蘑菇正好合适！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [922]
+    },
+    {
+      "name": "希斯·道尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "希斯·道尔是未来号二副，“无血者”，在嘉德丽雅行动中负责侦查和汇报，确认目标没有察觉中毒。",
+      "identInfos": [
+        "未来号二副",
+        "无血者",
+        "吸血鬼途径"
+      ],
+      "aliases": [
+        {
+          "alias": "无血者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 922,
+          "extractReason": "ALIAS",
+          "evidenceText": "“无血者”，希斯·道尔……阿尔杰迅速就认出这是“未来号”的二副。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [922]
+    },
+    {
+      "name": "帕伦克·塔西布",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "灵教团半神帕伦克·塔西布因斯·赞格威尔在东拜朗与他见面，寻求恶灵驱除帮助。他是红手套行动的目标，但逃脱。",
+      "identInfos": [
+        "苍白之手",
+        "灵教团人造死神派半神",
+        "序列4",
+        "因斯·赞格威尔拜访对象"
+      ],
+      "aliases": [
+        {
+          "alias": "苍白之手",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 929,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“帕伦克·塔西布去了哪里？”“他说，他去见一个人。”那位灵教团成员缓慢回答道。“那个人是谁？”“因斯·赞格威尔。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [929]
+    },
+    {
+      "name": "艾尔·莫瑞亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "灵界七光中的红光，克莱恩通过通灵仪式降灵纸人向其请教卡尔德隆城情报，得知其为古神不死鸟格蕾嘉莉的神国，现极度危险，但外层可尝试狩猎灵界掠夺者。艾尔·莫瑞亚礼貌回应，但不能进入卡尔德隆。",
+      "identInfos": [
+        "灵界七光之一",
+        "红光",
+        "无尽知识的化身",
+        "权柄与意志的红"
+      ],
+      "aliases": [
+        {
+          "alias": "红光",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 921,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“艾尔·莫瑞亚阁下，我有一件事情想请教您。”“您可以直接称呼我艾尔·莫瑞亚，请讲。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [921]
+    }
+  ],
+  "factions": [
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "灵教团的人造死神计划已能主动影响晋升失败的高序列者，但无法回应祈求。人造死神派帕伦克·塔西布与因斯·赞格威尔会面，因斯寻求驱除恶灵。克莱恩通过向人造死神祈求获得情报，推测人造死神已被黑夜女神控制。灵教团内部有不同派系，包括皇室派和人造死神派。",
+      "identInfos": [
+        "信仰死神的组织",
+        "分为皇室派和人造死神派",
+        "人造死神为死神途径唯一性活化",
+        "在南大陆活动，与黑夜教会敌对"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 914,
+          "extractReason": "UPDATE",
+          "evidenceText": "“人造死神已能主动地影响晋升失败的高序列者，但还无法回应祈求和仪式……”"
+        },
+        {
+          "chapterSeq": 919,
+          "extractReason": "UPDATE",
+          "evidenceText": "至于人造死神派，那更是不会有人自称“死亡执政官”。"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神教会内部存有封印物0-17“隐秘之天使”，作为女神降临的容器。红手套小队在东拜朗追捕灵教团成员，调查因斯·赞格威尔。圣赛缪尔教堂大主教安东尼收到格尔曼·斯帕罗情报。",
+      "identInfos": [
+        "信仰黑夜女神",
+        "值夜者、红手套为执行力量",
+        "贝克兰德教区主事为大主教",
+        "追捕叛徒因斯·赞格威尔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 917,
+          "extractReason": "UPDATE",
+          "evidenceText": "格尔曼·斯帕罗再现，与人一起登上‘黑色郁金香号’，将路德维尔制成了秘偶，他跟随的那位被路德维尔称为‘死亡执政官’。"
+        },
+        {
+          "chapterSeq": 917,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“编号：17。”“名称：隐秘之天使”“危险等级：‘0’，非常危险，……”“附录3：无法被利用有限定前提，经确认，祂可以作为女神降临的容器。”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "极光会是信仰真实造物主的组织，有命运天使乌洛琉斯作为首领，克莱恩因使用被污染的“火种”手套可能被其追查。达尼兹和安德森讨论极光会，安德森提及曾加入相关组织铁血十字会。克莱恩提醒达尼兹、嘉德丽雅小心极光会。",
+      "identInfos": [
+        "信仰真实造物主",
+        "有天使之王乌洛琉斯",
+        "成员被称为疯子",
+        "与克莱恩敌对"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 930,
+          "extractReason": "UPDATE",
+          "evidenceText": "格尔曼·斯帕罗不知做了什么，被极光会列为高度重视必须清除的主要目标。"
+        },
+        {
+          "chapterSeq": 931,
+          "extractReason": "ALIAS",
+          "evidenceText": "“铁血十字会，信仰的也是‘真实造物主’。”"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "摩斯苦修会为星之上将嘉德丽雅背后的组织，她为管理船员需上交部分战利品。",
+      "identInfos": [
+        "星之上将所属势力",
+        "需要上缴神奇物品",
+        "与隐秘知识相关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 923,
+          "extractReason": "ALIAS",
+          "evidenceText": "毕竟部分得上交摩斯苦修会，部分得奖励给手下的船员。"
+        }
+      ]
+    },
+    {
+      "name": "红手套小队",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "红手套小队隶属黑夜女神教会，由索斯特任队长，成员有戴莉、伦纳德等。在东拜朗追捕灵教团成员，获知因斯·赞格威尔线索，队长决定继续调查并上报。",
+      "identInfos": [
+        "黑夜教会精锐非凡者小队",
+        "队长索斯特",
+        "成员戴莉、伦纳德等",
+        "追捕因斯·赞格威尔"
+      ],
+      "aliases": [
+        {
+          "alias": "红手套",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 916,
+          "extractReason": "ALIAS",
+          "evidenceText": "“红手套”小队的队长索斯特疑惑问道。"
+        },
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "索斯特叹了口气，斟酌着说道：“首先，将这个情报告知‘女神之眼’阁下，由她与圣堂联系。……其次，循着帕伦克·塔西布这条线索追查下去……最后，从现在开始，时刻留意自己身上发生的每一个巧合……”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的封印物手套，异变后封印失效，每天需吃一个活人。阿兹克重新封印后，恢复正常，不再躁动。克莱恩将其佩戴于左掌，在卡尔德隆城使用其唱歌能力制造混乱。",
+      "identInfos": [
+        "人皮手套封印物",
+        "可放牧灵魂获得能力",
+        "异变后活着的特性增强",
+        "害怕蘑菇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 913,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“蠕动的饥饿”。正常来说，克莱恩在不使用的时候，都倾向于将“蠕动的饥饿”丢在灰雾之上，毕竟这手套异变后，原本封印失效，一天就得吃一个活人。"
+        },
+        {
+          "chapterSeq": 913,
+          "extractReason": "UPDATE",
+          "evidenceText": "“和以前一样。”阿兹克将“蠕动的饥饿”递给了克莱恩。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克的铜哨，与死神戒指共鸣后进入死神陵寝。阿兹克沉睡后，将其留给克莱恩，嘱其可向灵界七光求助。克莱恩用其在仪式中祈求人造死神。",
+      "identInfos": [
+        "古朴铜哨",
+        "阿兹克的信物",
+        "能与死神戒指共鸣",
+        "可召唤灵界生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 914,
+          "extractReason": "UPDATE",
+          "evidenceText": "“把那枚铜哨给我。”阿兹克一边伸手接过，一边低沉说道：“我的直觉告诉我，这枚死神遗留的戒指加上铜哨，和我，应该就能在狂暴海找到当初死神陨落的地方了。”"
+        },
+        {
+          "chapterSeq": 917,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克笑了笑，探手抓住了他的肩膀：“……如果你有问题，可以向灵界七光请教，对应的仪式你应该已经掌握。”"
+        }
+      ]
+    },
+    {
+      "name": "死神戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "路德维尔所戴的方型黑沉戒指，被阿兹克取走，与铜哨共鸣后用于进入死神陵寝。",
+      "identInfos": [
+        "方型黑沉戒指",
+        "死神遗留之物",
+        "路德维尔原本所有",
+        "被阿兹克拿走"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 914,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那枚方型黑沉戒指轻微震颤，有光芒闪现。"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩使用“暴君”牌手持海神权杖，掌握海洋与风暴能力，在卡尔德隆城释放闪电风暴、暴雨等击退灵界掠夺者。其负面效果使人暴躁，但被暴君牌压制。",
+      "identInfos": [
+        "白骨权杖镶嵌青蓝宝石",
+        "掌控海洋与风暴",
+        "原海神卡维图瓦的封印物",
+        "负面效果使人易怒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 925,
+          "extractReason": "UPDATE",
+          "evidenceText": "“有了‘暴君’牌加‘海神权杖’这个组合，我相当于半个序列4了”"
+        },
+        {
+          "chapterSeq": 927,
+          "extractReason": "UPDATE",
+          "evidenceText": "头戴三重冠冕的他脑袋一热，直接展开教皇法衣后的披风，举起了那根“海神权杖”。"
+        }
+      ]
+    },
+    {
+      "name": "暴君牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "亵渎之牌之一，对应风暴途径序列0，克莱恩将其融入魂体后获得三重冠冕、教皇法衣等形态，实力提升至半神层次。在卡尔德隆城凭借其对抗灵界掠夺者，压制海神权杖负面效果。",
+      "identInfos": [
+        "亵渎之牌",
+        "风暴途径序列0",
+        "包含全配方",
+        "使持有者获得半神能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 925,
+          "extractReason": "UPDATE",
+          "evidenceText": "他将这张“亵渎之牌”溶入了魂体内。霍然之间，极端威严极端恐怖的气息从“愚者”所在的位置发散了出去，克莱恩头顶无声无息多了一顶深沉的三重冠冕，衣物变成了宗教法袍。"
+        }
+      ]
+    },
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "用“时之虫”制作的高级符咒，可对调自身和目标短时间内的命运。克莱恩在卡尔德隆城使用它逆转与灵界掠夺者的处境，成功反杀。",
+      "identInfos": [
+        "黑色水晶卡片般符咒",
+        "用“时之虫”制作",
+        "对调命运",
+        "偷盗者途径高级符咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 929,
+          "extractReason": "UPDATE",
+          "evidenceText": "“窃运者”符咒，对调命运！这用“时之虫”制作的高级符咒，可以窃取到目标后续的命运，并把自身较短时间内的未来嫁接给对方，以此完成互换。"
+        }
+      ]
+    },
+    {
+      "name": "血之花戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "恩佐佩戴的戒指，能恢复血液，在卡尔德隆城未受影响。",
+      "identInfos": [
+        "恩佐左手的戒指",
+        "可恢复血液",
+        "与“绿华”戒指配合"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 913,
+          "extractReason": "ALIAS",
+          "evidenceText": "恩佐就用戴“血之花”和“绿华”两枚戒指的左手取下了覆盖右掌的人皮手套。"
+        }
+      ]
+    },
+    {
+      "name": "绿华戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "恩佐佩戴的戒指，招惹蚊虫，效果被血之花覆盖。克莱恩将其分配给路德维尔。",
+      "identInfos": [
+        "恩佐左手的戒指",
+        "招惹蚊虫",
+        "效果被血之花覆盖"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 920,
+          "extractReason": "ALIAS",
+          "evidenceText": "克莱恩将那枚招惹蚊虫的“绿华”戒指分配给了新秘偶"
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的强力左轮手枪，在卡尔德隆城交给秘偶路德维尔携带。",
+      "identInfos": [
+        "神奇左轮手枪",
+        "威力强大",
+        "可能具有即死效果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 926,
+          "extractReason": "ALIAS",
+          "evidenceText": "将“窃运者”符咒和“丧钟”左轮容纳入体内后，他开门回到客厅，操纵“赢家”恩佐过来，接手了“海之言”黑杖。想了想，克莱恩又把“丧钟”左轮抽出，递给了“地狱上将”路德维尔。"
+        }
+      ]
+    },
+    {
+      "name": "海之言手杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "由海洋歌者非凡特性制作的手杖，能释放闪电、风刃等，有活着特性，爱好唱歌、恶作剧，负面效果包括易被雷劈。被克莱恩警告后收敛，由恩佐持握。在卡尔德隆城实验能力正常。",
+      "identInfos": [
+        "镶嵌银白金属的深黑手杖",
+        "海洋歌者非凡特性制品",
+        "会唱歌、恶作剧",
+        "害怕“蠕动的饥饿”"
+      ],
+      "aliases": [
+        {
+          "alias": "海之言",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 923,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他那根手杖也是从我这里拿走的，叫‘海之言’，能对瞄准的目标释放闪电……负面效果有三个，一是它喜欢歌唱……二是……活着特性……三是……易被雷劈。"
+        },
+        {
+          "chapterSeq": 925,
+          "extractReason": "UPDATE",
+          "evidenceText": "“海之言……这名字，莫名有点怀念啊”"
+        }
+      ]
+    },
+    {
+      "name": "纯白长袍",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "灵界掠夺者套着的半透明长袍，无形人外观。在战斗中被闪电风暴损坏，最后连同灵界掠夺者一起崩解。",
+      "identInfos": [
+        "灵界掠夺者的衣物",
+        "半透明",
+        "无头无手脚"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 927,
+          "extractReason": "ALIAS",
+          "evidenceText": "它是一套半透明的白色长袍，没有头部，没有手脚，似乎是由一个无形之人撑起。"
+        }
+      ]
+    },
+    {
+      "name": "哈里斯刺剑",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "路德维尔的武器，南大陆古代王子遗物，具有绝对毁灭的非凡能力。",
+      "identInfos": [
+        "路德维尔的刺剑",
+        "南大陆王子遗物",
+        "绝对毁灭能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 918,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "至于路德维尔那把武器，叫做“哈里斯刺剑”，来源于南大陆古代一位王子……它只有一种非凡能力，那就是为刺中的事物带来绝对的毁灭。"
+        }
+      ]
+    },
+    {
+      "name": "银白面具",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "路德维尔所戴面具，作用安魂，压制体内冥界生物。克莱恩将其染黑伪装，后因无法取下改为绑在胸前。",
+      "identInfos": [
+        "路德维尔的面具",
+        "安魂效果",
+        "银白色，可染色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 921,
+          "extractReason": "ALIAS",
+          "evidenceText": "这面具的作用是安魂，让路德维尔体内的冥界生物绝大部分时候都处于比较平静的状态。"
+        }
+      ]
+    },
+    {
+      "name": "命运人偶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "夏尔夫暗藏的黄铜色小型人形雕像，脸部空白，有血迹渗出。他相信此物能规避追踪和诅咒。",
+      "identInfos": [
+        "黄铜色人形雕像",
+        "脸部空白",
+        "渗出血液",
+        "可规避追踪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 923,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他忽然坐直，从衣物内侧口袋里取出了一个小型人形雕像。这雕像整体呈黄铜色，脸部一片空白，有血迹从内里缓缓渗出，残留于外。"
+        }
+      ]
+    },
+    {
+      "name": "石像鬼眼镜",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "工匠夏尔夫制作的神奇物品，灰白框眼镜，目光交触可麻痹对手，负面效果包括自我麻痹和身体沉重。被阿尔杰拿走。",
+      "identInfos": [
+        "灰白框眼镜",
+        "石化麻痹效果",
+        "照镜子会自我麻痹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 922,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“石像鬼眼镜，只要出现目光的交触，就能让对方浑身麻痹，像是被石化了一样，负面影响有两个，一是如果戴着它照镜子，会让自己也麻痹，二是身体变得沉重，行动不够敏捷。”"
+        }
+      ]
+    },
+    {
+      "name": "剧毒之刃",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "夏尔夫制作的短刀，攻击附加随机剧毒，负面影响导致医疗失效和累积醉酒感。被阿尔杰拿走。",
+      "identInfos": [
+        "短刀",
+        "附加随机剧毒",
+        "导致醉酒感和医疗失效"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 923,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“这把短刀叫‘剧毒之刃’，听名字就知道效果……它能为每一次伤害附加随机的剧毒……负面影响不大，只是会导致医疗失效，累积醉酒的感觉。”"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思的神奇物品，可记录非凡能力。佛尔思计划租用给月亮狩猎，并带休探索古堡时使用记录的世界先生半神能力。",
+      "identInfos": [
+        "佛尔思的旅行笔记",
+        "记录非凡能力",
+        "共享模式"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 919,
+          "extractReason": "ALIAS",
+          "evidenceText": "“理论上应该到不了这一步，‘莱曼诺的旅行笔记’上还有‘世界’先生余留的两个半神层次非凡能力”"
+        }
+      ]
+    },
+    {
+      "name": "0-08",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔持有的0级封印物，具有“凡有言被必知”的特性，擅于安排巧合，让追捕者难以锁定。红手套小队深知其特性，调查时极为谨慎。",
+      "identInfos": [
+        "0级封印物",
+        "因斯·赞格威尔持有",
+        "知晓即被知",
+        "安排巧合"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 929,
+          "extractReason": "ALIAS",
+          "evidenceText": "携带着‘0-08’的因斯·赞格威尔不是我们一支‘红手套’能够对付的。"
+        }
+      ]
+    },
+    {
+      "name": "无线电收报机",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩用于联络魔镜阿罗德斯的工具，在丛林中使用后周围变得阴冷。使用后立即送回灰雾之上。",
+      "identInfos": [
+        "沟通魔镜阿罗德斯的设备",
+        "使用时会引来灵界注视",
+        "虚幻白纸吐字"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 920,
+          "extractReason": "ALIAS",
+          "evidenceText": "他离开古拉因城前，已支付350镑从“魔术师”小姐那里获得卡尔德隆城的灵界坐标，并得到了那里非常危险的提醒，所以打算从两条渠道获取更多的情报……那两条渠道，一是问“魔镜”，二是问“红光”……随着那台无线电收报机的出现，周围丛林霍然变得阴冷晦暗。"
+        }
+      ]
+    },
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "0级封印物，怪物途径唯一性，被生命学派持有以调动命运天使。克莱恩曾与其接触。",
+      "identInfos": [
+        "0级封印物",
+        "怪物途径唯一性",
+        "骰子形态",
+        "生命学派持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 924,
+          "extractReason": "ALIAS",
+          "evidenceText": "生命学派内部之前出现分裂，议员们有太多的事情要做，而且还得拿着‘概率之骰’满世界乱跑，留下痕迹，以调动‘命运天使’。"
+        }
+      ]
+    },
+    {
+      "name": "黄金圆盘",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "卡尔德隆城中的古老物品，光滑如镜，映照出克莱恩亡者化后的形象，被闪电风暴击碎。",
+      "identInfos": [
+        "黄金打磨圆盘",
+        "光滑如镜",
+        "铭刻鸟型生物",
+        "在卡尔德隆坍塌建筑中发现"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 926,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他看到那顶端破碎的古老房屋内有黄金打磨出的圆盘。圆盘光滑的表面映照出了一道人影，但对应的不是“赢家”恩佐，而是戴三重冠冕穿深蓝法衣的克莱恩自己！"
+        }
+      ]
+    }
+  ]
+}

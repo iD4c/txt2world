@@ -1,0 +1,177 @@
+{"characterRelations": [
+  {
+    "fromChapterSeq": 42,
+    "toChapterSeq": 47,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "下级",
+        "favorability": "信任",
+        "bond": "搭档",
+        "narrativeRole": "受托者"
+      }
+    },
+    "characterB": {
+      "name": "伦纳德·米切尔",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "上级",
+        "favorability": "信任",
+        "bond": "搭档",
+        "narrativeRole": "委托者"
+      }
+    },
+    "relationSummary": "伦纳德邀请克莱恩协助绑架案，二人利用占卜和非凡能力成功解救人质，并意外发现安提哥努斯家族笔记线索。"
+  },
+  {
+    "fromChapterSeq": 42,
+    "toChapterSeq": 47,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "下级",
+        "favorability": "信任",
+        "bond": "无",
+        "narrativeRole": "信息接收者"
+      }
+    },
+    "characterB": {
+      "name": "邓恩·史密斯",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "上级",
+        "favorability": "信任",
+        "bond": "无",
+        "narrativeRole": "重要信息来源"
+      }
+    },
+    "relationSummary": "克莱恩向队长邓恩报告安提哥努斯笔记线索，邓恩带队调查并决定通缉瑞尔·比伯，二人围绕笔记事件紧密合作。"
+  },
+  {
+    "fromChapterSeq": 45,
+    "toChapterSeq": 47,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "无",
+        "favorability": "无感",
+        "bond": "无",
+        "narrativeRole": "调查者"
+      }
+    },
+    "characterB": {
+      "name": "瑞尔·比伯",
+      "relationDimensionsToOther": {
+        "attitude": "无",
+        "hierarchy": "无",
+        "favorability": "无",
+        "bond": "无",
+        "narrativeRole": "被调查者"
+      }
+    },
+    "relationSummary": "值夜者调查老妇人死亡事件，确认其子瑞尔·比伯为安提哥努斯家族后裔，并试图占卜定位其行踪，但受到干扰。"
+  },
+  {
+    "fromChapterSeq": 50,
+    "toChapterSeq": 51,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "无",
+        "favorability": "信任",
+        "bond": "无",
+        "narrativeRole": "被教导者"
+      }
+    },
+    "characterB": {
+      "name": "老尼尔",
+      "relationDimensionsToOther": {
+        "attitude": "友好",
+        "hierarchy": "无",
+        "favorability": "喜欢",
+        "bond": "无",
+        "narrativeRole": "教导者"
+      }
+    },
+    "relationSummary": "老尼尔为克莱恩演示仪式魔法解决债务问题，并详细教授仪式魔法原理、注意事项和流程。"
+  },
+  {
+    "fromChapterSeq": 41,
+    "toChapterSeq": 60,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "欺骗",
+        "hierarchy": "上级",
+        "favorability": "无感",
+        "bond": "无",
+        "narrativeRole": "教导者"
+      }
+    },
+    "characterB": {
+      "name": "奥黛丽·霍尔",
+      "relationDimensionsToOther": {
+        "attitude": "友好",
+        "hierarchy": "下级",
+        "favorability": "信任",
+        "bond": "无",
+        "narrativeRole": "信息接收者"
+      }
+    },
+    "relationSummary": "塔罗会上，克莱恩以愚者身份进一步解释扮演原理，教导请假仪式，并从奥黛丽处获得罗塞尔日记。奥黛丽在现实中也成功成为观众非凡者。"
+  },
+  {
+    "fromChapterSeq": 41,
+    "toChapterSeq": 60,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "欺骗",
+        "hierarchy": "上级",
+        "favorability": "无感",
+        "bond": "无",
+        "narrativeRole": "信息接收者"
+      }
+    },
+    "characterB": {
+      "name": "阿尔杰·威尔逊",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "下级",
+        "favorability": "无感",
+        "bond": "无",
+        "narrativeRole": "重要信息来源"
+      }
+    },
+    "relationSummary": "塔罗会上，克莱恩以愚者身份从阿尔杰处获得安提哥努斯家族历史、亵渎石板等重要信息，并继续教导扮演和仪式魔法。阿尔杰在现实中也追捕极光会倾听者。"
+  },
+  {
+    "fromChapterSeq": 54,
+    "toChapterSeq": 55,
+    "characterA": {
+      "name": "周明瑞",
+      "relationDimensionsToOther": {
+        "attitude": "友好",
+        "hierarchy": "无",
+        "favorability": "无感",
+        "bond": "无",
+        "narrativeRole": "施助人"
+      }
+    },
+    "characterB": {
+      "name": "安娜",
+      "relationDimensionsToOther": {
+        "attitude": "合作",
+        "hierarchy": "无",
+        "favorability": "信任",
+        "bond": "无",
+        "narrativeRole": "受助人"
+      }
+    },
+    "relationSummary": "克莱恩在占卜俱乐部为安娜占卜其未婚夫下落，预言其已平安归来，安娜赶回家中果然与未婚夫重逢。"
+  }
+]}

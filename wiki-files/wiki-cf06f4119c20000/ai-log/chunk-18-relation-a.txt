@@ -1,0 +1,329 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 354,
+      "toChapterSeq": 373,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩（愚者）通过密契仪式清除寄生于戴里克（太阳）体内的阿蒙分身，拯救其生命并巩固了愚者作为塔罗会保护者的角色。"
+    },
+    {
+      "fromChapterSeq": 358,
+      "toChapterSeq": 362,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "阿蒙分身寄生戴里克，意图通过密契潜入灰雾；克莱恩设计密契仪式成功清除分身，双方明确为敌对关系。"
+    },
+    {
+      "fromChapterSeq": 358,
+      "toChapterSeq": 362,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被寄生者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "寄生者"
+        }
+      },
+      "relationSummary": "阿蒙分身寄生于戴里克体内，控制其行为；戴里克在科林和愚者帮助下摆脱寄生。"
+    },
+    {
+      "fromChapterSeq": 360,
+      "toChapterSeq": 362,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "首席科林安排戴里克作为诱饵引出阿蒙分身，并亲自清除失控的前队长和阿蒙虚影，保护了戴里克。"
+    },
+    {
+      "fromChapterSeq": 360,
+      "toChapterSeq": 360,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "科林清除前队长时遭遇阿蒙虚影，虚影炸裂，表明阿蒙是白银城的威胁。"
+    },
+    {
+      "fromChapterSeq": 363,
+      "toChapterSeq": 363,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "怀疑",
+          "bond": "无",
+          "narrativeRole": "被寄生者"
+        }
+      },
+      "characterB": {
+        "name": "老爷爷（寄生者）",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "寄生者"
+        }
+      },
+      "relationSummary": "伦纳德得知寄生者知识后质问体内老爷爷，老爷爷坦白寄生事实，声称无害，并透露仇敌为阿蒙。"
+    },
+    {
+      "fromChapterSeq": 365,
+      "toChapterSeq": 373,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩调查埃姆林一家后，前往丰收教堂表演救人，却发现埃姆林已假意改信获释；克莱恩揭穿埃姆林被催眠暗示，迫使埃姆林同意治疗多丽丝太太，形成合作与利用关系。"
+    },
+    {
+      "fromChapterSeq": 367,
+      "toChapterSeq": 367,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "多丽丝",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "埃姆林应克莱恩要求为多丽丝太太治疗肺病，给予药剂暂时缓解症状，但无法逆转。"
+    },
+    {
+      "fromChapterSeq": 354,
+      "toChapterSeq": 373,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "老科勒",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩雇佣老科勒为东区线人，每周支付报酬搜集情报，老科勒汇报极光会传教和工人失踪情况。"
+    },
+    {
+      "fromChapterSeq": 364,
+      "toChapterSeq": 373,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "斯图亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "克莱恩通过提供线索帮助斯图亚特找到埃姆林，斯图亚特支付悬赏分成，并对克莱恩的侦探能力表示赞赏，成为其“观众”，助力克莱恩消化魔药。"
+    },
+    {
+      "fromChapterSeq": 357,
+      "toChapterSeq": 357,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "斯塔琳·萨默尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽在宴会上无意间展示猎犬的高昂价格，使斯塔琳意识到巨大阶层鸿沟，深受冲击。"
+    },
+    {
+      "fromChapterSeq": 365,
+      "toChapterSeq": 365,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "玛丽夫人",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "玛丽夫人收到恐吓信后求助克莱恩，克莱恩占卜推断事件为自导自演，安抚玛丽，事后证明克莱恩推断正确。"
+    },
+    {
+      "fromChapterSeq": 369,
+      "toChapterSeq": 373,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "卡平",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩追踪失踪女孩黛西至卡平豪宅，怀疑卡平涉及拐卖少女，开始调查卡平的犯罪证据。"
+    }
+  ]
+}

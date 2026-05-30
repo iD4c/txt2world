@@ -1,0 +1,37 @@
+【阶段和角色】
+阶段1，角色ChunkPlotReader
+
+【本次目标】
+阅读当前chunk，做剧情摘要压缩，只输出当前chunk的chunkSummary和逐章chapterSummary。
+
+【概念和字段介绍】
+1. Narrative Lossless Compression：“叙事无损压缩”。丢弃环境描写、外貌描写、修辞、氛围渲染、重复心理活动；保留所有剧情、所有角色状态变化、所有线索。它在信息论层面有损，但剧情信息不丢。
+2. Core Narrative Compression：“核心剧情压缩”。进一步丢弃日常互动、次要互动、寒暄、出于社交礼仪的普通社交行为、低重要度角色行为、不会影响后续剧情理解的内容。
+
+【分步引导】
+1. 先阅读当前chunk阅读时上下文，理解前序剧情。
+2. 再逐章阅读当前chunk原文，为每一章输出chapterSummary。
+3. chapterSummary必须进行“叙事无损压缩”，它不是普通摘要，而是当前章节的剧情信息替代表达，用于后续关系抽取、剧情理解和Wiki草稿生成。它必须保留本章所有对后续理解有价值的剧情事件、人物状态变化、人物关系变化、身份/别名信息、重要物品、势力行动、关键线索、设定信息和悬念问题；可以删除环境描写、外貌描写、修辞、氛围渲染、重复心理活动、普通寒暄、无后续意义的低信息密度动作。chapterSummary不设固定字数上限，但必须在不丢失剧情信息的前提下尽量简洁，不是原文复述，不用保留原文文风、描写节奏和修辞。
+4. 再根据整个chunk的内容，输出chunkSummary。chunkSummary必须进行“核心剧情压缩”，一定不能丢失任何核心剧情信息，不能超过2000字。
+5. 事件尚未结束时，不要强行总结结论，只记录截至当前chunk的状态。
+
+【输出格式】
+{"chunkSummary":"","chapters":[{"chapterSeq":1,"chapterSummary":""}]}
+
+【本阶段约束】
+只依据当前提供的信息；chunkSummary要覆盖关键剧情、人物关系变化、重要线索和设定变化；
+chapterSummary进行“叙事无损压缩”；
+chunkSummary进行“核心剧情压缩”；
+不确定信息要体现在章节摘要或chunkSummary的保守表述中；
+
+【本次输入】
+当前chunk：chunk-${chunkIndex}，章节范围：第${startChapterSeq}章到第${endChapterSeq}章
+当前chunk阅读时上下文：{"chunkIndex":${chunkIndex},"chunkReadingMemory":${chunkReadingMemory}}
+当前chunk原文：
+${chunkContent}
+
+【最后的提醒】
+1. 不能把当前chunk原文中没有发生的事写入chunkSummary或chapterSummary。
+2. 不能把未结束事件写成最终结论，只能写截至当前chunk的状态。
+3. chapterSummary没有硬性字数上限，但chapterSummary须在“叙事无损压缩”的前提下尽可能简洁。
+4. chunkSummary须进行“核心剧情压缩”，chunkSummary须在不丢失任何核心剧情信息的前提下不超过2000字。

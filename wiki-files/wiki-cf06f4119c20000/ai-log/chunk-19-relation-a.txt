@@ -1,0 +1,404 @@
+{
+    "characterRelations": [
+        {
+            "fromChapterSeq": 374,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "佛尔思",
+                "relationDimensionsToOther": {
+                    "attitude": "依赖",
+                    "hierarchy": "下级",
+                    "favorability": "敬畏",
+                    "bond": "盟友",
+                    "narrativeRole": "被保护者"
+                }
+            },
+            "characterB": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "上级",
+                    "favorability": "无",
+                    "bond": "盟友",
+                    "narrativeRole": "保护者"
+                }
+            },
+            "relationSummary": "佛尔思因担心被劳伦斯占卜向愚者求助，愚者通过仪式为她提供庇护，加深了庇护关系。"
+        },
+        {
+            "fromChapterSeq": 375,
+            "toChapterSeq": 380,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "卡平",
+                "relationDimensionsToOther": {
+                    "attitude": "无",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "无"
+                }
+            },
+            "relationSummary": "克莱恩为解救被卡平绑架的黛西等少女，潜入卡平别墅并最终击杀卡平，摧毁其犯罪集团。"
+        },
+        {
+            "fromChapterSeq": 375,
+            "toChapterSeq": 380,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "赫拉斯",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "被调查者"
+                }
+            },
+            "relationSummary": "赫拉斯是卡平的非凡保镖，与潜入的克莱恩激烈交战，后被击退。"
+        },
+        {
+            "fromChapterSeq": 375,
+            "toChapterSeq": 379,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "凯蒂",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "被调查者"
+                }
+            },
+            "relationSummary": "凯蒂是卡平的女保镖，与潜入的克莱恩交战，最终被击杀。"
+        },
+        {
+            "fromChapterSeq": 375,
+            "toChapterSeq": 379,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "帕克",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "被调查者"
+                }
+            },
+            "relationSummary": "帕克是卡平的保镖，在煤气爆炸中死亡。"
+        },
+        {
+            "fromChapterSeq": 375,
+            "toChapterSeq": 379,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "贝里斯",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "被调查者"
+                }
+            },
+            "relationSummary": "贝里斯是卡平的守卫，在克莱恩攻击时试图逃跑，被怨灵尖啸短暂拦截。"
+        },
+        {
+            "fromChapterSeq": 380,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "艾斯·斯内克",
+                "relationDimensionsToOther": {
+                    "attitude": "无",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "无",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "被调查者"
+                }
+            },
+            "relationSummary": "斯内克作为风暴教会枢机主教调查卡平案现场，塔罗牌案件引起官方注意，但未直接与克莱恩接触。"
+        },
+        {
+            "fromChapterSeq": 375,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "施助人"
+                }
+            },
+            "characterB": {
+                "name": "黛西",
+                "relationDimensionsToOther": {
+                    "attitude": "无",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "受助人"
+                }
+            },
+            "relationSummary": "克莱恩免费帮助丽芙寻找失踪的女儿黛西，并成功将其从卡平别墅救出。"
+        },
+        {
+            "fromChapterSeq": 383,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "施助人"
+                }
+            },
+            "characterB": {
+                "name": "艾伦·克瑞斯",
+                "relationDimensionsToOther": {
+                    "attitude": "信任",
+                    "hierarchy": "无",
+                    "favorability": "信任",
+                    "bond": "无",
+                    "narrativeRole": "受助人"
+                }
+            },
+            "relationSummary": "克莱恩受艾伦委托调查千纸鹤噩梦，入梦发现涉及威尔·昂赛汀和水银之蛇，后引导艾伦求助教会。"
+        },
+        {
+            "fromChapterSeq": 385,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "调查",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "调查者"
+                }
+            },
+            "characterB": {
+                "name": "威尔·昂赛汀",
+                "relationDimensionsToOther": {
+                    "attitude": "无",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "被调查者"
+                }
+            },
+            "relationSummary": "克莱恩通过千纸鹤发现威尔·昂赛汀身处神秘梦境，涉及命运、怪物途径和水银之蛇，占卜其位置后决定不深入。"
+        },
+        {
+            "fromChapterSeq": 387,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "戴里克·伯格",
+                "relationDimensionsToOther": {
+                    "attitude": "依赖",
+                    "hierarchy": "下级",
+                    "favorability": "信任",
+                    "bond": "盟友",
+                    "narrativeRole": "被保护者"
+                }
+            },
+            "characterB": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "上级",
+                    "favorability": "无",
+                    "bond": "盟友",
+                    "narrativeRole": "保护者"
+                }
+            },
+            "relationSummary": "愚者清除戴里克体内的阿蒙分身，戴里克在塔罗会上汇报探索队污染情况，愚者提供庇护和建议。"
+        },
+        {
+            "fromChapterSeq": 387,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "戴里克·伯格",
+                "relationDimensionsToOther": {
+                    "attitude": "求助",
+                    "hierarchy": "下级",
+                    "favorability": "信任",
+                    "bond": "盟友",
+                    "narrativeRole": "被教导者"
+                }
+            },
+            "characterB": {
+                "name": "阿尔杰·威尔逊",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "上级",
+                    "favorability": "无",
+                    "bond": "盟友",
+                    "narrativeRole": "教导者"
+                }
+            },
+            "relationSummary": "倒吊人教导太阳利用探索队污染和时之虫洗清嫌疑，太阳采纳建议。"
+        },
+        {
+            "fromChapterSeq": 387,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "阿尔杰·威尔逊",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "下级",
+                    "favorability": "敬畏",
+                    "bond": "盟友",
+                    "narrativeRole": "信息接收者"
+                }
+            },
+            "characterB": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "上级",
+                    "favorability": "无",
+                    "bond": "盟友",
+                    "narrativeRole": "重要信息来源"
+                }
+            },
+            "relationSummary": "倒吊人用罗塞尔日记换取观看黑皇帝牌的机会，得知序列0秘密，并协助太阳应对危机。"
+        },
+        {
+            "fromChapterSeq": 387,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "奥黛丽·霍尔",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "下级",
+                    "favorability": "无",
+                    "bond": "盟友",
+                    "narrativeRole": "信息接收者"
+                }
+            },
+            "characterB": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "上级",
+                    "favorability": "无",
+                    "bond": "盟友",
+                    "narrativeRole": "重要信息来源"
+                }
+            },
+            "relationSummary": "正义在塔罗会上得知黑皇帝牌，确认侠盗黑皇帝为愚者眷属，并计划从军情九处打听详情。"
+        },
+        {
+            "fromChapterSeq": 374,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "周明瑞",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "受托者"
+                }
+            },
+            "characterB": {
+                "name": "迈克·约瑟夫",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "无",
+                    "favorability": "信任",
+                    "bond": "无",
+                    "narrativeRole": "委托者"
+                }
+            },
+            "relationSummary": "克莱恩以保镖身份陪同记者迈克采访获救少女，迈克呼吁成立救助基金。"
+        },
+        {
+            "fromChapterSeq": 388,
+            "toChapterSeq": 393,
+            "characterA": {
+                "name": "奥黛丽·霍尔",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "信息接收者"
+                }
+            },
+            "characterB": {
+                "name": "伊思兰特",
+                "relationDimensionsToOther": {
+                    "attitude": "合作",
+                    "hierarchy": "无",
+                    "favorability": "无",
+                    "bond": "无",
+                    "narrativeRole": "教导者"
+                }
+            },
+            "relationSummary": "伊思兰特医生正式邀请奥黛丽加入心理炼金会外围研讨会，奥黛丽接受并成功扮演。"
+        }
+    ]
+}

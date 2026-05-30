@@ -1,0 +1,129 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 543,
+      "toChapterSeq": 562,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "达尼兹协助克莱恩举行献祭仪式定位海神，提供祈祷词和仓库，并打扫战场；克莱恩承诺帮他寻找血之上将，两人在拜亚姆持续合作狩猎海盗。"
+    },
+    {
+      "fromChapterSeq": 561,
+      "toChapterSeq": 562,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过仪式召唤蕾妮特·缇尼科尔，双方签订死灵契约，蕾妮特成为克莱恩的信使，每次送信收取1金币报酬。"
+    },
+    {
+      "fromChapterSeq": 543,
+      "toChapterSeq": 551,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "卡拉特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩冒充海神卡维图瓦向信徒卡拉特等颁布新十诫，引导反抗军改造信仰，卡拉特等相信海神蜕变并服从。"
+    },
+    {
+      "fromChapterSeq": 559,
+      "toChapterSeq": 559,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "纳斯特",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "克莱恩灵体在灵界遭遇‘五海之王’纳斯特的幽灵船‘黑皇帝’号，因‘黑皇帝’牌聚合定律被吸引，险些被控制，紧急逃脱，未发生直接交流。"
+    },
+    {
+      "fromChapterSeq": 543,
+      "toChapterSeq": 548,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "老祭司",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩进入海神遗迹，遭遇生食神尸变异的祭司，双方激战，克莱恩最终将其击杀，并用蠕动的饥饿吞噬其灵。"
+    }
+  ]
+}

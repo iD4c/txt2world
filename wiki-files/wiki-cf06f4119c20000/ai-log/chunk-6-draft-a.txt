@@ -1,0 +1,974 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩与伦纳德、弗莱调查异常死亡事件，伦纳德猜测幕后黑手在收割将死之人的生命用于诅咒仪式。克莱恩占卜出祭台位置，在塔索克河畔找到灰蓝房屋。队长邓恩带领他们破坏仪式，与女性仪式主持者交战，对方逃脱，后确认是特莉丝。克莱恩通过占卜和梦境，发现特莉丝与之前追捕的教唆者特里斯为同一人，但已变成女性。他彻底消化占卜家魔药，成为真正的占卜家，并开始为晋升小丑做铺垫。他帮助失控的代罚者，体会到非凡者的沉重命运。在拉姆德小镇古堡，他参与净化怨魂，发现疑似初代男爵的画像与阿兹克教员一模一样，怀疑阿兹克有漫长生命且失忆循环。他在灰雾之上占卜封印物3-0782来源，意外接触疑似永恒烈阳的存在，险些死亡，但获得太阳途径序列9和8配方等知识。他拉入白银之城少年戴里克，发展为塔罗会成员，代号太阳。",
+      "identInfos": [
+        "穿越者周明瑞",
+        "值夜者小队成员",
+        "占卜家序列非凡者",
+        "塔罗会首领愚者",
+        "历史系毕业生",
+        "霍伊大学教员阿兹克学生"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 121,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我占卜出结果了，我在梦境里看见了一栋灰蓝色的二层房屋，它一楼的所有窗户紧闭，拉上了帘布，它周围好几米内泥土黑褐，没长一根草，没种一朵花，它还有个破败阴暗的花园，就像是鬼故事中常见的那种。”"
+        },
+        {
+          "chapterSeq": 123,
+          "extractReason": "UPDATE",
+          "evidenceText": "他一个迈步，以冲锋的速度奔向了克莱恩，直接撞在了他的身上。克莱恩倒飞了出去，看到自己胸前凹陷，看到自己正在吐血，但却没有一点难受的感觉。他一下醒悟过来，跌落在地，翻滚惨叫。突然之间，古堡、怨魂、倒塌的柱子、遍地的苔藓诡异破碎了，一切又回到了黑雾弥漫，黑甲骑士刚刚浮现的时候。"
+        },
+        {
+          "chapterSeq": 126,
+          "extractReason": "UPDATE",
+          "evidenceText": "不需要别人提醒，他就知道这是占卜家魔药彻底消化的表现。"
+        },
+        {
+          "chapterSeq": 127,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩认真点头：“我感觉更好了，我甚至认为我现在就能通过圣堂的考查，这是一种无法用语言描述的体会和自信。”"
+        },
+        {
+          "chapterSeq": 136,
+          "extractReason": "UPDATE",
+          "evidenceText": "这，好像阿兹克先生啊！克莱恩的眼睛霍然睁大，下意识望向所谓初代男爵的右耳垂。然后，他看见附近有颗不起眼的黑痣。这与阿兹克教员黑痣的位置一模一样！"
+        },
+        {
+          "chapterSeq": 139,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩在灰雾之上尝试占卜金色液体的来源，结果接触到了疑似永恒烈阳的存在，险些死亡，但获得了包括太阳途径序列9和8配方等知识。"
+        },
+        {
+          "chapterSeq": 140,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩让“太阳”选取一张塔罗牌做代号。戴里克毫不犹豫地选择了“太阳”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在调查异常死亡事件时，推测幕后黑手在提前收割将死之人的生命用于诅咒仪式。他承认自身特殊，与克莱恩达成队友间的默契。他提供缩小祭台范围的推理，参与破坏仪式，与女性主持者交战。在克莱恩占卜确认特莉丝是教唆者变身后，他大胆提出特里斯变成女性的猜想，得到证实。",
+      "identInfos": [
+        "值夜者小队成员",
+        "不眠者序列非凡者",
+        "自称特殊且拥有奇遇",
+        "绿眸，外表轻浮",
+        "擅长推理与诗歌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 121,
+          "extractReason": "UPDATE",
+          "evidenceText": "“更准确地描述是，他们应该拥有的‘生命’被超凡因素人为地缩短了，被窃取走了，而‘生命’一直是召唤邪神、恶魔，进行可怕诅咒的最佳材料。”伦纳德嘴角微翘地纠正了克莱恩的猜测。"
+        },
+        {
+          "chapterSeq": 121,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我曾经对你说过，这个世界上有很多特殊的人，总是能做到别人做不到的事情，比如说你，也比如说我。”"
+        },
+        {
+          "chapterSeq": 125,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有个大胆的想法。”“我怀疑这个人就是‘教唆者’特里斯！”"
+        },
+        {
+          "chapterSeq": 123,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脸色一下改变，慌忙拉起衣袖，看向刚才被鲜花扎出的伤口。伦纳德表情变沉，猛地捏住左手食指，硬生生将那片指甲拔了下来！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "邓恩作为值夜者队长，带领克莱恩、伦纳德和弗莱破坏诅咒仪式。他与女性主持者短暂梦境接触，判断对方是女性。他在拉姆德小镇古堡利用封印物3-0782和梦境能力拖延怨魂，成功将其净化。他听取克莱恩关于占卜家扮演法的铺垫，开始思考魔药名称的意义。",
+      "identInfos": [
+        "值夜者小队队长",
+        "不眠者序列强者",
+        "灰色眼眸，记忆力差",
+        "擅长梦境能力",
+        "成熟稳重"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 123,
+          "extractReason": "UPDATE",
+          "evidenceText": "通过短暂的梦境接触，他判断敌人是一位女性。"
+        },
+        {
+          "chapterSeq": 133,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩望着克莱恩道：“你占卜一下探索那里是否会顺利。”"
+        },
+        {
+          "chapterSeq": 127,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩不知什么时候拿出了烟斗，放在鼻端轻轻嗅着，他似乎忘记了克莱恩，沉思了好几分钟才开口道：“不错的猜想，有趣的尝试……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        122,
+        123,
+        124,
+        125,
+        127,
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "name": "弗莱",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗莱作为收尸人，参与调查异常死亡事件和破坏仪式，在古堡中与怨魂战斗，并拾取了铁手套。他擅长处理死尸和鬼魂。",
+      "identInfos": [
+        "值夜者小队成员",
+        "收尸人序列非凡者",
+        "皮肤苍白，气质冰冷",
+        "擅长对付死尸和鬼魂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 123,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿黑色风衣，提着特制左轮，高鼻薄唇的弗莱谨慎地左右打量，寻觅着可能出现的冤魂或者恶灵。"
+        },
+        {
+          "chapterSeq": 134,
+          "extractReason": "UPDATE",
+          "evidenceText": "“右手手套！”就在这时，一向冰冷阴沉的弗莱大喊了一声。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "name": "特莉丝（原特里斯）",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特莉丝原是教唆者特里斯，在刺杀苜蓿号惨案幸存者后，为报复举报者而策划诅咒仪式。她利用将死之人的生命缩短并收割，在塔索克河畔的房屋举行仪式。值夜者突袭时，她利用隐身、替身法术和祭台破坏造成的混乱逃脱，并利用伦纳德的血液进行反击。她乘坐蒸汽列车逃离廷根，中途下车。克莱恩等人通过占卜和梦境确认特里斯已变成女性，并怀疑她属于魔女教派。",
+      "identInfos": [
+        "原教唆者特里斯变性",
+        "魔女教派成员",
+        "序列7非凡者",
+        "脸蛋较圆，眼睛狭长，温文甜美",
+        "苜蓿号惨案制造者"
+      ],
+      "aliases": [
+        {
+          "alias": "特莉丝",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "特里斯",
+          "type": "原名"
+        },
+        {
+          "alias": "教唆者特里斯",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 125,
+          "extractReason": "ALIAS",
+          "evidenceText": "“我怀疑这个人就是‘教唆者’特里斯！”“你尝试着占卜一下目标现在的位置。”“特里斯，不，特莉丝的下落”。"
+        },
+        {
+          "chapterSeq": 123,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝抬起右手，在脸前一抹，顿时使兜帽遮掩下的容颜变得朦胧与模糊。她身影消失，利用隐身逃脱。"
+        },
+        {
+          "chapterSeq": 126,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝顺流飘到维尼亚小镇，购买通往贝克兰德的蒸汽列车车票。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        122,
+        123,
+        126
+      ]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "老尼尔在克莱恩消化魔药后，与他交谈，并在代罚者失控事件中主动帮忙，提供沉眠符咒，冷静配合斯维因制服失控者。他展现出资深值夜者的经验和勇气。",
+      "identInfos": [
+        "值夜者成员",
+        "窥秘人序列非凡者",
+        "神秘学专家",
+        "资深且经验丰富",
+        "喜欢咖啡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 129,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔经历过太多的类似事件，当即开口问道：“失控者在哪里？需要我们做什么？”"
+        },
+        {
+          "chapterSeq": 129,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔捂着左手，靠拢过来，也跟着往下眺望。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        127,
+        129,
+        130
+      ]
+    },
+    {
+      "name": "阿兹克·艾因",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在拉姆德小镇，克莱恩发现一幅疑似初代拉姆德男爵的画像，长相酷似历史教员阿兹克，右耳垂有一样的黑痣。克莱恩怀疑阿兹克有漫长生命且失忆循环。",
+      "identInfos": [
+        "霍伊大学历史教员",
+        "肤色古铜，耳朵附近有黑痣",
+        "失忆且拥有特殊能力",
+        "可能为长生者"
+      ],
+      "aliases": [
+        {
+          "alias": "阿兹克教员",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 136,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩漫不经心地扫过油画上的肖像，看见那位戴着顶白色卷曲假发的初代男爵五官柔和，皮肤古铜，眼睛里藏着难以言喻的沧桑。这，好像阿兹克先生啊！然后，他看见附近有颗不起眼的黑痣。这与阿兹克教员黑痣的位置一模一样！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        136
+      ]
+    },
+    {
+      "name": "斯维因",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "恶龙酒吧老板，前代罚者队长。在代罚者队员失控时，寻求克莱恩和老尼尔帮助，作为主力与失控者战斗，最终用暴怒之民的能力击杀对方，事后祭奠队友。",
+      "identInfos": [
+        "恶龙酒吧老板",
+        "前代罚者队长",
+        "蓝眼睛，酗酒",
+        "暴怒之民序列非凡者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 129,
+          "extractReason": "UPDATE",
+          "evidenceText": "褐发乱糟糟，身上有浓烈酒味的斯维因沉声回答道：“有个‘代罚者’小队的成员在附近失控了，我们必须在他对普通人造成伤害前，解决他！”"
+        },
+        {
+          "chapterSeq": 129,
+          "extractReason": "UPDATE",
+          "evidenceText": "他不知从哪里拿出了一个瘪下去的金属酒壶，扯开盖子，咕噜喝了小半，然后倾斜瓶口，对准怪物，将剩下的烈酒全部洒到了对方身上。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        129,
+        130
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银之城的少年，父母因诅咒变恶灵，他被迫亲手终结其生命。他跪求神灵帮助，被克莱恩拉入灰雾之上，成为塔罗会新成员，代号太阳。他渴望成为太阳非凡者，以改变白银城的命运。他提供了白银城历史、巨人途径和秘祈人途径的序列信息。",
+      "identInfos": [
+        "白银之城居民",
+        "塔罗会成员，代号太阳",
+        "棕黄色头发",
+        "弑父杀母以终结诅咒",
+        "渴望成为太阳非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 137,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "戴里克·伯格跪在纯净的水晶球前祈求，被克莱恩拉入灰雾之上。他自我介绍：“我想成为‘太阳’，想从您那里得到它初始序列的魔药配方。”"
+        },
+        {
+          "chapterSeq": 138,
+          "extractReason": "UPDATE",
+          "evidenceText": "他回忆着书籍的内容和父母讲述的传说，缓慢又悲痛地说道：“当太阳从天空消失，当云朵被撕出了缝隙，当闪电和雷霆成为主宰，藏在黑暗深处的怪物们突然出现……”"
+        },
+        {
+          "chapterSeq": 138,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘巨人’途径的魔药配方名称依次是，序列9‘超凡战士’，序列8‘角斗士’，序列7‘武器大师’，序列6‘黎明骑士’，序列5‘守护者’，以及序列4‘猎魔者’。”"
+        },
+        {
+          "chapterSeq": 138,
+          "extractReason": "UPDATE",
+          "evidenceText": "他介绍‘牧羊人’的前置序列：“序列9‘秘祈人’，序列8‘耳语者’，序列7‘隐修士’，序列6‘蔷薇教士’，序列5‘牧羊人’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        137,
+        138,
+        139,
+        140
+      ]
+    },
+    {
+      "name": "伊丽莎白",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎的好友，在拉姆德小镇度假时被古堡怨魂意念纠缠，经常做噩梦。她到占卜俱乐部找克莱恩占卜，克莱恩通过梦境占卜发现怨魂，并承诺一周内解决。之后克莱恩随队前往拉姆德小镇净化怨魂。",
+      "identInfos": [
+        "梅丽莎好友",
+        "伊沃斯公学学生",
+        "褐发，婴儿肥，浅蓝眼眸",
+        "曾被怨魂意念纠缠"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊丽莎白同样脸露惊喜道：“莫雷蒂先生，真的是你？我看到名字的时候，就在想是不是你。”"
+        },
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我在梦里总是会遇见一个身穿黑色全身盔甲的骑士，他手提一把巨大的阔剑，脸部完全被头盔的面甲遮住，只能看见一双闪烁红光的眼睛，他一直在试图靠近我，我就害怕得逃跑，距离一次比一次近……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        132,
+        133
+      ]
+    },
+    {
+      "name": "阿德米索尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "天生怪物途径的非凡者，在恶龙酒吧地下交易市场活动。他因梦见满地死尸而恐惧得发抖，克莱恩询问时他表现异常，并害怕克莱恩。",
+      "identInfos": [
+        "天生怪物途径非凡者",
+        "高灵感，能预见灾难",
+        "恶龙酒吧流浪者",
+        "黑发凌乱，脸色苍白"
+      ],
+      "aliases": [
+        {
+          "alias": "怪物",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿德米索尔正缩于角落，瑟瑟发抖。他察觉到克莱恩的靠近，顿时捂着眼睛，贴着墙壁，想要移向侧门。"
+        },
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不，我没有看见什么，没有，没有，我只是做了一场梦，梦里都是血，满地都是死人，哈哈，呜呜呜，死人里还有我，还有我！我要死了，我要死了！我不想死，我不想死！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        132
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在贝克兰德由佛尔思引荐参加A先生组织的隐秘聚会，了解非凡材料价格，购买罗塞尔日记。她伪装需要观众和读心者配方，避免暴露塔罗会。她观察聚会成员，判断A先生好色但视力无法穿透兜帽。回家后，宠物狗苏茜汇报偷听的政治情报，让她成就感十足。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会成员，代号正义",
+        "观众序列非凡者",
+        "金毛大狗苏茜的饲养者",
+        "贵族少女，富有"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 130,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔带着贴身女仆安妮离开舞会，上到二楼，进入子爵安排好的卧室。她套上黑色的带兜帽长袍，参加隐秘聚会。"
+        },
+        {
+          "chapterSeq": 131,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我需要‘观众’和‘读心者’魔药的配方，价格当面商谈……”"
+        },
+        {
+          "chapterSeq": 131,
+          "extractReason": "UPDATE",
+          "evidenceText": "A先生打量了在场的所有小姐和女士，目光经常停留在长相不错的那几位身上……他很好色……"
+        },
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "找理由让女仆们暂时离开后，奥黛丽反锁住房门，回头望向不知还算不算自己宠物的金毛大狗苏茜。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        130,
+        131,
+        132
+      ]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "贝克兰德隐秘聚会的召集者，强大的非凡者。他好色，自信，在聚会中维持秩序，禁止欺诈。他给奥黛丽递纸条询问是否对别的序列9配方有兴趣，被拒绝。",
+      "identInfos": [
+        "隐秘聚会召集者",
+        "强大非凡者",
+        "好色，自信",
+        "代号A先生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 130,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“那是A先生，一位强大的非凡者，本次隐秘聚会的召集者。”"
+        },
+        {
+          "chapterSeq": 131,
+          "extractReason": "UPDATE",
+          "evidenceText": "A先生打量着在场的所有小姐和女士，目光经常停留在长相不错的那几位身上。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        130,
+        131
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "学徒序列非凡者，引荐奥黛丽和格莱林特子爵参加隐秘聚会。她介绍休·迪尔查为可靠的仲裁者。",
+      "identInfos": [
+        "学徒序列非凡者",
+        "褐发微卷，淡蓝眼眸",
+        "慵懒颓废气质",
+        "休·迪尔查的朋友"
+      ],
+      "aliases": [
+        {
+          "alias": "佛尔思",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 130,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“那是A先生，一位强大的非凡者，本次隐秘聚会的召集者。”佛尔思介绍道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        130,
+        131
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "仲裁人序列非凡者，身高较矮但颇具威严。她陪同奥黛丽参加隐秘聚会，渴望购买治安官配方但缺钱。她身上藏有三棱刺作为说服工具。",
+      "identInfos": [
+        "仲裁人序列非凡者",
+        "身高一米五出头",
+        "五官精致，黄发杂乱",
+        "擅长说服和仲裁"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 130,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "佛尔思指着旁边的休·迪尔查道：“她是一位出色的说服者，能帮助你们得到想要的东西。”"
+        },
+        {
+          "chapterSeq": 130,
+          "extractReason": "UPDATE",
+          "evidenceText": "休·迪尔查快速而敏捷地下蹲，捡起那根三棱刺，将它藏到了身上。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        130,
+        131
+      ]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的朋友，参与隐秘聚会，希望成为药师序列非凡者以获得健康。他与奥黛丽一同探索非凡世界。",
+      "identInfos": [
+        "子爵贵族",
+        "奥黛丽的朋友",
+        "渴望成为药师非凡者",
+        "对神秘符文感兴趣"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 131,
+          "extractReason": "UPDATE",
+          "evidenceText": "格莱林特子爵说出了自身的选择：“‘药师’，我需要序列9‘药师’的配方！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        130,
+        131
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的宠物金毛大狗，误食观众魔药后能说话。她偷听霍尔伯爵与议员的谈话，向奥黛丽汇报国王和首相推进政府事务人员公开考试改革的计划。",
+      "identInfos": [
+        "奥黛丽的宠物金毛大狗",
+        "能说话和理解人类语言",
+        "误食观众魔药后变异"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗苏茜沉稳地蹲在那里，嗷呜了一声，震荡着周围空气道：“是的，我在书房听见伯爵和几位议员商量事情，他们说国王和首相达成了共识，放弃短时间内在拜朗东海岸报复弗萨克帝国的计划。”"
+        },
+        {
+          "chapterSeq": 132,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥黛丽小姐，你给了我地图后，我就可以更好地帮你打听消息了~”苏茜欢快地回答。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        132
+      ]
+    },
+    {
+      "name": "变异的太阳圣徽（封印物3-0782）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物3-0782，具有不断净化周围死尸和鬼魂的能力，但也会净化正常人灵魂。克莱恩在灰雾之上占卜其来源，发现它融合了一滴金色神血，由此获得永恒烈阳途径序列9和8配方等知识。他了解到这枚圣徽可能比想象中更强大，足够成为1级封印物，并计划窃取力量制作日炎符咒。",
+      "identInfos": [
+        "值夜者封印物，代号3-0782",
+        "原为太阳圣徽，融合神血后变异",
+        "持续净化死尸鬼魂，对活人灵魂有害",
+        "暗金色，有太阳符号"
+      ],
+      "aliases": [
+        {
+          "alias": "3-0782",
+          "type": "代号"
+        },
+        {
+          "alias": "变异的太阳圣徽",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 139,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看见了一滴金色的、温暖的、光明的液体。它漂浮于祭台之上，面前立着一位穿白色古典长袍的男子。他握着的太阳圣徽触碰到了那滴金色的液体，后者迅速渗透了进去。"
+        },
+        {
+          "chapterSeq": 140,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩在灰雾之上尝试占卜金色液体的来源，结果接触到了疑似永恒烈阳的存在，险些死亡，但获得了包括太阳途径序列9和8配方等知识。"
+        },
+        {
+          "chapterSeq": 140,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列4‘无暗者’魔药配方，主材料可用变异太阳圣徽内提取的金色神血。"
+        }
+      ]
+    },
+    {
+      "name": "纯白天使",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩在占卜封印物3-0782来源时，从永恒烈阳处获得的零散知识之一，具体含义不明。",
+      "identInfos": [
+        "克莱恩占卜时获得的知识碎片",
+        "可能与永恒烈阳相关的高位存在"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 140,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他赶紧用“梦境占卜”的技巧回忆和整理了不在最初目的内的收获，拿起具现出来的黑色圆腹钢笔，一条一条写道：“1.不可直视神。2.纯白天使。”"
+        }
+      ]
+    },
+    {
+      "name": "日炎符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从永恒烈阳处获得的太阳领域高级符咒制作技巧，效果能维持一年，可以无需向永恒烈阳祈求，而是从变异太阳圣徽中窃取力量来制作。",
+      "identInfos": [
+        "太阳领域高级符咒",
+        "效果能维持一年",
+        "可从变异太阳圣徽窃取力量制作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 140,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“3.‘日炎符咒’的制作技巧……这是相对比较高级的太阳领域符咒，效果能维持一年才衰减……可以不用举行仪式，向‘永恒烈阳’祈求，而是用封印物‘3-0782’代替，从这枚变异的太阳圣徽内窃取力量……”"
+        }
+      ]
+    },
+    {
+      "name": "太阳途径魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从永恒烈阳处获得的太阳途径序列9歌颂者、序列8祈光人、序列5光之祭司和序列4无暗者的魔药配方，但部分配方有缺失。这些配方为白银城戴里克提供了成为太阳非凡者的可能。",
+      "identInfos": [
+        "克莱恩占卜获得的太阳途径序列配方",
+        "包括歌颂者、祈光人、光之祭司、无暗者配方",
+        "部分配方不完整"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 140,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“5.‘歌颂者’魔药配方：主材料，结晶太阳花一朵或者一只成年火石鸟的尾羽或者纵火鸟的尾羽……海妖之石一块或者歌唱葵一朵……辅助材料，仲夏草一根，七月酒汁液五滴，精灵暗叶一片。”"
+        },
+        {
+          "chapterSeq": 140,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“6.‘祈光人’魔药配方：主材料，光辉石一块或者炽白之魂的粉末或者……镜猬的血液或者熔浆巨怪之心……辅助材料，金边太阳花一朵，附子汁液三滴……”"
+        },
+        {
+          "chapterSeq": 140,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“8.序列4‘无暗者’魔药配方，主材料可用变异太阳圣徽内提取的金色神血，另外还能使用成年太阳神鸟的三根尾羽和神圣光辉石一块代替，辅助材料缺……”"
+        }
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会增加新成员太阳（戴里克·伯格），愚者（克莱恩）向他阐述等价交换原则。太阳为白银之城居民，渴望获得太阳途径魔药配方。",
+      "identInfos": [
+        "由愚者创立的神秘组织",
+        "成员以塔罗牌为代号",
+        "当前成员有愚者、正义、倒吊人、太阳",
+        "定期聚会交换情报和委托"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 139,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩笑着指向青铜长桌的表面，那里已具现出一副塔罗牌。他相信对方肯定没有接触过这种事物，于是略略介绍道：“选取一张牌做你的代号，愚者、正义和倒吊人除外。”戴里克上前两步，翻了翻塔罗纸牌，几乎没什么犹豫地说道：“‘太阳’，我选‘太阳’。”"
+        },
+        {
+          "chapterSeq": 138,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我是一个喜欢等价交换的愚者，你可以用你能获得的一切从我这里，从和你相似的其他人那里得到你想要的事物，注意，必须价值相当……”"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者小队在邓恩带领下破坏诅咒仪式，净化拉姆德古堡怨魂。克莱恩向邓恩铺垫扮演法，并计划申请晋升小丑。他们帮助失控的代罚者。",
+      "identInfos": [
+        "黑夜女神教会下属非凡者组织",
+        "负责处理超凡事件和封印物",
+        "廷根市小队队长邓恩·史密斯",
+        "成员有克莱恩、伦纳德、弗莱等"
+      ],
+      "aliases": [
+        {
+          "alias": "代罚者",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 124,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯正站在祭台前方，背对克莱恩，一个木偶一个木偶地拿起观看。"
+        },
+        {
+          "chapterSeq": 127,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩认真点头：“我感觉更好了，我甚至认为我现在就能通过圣堂的考查，这是一种无法用语言描述的体会和自信。”"
+        }
+      ]
+    },
+    {
+      "name": "魔女教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "特莉丝被确认为魔女教派成员，其序列途径可能导致性别转换。教派上层多为女性，历史可追溯至上个纪元。",
+      "identInfos": [
+        "古老隐秘组织",
+        "上层多为女性",
+        "与刺客途径相关",
+        "可能掌握使人性转的魔药"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 125,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩微不可见地点头道：“不愧是上个纪元就活跃于大陆舞台的魔女教派……”"
+        },
+        {
+          "chapterSeq": 125,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你的意思是，魔女教派的高层有不少女士曾经是男性？”邓恩反问了一句。"
+        }
+      ]
+    },
+    {
+      "name": "白银之城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "位于神弃之地的人类城邦，被黑暗和怪物包围，居民死后会变恶灵，需血亲亲手终结。由六人议事团统治，掌握巨人途径和部分秘祈人途径。最高战力为三位序列4猎魔者。戴里克为白银城居民，试图通过塔罗会获得太阳途径魔药。",
+      "identInfos": [
+        "神弃之地的人类城邦",
+        "受诅咒，死者变恶灵",
+        "六人议事团统治",
+        "掌握巨人途径和残缺秘祈人途径",
+        "天空无太阳，只有闪电"
+      ],
+      "aliases": [
+        {
+          "alias": "白银之国",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 138,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“从创造一切的主，全知全能的神，遗弃这片土地开始，白银之城就已经存在，不，在此之前，它就存在，只不过还叫做白银之国。”"
+        },
+        {
+          "chapterSeq": 138,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“在人口恢复到一定程度后，非凡者的数量也随之增加，‘六人议事团’开始组织精英小队去探索黑暗……”"
+        },
+        {
+          "chapterSeq": 138,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘巨人’途径的魔药配方名称依次是，序列9‘超凡战士’，序列8‘角斗士’，序列7‘武器大师’，序列6‘黎明骑士’，序列5‘守护者’，以及序列4‘猎魔者’。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "安魂符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩制作的低品级符咒，能安抚鬼魂、幽影等，每两周需重新制作。当前chunk中克莱恩随身携带，但未使用。",
+      "identInfos": [
+        "黑夜女神领域符咒",
+        "三角形银制薄片",
+        "能安抚死灵类生物",
+        "灵性会衰退，需定期重制"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 127,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "符咒与他之前给哥哥班森和妹妹梅丽莎的护身符不同，必须借助仪式的辅助来铭刻，具备一定的特殊能力，可以用于激烈的战斗里。但低品级的符咒同样不是万能的，它所具备的灵性会不断衰退，每两周就必须重新“制作”一次。"
+        }
+      ]
+    },
+    {
+      "name": "梦境符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩制作的符咒，能进入目标梦境。他使用此符咒进入伊丽莎白梦境，发现怨魂意念。",
+      "identInfos": [
+        "黑夜女神领域符咒",
+        "半圆形银制薄片",
+        "能帮助施术者进入目标梦境"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 133,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩从衣服口袋里拿出了一个半圆形的银制薄片，薄片之上布满常人难以看懂的赫密斯语单词和各种充满象征意义的符号、数字、标识。这是克莱恩在昨天上午制作成功的“梦境符咒”！"
+        }
+      ]
+    },
+    {
+      "name": "铁手套（怨魂遗留）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "拉姆德古堡怨魂被净化后遗留的黑色铁手套，表面凝着白色冰霜，弗莱拾取。",
+      "identInfos": [
+        "古堡怨魂遗留物",
+        "黑色铁手套，表面有冰霜",
+        "可能具有特殊灵性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 134,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "当！一只黑色铁手套落到地上，表面凝着些许白色冰霜。"
+        }
+      ]
+    },
+    {
+      "name": "神像（诅咒仪式）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "特莉丝用于诅咒仪式的人形白骨神像，头发如毒蛇触手，根根长眼。仪式被破坏后，特莉丝带走神像。",
+      "identInfos": [
+        "诅咒仪式核心物品",
+        "人形白骨雕刻，女子形象",
+        "头发如毒蛇触手，顶生眼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 123,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "祭台是一张圆桌，中央摆放着一个白骨雕刻成的神像。这神像有正常成年男人脑袋大小，眉眼只得隐约的轮廓，似乎是位绝美的女子。她的头发从脑袋一直延伸到了脚踝，根根清晰而粗壮，就像一条条毒蛇，一根根触手。而每根头发的顶端，还长了一只眼睛，或闭或睁，密密麻麻。"
+        }
+      ]
+    },
+    {
+      "name": "初代拉姆德男爵肖像（复刻）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "拉姆德小镇镇民格瑞持有的油画复刻品，据传是初代拉姆德男爵肖像。画像人物酷似阿兹克，右耳垂有黑痣，引发克莱恩对阿兹克身份的怀疑。",
+      "identInfos": [
+        "油画复刻品",
+        "据传为初代拉姆德男爵",
+        "画像人物酷似阿兹克"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 136,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩漫不经心地扫过油画上的肖像，看见那位戴着顶白色卷曲假发的初代男爵五官柔和，皮肤古铜，眼睛里藏着难以言喻的沧桑。这，好像阿兹克先生啊！克莱恩的眼睛霍然睁大，下意识望向所谓初代男爵的右耳垂。然后，他看见附近有颗不起眼的黑痣。这与阿兹克教员黑痣的位置一模一样！"
+        }
+      ]
+    }
+  ]
+}

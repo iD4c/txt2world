@@ -1,0 +1,254 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 733,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "艾辛格·斯坦顿",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩以夏洛克身份拜访艾辛格，委托其出售脚踏车公司股份，并约定以报纸公告联系。艾辛格称赞克莱恩为贝克兰德前五侦探。"
+    },
+    {
+      "fromChapterSeq": 733,
+      "toChapterSeq": 734,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "伊恩·赖特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩在勇敢者酒吧向伊恩了解海上新闻，得知格尔曼·斯帕罗被悬赏5万镑，伊恩成为黑市武器商并透露军情九处悬赏阿兹克。"
+    },
+    {
+      "fromChapterSeq": 733,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "塞尼奥尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩将塞尼奥尔转化为秘偶后，安排他送信给莎伦。塞尼奥尔作为长期秘偶被控制。"
+    },
+    {
+      "fromChapterSeq": 733,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "relationSummary": "克莱恩继续信使契约，蕾妮特不催促还债，且两人合作对抗玫瑰学派袭击。"
+    },
+    {
+      "fromChapterSeq": 737,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "瓦尔特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩雇佣瓦尔特为管家，负责聘请仆人、租赁房屋、安排课程等。瓦尔特是雇员，提供专业服务。"
+    },
+    {
+      "fromChapterSeq": 742,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "塔内娅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩聘请塔内娅为女管家，控制财务、管理仆人。塔内娅是雇员，负责日常管理。"
+    },
+    {
+      "fromChapterSeq": 739,
+      "toChapterSeq": 739,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被监视者"
+        }
+      },
+      "relationSummary": "克莱恩在塞伦佐餐厅偶遇贝尔纳黛，疑惑其来意。"
+    },
+    {
+      "fromChapterSeq": 743,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "埃姆林在狩猎中向愚者祈祷获救，献祭月亮木偶；克莱恩研究木偶发现原始月亮痕迹；塔罗会上两人继续交易互动。"
+    },
+    {
+      "fromChapterSeq": 750,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "伦纳德在教堂察觉克莱恩身上古老气息，开始调查；克莱恩识破伦纳德体内寄生者，送纸条警告“索罗亚斯德”和“寄生者”，成功震慑，伦纳德打消念头。"
+    },
+    {
+      "fromChapterSeq": 752,
+      "toChapterSeq": 752,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "哈米德",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩开始上哈米德的哲学课，哈米德是被雇的家庭教师。"
+    }
+  ]
+}

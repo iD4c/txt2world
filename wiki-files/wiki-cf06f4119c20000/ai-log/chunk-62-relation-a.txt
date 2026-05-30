@@ -1,0 +1,604 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1191,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "周明瑞和奥黛丽在塔罗会私下聚会中合作，讨论如何让亚伯拉罕家族感受到友善，以促成交易。奥黛丽提供建议，周明瑞采纳并指导后续行动。"
+    },
+    {
+      "fromChapterSeq": 1191,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "周明瑞和佛尔思合作，共同商议狩猎布提斯和与多里安交易事宜。佛尔思负责联系老师多里安，传达善意，并参与狩猎计划。"
+    },
+    {
+      "fromChapterSeq": 1191,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "周明瑞和嘉德丽雅在塔罗会私下聚会中合作，讨论狩猎布提斯的方法。嘉德丽雅提议让佛尔思在非凡者聚会中暴露与亚伯拉罕家族的联系，周明瑞采纳并支付神秘学知识作为报酬。"
+    },
+    {
+      "fromChapterSeq": 1191,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "休·迪尔查在塔罗会私下聚会中参与讨论，负责外围警戒和\"禁止传送\"辅助，协助狩猎布提斯。"
+    },
+    {
+      "fromChapterSeq": 1191,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "伦纳德·米切尔在塔罗会私下聚会中参与讨论，负责调查极光会案件以对极光会施压，协助狩猎布提斯。"
+    },
+    {
+      "fromChapterSeq": 1194,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "布提斯",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "布提斯在非凡者聚会中设伏，利用佛尔思作为诱饵来引出其背后的亚伯拉罕家族。佛尔思被抓住后，成为布提斯手中的筹码。"
+    },
+    {
+      "fromChapterSeq": 1194,
+      "toChapterSeq": 1199,
+      "characterA": {
+        "name": "布提斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "幽暗圣者克斯玛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "布提斯和克斯玛同为极光会圣者，在狩猎佛尔思的行动中密切合作，共同应对塔罗会的埋伏。"
+    },
+    {
+      "fromChapterSeq": 1194,
+      "toChapterSeq": 1199,
+      "characterA": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "布提斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "嘉德丽雅在塔罗会狩猎布提斯的行动中负责正面攻击，与布提斯展开激烈战斗，最终导致布提斯死亡。"
+    },
+    {
+      "fromChapterSeq": 1194,
+      "toChapterSeq": 1199,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "布提斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "奥黛丽在狩猎布提斯行动中提供心理战支持，植入\"精神瘟疫\"和虚拟人格，篡改传送目的地，协助击杀布提斯。"
+    },
+    {
+      "fromChapterSeq": 1194,
+      "toChapterSeq": 1199,
+      "characterA": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "幽暗圣者克斯玛",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "嘉德丽雅在战斗中攻击克斯玛，击碎其黑骑士分身，协助队友逼退克斯玛。"
+    },
+    {
+      "fromChapterSeq": 1198,
+      "toChapterSeq": 1198,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "布提斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽化龙赶至战场，用心灵巨龙吐息和\"心智剥夺\"控制布提斯，协助嘉德丽雅重创布提斯。"
+    },
+    {
+      "fromChapterSeq": 1202,
+      "toChapterSeq": 1202,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "奥黛丽到河边释放被布提斯抓住的佛尔思，佛尔思震惊于战斗已结束。"
+    },
+    {
+      "fromChapterSeq": 1203,
+      "toChapterSeq": 1203,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞在塔罗会小聚会中主持分配战利品，奥黛丽获得一条\"星之虫\"和部分材料作为奖励。"
+    },
+    {
+      "fromChapterSeq": 1203,
+      "toChapterSeq": 1203,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "伦纳德获得三条\"星之虫\"、宝石和材料作为参与狩猎的战利品。"
+    },
+    {
+      "fromChapterSeq": 1203,
+      "toChapterSeq": 1203,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "嘉德丽雅选择\"秘法师\"非凡特性作为战利品。"
+    },
+    {
+      "fromChapterSeq": 1203,
+      "toChapterSeq": 1203,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "休获得\"旅者的行囊\"作为战利品。"
+    },
+    {
+      "fromChapterSeq": 1203,
+      "toChapterSeq": 1203,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "佛尔思选择布提斯眼珠和部分宝石作为战利品。"
+    },
+    {
+      "fromChapterSeq": 1204,
+      "toChapterSeq": 1207,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "多里安·格雷·亚伯拉罕",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "周明瑞通过佛尔思与多里安建立联系，用解除诅咒的承诺换取\"旅法师\"配方和\"0\"级封印物。多里安渴望解除诅咒，逐步接受\"愚者\"信仰。"
+    },
+    {
+      "fromChapterSeq": 1205,
+      "toChapterSeq": 1205,
+      "characterA": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "阿蒙本体突袭伦纳德和帕列斯，击杀帕列斯并抢夺序列1特性，伦纳德逃脱并向\"愚者\"祈祷求助。"
+    },
+    {
+      "fromChapterSeq": 1206,
+      "toChapterSeq": 1206,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "佛尔思召唤出历史投影克莱恩与多里安会面，协助周明瑞展示\"愚者\"存在，促成交易。"
+    },
+    {
+      "fromChapterSeq": 1206,
+      "toChapterSeq": 1206,
+      "characterA": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "多里安·格雷·亚伯拉罕",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "佛尔思作为学生，向多里安传达交易信息，并召唤克莱恩历史投影与多里安见面，促进交易达成。"
+    },
+    {
+      "fromChapterSeq": 1207,
+      "toChapterSeq": 1207,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "雷尔夫",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿尔杰在拜亚姆遇见雷尔夫，看到其为混血儿建的学校，有所触动，并暗中联系达尼兹。"
+    },
+    {
+      "fromChapterSeq": 1207,
+      "toChapterSeq": 1207,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿尔杰暗中联系达尼兹，可能涉及塔罗会事务或情报交流。"
+    },
+    {
+      "fromChapterSeq": 1210,
+      "toChapterSeq": 1210,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "阿达尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩在神弃之地遇见月城狩猎小队，队长阿达尔及队员震惊于外来者的出现。克莱恩自我介绍来自白银城和诅咒之地外。"
+    }
+  ]
+}

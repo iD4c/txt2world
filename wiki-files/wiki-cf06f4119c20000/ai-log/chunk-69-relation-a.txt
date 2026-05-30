@@ -1,0 +1,454 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在塔罗会上通过“世界”向“正义”暗示乌托邦是仪式产物，两人保持盟友关系。奥黛丽被艾瑞霍格引入梦境后，克莱恩监控异常，双方默契合作。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔弗雷德·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "阿尔弗雷德·霍尔误入乌托邦港，克莱恩作为乌托邦的创造者监控其行动，但阿尔弗雷德并不知情，仅作为外来者引发克莱恩的警惕。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "文德尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "文德尔误入乌托邦，克莱恩通过秘偶城镇监控其行动，文德尔发现异常后逃离，但最终被乌托邦法庭传唤，被迫出庭。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "休·迪尔查在军情九处接到调查乌托邦的任务，克莱恩通过塔罗会以“世界”身份暗示乌托邦是仪式产物，双方保持合作关系。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "埃姆林做诡异梦境后，克莱恩在塔罗会上通过“世界”对其梦境给出三种可能解释，提供帮助。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "阿尔杰在塔罗会上汇报维尔杜欲前往班西一事，为克莱恩提供重要信息，克莱恩予以关注。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "翠西",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "翠西是乌托邦秘偶，其生活和命运由克莱恩编排，克莱恩控制其行动以促进仪式，翠西不知自己是秘偶。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "拜尔斯",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "拜尔斯是乌托邦警察，实为克莱恩秘偶，克莱恩控制其传唤文德尔出庭，维持乌托邦运转。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "维尔杜·加西亚",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "维尔杜探索班西，被“红天使”恶灵利用传递信息，克莱恩监控其行动以防异常，维尔杜本人不知情。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "查拉图突袭乌托邦，利用斯厄阿历史投影和克莱恩人偶隔绝其与秘偶联系，试图将克莱恩转化为秘偶，双方爆发激战。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "亚当",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "亚当安排查拉图突袭克莱恩，后向其揭示自己即远古太阳神，展示亵渎石板并解释旧日配方，意图利用克莱恩达成自身目的。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "贝尔纳黛·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "贝尔纳黛使用“许愿神灯”向愚者祈祷求助，试图帮助被困的克莱恩，体现两人盟友关系。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "维尔杜·加西亚",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "红天使恶灵与神秘乌鸦合作，利用维尔杜探索班西的行为传递信息，维尔杜本人不知情。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "艾瑞霍格",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "艾瑞霍格将奥黛丽引入梦境迷宫，询问利维希德相关信息，后与赫密斯争斗，奥黛丽趁机脱离，双方无深入关系。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿尔弗雷德·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿尔弗雷德回家后与奥黛丽交谈，看出妹妹是非凡者并警告魔药危险，奥黛丽坦然承认，双方维持亲密兄妹关系。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "喜欢",
+          "bond": "父女",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "霍尔伯爵",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "喜欢",
+          "bond": "父女",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽与父亲商议返回东切斯特郡猎狐，体现父女亲情。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "希伯特·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "兄妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽与兄长希伯特在站台交谈，体现兄妹日常互动。"
+    },
+    {
+      "fromChapterSeq": 1327,
+      "toChapterSeq": 1346,
+      "characterA": {
+        "name": "赫密斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "艾瑞霍格",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "赫密斯化身巨型白兔闯入艾瑞霍格编织的梦境，双方互相对抗，编织噩梦争斗，奥黛丽趁机脱离。"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "在基金会成立仪式上默契沟通合作建议，私下怀疑彼此身份，延续塔罗会中愚者与正义的长期合作。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "多次入梦讨论卡隆自杀案，交换线索，合作分析幕后黑手，并借机建立信使联络渠道。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "接受委托盗取木乃伊，主导行动并成功交付，大幅消化魔药；莎伦感激并支付报酬，关系由单纯交易转向深厚信任。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "马里奇",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "与莎伦一同委托盗取木乃伊，行动中担任辅助，共同目睹克莱恩能力，感激其帮助，延续节制派合作。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "察觉阿蒙寻找愚者组织，深感警惕，主动通知帕列斯并计划离开贝克兰德避险，在塔罗会上安抚成员。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "塔罗会上委托制作神奇物品，阿尔杰汇报进展，延续愚者与倒吊人的合作关系。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "塔罗会上回答神秘女王问题，互有交易，延续愚者与隐者的从属合作关系。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思·沃尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "委托魔术师从亚伯拉罕家族获取卡尔德隆城情报，报价350镑，延续愚者与魔术师的交易关系。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "塔罗会上催促太阳获取序列5特性，并给魔术师提供古老怨灵线索，延续愚者与月亮的关系。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "丘纳斯·科尔格",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "俱乐部偶遇，认出其为大雾霾事件线索，互视一眼后未深入接触，仅引起克莱恩警惕。"
+    },
+    {
+      "fromChapterSeq": 873,
+      "toChapterSeq": 892,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "赫温·兰比斯",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "通过魔镜得知其为卡隆自杀案幕后黑手，未曾直接互动，但将其视为后续调查目标。"
+    }
+  ]
+}

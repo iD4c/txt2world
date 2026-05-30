@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 81,
+      "toChapterSeq": 100,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "邓恩作为队长分配任务给克莱恩，并与其讨论序列途径和非凡者相关事宜，两人维持稳定的上下级队友关系。"
+    },
+    {
+      "fromChapterSeq": 81,
+      "toChapterSeq": 100,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "老尼尔向克莱恩解释序列对应的序列8可能是“小丑”，并告知学习古赫密斯语等要求，在日常中给予知识指导，维持队友关系。"
+    },
+    {
+      "fromChapterSeq": 84,
+      "toChapterSeq": 87,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "保护",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "赛琳娜·伍德",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在赛琳娜生日晚宴上发现她被邪灵侵蚀，借助仪式为其驱散邪灵，是保护性的一次救助。"
+    },
+    {
+      "fromChapterSeq": 84,
+      "toChapterSeq": 87,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "伊丽莎白",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "伊丽莎白向克莱恩提供赛琳娜使用的咒文来源，克莱恩由此获得涉及真实造物主的线索，推动后续调查。"
+    },
+    {
+      "fromChapterSeq": 87,
+      "toChapterSeq": 88,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "海纳斯·凡森特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩从赛琳娜处得知凡森特提供的咒文与真实造物主有关，上报后邓恩调查凡森特并在其梦中见到堕落造物主形象，凡森特随后死亡，成为关键线索源头。"
+    },
+    {
+      "fromChapterSeq": 89,
+      "toChapterSeq": 92,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "德维尔爵士",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩受命调查德维尔爵士受灵异骚扰案，通过占卜发现怨念源于爵士工厂铅中毒死亡女工，最终促成补偿并消解怨念。"
+    },
+    {
+      "fromChapterSeq": 93,
+      "toChapterSeq": 100,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "在塔罗会上，奥黛丽向克莱恩提供罗塞尔日记，询问心理炼金会，克莱恩作为“愚者”继续指导她消化魔药，维持地下联盟关系。"
+    },
+    {
+      "fromChapterSeq": 93,
+      "toChapterSeq": 100,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "敬畏",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "阿尔杰向克莱恩介绍隐秘组织和真实造物主信息，索要报酬，克莱恩借此获取重要情报，维持塔罗会成员间的联盟关系。"
+    },
+    {
+      "fromChapterSeq": 98,
+      "toChapterSeq": 100,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "阿兹克借给克莱恩研究霍纳奇斯遗迹的书籍，并指出其命运存在不协调，暗示近期三次巧合可能存在幕后引导，成为克莱恩调查的重要线索来源。"
+    }
+  ]
+}

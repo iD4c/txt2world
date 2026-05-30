@@ -1,0 +1,1165 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗身份代替艾弥留斯上将进行真实扮演，应对奥斯顿总督密谋、黄昏隐士会警告、辛西娅变异等事件，进一步明悟无面人扮演守则，魔药接近彻底消化。事后乘船前往加尔加斯群岛，与星之上将会合，搭乘未来号前往苏尼亚海最东面寻找美人鱼。途中参与探索海底第四纪遗迹，但未深入。",
+      "identInfos": [
+        "穿越者，曾用名周明瑞",
+        "塔罗会创立者，代号愚者",
+        "序列6无面人，可使用多种非凡能力",
+        "格尔曼·斯帕罗是其当前冒险家身份",
+        "持有的神奇物品包括蠕动的饥饿、生物毒素瓶等"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 623,
+          "extractReason": "UPDATE",
+          "evidenceText": "摸了摸衣兜内的“第九律”符咒，克莱恩调整了身高和外貌细节，与艾弥留斯·利维特上将再没有任何区别。"
+        },
+        {
+          "chapterSeq": 624,
+          "extractReason": "UPDATE",
+          "evidenceText": "他原本没想这么快使用这枚符咒，不是舍不得，而是希望缠斗一阵，确认辛西娅变异成的怪物究竟擅长什么后，再做有针对性的削弱"
+        },
+        {
+          "chapterSeq": 627,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩在心里建立起一个更加立体更加真实的艾弥留斯形象的同时，也让相对模糊的“自身”越来越清晰"
+        },
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "他进一步明悟“无面人”扮演守则，魔药接近彻底消化。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642
+      ]
+    },
+    {
+      "name": "艾弥留斯·利维特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾弥留斯上将在克莱恩冒充期间外出处理事务，三天后归来，听取克莱恩汇报各项变故，确认克莱恩的选择没有问题，让他领取报酬离开。",
+      "identInfos": [
+        "鲁恩王国海军上将，中苏尼亚海最高统帅",
+        "序列4织法者",
+        "保守、重感情、重视家族",
+        "情妇是辛西娅"
+      ],
+      "aliases": [
+        {
+          "alias": "织法者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 631,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见位身穿燕尾正装的中年男士，他黑发蓝眼，嘴角略微下垂，正是艾弥留斯上将！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        631
+      ]
+    },
+    {
+      "name": "辛西娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾弥留斯的情妇，渴望怀上艾弥留斯的孩子，被天体教派利用服食繁衍项链粉末，最终与欲望母树勾连异变成怪物，被克莱恩净化身亡。",
+      "identInfos": [
+        "艾弥留斯上将的情妇",
+        "金发蓝眼，柔美且具少女感",
+        "因天体教派阴谋而异变"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 623,
+          "extractReason": "UPDATE",
+          "evidenceText": "辛西娅投入他的怀里，踮起脚尖，脸颊贴脸颊地低声笑道"
+        },
+        {
+          "chapterSeq": 628,
+          "extractReason": "UPDATE",
+          "evidenceText": "只套了件丝绸睡袍的辛西娅走了出来。她金发略显凌乱地垂下，甚至有几缕于蔚蓝的眼睛和鲜艳的红唇前飘荡"
+        },
+        {
+          "chapterSeq": 629,
+          "extractReason": "UPDATE",
+          "evidenceText": "神圣的光柱之中，失去了外在力量支撑的树瘤和血肉飞快崩解"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        623,
+        627,
+        628,
+        629
+      ]
+    },
+    {
+      "name": "吕尔安",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "艾弥留斯的秘书，序列6以上非凡者，在辛西娅异变时被欲望影响表现出内心傲慢，事后被克莱恩以艾弥留斯身份宽恕，表示效忠。",
+      "identInfos": [
+        "艾弥留斯上将的金发秘书",
+        "清秀，发际线高",
+        "至少序列6非凡者，疑似腐化男爵"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 623,
+          "extractReason": "UPDATE",
+          "evidenceText": "金发秘书吕尔安跟随入内，皮靴踩着厚软的地毯，无声移动到克莱恩的对面"
+        },
+        {
+          "chapterSeq": 628,
+          "extractReason": "UPDATE",
+          "evidenceText": "紧接着，克莱恩看见了金发秘书吕尔安。他站在门边，用一种俯视的态度冷淡地看着里面，傲慢之感宛若实质"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        623,
+        626,
+        628,
+        629,
+        630,
+        631
+      ]
+    },
+    {
+      "name": "奥斯顿·利维特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "艾弥留斯的幼弟，原奥拉维总督，因密谋被解除职务，克莱恩以艾弥留斯身份拒绝见他，让他离开。",
+      "identInfos": [
+        "艾弥留斯幼弟",
+        "原奥拉维总督",
+        "黑发蓝眼，额头偏高"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 623,
+          "extractReason": "UPDATE",
+          "evidenceText": "这男子黑发蓝眼，五官轮廓与艾弥留斯有五六分相像，只是额头偏高，眼袋微肿，嘴角尚未下垂。他正是艾弥留斯·利维特的幼弟，奥斯顿·利维特。"
+        },
+        {
+          "chapterSeq": 626,
+          "extractReason": "UPDATE",
+          "evidenceText": "告诉他，我有很多事情处理，没时间见他。还有，给他买一张回贝克兰德的船票"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        623,
+        626
+      ]
+    },
+    {
+      "name": "比尔特·白兰度",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "冒险家互助会成员，雇佣克莱恩替代艾弥留斯，事后支付剩余报酬并听取事件汇报，为艾弥留斯处理天体教派信徒。",
+      "identInfos": [
+        "冒险家互助会成员",
+        "与艾弥留斯上将有合作关系",
+        "经营甜柠檬酒吧"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩接受胖药师达克威尔的保镖委托后，比尔特支付了500镑尾款和一枚蔚蓝色的袖钉"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        632,
+        633
+      ]
+    },
+    {
+      "name": "本·康纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "接替奥斯顿的新任总督，邀请克莱恩参加宴会，被以受伤为由拒绝。",
+      "identInfos": [
+        "新任奥拉维总督",
+        "康纳德子爵家成员",
+        "王室忠实簇拥"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 631,
+          "extractReason": "UPDATE",
+          "evidenceText": "新任总督本·康纳德送来请帖，邀请您参加他今晚举行的宴会"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        631
+      ]
+    },
+    {
+      "name": "福莱特·肯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "天体教派首领，序列8疯子，受欲望母树启示利用辛西娅污染艾弥留斯，被捕后交代罪行，被克莱恩用蠕动的饥饿吞噬。",
+      "identInfos": [
+        "天体教派首领",
+        "序列8疯子",
+        "玫瑰学派分支成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 630,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "天体教派的首领叫福莱特·肯，是个三十来岁的男子，瘦窄的脸上留着棕色的络腮胡，脖颈处有邪异的青色纹身。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        630,
+        631
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克晋升序列7太阳神官，被首席科林安排两个月后探索下午镇，他答应并做好准备。在科林询问配方时，他隐瞒了已获得后续配方的事实。",
+      "identInfos": [
+        "白银城居民，塔罗会成员，代号太阳",
+        "序列7太阳神官",
+        "持有飓风之斧"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 625,
+          "extractReason": "UPDATE",
+          "evidenceText": "被召集而来的戴里克·伯格又一次看见了那位头发花白、脸颊残留陈旧疤痕的“猎魔者”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        625,
+        637
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城首席，询问戴里克是否有后续配方，并安排他参与下午镇探索。",
+      "identInfos": [
+        "白银城六人议事团首席",
+        "猎魔者",
+        "花白头发，浅蓝眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 625,
+          "extractReason": "UPDATE",
+          "evidenceText": "白银之城，圆塔内部，属于首席科林·伊利亚特的房间内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        625,
+        637
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在东切斯特郡完成心理炼金会任务，从米歇尔副教授处购买二十年战争笔记和头盔，通过建立古物保护基金的方式成功获取，并尝试向愚者进行魔镜占卜。她已晋升心理医生，正在积累贡献获取催眠师配方。",
+      "identInfos": [
+        "霍尔伯爵之女，塔罗会成员，代号正义",
+        "序列7心理医生",
+        "金发碧眼，出身高贵"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "东切斯特郡首府，斯托恩城。奥黛丽安静地倾听着一位贵族小姐的话语"
+        },
+        {
+          "chapterSeq": 633,
+          "extractReason": "UPDATE",
+          "evidenceText": "四月的东切斯特郡天气舒适，草木茂盛，风景优美，正是狩猎的大好季节。奥黛丽身穿收腰的黑色骑手服"
+        },
+        {
+          "chapterSeq": 634,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽提取出话语里的关键词，瞄了眼在牝马前方愉快奔跑的苏茜"
+        },
+        {
+          "chapterSeq": 641,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽优雅地踏上了米歇尔提前铺好的地毯"
+        },
+        {
+          "chapterSeq": 642,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽有所恍然地收敛思绪，愉快又认真地与米歇尔·德伊特交流起那些语法存在的问题"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        632,
+        633,
+        634,
+        641,
+        642
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思在马戏团扮演戏法大师消化完魔药，辞职后准备晋升占星人，老师将提供配方和材料。她即将成为畅销小说作家。",
+      "identInfos": [
+        "塔罗会成员，代号魔术师",
+        "序列8戏法大师",
+        "畅销小说作家"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 634,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝克兰德，乔伍德区，辛迪斯马戏团。“女士，你不是表演戏法的吗？为什么要穿成这个样子？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        634
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在海上消化风眷者魔药，规划晋升海洋歌者，但配方难以获取。他隐瞒实力以在风暴教会内部保持自由。",
+      "identInfos": [
+        "塔罗会成员，代号倒吊人",
+        "风暴教会主教",
+        "序列6风眷者",
+        "拥有幽灵船幽蓝复仇者号"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 634,
+          "extractReason": "UPDATE",
+          "evidenceText": "波涛汹涌的海上，“幽蓝复仇者”号像是一片被狂风刮到了半空的叶子"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        634
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "星之上将嘉德丽雅与克莱恩在拿斯会合，带领未来号前往苏尼亚海最东面。途中探索海底第四纪遗迹，决定暂不深入。她作为塔罗会隐者，对世界身份和愚者深感兴趣。",
+      "identInfos": [
+        "星之上将，七大海盗将军之一",
+        "塔罗会成员，代号隐者",
+        "摩斯苦修会成员",
+        "旗舰未来号，悬赏高"
+      ],
+      "aliases": [
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        },
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 635,
+          "extractReason": "UPDATE",
+          "evidenceText": "她在三月初的塔罗会上，通过单独对话成功雇佣到了“隐者”嘉德丽雅"
+        },
+        {
+          "chapterSeq": 635,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿黑色古典长袍的女士不知什么时候已出现于船头，衣物布满不同的象征符号和魔法标识"
+        },
+        {
+          "chapterSeq": 636,
+          "extractReason": "UPDATE",
+          "evidenceText": "星之上将嘉德丽雅思考了一下回答道：“今天晚上8点，六号码头。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未来号大副，毒素专家，原大地母神教会成员，因进行荒诞的品种杂交实验被通缉。在船上为克莱恩提供治疗苹果，并展示血液是红酒的鱼等杂交成果。",
+      "identInfos": [
+        "未来号大副，赏金7000镑",
+        "毒素专家",
+        "耕种者途径非凡者",
+        "爱好品种杂交，尤其跨物种杂交"
+      ],
+      "aliases": [
+        {
+          "alias": "毒素专家",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 638,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他戴着顶中间凹陷的圆边帽，露出爽朗的笑容，伸右手道：“‘未来号’的大副，弗兰克·李。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        638,
+        640
+      ]
+    },
+    {
+      "name": "希斯·道尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未来号二副，赏金7600镑，序列6蔷薇主教，因意外成为非凡者而未被污染，性格沉默。",
+      "identInfos": [
+        "未来号二副，赏金7600镑",
+        "序列6蔷薇主教",
+        "幸运的非典型非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "无血者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 638,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是我们‘未来号’的二副，希斯·道尔。悬赏比你高，达到了7600镑的‘无血者’希斯？克莱恩迅速对应上了正确的通缉令。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        638
+      ]
+    },
+    {
+      "name": "妮娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未来号水手长兼航海长副手，序列7航海家，赏金3600镑。喝一瓶尼波斯后跳入海底探索第四纪遗迹，发现井口太小人类无法通过。",
+      "identInfos": [
+        "未来号水手长，赏金3600镑",
+        "序列7航海家",
+        "弗萨克血统，身材火辣"
+      ],
+      "aliases": [
+        {
+          "alias": "海底杀手",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 640,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是我们的水手长妮娜！她同时也是航海长的副手，哈哈，她的序列名称就叫‘航海家’！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        640,
+        641
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林在丰收教堂继续扮演，被血族长辈召集参与猎杀原始月亮信徒的考验。他已晋升男爵但未公开。",
+      "identInfos": [
+        "血族男爵，塔罗会成员，代号月亮",
+        "丰收教堂教士",
+        "爱好人偶收藏"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林拿着抹布，挺直了腰背，微抬下巴道：“我只是在扮演。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        639
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "丰收教堂神父，巨人般身材，大地母神教会主教，对埃姆林的工作表示肯定。",
+      "identInfos": [
+        "丰收教堂主教",
+        "大地母神教会神父",
+        "身材堪比半巨人"
+      ],
+      "aliases": [
+        {
+          "alias": "乌特拉夫斯基主教",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "UPDATE",
+          "evidenceText": "在普通人眼里，身高已经属于半巨人层次的乌特拉夫斯基主教放下手里的圣典"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        639
+      ]
+    },
+    {
+      "name": "米歇尔·德伊特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯托恩大学副教授，收藏家，将二十年战争笔记和头盔赠予奥黛丽以换取古物保护基金的建立。",
+      "identInfos": [
+        "斯托恩大学副教授",
+        "收藏家",
+        "研究二十年战争历史"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 641,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "刚四十就已经是资深副教授的米歇尔·德伊特穿着参加宴会的长款燕尾服"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        641,
+        642
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽的宠物金毛大狗，已掌握语言，协助奥黛丽。",
+      "identInfos": [
+        "奥黛丽的金毛大狗",
+        "已掌握语言",
+        "协助奥黛丽执行任务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 633,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道金色的身影扑了出去，迅捷地咬住了那只失去生命的猎物，正是大狗苏茜。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        633,
+        642
+      ]
+    },
+    {
+      "name": "吉尔希艾斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "不死之王二副，赏金9500镑，在拿斯酒吧认出克莱恩，因警觉而离开。后派人警告克莱恩不要插手不死之王事务。",
+      "identInfos": [
+        "不死之王阿加里图的二副",
+        "赏金9500镑的屠杀者",
+        "可能具备恶魔途径能力"
+      ],
+      "aliases": [
+        {
+          "alias": "屠杀者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 636,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一下联想到了某张通缉令上的画像！那属于“不死之王”阿加里图的二副，赏金9500镑的“屠杀者”吉尔希艾斯！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        636,
+        637
+      ]
+    },
+    {
+      "name": "卡西米·奥德拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "血族男爵，召集年轻一代血族发布猎杀原始月亮信徒的考验。",
+      "identInfos": [
+        "血族男爵",
+        "奥德拉家族成员",
+        "组织猎杀考验"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "被侍者引入位于一楼的书房后，埃姆林看见了好几个刚成年不久的血族，里面甚至包括一位已成为男爵的同族。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        639
+      ]
+    },
+    {
+      "name": "鲁斯·巴托里",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "血族男爵，继承遗产，参与猎杀原始月亮信徒的考验。",
+      "identInfos": [
+        "血族男爵",
+        "巴托里家族成员",
+        "参与猎杀考验"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "运气不错继承了遗产的另一位血族男爵鲁斯·巴托里开口问道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        639
+      ]
+    },
+    {
+      "name": "斯敏",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "黑夜教会底层牧师，心理炼金会秘密成员，给奥黛丽发布任务以获取催眠师配方。",
+      "identInfos": [
+        "黑夜教会女牧师",
+        "心理炼金会秘密成员",
+        "奥黛丽的联络人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位牧师表面是个普通人，做着最底层的传教，实际却为“心理炼金会”的秘密成员。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        632,
+        633
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黄昏隐士会在克莱恩扮演艾弥留斯期间入梦警告，要求不要参与奥斯顿等人的密谋，强调不要违抗时代潮流。克莱恩推测其可能因成员内部委托而行动。",
+      "identInfos": [
+        "古老隐秘组织，崇尚隐秘",
+        "宗旨与等待黄昏、真神苏醒有关",
+        "拥有多位高序列成员，包括天使",
+        "曾通过真实梦境进行聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 624,
+          "extractReason": "UPDATE",
+          "evidenceText": "黄昏隐士会！但克莱恩没有开口，没有吐露那几个单词"
+        }
+      ]
+    },
+    {
+      "name": "天体教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "崇拜欲望母树的邪教组织，玫瑰学派放纵派分支，首领是序列8疯子福莱特·肯。利用辛西娅企图污染艾弥留斯上将，事发后被官方清剿。",
+      "identInfos": [
+        "崇拜欲望母树的邪教",
+        "玫瑰学派分支",
+        "理念为回归自然、放纵天性",
+        "在奥拉维岛活跃"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 629,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "是，是欲望母树，是天体教派……"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩确认天体教派为玫瑰学派分支，并得知被缚之神可能是欲望母树的化身，学派内部存在节制与放纵派系。",
+      "identInfos": [
+        "隐秘组织，信仰被缚之神",
+        "分为节制和放纵派系",
+        "囚犯途径相关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 630,
+          "extractReason": "UPDATE",
+          "evidenceText": "我们，我们就是玫瑰学派的一个分支，我的导师是玫瑰学派的圣者扎特温。“被缚之神”是“欲望母树”的一个化身。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理炼金会通过斯敏交给奥黛丽任务，让她从米歇尔处收购二十年战争笔记，作为获取催眠师配方的贡献。奥黛丽推测其目标可能与心灵巨龙线索有关。",
+      "identInfos": [
+        "隐秘组织，研究心理学和潜意识",
+        "与观众途径相关",
+        "奥黛丽加入的组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位牧师表面是个普通人，做着最底层的传教，实际却为“心理炼金会”的秘密成员。"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族年轻一代被召集参与猎杀原始月亮信徒的考验，由卡西米·奥德拉发布任务，奖励丰厚。",
+      "identInfos": [
+        "吸血鬼种族，崇拜莉莉丝",
+        "与原始月亮信徒敌对",
+        "设有男爵等爵位"
+      ],
+      "aliases": [
+        {
+          "alias": "吸血鬼",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "UPDATE",
+          "evidenceText": "你们都是血族年青一代的杰出者，我的祖父委托我给你们一些考验。"
+        }
+      ]
+    },
+    {
+      "name": "生命学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "生命学派因命运之蛇失踪，内部命运派与原始月亮信徒分裂冲突，被玫瑰学派利用。血族趁机猎杀原始月亮信徒。",
+      "identInfos": [
+        "糅合组织，包含命运派和原始月亮信徒",
+        "命运之蛇为议长",
+        "因议长失踪而内乱"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "UPDATE",
+          "evidenceText": "生命学派的那条‘命运之蛇’已经失踪了一段时间。"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "星之上将嘉德丽雅所在的隐秘组织，隐匿贤者为其信仰对象。",
+      "identInfos": [
+        "隐秘组织，信仰隐匿贤者",
+        "星之上将嘉德丽雅为其成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 641,
+          "extractReason": "UPDATE",
+          "evidenceText": "她效忠着‘摩斯苦修会’"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "繁衍项链",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "天体教派利用欲望母树气息制作的项链，辛西娅服食粉末后佩戴，被污染异变成怪物。克莱恩使用第九律符咒隔绝外界联系后，项链破裂。事后交给艾弥留斯。",
+      "identInfos": [
+        "缩小若指节的黑色犀牛角形状",
+        "蕴藏欲望母树力量",
+        "能污染与佩戴者发生关系的男性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 623,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "而那片沟壑间，垂着一枚奇特的项链坠子，它就像是缩小到只有指节长的黑色犀牛角。"
+        }
+      ]
+    },
+    {
+      "name": "第九律符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "艾弥留斯给予克莱恩的高级符咒，可在一定范围内制定律法禁止某项行为。克莱恩用来禁止与外界交互，挫败欲望母树污染，但使用后符咒力量耗尽。",
+      "identInfos": [
+        "暗金色符咒",
+        "仲裁人途径高级符咒",
+        "能制定临时律法"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 623,
+          "extractReason": "UPDATE",
+          "evidenceText": "摸了摸衣兜内的“第九律”符咒"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的左手手套，可放牧灵魂并切换使用其能力。在与辛西娅战斗中使用腐化男爵的扭曲和太阳神官的光柱。事后喂食福莱特·肯灵魂。",
+      "identInfos": [
+        "克莱恩的左手手套",
+        "可放牧多个灵魂",
+        "能切换使用灵魂的非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 628,
+          "extractReason": "UPDATE",
+          "evidenceText": "刹那之间，他“扭曲”了辛西娅的言语"
+        }
+      ]
+    },
+    {
+      "name": "鱼人袖钉",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从比尔特处获得的神奇物品，提供水下活动能力，以鱼人鳔制成，负面效果是在炎热干燥环境下易疲惫。",
+      "identInfos": [
+        "蔚蓝色袖钉",
+        "提供水下呼吸和幻鳞",
+        "以鱼人鳔为材料制作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是你提供的鱼人鳔制作的神奇物品。它能提供隐藏于皮肤下的幻鳞"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩携带的神奇物品，需控制携带时间，否则会导致生病。他在未来号上因携带超过两小时而喉咙肿痛。",
+      "identInfos": [
+        "青绿色小瓶",
+        "可释放生物毒素",
+        "随机放毒和致病负面效果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 640,
+          "extractReason": "UPDATE",
+          "evidenceText": "他昨晚带着“生物毒素瓶”的时间绝对超过了两个小时"
+        }
+      ]
+    },
+    {
+      "name": "火种手套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从伦纳德处购得的神奇物品，可窃取非凡能力，因天使气息残留被克莱恩清除。在奥拉维期间存放于灰雾之上。",
+      "identInfos": [
+        "能窃取非凡能力的手套",
+        "原属伦纳德",
+        "被克莱恩清除天使气息"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 637,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将“火种”手套留在了灰雾之上"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在智慧之眼聚会购得的强力净化物品，可净化邪异，但因持续炎热负面效果未携带，存放于灰雾之上。",
+      "identInfos": [
+        "别针状太阳造型胸针",
+        "释放强力净化光芒",
+        "携带时持续炎热"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 637,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将“火种”手套和“太阳胸针”留在了灰雾之上"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩携带的阿兹克铜哨，用于召唤灵界生物和影响死灵，本次未直接使用但随身携带。",
+      "identInfos": [
+        "黄铜色口哨",
+        "能召唤或影响死灵",
+        "阿兹克先生所赠"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 637,
+          "extractReason": "UPDATE",
+          "evidenceText": "将放于桌子表面的黄铜色阿兹克口哨与只装有50镑现金的钱夹塞入了衣物内侧口袋"
+        }
+      ]
+    },
+    {
+      "name": "冒险家口琴",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩委托工匠制作的口琴，固化了召唤灵界生物仪式，可召唤信使蕾妮特·缇尼科尔，使用期限一年半。",
+      "identInfos": [
+        "银白色口琴",
+        "固化了召唤信使仪式",
+        "不能发出声音"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 635,
+          "extractReason": "UPDATE",
+          "evidenceText": "将那固化了召唤灵界生物仪式的口琴则与克莱恩的意图完全吻合"
+        }
+      ]
+    },
+    {
+      "name": "二十年战争笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽从米歇尔副教授处获得的笔记，内容记载驻守苏尼亚岛骑士的经历，语法有近似巨龙语的习惯。心理炼金会目标，可能关联心灵巨龙线索。",
+      "identInfos": [
+        "黑色封皮，有巨龙纹路",
+        "二十年战争期间骑士笔记",
+        "语法习惯近似巨龙语"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 641,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这本笔记不仅是研究那段历史的第一手资料，而且本身也藏着一定的问题，那位骑士在语法上有很多不太常见的习惯"
+        }
+      ]
+    },
+    {
+      "name": "催眠师魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽通过心理炼金会任务即将获得的序列6魔药配方，尚待获取。",
+      "identInfos": [
+        "序列6催眠师魔药配方",
+        "心理炼金会奖励",
+        "奥黛丽下一个目标"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 632,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥黛丽，魔药配方已经到了我这里，但你必须做出足够的贡献才能获取。”"
+        }
+      ]
+    },
+    {
+      "name": "格斗家非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩拥有的序列8非凡特性，以700镑出售给星之上将。",
+      "identInfos": [
+        "序列8格斗家非凡特性",
+        "克莱恩的战利品",
+        "以700镑交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 639,
+          "extractReason": "UPDATE",
+          "evidenceText": "我要‘格斗家’。700镑。"
+        }
+      ]
+    },
+    {
+      "name": "疯子非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩击杀福莱特·肯后获得的序列8非凡特性，未使用。",
+      "identInfos": [
+        "序列8疯子非凡特性",
+        "囚犯途径",
+        "福莱特·肯遗留"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 631,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩弯腰拾起了像是微缩大脑的灰白光团。这是“疯子”的非凡特性！"
+        }
+      ]
+    }
+  ]
+}

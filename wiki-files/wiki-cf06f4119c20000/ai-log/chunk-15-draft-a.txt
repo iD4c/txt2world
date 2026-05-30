@@ -1,0 +1,1120 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩晋升序列7‘魔术师’，获得伤害转移、火焰跳跃、空气弹、纸人替身、操纵火焰、制造幻觉、水下呼吸、骨骼软化、抽纸为兵等九种主要法术及类法术能力，实力大幅提升。他察觉‘血月’异象，被佛尔思诵念愚者尊名祈求救助，将其拉入灰雾并接纳为新塔罗会成员‘魔术师’。他接受珠宝商洛戈·卡罗曼委托保护其子亚特鲁，以阿兹克铜哨诱出并消灭附身的怨魂。他追踪灵教团成员考普斯蒂，在格林墓园旁观并破坏其复活仪式，击败活尸，从考普斯蒂口中得知其知识来自一位死去的流浪汉，并在墓穴中发现白色羽毛，收回另一枚铜哨。他参与艾辛格·斯坦顿组织的连环杀人案侦探交流会，提出从二十年未破旧案入手的思路，分析出凶手可能为‘恶魔’。他拜访丰收教堂乌特拉夫斯基主教，接受委托进入其心灵深处击败‘过去的他’（序列6黎明骑士），获得‘万能钥匙’和‘药师’配方，并察觉连环杀人案凶手可能是动物变异的‘恶魔’。他在塔罗会上以‘世界’身份用‘真实造物主’情报交换‘太阳’提供的‘恶魔’‘守护者’序列信息，卖出‘药师’配方给‘魔术师’佛尔思，并得知古老神灵‘魔狼之王弗雷格拉’又名‘黑夜魔狼’，与自身呓语吻合。他测试‘万能钥匙’能力，确认其可打开非神秘锁及穿墙，但携带会随机迷路。他通过艾辛格获取嫌疑人资料，委托斯图亚特观察嫌疑人近况，并计划调查‘恶魔’案情。",
+      "identInfos": [
+        "穿越者，前值夜者克莱恩·莫雷蒂",
+        "现化名夏洛克·莫里亚蒂，私家侦探",
+        "塔罗会‘愚者’，‘世界’操纵者",
+        "序列7‘魔术师’，擅长火焰与纸类法术",
+        "持有阿兹克铜哨、万能钥匙等物品",
+        "信仰黑夜女神，但暗中自建聚会"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "UPDATE",
+          "evidenceText": "过了不知道多久，他的视线恢复了，同时感觉全身都痒痒的，其中以双臂为最。克莱恩忙挽起衣袖，愕然看见自己一条手臂皮肤深皱，宛若百岁老人，另一条则失去了颜色，变得透明，能直接看见里面的血管、肌肉和青筋。"
+        },
+        {
+          "chapterSeq": 296,
+          "extractReason": "UPDATE",
+          "evidenceText": "位居首位的是，‘伤害转移’！只要没有直接死亡，只要双手还能动，他就可以把要害位置的伤口转移至手臂等不太重要的地方，化致命伤为轻伤，这是实战保命非常有用的超凡能力。"
+        },
+        {
+          "chapterSeq": 297,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，他从那位女士饱含痛苦的祈求声里分辨出了一丝微弱的虚幻的不明显的呓语。……‘愚者’先生，我能加入这个聚会吗？‘可以，每周一，下午三点，排除掉干扰。’"
+        },
+        {
+          "chapterSeq": 298,
+          "extractReason": "UPDATE",
+          "evidenceText": "理清思路后，克莱恩当即收拾餐盘，清洗刀叉，投入了忙碌的准备工作里。临近中午，他放下剪刀，看着面前较为粗陋的三个纸人，叹了口气……"
+        },
+        {
+          "chapterSeq": 299,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见亚特鲁的气场颜色染上了深黑带绿的光泽！这是有怨魂幽影缠身，甚至附体的表征！"
+        },
+        {
+          "chapterSeq": 300,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过思考，他最终选择用阿兹克铜哨将怨魂诱出来，然后操纵火焰，完成净化。但这种伤害的程度并不高，要是遇上厉害点的怨魂，也许就解决不掉了。"
+        },
+        {
+          "chapterSeq": 301,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一手握着阿兹克铜哨和火柴盒，一手不断点燃火柴，又抖腕甩灭，扔于地上。这个过程里，他以绕弧形的方式，向后退着。"
+        },
+        {
+          "chapterSeq": 302,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩等人用过午餐没多久，请假的那位侦探就返回了格林公园街，这意味着，他接受的委托到此结束。因为亚特鲁的情况出现了明显好转，洛戈·卡罗曼在结算他的报酬时相当慷慨，于10镑这个基础上溢价了整整百分之五十。"
+        },
+        {
+          "chapterSeq": 303,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收起‘万能钥匙’和‘药师’配方，在乌特拉夫斯基停止后，半开玩笑地说了一句：‘难道我的前来是大地母神的安排？’"
+        },
+        {
+          "chapterSeq": 304,
+          "extractReason": "UPDATE",
+          "evidenceText": "白色的羽毛？克莱恩望着没有尸骨的墓穴，霍然想到了一个单词：‘天使！’在七大教会的典籍里，充斥着天使与圣者的传说，而前者的特征之一，就是背后长着一对，两对，三对，甚至六对白色的纯洁的羽翼。"
+        },
+        {
+          "chapterSeq": 305,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾辛格·斯坦顿也承诺会立刻联络警察部门，争取在天黑之前，将相应的资料提供给需要的侦探。他果然非常有信誉。"
+        },
+        {
+          "chapterSeq": 306,
+          "extractReason": "UPDATE",
+          "evidenceText": "傍晚时分，克莱恩坐到起居室的安乐椅上，就着壁炉的温暖，拿起了艾辛格助手刚送过来的资料。他上午的思路得到那位大侦探赞扬后，卡斯兰娜立刻就表示自己也需要一份类似的资料……"
+        },
+        {
+          "chapterSeq": 307,
+          "extractReason": "UPDATE",
+          "evidenceText": "我的委托是……杀了我。杀了你？克莱恩第一次听见这种要求，遇到这种任务，短暂竟不知该做什么反应。他甚至还开始怀疑，这件事会不会有大阴谋。"
+        },
+        {
+          "chapterSeq": 308,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基主教没再多说，从褐色教士服的隐蔽口袋里取出了一截奇异的蜡烛。那小半根蜡烛的外层像是裹着一圈人皮，但又凸显出了好几个疙瘩。"
+        },
+        {
+          "chapterSeq": 309,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基神父嘴角一点点勾起，慈和地笑道：‘你比我预想得厉害很多。’……‘按照约定，我会把‘药师’的配方给你，另外还有一件神奇物品。’"
+        },
+        {
+          "chapterSeq": 310,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，他看见隔壁的斯塔琳·萨默尔太太正和丈夫卢克先生一块，盛装打扮地出来。他们的门口，已停了辆出租马车。‘上午好，这么早赴宴？’克莱恩略感诧异地问了一句。"
+        },
+        {
+          "chapterSeq": 311,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩姿态悠闲地坐在属于‘愚者’的位置上，环视一圈道：‘这位是‘魔术师’小姐，我们新的成员。’"
+        },
+        {
+          "chapterSeq": 312,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩操纵着‘世界’点头道：‘比我想象得更加详细。’‘交易完成。’"
+        },
+        {
+          "chapterSeq": 313,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗雷格拉？旁听的克莱恩忽然注意到了一个熟悉的单词。每当他获得晋升，状态不稳定的时候，或者接触到安提哥努斯家族笔记残留影响的时候，耳畔总会回荡不知来自哪里的虚幻呓语：‘霍纳奇斯……弗雷格拉……霍纳奇斯……弗雷格拉……霍纳奇斯……弗雷格拉……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "满月血月之夜，佛尔思因受‘门’先生呓语折磨濒临失控，诵念愚者尊名获救，被拉入灰雾加入塔罗会，代号‘魔术师’。她请求在满月时得到庇护，愚者应允。她从‘世界’处购得‘药师’配方，从‘正义’处有偿获得‘扮演法’，并了解到塔罗会成员背景各异。她开始思考如何扮演‘学徒’。",
+      "identInfos": [
+        "畅销作家，休的朋友",
+        "序列9‘学徒’",
+        "塔罗会成员，代号‘魔术师’",
+        "受满月呓语困扰，疑似来自‘门’先生",
+        "褐色微卷长发，贝克兰德口音"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 296,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "佛尔思·沃尔正盘腿坐于客厅的沙发上，边啃夹肉夹菜的新式面包，边披头散发地想着下一本小说的剧情。突然，她皱起了眉头，丢掉了手中的食物和钢笔。窗外照入的月色越来越浓，越来越红，佛尔思的表情则越来越痛苦。每当满月，她都会听见那让人疯狂的呓语！"
+        },
+        {
+          "chapterSeq": 297,
+          "extractReason": "UPDATE",
+          "evidenceText": "她挣扎着望了过去，用尽全身力气地小声念道：‘不属于，这个时代的，愚者……灰雾之上，的，神秘主宰……执掌，好运的，黄黑之王……救救我，救救我……’"
+        },
+        {
+          "chapterSeq": 298,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思·沃尔找了个专心创作的借口，打发走了休，此时，她眼前一下恍惚，看见了瞬间涌出的灰白雾气。眨眼之间，她发现自己置身于了那片神秘幽邃的灰雾之上……"
+        },
+        {
+          "chapterSeq": 311,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩姿态悠闲地坐在属于‘愚者’的位置上，环视一圈道：‘这位是‘魔术师’小姐，我们新的成员。’"
+        },
+        {
+          "chapterSeq": 312,
+          "extractReason": "UPDATE",
+          "evidenceText": "她故意在自己真实的需求上添加了‘药师’配方……‘世界’先生，希望你能尽快找到‘戏法大师’的魔药配方。"
+        },
+        {
+          "chapterSeq": 313,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘扮演法’是加快魔药掌握，最大程度上降低失控风险的方法。你想知道吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [296, 297, 298, 310, 311, 312, 313]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在塔罗会上确认‘魔术师’为佛尔思，有偿传授‘扮演法’。她因苏茜消化‘观众’魔药进度仅比自己慢一点而感慨。她关注连环杀人案，向‘太阳’询问‘恶魔’序列信息。她委托休和佛尔思寻找兰尔乌斯，并考虑引导议员关注东区状况。她收到七彩蜥龙作为苏茜的礼物，准备解剖取脑垂体。她发现父亲教导哥哥希伯特进入大气污染调查委员会以积累政治影响力。",
+      "identInfos": [
+        "霍尔伯爵之女，贵族小姐",
+        "塔罗会‘正义’，序列8‘读心者’",
+        "金发，优雅，擅长观察与读心",
+        "宠物狗苏茜也是非凡者",
+        "关注社会问题，欲推动改善东区"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 294,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽带着女仆们，领着金毛大狗苏茜，进入了属于自己的那个庄园。‘小姐，恩马特港送来的货物就在前面。’负责这处庄园的管家毕恭毕敬地说道。"
+        },
+        {
+          "chapterSeq": 295,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽重而慢地点了下头：‘那是一种很奇妙很独特的感觉，体内似乎有什么虚幻的东西破碎了，与本身的精神融为了一体……’苏茜安静听完，轻快地回答道：‘那我应该已经彻底消化了，我有过类似的感觉。’"
+        },
+        {
+          "chapterSeq": 310,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽若有所思地听完，浅笑道：‘这是让你不用闻到那些刺鼻气味的好事。’‘是吗？’苏茜似懂非懂地反问道。奥黛丽没有回答它，转而想到了另外一件事情。"
+        },
+        {
+          "chapterSeq": 311,
+          "extractReason": "UPDATE",
+          "evidenceText": "从身材可以排除掉休小姐，褐色的头发，略微卷曲，这是佛尔思女士吧？暂时不能排除‘愚者’先生另外拉了别人的可能……"
+        },
+        {
+          "chapterSeq": 312,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘魔术师’小姐，你知道‘扮演法’吗？"
+        },
+        {
+          "chapterSeq": 313,
+          "extractReason": "UPDATE",
+          "evidenceText": "因为连环杀人案，她对‘恶魔’这个序列很感兴趣，于是模仿‘世界’先生，询问了相应的问题。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294, 295, 310, 311, 312, 313]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰参加海盗盛会，目睹‘疾病中将’特雷茜和‘星之上将’嘉德丽雅，发现嘉德丽雅的星象仪与他破碎的古怪玻璃瓶感觉相似。他搜集到邪纹黑豹脊髓液和精灵之泉髓质结晶，通过献祭交给‘世界’。他在塔罗会上向‘太阳’询问白银城创世神话，得知魔狼之王弗雷格拉等古老神灵，并作为见证者参与交易。",
+      "identInfos": [
+        "风暴教会非凡者，‘幽蓝复仇者’号船长",
+        "塔罗会‘倒吊人’",
+        "深蓝头发，形象粗犷",
+        "在海盗中有一定地位",
+        "对古老历史和神秘知识感兴趣"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 294,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘倒吊人’阿尔杰·威尔逊走下‘幽蓝复仇者’号，登上不远处的峭壁，安静地眺望着这一切。‘除了四位王者和七大将军，别的海盗都是一周前才得到这次盛会的消息……’"
+        },
+        {
+          "chapterSeq": 295,
+          "extractReason": "UPDATE",
+          "evidenceText": "一场简单的献祭仪式后，阿尔杰忍住了心中的冲动，没有向‘愚者’先生询问‘星之上将’嘉德丽雅身边的星象仪是否和祂有关。"
+        },
+        {
+          "chapterSeq": 311,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘倒吊人’先生头发深蓝，海草般凌乱，身材不算健硕，虽然不爱说话，但被他注视的时候，会有种不安的感觉……"
+        },
+        {
+          "chapterSeq": 313,
+          "extractReason": "UPDATE",
+          "evidenceText": "第二个问题来自于‘倒吊人’阿尔杰。他似乎已经斟酌了很久，望着‘太阳’，沉声开口道：‘我想了解白银城的创世神话。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294, 295, 311, 313]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克准备好迷雾树人真实根茎和汁液并献祭给‘世界’。他在塔罗会上用‘恶魔’‘守护者’序列信息交换‘世界’的‘真实造物主’情报，并回答了‘正义’关于恶魔能力的提问。他向‘正义’‘倒吊人’‘世界’交易七神信息，提供白银城创世神话，提及古老神灵如魔狼之王弗雷格拉、巨人王奥尔米尔等。他逐渐成熟，开始审视白银城信仰。",
+      "identInfos": [
+        "白银城少年，塔罗会‘太阳’",
+        "序列9‘歌颂者’",
+        "渴望成为‘太阳’非凡者改变命运",
+        "父母因诅咒变成恶灵死亡",
+        "生活在神弃之地，受诅咒死后变恶灵"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘太阳’戴里克并没有让克莱恩等待太久，周三傍晚时分，他就小声地祈祷，告诉‘愚者’先生自己准备好迷雾树人的真实根茎和汁液了，并请对方转交给‘世界’。"
+        },
+        {
+          "chapterSeq": 310,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩按部就班地进行起各种准备，先是具现出假人‘世界’，熟悉‘全黑之眼’的操纵技巧，接着给‘太阳’发去了塔罗聚会即将开始的信息。"
+        },
+        {
+          "chapterSeq": 311,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘太阳’戴里克·伯格看了他一眼，不再思考，挺直腰背道：‘这两个序列，我都很清楚。’"
+        },
+        {
+          "chapterSeq": 313,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘太阳’戴里克抿着嘴唇，想了几秒道：‘我和他们每一个人单独交易。’这样才能获得最全面的情报……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [295, 310, 311, 313]
+    },
+    {
+      "name": "乌特拉夫斯基主教",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基主教是丰收教堂的神父，弗萨克人，原为序列6‘黎明骑士’。他因忏悔过往杀戮而信仰大地母神，但过去的自己仍残留于心，形成人格分裂。他委托克莱恩进入心灵深处击败‘过去的他’，使用神奇物品‘心魇蜡烛’实现。克莱恩成功后，他赠予‘万能钥匙’和‘药师’配方作为报酬。",
+      "identInfos": [
+        "丰收教堂主教，大地母神信徒",
+        "弗萨克人，身高超过两米二十",
+        "前海盗，序列6‘黎明骑士’",
+        "委托克莱恩消灭内心‘过去的自己’",
+        "持有‘心魇蜡烛’等神奇物品"
+      ],
+      "aliases": [
+        {
+          "alias": "乌特拉夫斯基神父",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 306,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位四五十岁的老者没有抬头，低沉柔和地开口道：‘母神的教会不会拒绝任何人，你为什么不走正门？’……‘乌特拉夫斯基神父。’"
+        },
+        {
+          "chapterSeq": 307,
+          "extractReason": "UPDATE",
+          "evidenceText": "杀了我……杀掉过去的我。乌特拉夫斯基主教睁开双眼，俯视着克莱恩道。"
+        },
+        {
+          "chapterSeq": 308,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基主教从褐色教士服的隐蔽口袋里取出了一截奇异的蜡烛。那小半根蜡烛的外层像是裹着一圈人皮，但又凸显出了好几个疙瘩。"
+        },
+        {
+          "chapterSeq": 309,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基神父嘴角一点点勾起，慈和地笑道：‘你比我预想得厉害很多。’……‘按照约定，我会把‘药师’的配方给你，另外还有一件神奇物品。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [306, 307, 308, 309]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾辛格邀请克莱恩加入侦探团队调查连环杀人案，并联系警察部门获取二十年未破旧案资料。他赞赏克莱恩的推理能力，协助分配调查任务，并承诺根据贡献分享2000镑悬赏。",
+      "identInfos": [
+        "知名私家侦探，能获警方邀请",
+        "组织侦探联合调查连环杀人案",
+        "经验丰富，信誉良好",
+        "鬓角花白，脸庞消瘦的中老年绅士"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 304,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾辛格摘下半高丝绸礼帽，笑笑道：‘早上好，莫里亚蒂先生，我想找你合作，我认为你是一位优秀的侦探……’‘找出最近连环杀人案的凶手。’‘警方已经给出了悬赏，2000镑。’"
+        },
+        {
+          "chapterSeq": 305,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾辛格·斯坦顿也承诺会立刻联络警察部门，争取在天黑之前，将相应的资料提供给需要的侦探。他果然非常有信誉。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [304, 305]
+    },
+    {
+      "name": "斯图亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯图亚特侦探在保护亚特鲁的任务中与克莱恩搭档，他对鬼魂邪灵表现出恐惧。之后在艾辛格的侦探交流会上再次遇到克莱恩，主动表示愿意帮忙调查嫌疑人。",
+      "identInfos": [
+        "私家侦探，约二十多岁",
+        "络腮胡，浅绿色眼眸",
+        "与克莱恩有过合作保护任务",
+        "参与连环杀人案调查"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "斯图亚特坐在卡斯兰娜和莉迪亚的对面，脸庞没什么肉，却长着大片的胡须，那双浅绿色的眼眸异常有神。"
+        },
+        {
+          "chapterSeq": 305,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏洛克？一道惊喜的声音响起，似乎和克莱恩很熟。谁？克莱恩略感愕然地望了过去，发现昨天才分别的斯图亚特侦探竟然出现在了这里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [299, 305]
+    },
+    {
+      "name": "洛戈·卡罗曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "珠宝商人洛戈·卡罗曼雇佣克莱恩保护其子亚特鲁一天，报酬15镑。他担忧亚特鲁因与坏朋友闹翻而遭受报复，在亚特鲁好转后慷慨支付报酬。",
+      "identInfos": [
+        "珠宝商人，居住在西区格林公园街",
+        "肥胖，多汗，年近四十",
+        "儿子亚特鲁被怨魂缠身"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 298,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我是洛戈·卡罗曼，一位珠宝商人。……我想请你保护我的孩子到明天下午，他惹到了一些疯子。"
+        },
+        {
+          "chapterSeq": 302,
+          "extractReason": "UPDATE",
+          "evidenceText": "因为亚特鲁的情况出现了明显好转，洛戈·卡罗曼在结算他的报酬时相当慷慨，于10镑这个基础上溢价了整整百分之五十。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [298, 299, 302]
+    },
+    {
+      "name": "亚特鲁·卡罗曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "亚特鲁是珠宝商洛戈之子，因参与灵教团相关灵舞仪式被怨魂附体，精神崩溃。克莱恩用阿兹克铜哨诱出怨魂并消灭，亚特鲁恢复清醒，对之前记忆全无，决心不再参与类似活动。",
+      "identInfos": [
+        "珠宝商洛戈·卡罗曼之子",
+        "十五六岁，深蓝色头发",
+        "曾加入灵教团相关社团寻求刺激",
+        "被怨魂附体后获救"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "洛戈停在地毯的边缘，指着坐在单人沙发上的十五六岁男孩道：‘莫里亚蒂侦探，这就是我的孩子亚特鲁。’"
+        },
+        {
+          "chapterSeq": 300,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚特鲁似乎做了一场漫长的噩梦，此时终于清醒了过来。他茫然地看到几步外站着位穿白色衬衣深色长裤，戴金边眼镜的年轻男子……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [299, 300, 301, 302]
+    },
+    {
+      "name": "考普斯蒂·瑞德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "考普斯蒂是公学古弗萨克语老师，非非凡者，对死亡和复活感兴趣。他受一位流浪汉教导学会灵舞和部分复活仪式，在格林墓园带领学生举行仪式时失控，被克莱恩救下。他透露那位流浪汉死亡后尸体不翼而飞，留下白色羽毛。克莱恩取走其铜哨。",
+      "identInfos": [
+        "公学古弗萨克语老师",
+        "非非凡者，对死亡复活着迷",
+        "师从已死流浪汉学会灵舞",
+        "组织学生举行复活仪式差点酿祸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 301,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘他，他是我们的古弗萨克语老师考普斯蒂·瑞德……’‘他自称对死亡有很深的研究，要带领我们寻找永生的奥秘。’"
+        },
+        {
+          "chapterSeq": 303,
+          "extractReason": "UPDATE",
+          "evidenceText": "考普斯蒂抬手吹了一下，感慨道，‘每次我吹完，都能感觉周围变得阴冷，感觉有人在注视我，感觉有谁在拉扯我……’"
+        },
+        {
+          "chapterSeq": 304,
+          "extractReason": "UPDATE",
+          "evidenceText": "墓穴之中，没有腐烂的尸体，也没有白骨，底层凌乱地铺着一片片白色羽毛，染着淡黄油污的白色羽毛！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [301, 303, 304]
+    },
+    {
+      "name": "药师",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "药师在非凡聚会上从克莱恩处购得精灵之泉髓质结晶，付出298镑现金和四支镇静剂，并提供药师配方线索指向丰收教堂乌特拉夫斯基主教。他感慨克莱恩为幸运儿，并透露自己序列8为‘驯兽师’，在树林中遇到金毛大狗苏茜，直觉对方为天敌。",
+      "identInfos": [
+        "非凡者，序列8‘驯兽师’",
+        "经常参加‘智慧之眼’组织的聚会",
+        "体型胖乎乎，喜欢交易非凡材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 302,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘300镑，以及药师配方的线索。’‘药师配方的线索……是你啊！’药师愣了一下，终于明白了对面那位是谁。"
+        },
+        {
+          "chapterSeq": 304,
+          "extractReason": "UPDATE",
+          "evidenceText": "药师拳打脚踢，适应着变强的身体，一直到累得不行，才停下动作。……驯兽师该怎么扮演？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [302, 304]
+    },
+    {
+      "name": "雷帕德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "雷帕德是脚踏车发明家，克莱恩投资对象。他接受克莱恩建议改进车铃设计，并告知罗塞尔大帝纪念展览信息。克莱恩支付第二期投资款，要求降低成本和申请专利。",
+      "identInfos": [
+        "脚踏车发明家，克莱恩的投资对象",
+        "接受克莱恩建议改进设计",
+        "提及罗塞尔大帝纪念展览"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 294,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩骑着雷帕德刚完成的脚踏车，在他房屋后面的草坪上转了几圈。‘还不错，和我预想的一样，不过，没必要单独弄一个摇铃……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294]
+    },
+    {
+      "name": "卡斯兰娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "卡斯兰娜是女侦探，与助手莉迪亚一同受雇保护亚特鲁。她年纪三十来岁，黑发蓝眼，持枪，对克莱恩的枪声恶作剧不满。",
+      "identInfos": [
+        "女侦探，三十来岁",
+        "黑发蓝眼，眉毛浓密",
+        "与助手莉迪亚一同行动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "卡斯兰娜，三十来岁，黑发蓝眼，眉毛浓密，她年轻的时候似乎是位不错的美人，但现在却因为两颊肌肉略微下垂等问题，看起来不太好相处。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [299]
+    },
+    {
+      "name": "莉迪亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "莉迪亚是卡斯兰娜侦探的助手，红发，二十来岁，身材很好，也持有左轮手枪。",
+      "identInfos": [
+        "卡斯兰娜侦探的助手",
+        "红发，二十来岁，身材好"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她的助手莉迪亚则是个红发女士，二十来岁，身材极好，长相倒是颇为一般。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [299]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "苏茜是奥黛丽的金毛大狗，已消化完‘观众’魔药，智商相当于十岁小孩，在学习鲁恩语单词。她在树林中察觉药师为天敌并逃跑。",
+      "identInfos": [
+        "奥黛丽的宠物金毛大狗",
+        "服食‘观众’魔药后成为非凡动物",
+        "能说话，智商相当于十岁小孩"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜，你彻底消化掉魔药了吗？‘消化？’苏茜字正腔圆地疑惑反问。……‘那我应该已经彻底消化了，我有过类似的感觉。’"
+        },
+        {
+          "chapterSeq": 304,
+          "extractReason": "UPDATE",
+          "evidenceText": "药师有所感应，望向了人工湖位置。那里有一条金毛大狗正欢快地奔跑着。似乎察觉到了他的视线，金毛大狗霍然侧头，看了过来。……‘奥黛丽，我遇见了一个可怕的家伙。’‘他的眼神很可怕！’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294, 295, 304, 310]
+    },
+    {
+      "name": "智慧之眼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "智慧之眼是贝克兰德非凡聚会的组织者，主持了本次聚会，提醒众人因连环杀人案官方排查导致参与者减少。他劝阻‘野狗’营救同伴，并为交易提供鉴定。",
+      "identInfos": [
+        "非凡聚会组织者，被称为‘智慧之眼’老先生",
+        "主持贝克兰德非凡者聚会",
+        "能鉴定非凡物品和线索"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 302,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘智慧之眼’老先生清了清喉咙道：‘开始聚会吧，其他人应该是不会来了。’说到这里，他略略解释了两句：‘因为那件连环杀人案始终没能找到凶手，值夜者、代罚者、机械之心和军情九处的大部分非凡者都被派了出来……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [302]
+    },
+    {
+      "name": "希伯特·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "希伯特是奥黛丽的哥哥，被父亲安排进入大气污染调查委员会担任首席秘书，以积累政治经验和影响力。",
+      "identInfos": [
+        "霍尔伯爵长子，奥黛丽的哥哥",
+        "大气污染调查委员会首席秘书"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 310,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "委员会的主席是德斯·肖爵士，首席秘书是希伯特·霍尔先生。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [310]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "霍尔伯爵指导长子希伯特进入大气污染调查委员会积累政治影响力，并表示治理大气污染是未来潮流，自己已在督促产业调整。",
+      "identInfos": [
+        "奥黛丽与希伯特的父亲",
+        "贵族，上院议员",
+        "康斯顿煤钢联合体第二大股东"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 310,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍尔伯爵抽了口烟斗，对面前的长子道：‘希伯特，你知道我为什么一定要让你进入大气污染调查委员会吗？’……‘治理大气污染是未来的潮流，对于这一点，我毫不怀疑。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [310]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "休是佛尔思的朋友，在血月之夜次日早晨关心佛尔思是否受呓语影响。佛尔思向她隐瞒了向愚者求救的实情。",
+      "identInfos": [
+        "佛尔思的朋友，金色短发",
+        "曾与佛尔思同住"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 298,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "佛尔思乘坐最早那班蒸汽地铁，返回了圣乔治区，然后转乘公共马车，抵达了她和休现在住的那个两居室房间。‘昨晚突然有血月，弄得我都有点没睡好，很早就醒了，佛尔思，你没怎么样吧？’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [298]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅是‘星之上将’，海盗盛会中登场，通过星辉长桥凌空漫步，腰间悬挂星象仪，阿尔杰感觉其与自身破碎的玻璃瓶相似。",
+      "identInfos": [
+        "‘星之上将’，海盗将军之一",
+        "穿着古典长袍，有巫师气质",
+        "腰间悬挂星象仪",
+        "与阿尔杰的古怪玻璃瓶有联系"
+      ],
+      "aliases": [
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 294,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘星之上将’嘉德丽雅……阿尔杰轻轻颔首，无声自语。……一位女士登上了长桥，就那样漫步行走于半空。她穿着黑色的古典长袍，上面绘有许许多多的象征符号和魔法标识……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294]
+    },
+    {
+      "name": "特雷茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特雷茜是‘疾病中将’，海盗盛会中乘‘黑死号’登场，所过之处会引发疾病，拥有魅惑能力，被吟游诗人描述为永远少女。",
+      "identInfos": [
+        "‘疾病中将’，海盗将军之一",
+        "船只‘黑死号’，旗帜为骷髅燃烧幽蓝火焰",
+        "乌黑卷发，蔚蓝眼睛，英气美丽",
+        "所过之处引发疾病"
+      ],
+      "aliases": [
+        {
+          "alias": "疾病中将",
+          "type": "称号"
+        },
+        {
+          "alias": "疾病少女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 294,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘疾病中将’特雷茜所过之处，总会有人莫名其妙生病！……这是一位相当美丽的女士，同时也是一位英气勃勃的女士。她乌黑妩媚的卷发高高盘起……最吸引人目光的却是又长又直的眉毛和锐利明亮的蔚蓝眼睛。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [294]
+    },
+    {
+      "name": "斯塔琳·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "斯塔琳太太与丈夫卢克盛装参加玛丽太太的庆祝舞会，玛丽成功进入大气污染调查委员会。",
+      "identInfos": [
+        "克莱恩的邻居"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 310,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他看见隔壁的斯塔琳·萨默尔太太正和丈夫卢克先生一块，盛装打扮地出来。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [310]
+    },
+    {
+      "name": "卢克·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "卢克与妻子斯塔琳一起参加玛丽太太的舞会，他是煤烟减排协会成员。",
+      "identInfos": [
+        "克莱恩的邻居，斯塔琳的丈夫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 310,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他看见隔壁的斯塔琳·萨默尔太太正和丈夫卢克先生一块，盛装打扮地出来。卢克呵呵笑道：‘不算是赴宴，更多是去帮忙。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [310]
+    },
+    {
+      "name": "野狗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "野狗是聚会中的非凡者，因朋友被代罚者抓住而请求帮手营救，被智慧之眼劝阻。他对官方处理野生非凡者表示不满。",
+      "identInfos": [
+        "非凡者聚会成员，代号‘野狗’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 302,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘野狗’环顾一圈，发现无人回应自己，忍不住重重捶了下自己的大腿，低吼道：‘可是，他究竟做错了什么？’‘他是个优秀的内科医生，他救了很多病人……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [302]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会增加新成员佛尔思·沃尔，代号‘魔术师’。成员间进行多项交易：‘世界’用‘真实造物主’情报交换‘太阳’的‘恶魔’‘守护者’信息，‘世界’卖出‘药师’配方给‘魔术师’，‘正义’有偿传授‘扮演法’给‘魔术师’，‘太阳’向多人询问七神信息并分享白银城创世神话。集会流程更完善，新增献祭仪式运用。",
+      "identInfos": [
+        "由‘愚者’克莱恩建立的神秘组织",
+        "成员以塔罗牌为代号",
+        "每周一聚会，交易情报和材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 298,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘愚者’先生，我能加入这个聚会吗？‘可以，每周一，下午三点，排除掉干扰。’克莱恩微笑指了下青铜长桌表面突然具现出来的纸牌道，‘他们决定以塔罗牌的名称为各自的代号……’"
+        },
+        {
+          "chapterSeq": 311,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩姿态悠闲地坐在属于‘愚者’的位置上，环视一圈道：‘这位是‘魔术师’小姐，我们新的成员。’"
+        },
+        {
+          "chapterSeq": 313,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘太阳’戴里克抿着嘴唇，想了几秒道：‘我和他们每一个人单独交易。’‘报酬是可以询问我一个问题，我能够回答的那种。’"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "灵教团成员的活动显现：考普斯蒂从已死流浪汉处学会灵舞和复活仪式，带领学生举行仪式；流浪汉尸体不翼而飞留下白色羽毛，疑似与灵教团高层有关；克莱恩察觉到与阿兹克身世可能的联系。",
+      "identInfos": [
+        "信仰死神的组织",
+        "教义为死亡不是终点，死神即将归来",
+        "成员使用灵舞、铜哨等沟通灵界"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 301,
+          "extractReason": "UPDATE",
+          "evidenceText": "他们跳了三四分钟后，周围十来米范围内的一切事物全部染上了狂放迷乱的气质，氛围逐渐邪异，并夹杂着几分神圣。……‘死神！’‘尊敬的死神！’‘即将归来！’"
+        },
+        {
+          "chapterSeq": 304,
+          "extractReason": "UPDATE",
+          "evidenceText": "墓穴之中，没有腐烂的尸体，也没有白骨，底层凌乱地铺着一片片白色羽毛，染着淡黄油污的白色羽毛！"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩使用阿兹克铜哨诱出附身亚特鲁的怨魂，并利用它吸引活尸，辅助战斗。铜哨能召唤信使，对死灵类生物有特殊作用。",
+      "identInfos": [
+        "阿兹克先生赠予克莱恩的铜哨",
+        "能召唤信使，吸引怨魂和活尸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 299,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩悄然伸手，握住阿兹克先生那枚铜哨，并蔓延出了灵性……"
+        },
+        {
+          "chapterSeq": 300,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过思考，他最终选择用阿兹克铜哨将怨魂诱出来，然后操纵火焰，完成净化。"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "乌特拉夫斯基主教赠予的神奇物品，能打开不含神秘力量的锁及部分超凡锁，可在无锁处打开通道穿墙。携带会随机迷路，但克莱恩通过占卜可克服。",
+      "identInfos": [
+        "形制古朴的黄铜钥匙",
+        "能开启非神秘锁和穿墙",
+        "来源于乌特拉夫斯基主教"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 309,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "乌特拉夫斯基主教从另一个衣兜里掏出了把形制古朴的黄铜色泽钥匙，微笑道：‘它叫‘万能钥匙’，能帮助你打开所有不含神秘力量的锁，以及小部分附加了超凡效果的锁……’"
+        },
+        {
+          "chapterSeq": 309,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收起‘万能钥匙’和‘药师’配方……‘感谢您的慷慨，我该告辞了。’……‘不占卜我就回不去了吗？’他无声自语……"
+        }
+      ]
+    },
+    {
+      "name": "药师配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从乌特拉夫斯基主教处获得‘药师’魔药配方，主要材料为成年独角飞马角和皇冠水母毒液结晶。后在塔罗会上以230镑卖给‘魔术师’佛尔思。",
+      "identInfos": [
+        "序列9‘药师’魔药配方",
+        "主要材料：独角飞马角、皇冠水母毒液结晶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 309,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "主要材料：成年独角飞马的角，皇冠水母的毒液结晶3克……克莱恩展开扫了一眼，含笑回应道：‘我会去确认真假的。’"
+        },
+        {
+          "chapterSeq": 312,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘世界’先生，希望你能尽快找到‘戏法大师’的魔药配方。佛尔思沉默了几秒道，‘而‘药师’的配方，我现在就准备买下……’"
+        }
+      ]
+    },
+    {
+      "name": "心魇蜡烛",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基主教持有的神奇物品，能让人进入目标心灵最深处并将场景实质化，用于治疗人格分裂。使用有时间限制，超时会导致迷失。克莱恩借此击败乌特拉夫斯基‘过去的自己’。",
+      "identInfos": [
+        "外裹人皮、有疙瘩的奇异蜡烛",
+        "灵性点燃后进入心灵深处战斗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 308,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "乌特拉夫斯基主教没再多说，从褐色教士服的隐蔽口袋里取出了一截奇异的蜡烛。那小半根蜡烛的外层像是裹着一圈人皮，但又凸显出了好几个疙瘩。"
+        }
+      ]
+    },
+    {
+      "name": "纸人替身",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩晋升‘魔术师’后制作纸人，用于‘纸人替身’法术，可挡致命伤害或削弱诅咒。在保护亚特鲁任务中制造假人替代自己抽烟以制造不在场证明。",
+      "identInfos": [
+        "克莱恩手工剪裁的粗陋纸人",
+        "用于‘魔术师’替身法术"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 298,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "临近中午，他放下剪刀，看着面前较为粗陋的三个纸人，叹了口气……"
+        },
+        {
+          "chapterSeq": 300,
+          "extractReason": "UPDATE",
+          "evidenceText": "他掏出了一个剪裁得相对粗陋的纸人。啪！克莱恩猛抖手腕，抖得纸张发出脆响，抖得它迅速膨胀，化身为人。"
+        }
+      ]
+    },
+    {
+      "name": "七彩蜥龙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽收到两条三米长的七彩蜥龙作为苏茜的礼物，实际需要的是其脑垂体作为非凡材料。奥黛丽原以为只是巴掌大小，见到实物后错愕。",
+      "identInfos": [
+        "皮肤随光照变色的大型蜥龙",
+        "脑垂体是‘读心者’魔药材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 294,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那是皮肤会随着光照而变化不同色泽的巨大蜥龙，长足三米，即使趴着，高度也和奥黛丽的膝盖平齐。那是两条庞然大物，足以吓哭小孩子的庞然大物！"
+        }
+      ]
+    },
+    {
+      "name": "精灵之泉的髓质结晶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "阿尔杰搜集的非凡材料，通过献祭转交‘世界’，后被克莱恩卖给药师换取298镑和线索。",
+      "identInfos": [
+        "褪色鸡蛋般的非凡材料",
+        "壳薄内有流水声"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "UPDATE",
+          "evidenceText": "精灵之泉的髓质结晶则类同于褪色的鸡蛋，壳似乎很薄，一碰就有可能破碎，不用摇晃都能听到里面有哗啦啦的流水声。"
+        },
+        {
+          "chapterSeq": 302,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘你有？’‘是的。’克莱恩打开卷烟盒，让里面褪色鸡蛋般的精灵之泉髓质结晶展露了出来。"
+        }
+      ]
+    },
+    {
+      "name": "邪纹黑豹的脊髓液",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "阿尔杰搜集的非凡材料，通过献祭转交‘世界’，用于克莱恩调制‘魔术师’魔药。",
+      "identInfos": [
+        "透明液体，分层清晰",
+        "用于序列7‘魔术师’魔药"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "邪纹黑豹的脊髓液是一管看似透明的液体，可若仔细观察，会发现它的澄清也是分层次的，越往下，越透明，一节一节，完美分割……"
+        }
+      ]
+    },
+    {
+      "name": "迷雾树人的真实根茎和汁液",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "戴里克搜集的非凡材料，献祭给‘世界’，用于克莱恩调制‘魔术师’魔药。",
+      "identInfos": [
+        "心形褐色根茎，皱如老者皮肤",
+        "汁液浅绿晶莹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "迷雾树人的真实根茎呈心形，褐色，巴掌大小，正面皱巴巴的，仿佛老者的皮肤，背后则光滑细腻，宛若宝石，它正轻微地膨胀和收缩着……"
+        }
+      ]
+    },
+    {
+      "name": "魔术师魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩调制的序列7魔药，服食后晋升，获得九种新能力。魔药存在残余影响，消化彻底可降低风险。配方包含邪纹黑豹脊髓液、迷雾树人根茎等。",
+      "identInfos": [
+        "序列7‘魔术师’魔药",
+        "液体如烟火绽放，色彩变幻"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 295,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那液体相当特殊，就像一直有烟火在里面绽放，红橙黄绿等颜色不断外散，不断消失，又不断出现。这就是‘魔术师’魔药！"
+        }
+      ]
+    },
+    {
+      "name": "铜哨（考普斯蒂）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "考普斯蒂从已死流浪汉处获得的铜哨，能召唤信使，但考普斯蒂不会使用。克莱恩取走此铜哨，计划用于给死人寄信。",
+      "identInfos": [
+        "做工精致不显古旧的铜哨",
+        "原属灵教团成员流浪汉"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 303,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "考普斯蒂就掏出了一个做工精致不显古旧的铜哨：‘就是这枚。’"
+        },
+        {
+          "chapterSeq": 304,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩转过身体，注视了他几秒道：‘死亡不是终点。’……‘他，他会回来吗？’……‘不要再吹那枚铜哨。’"
+        }
+      ]
+    },
+    {
+      "name": "白色羽毛",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "在考普斯蒂家花园墓穴中发现的白色羽毛，原属于已死流浪汉尸体，尸体不翼而飞。克莱恩拾取三根带灰雾占卜，看到尸体长羽毛离开的景象。羽毛可能与灵教团或死神途径相关。",
+      "identInfos": [
+        "染淡黄油污的白色羽毛",
+        "原在灵教团成员尸体上"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 304,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "墓穴之中，没有腐烂的尸体，也没有白骨，底层凌乱地铺着一片片白色羽毛，染着淡黄油污的白色羽毛！"
+        }
+      ]
+    }
+  ]
+}

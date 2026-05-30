@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 121,
+      "toChapterSeq": 125,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "邓恩带领克莱恩前往特莉丝祭台现场，要求克莱恩远离战斗。克莱恩遵命返回叫来支援，体现值夜者小队内的上下级协作关系。"
+    },
+    {
+      "fromChapterSeq": 121,
+      "toChapterSeq": 126,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩参与破坏特莉丝（特里斯）的诅咒仪式，并占卜出其逃亡去向，双方为明确的敌对关系。"
+    },
+    {
+      "fromChapterSeq": 128,
+      "toChapterSeq": 129,
+      "characterA": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "老尼尔应斯维因请求，与克莱恩一同前往码头，协助处理失控代罚者。两人作为值夜者队员协作，并使用了沉眠符咒。"
+    },
+    {
+      "fromChapterSeq": 128,
+      "toChapterSeq": 129,
+      "characterA": {
+        "name": "斯维因",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "斯维因因代罚者队友失控，向克莱恩和老尼尔求助，两人协助使用符咒控制并最终击杀失控者。"
+    },
+    {
+      "fromChapterSeq": 130,
+      "toChapterSeq": 130,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "奥黛丽参加A先生组织的隐秘聚会，观察并获取非凡世界信息，A先生作为组织者向奥黛丽提供交易平台。"
+    },
+    {
+      "fromChapterSeq": 130,
+      "toChapterSeq": 130,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽在聚会中注意到休对‘治安官’配方渴望但没钱。两人仅同场参会，无直接互动。"
+    },
+    {
+      "fromChapterSeq": 132,
+      "toChapterSeq": 132,
+      "characterA": {
+        "name": "阿德米索尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "线索接收者"
+        }
+      },
+      "relationSummary": "阿德米索尔因异常梦境恐惧，克莱恩前往询问，获得‘满地尸体’的预知线索，推动后续调查。"
+    },
+    {
+      "fromChapterSeq": 133,
+      "toChapterSeq": 133,
+      "characterA": {
+        "name": "伊丽莎白",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "线索接收者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "朋友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "伊丽莎白是克莱恩妹妹的好友，在占卜俱乐部向克莱恩求助噩梦，克莱恩使用梦境符咒帮助安抚怨魂意念。"
+    },
+    {
+      "fromChapterSeq": 134,
+      "toChapterSeq": 135,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "邓恩带领克莱恩和弗莱前往拉姆德古堡净化怨魂，期间保护克莱恩，体现了队长对队员的指导与庇护。"
+    },
+    {
+      "fromChapterSeq": 135,
+      "toChapterSeq": 135,
+      "characterA": {
+        "name": "阿兹克·艾因",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "克莱恩发现初代拉姆德男爵画像与阿兹克极为相似，怀疑阿兹克有不死或漫长生命且失忆循环，开始调查其背景。"
+    },
+    {
+      "fromChapterSeq": 136,
+      "toChapterSeq": 138,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "克莱恩以‘愚者’身份将戴里克拉入塔罗会，赐予‘太阳’代号，承诺提供‘太阳’途径配方，建立初步的教导与从属关系。"
+    }
+  ]
+}

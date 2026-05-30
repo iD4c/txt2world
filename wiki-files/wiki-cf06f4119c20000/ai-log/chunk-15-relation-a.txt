@@ -1,0 +1,154 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 294,
+      "toChapterSeq": 313,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "血月之夜佛尔思因“门”先生呓语濒临失控，诵念愚者尊名获救，被拉入灰雾加入塔罗会，成为“魔术师”成员。克莱恩作为“愚者”给予庇护，佛尔思对其敬畏并依赖。"
+    },
+    {
+      "fromChapterSeq": 294,
+      "toChapterSeq": 313,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "塔罗会上“世界”用“真实造物主”情报与“太阳”交换“恶魔”和“守护者”序列信息，并询问“魔狼之王弗雷格拉”的相关知识，克莱恩从中获取重要信息。"
+    },
+    {
+      "fromChapterSeq": 294,
+      "toChapterSeq": 313,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "艾辛格·斯坦顿",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "艾辛格邀请克莱恩加入侦探合作调查连环杀人案，克莱恩仅参与分析讨论，提出从20年内未破旧案入手的思路，并请艾辛格帮忙查旧案嫌疑人。"
+    },
+    {
+      "fromChapterSeq": 294,
+      "toChapterSeq": 313,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "洛戈·卡罗曼",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩接受珠宝商洛戈的委托，保护其子亚特鲁一天，消灭了附体的怨魂，获得报酬15镑。"
+    },
+    {
+      "fromChapterSeq": 294,
+      "toChapterSeq": 313,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "乌特拉夫斯基主教",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩接受乌特拉夫斯基主教的委托，进入其心灵深处击败“过去的他”（序列6黎明骑士），获得“万能钥匙”和“药师”配方。"
+    },
+    {
+      "fromChapterSeq": 294,
+      "toChapterSeq": 313,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "药师",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "药师在非凡聚会上以300镑购买克莱恩的精灵之泉髓质结晶，并告知“药师”配方线索在丰收教堂乌特拉夫斯基主教处。"
+    }
+  ]
+}

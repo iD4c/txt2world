@@ -1,0 +1,1591 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "以道恩·唐泰斯身份应对伦纳德的入梦质问，透露自身为复仇加入愚者组织，并提及克莱恩·莫雷蒂的复仇目标为兰尔乌斯和因斯·赞格威尔，引导伦纳德将道恩·唐泰斯与克莱恩·莫雷蒂视为两人。捐赠考伊姆公司股份建立“鲁恩慈善助学基金”，向黑夜教会告解军火生意以试探女神态度。卷入辛德拉斯男爵诬陷案，识破阴谋后主动跳出漩涡，通过捐股脱身。在塔罗会上公开道恩·唐泰斯为眷者公共马甲，消除成员疑虑。通过魔镜阿罗德斯警告“偷盗者”途径半神，使其遭受雷击后主动撤离。处理管家研究黑魔法、男仆信仰死神等内部问题。慈善晚会上与“正义”奥黛丽相遇，成功扮演道恩·唐泰斯。接受军方军火生意委托，准备前往西拜朗。",
+      "identInfos": [
+        "愚者座下“世界”格尔曼·斯帕罗",
+        "道恩·唐泰斯为当前身份",
+        "塔罗会成员",
+        "曾用名夏洛克·莫里亚蒂",
+        "携带封印物“蠕动的饥饿”",
+        "与黑夜女神有特殊联系"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "别名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 853,
+          "extractReason": "UPDATE",
+          "evidenceText": "“同样的，因安提戈努斯家族笔记诅咒活过来的他，也是为了复仇。”克莱恩刚才故意提及自己现在的姓——“唐泰斯”，提及复仇，就是预先将自身和格尔曼·斯帕罗·克莱恩·莫雷蒂做一个区分"
+        },
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我忏悔，前两天军方的人找到我，希望将一批枪支和火炮卖去西拜朗，为那里的混乱添些木炭……”"
+        },
+        {
+          "chapterSeq": 855,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我会将手上的考伊姆公司股份放入这个基金，用它根据合同能获得的全部资金来启动这件事情。”"
+        },
+        {
+          "chapterSeq": 868,
+          "extractReason": "UPDATE",
+          "evidenceText": "“道恩·唐泰斯是一个身份。”经过短暂却反复的考量，克莱恩决定透露一部分信息，将道恩·唐泰斯定位为自己眷者的公用马甲！"
+        },
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩沉吟几秒，再次问道：“海柔尔·马赫特身边的半神藏在哪里？”镜子表面，水波般的光芒一层层荡开，场景发生了改变……垫子中央躺着一只灰色的老鼠"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        853,
+        854,
+        855,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861,
+        862,
+        863,
+        864,
+        865,
+        866,
+        867,
+        868,
+        869,
+        870,
+        871,
+        872
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "入梦道恩·唐泰斯进行质问，推断克莱恩·莫雷蒂为复仇者并接受其说法，决定暂时不将道恩·唐泰斯与克莱恩·莫雷蒂的关系上报教会，暗示将来可能合作。得知“渎神者”阿蒙在神弃之地出没，转告体内帕列斯·索罗亚斯德。协助戴莉通灵卡隆死亡真相，察觉道恩·唐泰斯有问题但选择隐瞒。在警察局偶遇道恩·唐泰斯，对戴莉暗示其身份。",
+      "identInfos": [
+        "黑夜教会“红手套”成员",
+        "墨发碧瞳的诗人",
+        "体内寄生天使帕列斯·索罗亚斯德",
+        "曾与克莱恩·莫雷蒂共事于廷根值夜者"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 853,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他直接承认了自己是信奉‘愚者’的那个隐秘组织的成员，化名为格尔曼·斯帕罗的克莱恩·莫雷蒂也是。他们的目的都是为了复仇，各自的复仇。”"
+        },
+        {
+          "chapterSeq": 872,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德收回视线，沉默了两秒道：“道恩·唐泰斯见过大主教阁下。”他故意没做肯定，也未否定，只看似答非所问地提了圣安东尼一句。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        853,
+        854,
+        872
+      ]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在圣赛缪尔教堂祈祷时与道恩·唐泰斯相遇，后协助警察局对卡隆尸体进行通灵，获取辛德拉斯男爵出现在现场的线索。在警察局偶遇道恩·唐泰斯，察觉其不简单。",
+      "identInfos": [
+        "黑夜教会“通灵者”",
+        "曾为值夜者",
+        "与伦纳德·米切尔相熟",
+        "擅长通灵与素描"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见大祈祷厅的角落坐着位女士，她套着带兜帽的黑色长袍，涂着蓝色的眼影和腮红，有种妖异的美感，正是曾经的“通灵者”戴莉·西蒙妮。"
+        },
+        {
+          "chapterSeq": 872,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉·西蒙妮拿起一枝铅笔，身体略显颤抖地画起素描……纸张表面很快就出现了书桌、凸肚窗、墨水瓶、左轮手枪等物品。而在凸肚窗上，有映照出一道人影……正是辛德拉斯男爵！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        854,
+        872
+      ]
+    },
+    {
+      "name": "辛德拉斯男爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因考伊姆公司股份威胁道恩·唐泰斯，后续发生卡隆自杀并遗书指认道恩·唐泰斯逼迫，辛德拉斯男爵主动为道恩·唐泰斯提供担保和保释金，并解释自己原本计划用桃色陷阱对付道恩。通灵结果显示卡隆死前看见辛德拉斯男爵，暗示其可能被非凡力量陷害。",
+      "identInfos": [
+        "保守党“钱袋”",
+        "著名银行家",
+        "贝克兰德银行第三大股东",
+        "曾濒临破产三次"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 857,
+          "extractReason": "UPDATE",
+          "evidenceText": "辛德拉斯男爵微笑上前两步，伸出手掌，和克莱恩握了一下。克莱恩笑着回应道：“我只是信任您的品格。”辛德拉斯男爵当然不会相信他的客套话，找了个借口，带着保镖，登上了道恩·唐泰斯的马车。"
+        },
+        {
+          "chapterSeq": 857,
+          "extractReason": "UPDATE",
+          "evidenceText": "很简单，你不是想进入上流社会吗？我打算请几个不同年龄的女孩，在不同的社交场合控诉你玩弄她们的感情和身体，却不愿意负责任……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        855,
+        857,
+        872
+      ]
+    },
+    {
+      "name": "马赫特议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "因蒂斯塞伦佐餐厅外遭遇破产工厂主枪击，幸免于难。事后接受道恩·唐泰斯关于军火生意的暗示，并与国防部上校加尔文敲定军火交易。对袭击者的处境表示理解，但仍坚持治理大气污染。",
+      "identInfos": [
+        "下院议员",
+        "大气污染治理法案支持者",
+        "海柔尔·马赫特的父亲",
+        "与军政界有联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 860,
+          "extractReason": "UPDATE",
+          "evidenceText": "马赫特议员摩挲着杯子，笑容和煦地说道：“我当初也有过这样的阶段。你大概还能拿出多少资金？我可以帮你介绍些朋友合作。”"
+        },
+        {
+          "chapterSeq": 861,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到那个中年男人的呐喊，看到他扭曲的表情，海柔尔原本充满愤怒和痛恨的眼神，逐渐凝固……马赫特议员、莉亚娜夫人和旁边的道恩·唐泰斯同样沉默了下来"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        860,
+        861,
+        862
+      ]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "与父母及道恩·唐泰斯共进晚餐，察觉橱柜中有异常但未发现保镖。其身边的“偷盗者”途径半神被魔镜警告后遭雷击，海柔尔目睹老师被劈焦，接受其离开请求，准备将其送往郊区庄园。父亲遇袭后，她表现出对大气污染法案的反思。",
+      "identInfos": [
+        "马赫特议员的女儿",
+        "持有“偷盗者”途径神奇物品",
+        "夜探下水道",
+        "与寄生鼠身的半神有联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 860,
+          "extractReason": "UPDATE",
+          "evidenceText": "来到大门处，她正要转去右边，忽然扭过脑袋，望向了备餐间的那个橱柜。她的眉头轻微皱起，显露出一丝困惑，旋即收回目光，拧开了盥洗室的木门。"
+        },
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔眼中先是炽白大亮，看不见别的事物，旋即恢复视觉，发现灰色老鼠皮毛焦黑地躺在地上，四脚一抽一抽。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        860,
+        861,
+        870,
+        871
+      ]
+    },
+    {
+      "name": "理查德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为道恩·唐泰斯的贴身男仆，被发现有南大陆血统，暗中信仰死神，在夜间跳灵舞祈祷。提供对西拜朗的印象。在雇主卷入军火生意和卡隆案时随行。",
+      "identInfos": [
+        "道恩·唐泰斯的贴身男仆",
+        "南大陆血统",
+        "暗中崇拜死神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "理查德森挠了挠耳后，斟酌着语言道：“还有，贫困，饥饿，以及鞭打……东拜朗和西拜朗原本的那些人曾经都崇拜死神……”"
+        },
+        {
+          "chapterSeq": 861,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思眼眸微微转动，谨慎地靠拢过去，于墙上开了个“小门”……她随即看见理查德森在跳略有点癫狂，带着些神秘味道的舞蹈。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        854,
+        861,
+        862,
+        863,
+        872
+      ]
+    },
+    {
+      "name": "瓦尔特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为道恩·唐泰斯的管家，被发现有研究黑魔法。处理与辛德拉斯男爵的会面、聘请保镖、应对警察调查等事务。建议雇主警惕辛德拉斯男爵的威胁。",
+      "identInfos": [
+        "道恩·唐泰斯的管家",
+        "研究黑魔法",
+        "曾委托赏金猎人寻找骗子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 856,
+          "extractReason": "UPDATE",
+          "evidenceText": "“休，修会‘治安官’的一大特点是……她旋即感应到管家瓦尔特房间有黑魔法物品或事情。”"
+        },
+        {
+          "chapterSeq": 858,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩表情如常地看了管家瓦尔特一眼，带着贴身男仆理查德森出门……管家瓦尔特则表情沉稳地迎上来。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        855,
+        856,
+        857,
+        858,
+        862,
+        872
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "与佛尔思一起接受管家瓦尔特委托，暗中保护道恩·唐泰斯。发现管家研究黑魔法、贴身男仆信仰死神，并联手佛尔思留下提醒信。保护期间见证卡隆案、马赫特遇袭案，对上层社会的可怕心生感慨。",
+      "identInfos": [
+        "赏金猎人",
+        "塔罗会“魔术师”佛尔思的好友",
+        "曾因斯特福德子爵而调查",
+        "擅长潜行与监护人"
+      ],
+      "aliases": [
+        {
+          "alias": "休",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 855,
+          "extractReason": "UPDATE",
+          "evidenceText": "休躲在树木阴影里，看着一辆棕色的马车缓慢驶过……休对那位管家和他的雇主印象相当深刻，因为他们花了足足200镑寻找只骗了1000镑布料的骗子。"
+        },
+        {
+          "chapterSeq": 856,
+          "extractReason": "UPDATE",
+          "evidenceText": "休和佛尔思各自占据一边窗帘……“暗中保护一位叫做道恩·唐泰斯的富翁。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        855,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861,
+        862
+      ]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "与休一起担任道恩·唐泰斯的保镖，发现管家黑魔法、男仆信仰死神等秘密，并在离开前留言提醒。在因蒂斯塞伦佐餐厅用“开门”能力帮助海柔尔脱身，避免暴露。梦见“命运隐士”符号对应的宝藏，在塔罗会上得到“世界”警告是陷阱。后知悉道恩·唐泰斯为“世界”公共马甲，惊吓后悔。",
+      "identInfos": [
+        "塔罗会“魔术师”",
+        "“学徒”途径非凡者",
+        "畅销作家",
+        "休的密友"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 856,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思从厨房探出脑袋，笑着反问道。休放下手里拿着的报纸，半是诧异半是嘟囔地回应道……"
+        },
+        {
+          "chapterSeq": 861,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思只觉自己飘飘荡荡来到了一片古老而雄伟的宫殿内，里面摆满了各种非凡材料和神奇物品……复杂的象征符号：这是“命运”与“隐匿”结合的符号！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        856,
+        857,
+        858,
+        859,
+        860,
+        861,
+        862,
+        868
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "以“正义”身份参加塔罗会，委托调查道恩·唐泰斯，在得知其为“世界”公共马甲后，决定加入“鲁恩慈善助学基金”并辞去委托。在慈善晚会上与道恩·唐泰斯相遇，察觉其异常表现，确认道恩·唐泰斯即“世界”先生。晋升序列6“催眠师”，获得多种非凡能力。她的金毛大狗苏茜也作为“观众”暗中观察。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "霍尔伯爵之女",
+        "贝克兰德最耀眼宝石",
+        "“观众”途径序列6“催眠师”",
+        "金毛大狗苏茜的同伴"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "奥黛丽",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 863,
+          "extractReason": "UPDATE",
+          "evidenceText": "大厅入口处，最引人瞩目的是一位金发亮泽，柔顺披下的少女……她是塔罗会的“正义”小姐！"
+        },
+        {
+          "chapterSeq": 865,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到道恩·唐泰斯讲述的那些贫民故事，她内心其实已经想加入助学基金……她犹豫的地方在于，她觉得那位中年绅士有点问题。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        863,
+        864,
+        865,
+        866,
+        867,
+        868
+      ]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在慈善晚会上捐款10000镑，并提议女儿奥黛丽加入“鲁恩慈善助学基金”。与道恩·唐泰斯交谈，赞赏其见识与品格。",
+      "identInfos": [
+        "东切斯特伯爵",
+        "上院议员",
+        "大银行家",
+        "奥黛丽的父亲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 864,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍尔伯爵又看了看奥黛丽，笑着说道……“我找别的人加入这个助学基金，我只是希望你能因此见识到更多”"
+        },
+        {
+          "chapterSeq": 865,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽看见父亲霍尔伯爵笑着取出了支票簿和钢笔。他写下的金额是：10000镑！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        864,
+        865
+      ]
+    },
+    {
+      "name": "加尔文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "国防部陆军上校，代表军方与道恩·唐泰斯洽谈军火走私生意，提供西拜朗军火存货，报价15000镑，约定七月初行动。",
+      "identInfos": [
+        "国防部陆军上校",
+        "与马赫特议员熟识",
+        "负责军火走私交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 862,
+          "extractReason": "UPDATE",
+          "evidenceText": "“预备给你的那批枪支、弹药和少量火炮会在东拜朗某个仓库内，数量相对不多，也就能武装三四千人的样子，按报废价计算，顶多一万镑，当然，你得给我一万五千镑。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        862
+      ]
+    },
+    {
+      "name": "埃莱克特拉主教",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "接受道恩·唐泰斯的捐款，帮助建立“鲁恩慈善助学基金”，在慈善晚会上主持并赞扬道恩·唐泰斯。",
+      "identInfos": [
+        "圣赛缪尔教堂主教",
+        "协助道恩·唐泰斯成立慈善基金"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 858,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩微笑说道：“我打算建立一个针对贫民的助学基金，希望能得到教会的帮助。我会将手上的考伊姆公司股份放入这个基金……”"
+        },
+        {
+          "chapterSeq": 864,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃莱克特拉主教上前宣布：“道恩·唐泰斯先生捐献的股份价值1万5000镑，我们将用它建立一个‘鲁恩慈善助学基金’……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        858,
+        864
+      ]
+    },
+    {
+      "name": "圣安东尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑夜教会贝克兰德教区大主教，出席慈善晚会，对道恩·唐泰斯表示赞赏，其存在让克莱恩灵性颤栗。",
+      "identInfos": [
+        "黑夜教会大主教",
+        "圣者",
+        "贝克兰德教区负责人"
+      ],
+      "aliases": [
+        {
+          "alias": "圣者安东尼",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 864,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位老者正是黑夜教会十三位大主教之一的圣者安东尼·史蒂文森！他是贝克兰德教区的负责人，真正意义上的教会高层。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        864,
+        865
+      ]
+    },
+    {
+      "name": "玛丽夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "考伊姆公司大股东，因卡隆自杀案向道恩·唐泰斯道歉，提出提前收购股份但得知已捐给教会。对道恩·唐泰斯的慷慨和人品表示敬佩。",
+      "identInfos": [
+        "考伊姆公司大股东",
+        "曾与辛德拉斯男爵竞争股份控制权"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 862,
+          "extractReason": "UPDATE",
+          "evidenceText": "玛丽夫人郑重点头道：“我有听闻这个猜测，据说警察部门正计划请一位厉害的法医帮忙解剖尸体，寻找被遗漏的线索。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        862
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "收到“愚者”转达的格尔曼·斯帕罗指令，被要求提供西拜朗资料并小心黑夜教会，无奈向船长艾德雯娜求助，获得详细情报。",
+      "identInfos": [
+        "“黄金梦想号”船员",
+        "格尔曼·斯帕罗的联系人",
+        "曾为海盗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹无声抱怨了一句……他眼前灰雾弥漫……耳畔则回荡起格尔曼·斯帕罗的声音：“我需要他提供西拜朗的资料，最好有附带人脉资源。”"
+        },
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹怔怔听着，忽然干笑着抬了下手：“船长，我，我需要做个笔记。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        854,
+        871
+      ]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "为达尼兹提供西拜朗详细情报，暗示可合作对象，并透露情报来自她的知识。",
+      "identInfos": [
+        "“冰山中将”",
+        "海盗船长",
+        "知识渊博",
+        "达尼兹的船长"
+      ],
+      "aliases": [
+        {
+          "alias": "冰山中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜清澈如同泉水的眼眸略有转动，看向窗外道：“这是国际政治。”……她自顾自说道：“在西拜朗，有鲁恩人管理的城市，有属于因蒂斯的谷地……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        871
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为奥黛丽的金毛大狗，服食“观众”魔药成为非凡生物，在慈善晚会上暗中观察道恩·唐泰斯，发现其表现存在表演痕迹，并察觉对方防备它。",
+      "identInfos": [
+        "奥黛丽的金毛大狗",
+        "“观众”途径非凡生物",
+        "能暗中观察并提供分析"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 863,
+          "extractReason": "UPDATE",
+          "evidenceText": "门外阴影中，一只金毛大狗正无声无息蹲在那里。"
+        },
+        {
+          "chapterSeq": 865,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗蹲坐于对面，想了想道：“他似乎认识你或者你身上的某件物品，还有，他很多时候都是在表演，有一定的痕迹……他好像有点防备我，非常敏锐……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        863,
+        865
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "寄生在伦纳德体内的“偷盗者”途径天使，得知“渎神者”阿蒙在神弃之地出现，怀疑“愚者”可能是自己的老朋友。",
+      "identInfos": [
+        "“偷盗者”途径天使",
+        "寄生在伦纳德体内",
+        "躲避阿蒙的追杀",
+        "被伦纳德称为“老头”"
+      ],
+      "aliases": [
+        {
+          "alias": "老爷爷",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 853,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他在想，道恩·唐泰斯，不，他背后那位‘愚者’，也许真是我的哪个老朋友……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        853
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过信使给格尔曼·斯帕罗寄信，提供新研发的蘑菇品种，包括面粉味、牛奶味和鱼肉味蘑菇，并说明食用注意事项及潜在危险。",
+      "identInfos": [
+        "“未来号”船员",
+        "疯狂科学家",
+        "擅长杂交植物与生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 859,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我亲爱的朋友格尔曼……因为全身心投入到了你提及的那个实验，我已经停止了它的制造……和它们一起的，还有最新的产物，一种能在黑暗环境下依靠吞噬血肉生长繁殖的蘑菇……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        859
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为克莱恩的信使，负责传递信件给弗兰克·李，对弗兰克有深刻印象，并标记了他。",
+      "identInfos": [
+        "灵界生物",
+        "克莱恩的信使",
+        "半神层次",
+        "提四个金发红眼脑袋"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 856,
+          "extractReason": "UPDATE",
+          "evidenceText": "他旋即看见信使小姐蕾妮特·缇尼科尔出现于旁边，依旧没有头部，身穿繁复阴沉的长裙，提着四个金发红眼长相艳丽的脑袋。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        856,
+        871
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上提供罗塞尔日记，询问“故乡”汉字含义，并答应提供西拜朗情报。",
+      "identInfos": [
+        "塔罗会“隐者”",
+        "“星之上将”",
+        "“未来号”船长",
+        "知识丰富"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 866,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅推了下眼镜，侧过身体，对青铜长桌最上首那笼罩着灰雾的模糊身影行了一礼：“尊敬的‘愚者’先生，这次有三页日记。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        866,
+        867
+      ]
+    },
+    {
+      "name": "阿尔杰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上告知“世界”神奇物品即将完成，并提醒“太阳”多结交朋友。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会非凡者",
+        "序列5“海洋歌者”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 867,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰当即侧头，望向青铜长桌最下首的“世界”格尔曼·斯帕罗：“你的神奇物品快要制作好了，这周就能给你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        867
+      ]
+    },
+    {
+      "name": "戴里克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上报告自己交到两个朋友，但尚未获取前首席陵寝情报，被“倒吊人”鼓励。",
+      "identInfos": [
+        "塔罗会“太阳”",
+        "白银城居民",
+        "“太阳”途径非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 867,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克有些羞愧地说道：“我才交到两个朋友。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        867,
+        869
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上求购序列5人造吸血鬼非凡特性，后经“世界”提供“光之祭司”配方，以5000镑成交。",
+      "identInfos": [
+        "塔罗会“月亮”",
+        "血族男爵",
+        "喜好收集人偶"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 867,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林将视线投向了“太阳”，斟酌着问道：“我需要一份序列5的人造吸血鬼非凡特性，你想得到什么？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        867
+      ]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过“隐者”提供罗塞尔日记，蕴含“故乡”二字的记忆，其身份为罗塞尔大帝的女儿。",
+      "identInfos": [
+        "“神秘女王”",
+        "罗塞尔大帝之女",
+        "与克莱恩有交集"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 866,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我终于明白‘神秘女王’贝尔纳黛为什么会挑选这三页日记了，因为上面有她父亲留给她的护身符号：‘故乡’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        866
+      ]
+    },
+    {
+      "name": "偷盗者途径半神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "寄生在老鼠体内，藏身于海柔尔房间，暗中影响周围非凡者。被魔镜阿罗德斯警告并遭雷击后，身体受损，决定离开贝克兰德前往郊区庄园。",
+      "identInfos": [
+        "“偷盗者”途径半神",
+        "寄生于灰色老鼠",
+        "与海柔尔·马赫特关联",
+        "曾试图寄生海柔尔未果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "垫子中央躺着一只灰色的老鼠，与同类相比，它的眼睛更接近暗红。"
+        },
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔看见灰色老鼠皮毛焦黑地躺在地上，四脚一抽一抽。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        870,
+        871
+      ]
+    },
+    {
+      "name": "威廉·赛克斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "前王子埃德萨克的执事，与管家瓦尔特有异常交集，突然死亡。",
+      "identInfos": [
+        "前王子埃德萨克的执事",
+        "与瓦尔特有联系",
+        "突然死亡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 855,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他的管家瓦尔特与一神秘前任执事威廉·赛克斯有异常交集。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        855
+      ]
+    },
+    {
+      "name": "斯特福德子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "宫廷侍卫长，出现在东拜朗退伍军官俱乐部，被休认出。其马车纹章为花与指环。",
+      "identInfos": [
+        "宫廷侍卫长",
+        "可能与休调查的案件有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 855,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "斯特福德子爵的马车……有一个明显的纹章，主体是一朵花和两个指环，这属于鲁恩王国的宫廷侍卫长，斯特福德子爵。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        855,
+        862
+      ]
+    },
+    {
+      "name": "希伯特·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "霍尔伯爵长子，陪同家人参加慈善晚会，对妹妹加入慈善基金表示异议。",
+      "identInfos": [
+        "霍尔伯爵之子",
+        "奥黛丽的兄长",
+        "勋爵"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 864,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是你？”奥黛丽的兄长，希伯特·霍尔为妹妹抗争了一句。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        864
+      ]
+    },
+    {
+      "name": "莉亚娜夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "马赫特议员的妻子，海柔尔的母亲，在餐厅遇袭事件中与家人一起经历危险。",
+      "identInfos": [
+        "马赫特议员的妻子",
+        "海柔尔的母亲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 860,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "马赫特议员、莉亚娜夫人和旁边的道恩·唐泰斯……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        860,
+        861
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "魔镜，为克莱恩提供情报并执行警告：提供伦纳德住址、半神藏身处，对偷盗者半神发出警告并施以雷劈惩罚。在克莱恩询问时展现高情商，自称认错并讨好主人。",
+      "identInfos": [
+        "魔镜",
+        "能回答问题并展示画面",
+        "自称阿罗德斯",
+        "被克莱恩掌控"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "“伟大的至高的尊贵的主人，您渺小的谦卑的惶恐的仆人阿罗德斯应您的召唤而来。”"
+        },
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "“您召唤我过来，是有问题要考校我吗？”……镜子表面，水波般的光芒一层层荡开，场景发生了改变……"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "银白的闪电凶猛劈落，灰色的老鼠抽搐着倒下。"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的人皮手套封印物，因融合A先生后负面效果增强，赞颂“真实造物主”失控。克莱恩在灰雾上用弗兰克的新蘑菇恐吓并谈判，达成每天三次赞颂、需预先提醒的协议，但每日吃人本能未解决。等待阿兹克提供新封印方法。",
+      "identInfos": [
+        "人皮手套封印物",
+        "能放牧灵魂获能力",
+        "需吃人维持",
+        "受阿兹克铜哨影响"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 856,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过一番占卜检查，他发现“蠕动的饥饿”这次相当倔强，负面效果没有任何改变。“这是被A先生感染了，决不放弃对‘真实造物主’的赞颂？”克莱恩嘴角抽了抽。"
+        },
+        {
+          "chapterSeq": 863,
+          "extractReason": "UPDATE",
+          "evidenceText": "然后，他看见“蠕动的饥饿”以五根手指为支撑，强行立了起来，像弹钢琴一样快速往后退开。"
+        }
+      ]
+    },
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "被克莱恩提及，但本 chunk 未直接出现，仅作为回忆提及。）",
+      "identInfos": [
+        "0级封印物",
+        "怪物途径唯一性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 853,
+          "extractReason": "UPDATE",
+          "evidenceText": "（无直接证据，略去）"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思的魔法书，在塔罗会上出租给“月亮”两天以狩猎“原始月亮”信徒，并为“世界”所知。",
+      "identInfos": [
+        "“魔术师”佛尔思的魔法书",
+        "能记录和释放非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 861,
+          "extractReason": "UPDATE",
+          "evidenceText": "她从暗袋内取出了那本“莱曼诺的旅行笔记”，准备一有不对，就立刻采取行动。"
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩持有的强力左轮手枪，在塔罗会上或平时使用，本 chunk 未直接描述其使用。",
+      "identInfos": [
+        "神奇左轮",
+        "格尔曼·斯帕罗持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 855,
+          "extractReason": "UPDATE",
+          "evidenceText": "（无直接证据，略去）"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩置于灰雾上的强力封印物，本 chunk 未直接使用，仅作为背景。",
+      "identInfos": [
+        "掌控海洋与风暴的权杖",
+        "放于灰雾之上",
+        "负面效果严重"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 855,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩通过“海神”信徒找到伊莲（此为前文，当前 chunk 无直接证据，不提取）"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩慈善助学基金",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "由道恩·唐泰斯捐出考伊姆公司股份成立，黑夜教会主办，旨在帮助贫民儿童入学。霍尔伯爵等贵族捐款，奥黛丽加入任理事。",
+      "identInfos": [
+        "黑夜教会下属慈善基金",
+        "由道恩·唐泰斯发起",
+        "针对贫民助学",
+        "奥黛丽任理事"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 864,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“道恩·唐泰斯先生捐献的股份价值1万5000镑，我们将用它建立一个‘鲁恩慈善助学基金’……”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "本次聚会上，克莱恩公开道恩·唐泰斯为眷者公共马甲，“正义”委托调查道恩·唐泰斯后得知真相，“世界”出售“光之祭司”配方给“月亮”，交易环节多成员参与。成员情感联结加深。",
+      "identInfos": [
+        "以“愚者”为核心的神秘聚会",
+        "成员以塔罗牌为代号",
+        "涉及情报交易与互助"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 868,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过短暂却反复的考量，克莱恩决定透露一部分信息，将道恩·唐泰斯定位为自己眷者的公用马甲！"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "圣安东尼大主教出席慈善晚会，埃莱克特拉主教协助成立基金。教会可能调查道恩·唐泰斯但未行动。克莱恩试探女神态度。",
+      "identInfos": [
+        "七正神教会之一",
+        "崇拜黑夜女神",
+        "掌握“值夜者”队伍"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "他这次前来圣赛缪尔教堂，就是想借忏悔的机会，把自身将要做军火生意的事情告知教会，看他们会有什么样的反应，以此窥探女神对自身的态度。"
+        }
+      ]
+    },
+    {
+      "name": "愚者组织",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德得知克莱恩·莫雷蒂因复仇加入，组织成员来自不同地方，各自目的不同。拥有神弃之地成员，被帕列斯怀疑“愚者”为其老朋友。",
+      "identInfos": [
+        "信仰“愚者”的隐秘组织",
+        "成员包括道恩·唐泰斯、格尔曼·斯帕罗等",
+        "与阿蒙、真实造物主等有交集"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 853,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们组织的成员来自不同的地方，因为不同的目的加入，选择改变自身的信仰，而在此之前，他们的人生依旧属于自己。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽所属组织，本 chunk 未直接出现，仅在“正义”晋升“催眠师”时提及背景。",
+      "identInfos": [
+        "隐秘组织",
+        "“观众”途径组织",
+        "奥黛丽所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 859,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽已消化完“心理医生”魔药，计划在贝克兰德的“心理炼金会”联络她前，晋升至序列6。"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩军方",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过马赫特议员与道恩·唐泰斯洽谈军火走私生意，上校加尔文代表军方提供西拜朗军火。",
+      "identInfos": [
+        "鲁恩王国军队",
+        "参与军火走私",
+        "与道恩·唐泰斯合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 862,
+          "extractReason": "UPDATE",
+          "evidenceText": "“预备给你的那批枪支、弹药和少量火炮会在东拜朗某个仓库内……按报废价计算，顶多一万镑，当然，你得给我一万五千镑。”"
+        }
+      ]
+    },
+    {
+      "name": "红手套",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑夜教会精英非凡者队伍，伦纳德为其成员，可能追捕达尼兹。",
+      "identInfos": [
+        "黑夜教会精英非凡者小队",
+        "追捕异端和逃犯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了黑夜教会，风暴教会和军方也在针对我，据说各自派出了一整支队伍……达尼兹心头发颤地想着。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "派出队伍追捕达尼兹，在班西港事件中被克莱恩间接警示。",
+      "identInfos": [
+        "七正神教会之一",
+        "崇拜风暴之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了黑夜教会，风暴教会和军方也在针对我……"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在西拜朗有影响力，其皇室系支持梅桑耶斯，暗中与多位土著将军联系。",
+      "identInfos": [
+        "崇拜死神的组织",
+        "在南大陆有影响力",
+        "存在多个派系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "在西拜朗，有鲁恩人管理的城市……借助两个大国平衡需要，相对独立的邦一级势力，他们暗中与灵教团不同派系联络，争夺或自称死神后裔……"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "在西拜朗有很强影响力，许多将军酋长暗中臣服，对克莱恩前往西拜朗构成威胁。",
+      "identInfos": [
+        "邪恶组织",
+        "崇拜“欲望母树”",
+        "在南大陆势力强大"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "玫瑰学派在西拜朗也有着很强的影响力，表面上没有哪个势力属于他们，但实际上，很多将军很多酋长都臣服于他们。"
+        }
+      ]
+    },
+    {
+      "name": "偷盗者途径",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "涉及多位角色：帕列斯·索罗亚斯德、老鼠半神、海柔尔的神奇物品。本 chunk 未直接组织化。",
+      "identInfos": [
+        "无具体组织",
+        "仅作为非凡途径出现"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "“偷盗者”途径天使、半神等多次提及。"
+        }
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "鲁恩慈善助学基金",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "由道恩·唐泰斯捐出考伊姆公司股份成立，黑夜教会主办，旨在帮助贫民儿童入学。霍尔伯爵等贵族捐款，奥黛丽加入任理事。",
+      "identInfos": [
+        "黑夜教会下属慈善基金",
+        "由道恩·唐泰斯发起",
+        "针对贫民助学",
+        "奥黛丽任理事"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 864,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“道恩·唐泰斯先生捐献的股份价值1万5000镑，我们将用它建立一个‘鲁恩慈善助学基金’……”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "本次聚会上，克莱恩公开道恩·唐泰斯为眷者公共马甲，“正义”委托调查道恩·唐泰斯后得知真相，“世界”出售“光之祭司”配方给“月亮”，交易环节多成员参与。成员情感联结加深。",
+      "identInfos": [
+        "以“愚者”为核心的神秘聚会",
+        "成员以塔罗牌为代号",
+        "涉及情报交易与互助"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 868,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过短暂却反复的考量，克莱恩决定透露一部分信息，将道恩·唐泰斯定位为自己眷者的公用马甲！"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "圣安东尼大主教出席慈善晚会，埃莱克特拉主教协助成立基金。教会可能调查道恩·唐泰斯但未行动。克莱恩试探女神态度。",
+      "identInfos": [
+        "七正神教会之一",
+        "崇拜黑夜女神",
+        "掌握“值夜者”队伍"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "他这次前来圣赛缪尔教堂，就是想借忏悔的机会，把自身将要做军火生意的事情告知教会，看他们会有什么样的反应，以此窥探女神对自身的态度。"
+        }
+      ]
+    },
+    {
+      "name": "愚者组织",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德得知克莱恩·莫雷蒂因复仇加入，组织成员来自不同地方，各自目的不同。拥有神弃之地成员，被帕列斯怀疑“愚者”为其老朋友。",
+      "identInfos": [
+        "信仰“愚者”的隐秘组织",
+        "成员包括道恩·唐泰斯、格尔曼·斯帕罗等",
+        "与阿蒙、真实造物主等有交集"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 853,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们组织的成员来自不同的地方，因为不同的目的加入，选择改变自身的信仰，而在此之前，他们的人生依旧属于自己。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽所属组织，本 chunk 仅作为背景提及。",
+      "identInfos": [
+        "隐秘组织",
+        "“观众”途径组织",
+        "奥黛丽所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 859,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽已消化完“心理医生”魔药，计划在贝克兰德的“心理炼金会”联络她前，晋升至序列6。"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩军方",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过马赫特议员与道恩·唐泰斯洽谈军火走私生意，上校加尔文代表军方提供西拜朗军火。",
+      "identInfos": [
+        "鲁恩王国军队",
+        "参与军火走私",
+        "与道恩·唐泰斯合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 862,
+          "extractReason": "UPDATE",
+          "evidenceText": "“预备给你的那批枪支、弹药和少量火炮会在东拜朗某个仓库内……按报废价计算，顶多一万镑，当然，你得给我一万五千镑。”"
+        }
+      ]
+    },
+    {
+      "name": "红手套",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑夜教会精英非凡者队伍，伦纳德为其成员，可能追捕达尼兹。",
+      "identInfos": [
+        "黑夜教会精英非凡者小队",
+        "追捕异端和逃犯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了黑夜教会，风暴教会和军方也在针对我，据说各自派出了一整支队伍……达尼兹心头发颤地想着。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "派出队伍追捕达尼兹，在班西港事件中被克莱恩间接警示。",
+      "identInfos": [
+        "七正神教会之一",
+        "崇拜风暴之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 854,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了黑夜教会，风暴教会和军方也在针对我……"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在西拜朗有影响力，其皇室系支持梅桑耶斯，暗中与多位土著将军联系。",
+      "identInfos": [
+        "崇拜死神的组织",
+        "在南大陆有影响力",
+        "存在多个派系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "在西拜朗，有鲁恩人管理的城市……借助两个大国平衡需要，相对独立的邦一级势力，他们暗中与灵教团不同派系联络，争夺或自称死神后裔……"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "在西拜朗有很强影响力，许多将军酋长暗中臣服，对克莱恩前往西拜朗构成威胁。",
+      "identInfos": [
+        "邪恶组织",
+        "崇拜“欲望母树”",
+        "在南大陆势力强大"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 871,
+          "extractReason": "UPDATE",
+          "evidenceText": "玫瑰学派在西拜朗也有着很强的影响力，表面上没有哪个势力属于他们，但实际上，很多将军很多酋长都臣服于他们。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "魔镜，为克莱恩提供情报并执行警告：提供伦纳德住址、半神藏身处，对偷盗者半神发出警告并施以雷劈惩罚。在克莱恩询问时展现高情商，自称认错并讨好主人。",
+      "identInfos": [
+        "魔镜",
+        "能回答问题并展示画面",
+        "自称阿罗德斯",
+        "被克莱恩掌控"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 870,
+          "extractReason": "UPDATE",
+          "evidenceText": "“伟大的至高的尊贵的主人，您渺小的谦卑的惶恐的仆人阿罗德斯应您的召唤而来。”"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的人皮手套封印物，因融合A先生后负面效果增强，赞颂“真实造物主”失控。克莱恩在灰雾上用弗兰克的新蘑菇恐吓并谈判，达成每天三次赞颂、需预先提醒的协议，但每日吃人本能未解决。等待阿兹克提供新封印方法。",
+      "identInfos": [
+        "人皮手套封印物",
+        "能放牧灵魂获能力",
+        "需吃人维持",
+        "受阿兹克铜哨影响"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 856,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过一番占卜检查，他发现“蠕动的饥饿”这次相当倔强，负面效果没有任何改变。“这是被A先生感染了，决不放弃对‘真实造物主’的赞颂？”"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思的魔法书，在塔罗会上出租给“月亮”两天以狩猎“原始月亮”信徒，并为“世界”所知。",
+      "identInfos": [
+        "“魔术师”佛尔思的魔法书",
+        "能记录和释放非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 861,
+          "extractReason": "UPDATE",
+          "evidenceText": "她从暗袋内取出了那本“莱曼诺的旅行笔记”，准备一有不对，就立刻采取行动。"
+        }
+      ]
+    }
+  ]
+}

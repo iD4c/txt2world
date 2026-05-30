@@ -1,0 +1,329 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 967,
+      "toChapterSeq": 968,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "巫王卡拉曼",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩阻止巫王卡拉曼在蒸汽列车上的献祭仪式，并追踪重创对方，随后引导风暴教会清理其据点。"
+    },
+    {
+      "fromChapterSeq": 969,
+      "toChapterSeq": 970,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "欧内斯·博雅尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被监视者"
+        }
+      },
+      "relationSummary": "埃姆林受血族公爵奥尔默考验，需找出玫瑰学派成员，他决定将故意提供不完整情报的欧内斯·博雅尔引入丰收教堂进行劳动忏悔作为惩罚，并跟踪监视对方。"
+    },
+    {
+      "fromChapterSeq": 969,
+      "toChapterSeq": 969,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "奥尔默",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "血族公爵奥尔默召见埃姆林，交付找出贝克兰德玫瑰学派重要成员的考验任务。"
+    },
+    {
+      "fromChapterSeq": 970,
+      "toChapterSeq": 970,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "乌特拉夫斯基",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "埃姆林为惩罚欧内斯之事向丰收教堂神父乌特拉夫斯基请教，神父建议让欧内斯来教堂听布道、劳动忏悔。"
+    },
+    {
+      "fromChapterSeq": 973,
+      "toChapterSeq": 975,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "下级",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "赫温·兰比斯",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "赫温·兰比斯在心灵世界催眠奥黛丽，试图控制她监视父亲以加剧王国政治撕裂，但奥黛丽凭借愚者天使祝福保持清醒，表面服从实则欺骗对方。"
+    },
+    {
+      "fromChapterSeq": 971,
+      "toChapterSeq": 972,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "纳斯特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩以诡法师身份拜见五海之王纳斯特，探听罗塞尔大帝往事，得知大帝晚年常凝望西边迷雾海。"
+    },
+    {
+      "fromChapterSeq": 976,
+      "toChapterSeq": 977,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "帕特里克·布雷恩",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "灵教团半神帕特里克·布雷恩受人造死神神谕前来效忠克莱恩，克莱恩命令其停止唤醒仪式并推广识字教育，布雷恩完全服从。"
+    },
+    {
+      "fromChapterSeq": 978,
+      "toChapterSeq": 978,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩与魔女特莉丝再次联络，特莉丝对斯特福德子爵的调查还需一两个月，克莱恩表达合作意愿并交换信使联系方式。"
+    },
+    {
+      "fromChapterSeq": 978,
+      "toChapterSeq": 979,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "合作伙伴",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "合作伙伴",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩拜访婴儿威尔·昂赛汀，用幻术交流，得知乌洛琉斯被击伤，并说服威尔同意折纸鹤通讯。"
+    },
+    {
+      "fromChapterSeq": 980,
+      "toChapterSeq": 982,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "海柔尔·马赫特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩发现海柔尔的偷盗者老师接近失控，用幻术欺骗海柔尔去警告老师，实为利用她定位半神。"
+    },
+    {
+      "fromChapterSeq": 980,
+      "toChapterSeq": 982,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩在处理偷盗者半神时，阿蒙分身突然出现，吞噬了半神并顶替其身份，克莱恩立即逃离，双方明确为敌。"
+    },
+    {
+      "fromChapterSeq": 983,
+      "toChapterSeq": 986,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩为应对阿蒙威胁，在灰雾上与伦纳德商议，透露自己是隐秘眷者，并告知帕列斯·索罗亚斯德阿蒙已知伯克伦德街附近有偷盗者天使，双方制定清除阿蒙分身的计划。"
+    },
+    {
+      "fromChapterSeq": 983,
+      "toChapterSeq": 986,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "临时盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "帕列斯·索罗亚斯德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "临时盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "帕列斯·索罗亚斯德提出清除阿蒙分身的计划：以偷盗者非凡特性设陷阱，需在隐秘庇佑下进行，并索要时之虫作为回报。克莱恩决定合作并向黑夜教会举报阿蒙。"
+    }
+  ]
+}

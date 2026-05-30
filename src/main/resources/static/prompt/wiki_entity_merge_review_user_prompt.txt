@@ -1,0 +1,30 @@
+【阶段和角色】
+阶段3，角色WikiEntityMergeReviewWorker
+
+【本次目标】
+你现在是WikiEntityMergeReviewWorker。只检查输入的同一wikiSectionType的WorldObj列表，找出明显应该合并为同一个WorldObj的name。
+
+【分步引导】
+1. 阅读worldObjs，它们是条目编辑(ChunkWikiDraftWorker)从小说原文中抽取的对象草稿列表，已在Java中根据name、aliases是否存在一致简单地合并过。
+2. 输入中的每个对象只保留了name、wikiSectionType、aliases、identInfos。你只能根据这些字段判断，不要假设有别的字段。
+3. 重点识别称谓差异、敬称差异、简称/全称差异、别名误建造成的重复对象，例如“戴莉”和“戴莉女士”。
+4. identInfos代表“如何识别这个对象是谁”的稳定身份信息，可用来判断两个对象是否其实指向同一个身份。
+5. 只输出你确信应该合并的name组；不确定时不要输出。
+6. 你只提出合并建议，最终合并由Java执行。
+
+【输出格式】
+{"mergeGroups":[{"names":[""],"reason":""}]}
+
+【本阶段约束】
+只能基于worldObjs里的name、wikiSectionType、aliases、identInfos判断；
+本次输入已经是同一wikiSectionType的批次；
+只需要输出你确信是同一个对象的若干个name和你判断是同一个对象的理由(reason)。
+
+【本次输入】
+worldObjs：${worldObjs}
+
+【最后的提醒】
+1. 不能输出删除对象建议，本阶段只输出 mergeGroups。
+2. 不能因为两个对象同属一个势力、同场出现、关系密切就合并；只有名称/别名/identInfos 明显指向同一个对象才合并。
+3. names 中必须全部使用输入 worldObjs 里已经存在的 name，不能编造新名字。
+4. 不确定时宁可不合并。

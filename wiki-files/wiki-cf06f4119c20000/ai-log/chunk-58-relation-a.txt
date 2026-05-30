@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1143,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩联合贝尔纳黛攻击陵寝，贝尔纳黛按计划攻击东切斯特郡陵寝吸引注意，二人共同破坏乔治三世成神仪式。"
+    },
+    {
+      "fromChapterSeq": 1143,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "阿里安娜",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩召唤阿里安娜历史投影，对方响应并给予隐秘保护，协助他潜入陵寝。"
+    },
+    {
+      "fromChapterSeq": 1144,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "克莱恩在塔索克河下游陵寝遭遇查拉图陷阱，被转移到黑色尖顶教堂世界，陷入查拉图设下的奇迹场景。"
+    },
+    {
+      "fromChapterSeq": 1144,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩被困查拉图的奇迹场景时，威尔·昂赛汀的“重启”能力逆转局势，帮助克莱恩逃脱。"
+    },
+    {
+      "fromChapterSeq": 1143,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩召唤阿兹克·艾格斯的历史投影，化为羽蛇神攻击，用于吸引注意，协助破坏陵寝。"
+    },
+    {
+      "fromChapterSeq": 1140,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "乔治三世",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩策划破坏乔治三世成神仪式，乔治三世则设局利用演讲钓出反对者并趁机晋升，双方形成敌对关系。"
+    },
+    {
+      "fromChapterSeq": 1145,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "乔治三世",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "乔治三世与查拉图合作，并签订契约，共同应对破坏仪式的敌人。"
+    },
+    {
+      "fromChapterSeq": 1141,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "特莉丝主动联系克莱恩合作破坏乔治三世成神仪式，提供“门”先生对话方法和血液，并亲自潜入“1号遗迹”。"
+    },
+    {
+      "fromChapterSeq": 1144,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "威廉·奥古斯都一世",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "贝尔纳黛攻击陵寝时，威廉·奥古斯都一世降临阻止，双方激战。"
+    },
+    {
+      "fromChapterSeq": 1144,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "德林克·奥古斯都",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "德林克亲王识破克莱恩计谋，亲自降临阿霍瓦郡陵寝应对克莱恩的攻击。"
+    },
+    {
+      "fromChapterSeq": 1144,
+      "toChapterSeq": 1145,
+      "characterA": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "格罗夫亲王",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "特莉丝潜入“1号遗迹”时，格罗夫亲王使用封印物和禁令逼其现身，双方对立。"
+    }
+  ]
+}

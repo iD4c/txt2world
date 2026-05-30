@@ -1,0 +1,2020 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩因发现光门和蚕茧，精神崩溃，接受奥黛丽心理治疗，确立调查穿越真相的新目标。他怀疑精灵王和远古太阳神可能是穿越者，获得“红祭司”牌及序列0配方。他返回贝克兰德途中完成军火交易，结识半神卢卡·布鲁斯特，获利4.5万镑。拉伦纳德和休入塔罗会，分享亚当情报，公布击杀因斯·赞格威尔成为半神。遭遇梅迪奇恶灵追踪，提前离开。",
+      "identInfos": [
+        "愚者眷者",
+        "穿越者",
+        "塔罗会“世界”",
+        "格尔曼·斯帕罗/道恩·唐泰斯",
+        "序列4诡法师",
+        "复仇杀死因斯·赞格威尔"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 947,
+          "extractReason": "UPDATE",
+          "evidenceText": "墙壁另外一边的格尔曼·斯帕罗沉默了下，不答反问道：“你对未来有什么期望？”"
+        },
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "他前方桌面上，右边是“黑皇帝”、“暴君”和“红祭司”三张亵渎之牌"
+        },
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩怀疑的第一个对象毫无疑问是精灵王苏尼亚索列姆。"
+        },
+        {
+          "chapterSeq": 950,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩·莫雷蒂又活了过来，为什么不到一年就能击杀身为半神拿着‘0-08’的因斯·赞格威尔"
+        },
+        {
+          "chapterSeq": 951,
+          "extractReason": "UPDATE",
+          "evidenceText": "他们分别挑了一张塔罗牌为自己的代号，你也可以抽一张。"
+        },
+        {
+          "chapterSeq": 952,
+          "extractReason": "UPDATE",
+          "evidenceText": "返回“黄金梦想号”"
+        },
+        {
+          "chapterSeq": 953,
+          "extractReason": "UPDATE",
+          "evidenceText": "哈吉斯由衷点头，用那种鲁恩贵族腔调道：“他是一个坚毅而勇敢的人"
+        },
+        {
+          "chapterSeq": 954,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思随手指着前方，“我之前还不觉得，现在越想越疑惑。”"
+        },
+        {
+          "chapterSeq": 955,
+          "extractReason": "UPDATE",
+          "evidenceText": "休想了想，伸出双手，比划着说道：“古老怨灵？我们对付得了吗？”"
+        },
+        {
+          "chapterSeq": 956,
+          "extractReason": "UPDATE",
+          "evidenceText": "紧接着，她唇瓣微动，低低诵念起“愚者”先生的尊名。"
+        },
+        {
+          "chapterSeq": 957,
+          "extractReason": "UPDATE",
+          "evidenceText": "“真是一个神棍啊。”“是的。”"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“愚者”克莱恩坐到了属于“愚者”的位置。"
+        },
+        {
+          "chapterSeq": 959,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅微侧身体，将目光投向了“魔术师”"
+        },
+        {
+          "chapterSeq": 960,
+          "extractReason": "UPDATE",
+          "evidenceText": "“军情九处最近在调查格尔曼·斯帕罗的来历。”"
+        },
+        {
+          "chapterSeq": 961,
+          "extractReason": "UPDATE",
+          "evidenceText": "“亚当距离神位更近了。”"
+        },
+        {
+          "chapterSeq": 962,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰就发现“愚者”先生与以往不太一样。"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“战争天使”梅迪奇虽然早已陨落，但并没有彻底逝去"
+        },
+        {
+          "chapterSeq": 964,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅迪奇之所以会失手被抓，就是因为祂当时正在对付踏入了祂陷阱的索伦家族先祖。"
+        },
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "“阿尔弗雷德！”哈吉斯也注意到了这位先生"
+        },
+        {
+          "chapterSeq": 966,
+          "extractReason": "UPDATE",
+          "evidenceText": "鬓角斑白头戴礼帽的绅士拿着一根镶金手杖，带着肤色偏棕的仆人"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        947,
+        948,
+        949,
+        950,
+        951,
+        952,
+        953,
+        954,
+        955,
+        956,
+        957,
+        958,
+        959,
+        960,
+        961,
+        962,
+        963,
+        964,
+        965,
+        966
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽为“世界”格尔曼·斯帕罗提供心理治疗，安抚其情绪崩溃，引导建立新目标。她发现“愚者”状态变化，猜测其更近复苏。塔罗会上，她观察到新成员“星星”和“审判”，并从“世界”处得知亚当信息。她参与慈善基金，参观技术大学。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "心理医生",
+        "霍尔伯爵之女",
+        "金发碧眼",
+        "鲁恩慈善助学基金成员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 947,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽来到了灰雾之上，来到了那个恢弘古朴的宫殿内。她随即看见侧方多了一个小房间"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽刚恢复对周围的感知，就准备起身离座，向青铜长桌最上首行礼问好。"
+        },
+        {
+          "chapterSeq": 966,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽正与几位“鲁恩慈善助学基金”的工作人员行走于校园内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        947,
+        958,
+        959,
+        960,
+        961,
+        962,
+        963,
+        966
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林以5000镑购得序列5非凡特性，被告知血族公爵将见他。他为“世界”调配心理药剂，调查古堡情报问题。塔罗会上，他询问如何应对血族大人物，并被“星星”认出。",
+      "identInfos": [
+        "塔罗会“月亮”",
+        "血族",
+        "丰收教堂",
+        "序列5深红学者",
+        "始祖选中者"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特撇了下嘴巴，于心里嘀咕道：“一共才7镑的生意，真是不想接啊"
+        },
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "我收获了一份序列5‘深红学者’的非凡特性"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林的情绪则有些复杂，一方面，在新来的成员那里，他充满资深者的优越感"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”小姐，你给予的废弃古堡情报很有问题。"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "族内有位大人物即将抵达贝克兰德，点名要见我。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        949,
+        958,
+        963
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德被拉入塔罗会，获代号“星星”。他震惊于塔罗会规模，渴望购买神奇物品。他被告知亚当等秘密，并确认克莱恩未死。他向帕列斯透露加入塔罗会之事，得知“愚者”可能来历不凡。",
+      "identInfos": [
+        "塔罗会“星星”",
+        "值夜者红手套",
+        "梦魇",
+        "克莱恩队友",
+        "被帕列斯寄生"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“休整一天，然后返回贝克兰德？”伦纳德抬起脑袋，看向小队队长索斯特。"
+        },
+        {
+          "chapterSeq": 951,
+          "extractReason": "UPDATE",
+          "evidenceText": "等到伦纳德反应过来，眼前已出现了一根根高耸的石柱"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”伦纳德一阵寻找后，初步判断青铜长桌最下方那位应该就是克莱恩·莫雷蒂"
+        },
+        {
+          "chapterSeq": 959,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”先生是官方非凡者，至少曾经是！"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "那个恶灵是“战争天使”梅迪奇？"
+        },
+        {
+          "chapterSeq": 964,
+          "extractReason": "UPDATE",
+          "evidenceText": "老头，你刚才不是问我去了谁的梦境吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        950,
+        951,
+        958,
+        959,
+        960,
+        961,
+        962,
+        963,
+        964
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休与佛尔思探索废弃古堡，遭遇古老怨灵和青铜门侵蚀，向“愚者”祈祷获救。她被拉入塔罗会，获代号“审判”。她得知格尔曼·斯帕罗即道恩·唐泰斯，并告知军情九处调查格尔曼来历。",
+      "identInfos": [
+        "塔罗会“审判”",
+        "审讯者",
+        "赏金猎人",
+        "佛尔思好友",
+        "军情九处合作者"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "休揉了揉右侧的金发道：“又和军情九处见面，接了一个任务。”"
+        },
+        {
+          "chapterSeq": 954,
+          "extractReason": "UPDATE",
+          "evidenceText": "自称要早早睡觉的休不知什么时候已然醒来，睁着眼睛，看着她。"
+        },
+        {
+          "chapterSeq": 956,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她面前的青铜长桌上，立刻多了一副塔罗牌。休伸出右手，郑重切了下牌，抽取了一张，翻开于桌面。她的这张牌描绘的是拿着号角的天使和等待救赎的逝者。“审判”牌！"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“审判”休也借助“治安官”的能力，提炼出了不同成员的特征"
+        },
+        {
+          "chapterSeq": 960,
+          "extractReason": "UPDATE",
+          "evidenceText": "“军情九处最近在调查格尔曼·斯帕罗的来历。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        950,
+        954,
+        955,
+        956,
+        958,
+        960
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思与休探索古堡，遭遇古老怨灵和青铜门侵蚀，向“愚者”祈祷获救。她委托“倒吊人”制作神奇物品未果，从“隐者”处得到承诺。她担心提及亚当名字被知，并分享古堡情报。",
+      "identInfos": [
+        "塔罗会“魔术师”",
+        "占星人",
+        "亚伯拉罕家族",
+        "休的好友",
+        "莱曼诺旅行笔记持有者"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思将祭坛上的一瓶瓶玻璃药剂摆好"
+        },
+        {
+          "chapterSeq": 954,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思紧握“莱曼诺的旅行笔记”，连忙追了上去。"
+        },
+        {
+          "chapterSeq": 956,
+          "extractReason": "UPDATE",
+          "evidenceText": "她越想越怕，鼓起勇气，低声诵念起“愚者”先生的尊名。"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思看了旁边沉默的休一眼，主动望向对面道"
+        },
+        {
+          "chapterSeq": 962,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我，我在现实世界提过，提过亚当。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        950,
+        954,
+        955,
+        956,
+        958,
+        959,
+        960,
+        961,
+        962,
+        963
+      ]
+    },
+    {
+      "name": "阿尔杰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰参与塔罗会，发现“愚者”变化，推测其与亚当合作。他建议“月亮”应对血族考验，并分享因斯·赞格威尔死讯。他决定探索苏尼亚海北部，远离班西。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "海洋歌者",
+        "幽蓝复仇者号船长",
+        "风暴教会线人",
+        "野心家"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰、“隐者”嘉德丽雅也看见了两名新成员"
+        },
+        {
+          "chapterSeq": 962,
+          "extractReason": "UPDATE",
+          "evidenceText": "几乎是瞬间，“倒吊人”阿尔杰就发现“愚者”先生与以往不太一样。"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰经过几秒的思考，侧头看向“月亮”，斟酌着开口了"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        958,
+        959,
+        960,
+        961,
+        962,
+        963
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅参与塔罗会，处理“工匠”夏尔夫被控制事务。她安抚佛尔思对亚当的担忧，并震惊于“世界”成为半神。她思考亚当可能为黄昏隐士会首领。",
+      "identInfos": [
+        "塔罗会“隐者”",
+        "星之上将",
+        "窥秘人途径",
+        "摩斯苦修会",
+        "神秘女王属下"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅转向青铜长桌最上首，行了一礼道：“尊敬的‘愚者’先生，这次没有收到罗塞尔日记。”"
+        },
+        {
+          "chapterSeq": 959,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅微侧身体，将目光投向了“魔术师”"
+        },
+        {
+          "chapterSeq": 961,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅的脑海瞬息间竟有点空白。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        958,
+        959,
+        960,
+        961,
+        962,
+        963
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在塔罗会上分享白银城准备探索巨人王庭，并已获“光之祭司”材料。他为“世界”成为半神感到高兴。他思考如何告知首席亚当信息。",
+      "identInfos": [
+        "塔罗会“太阳”",
+        "白银城居民",
+        "光之祭司",
+        "愚者信徒"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克纯粹地感觉高兴，因为塔罗会的成员又增加了！"
+        },
+        {
+          "chapterSeq": 959,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克主动举了下手道：“我已经回到白银城。首席告诉我，再等一段时间，就要开始对‘巨人王庭’做初步探索了。"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克没有发言，也未展开联想，认认真真听着“世界”先生的描述"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        958,
+        959,
+        963
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "达尼兹在库克瓦城接到“阴谋家”配方，奉命返回“黄金梦想号”。他撞见安德森准备剖腹取“蚕茧”，被其说服带其一同离开。",
+      "identInfos": [
+        "烈焰达尼兹",
+        "黄金梦想号海盗",
+        "愚者信徒",
+        "猎人途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 951,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩想了想，将“猎人”途径序列6“阴谋家”的魔药配方，丢入了代表达尼兹的那个光点，并以格尔曼·斯帕罗的口吻吩咐他离开南大陆，返回“黄金梦想号”。"
+        },
+        {
+          "chapterSeq": 952,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹吓了一跳，脱口而出道：“不好意思了，打扰了……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        951,
+        952
+      ]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安德森因体内被植入“蚕茧”而试图剖腹取出，被达尼兹撞见后放弃，决定随达尼兹离开南大陆寻求解决方法。",
+      "identInfos": [
+        "迷雾海最强猎人",
+        "猎人途径",
+        "被植入蚕茧",
+        "与达尼兹同行"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 952,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森正拿着短刃，在自己肚子上比划。"
+        },
+        {
+          "chapterSeq": 952,
+          "extractReason": "UPDATE",
+          "evidenceText": "我曾经被放到一个全是血的大缸里，里面泡着很多材料，它们渗透进我的皮肤，在我肚子里结成一个奇怪的‘蚕茧’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        952
+      ]
+    },
+    {
+      "name": "卢卡·布鲁斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "卢卡·布鲁斯特是知识与智慧之神教会半神，预言克莱恩能助其化解未来困境。他通过梅桑耶斯拜访克莱恩，确认其为“诡法师”，并提及查拉图回归。",
+      "identInfos": [
+        "知识与智慧之神教会半神",
+        "预言家",
+        "西拜朗负责人",
+        "序列4以上"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 953,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“卢卡阁下，这是你等待的人吗？”"
+        },
+        {
+          "chapterSeq": 957,
+          "extractReason": "UPDATE",
+          "evidenceText": "我叫卢卡·布鲁斯特，是侍奉‘知识与智慧之神’的神职人员，目前负责教会在西拜朗的各项事务。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        953,
+        957
+      ]
+    },
+    {
+      "name": "梅桑耶斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅桑耶斯是西拜朗北方邦统治者，自称上将。他与克莱恩进行军火交易，支付5万镑，并引荐半神卢卡。",
+      "identInfos": [
+        "西拜朗北方邦上将",
+        "序列5非凡者",
+        "与克莱恩军火交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 953,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "梅桑耶斯沉默了一下道：“开出你的价格。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        953
+      ]
+    },
+    {
+      "name": "哈吉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "哈吉斯是梅桑耶斯的手下，负责军火交易，与克莱恩交接定金和尾款，并告知阿尔弗雷德·霍尔行踪。",
+      "identInfos": [
+        "梅桑耶斯下属",
+        "拜朗人",
+        "负责军火交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 953,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“下午好，我是哈吉斯，很荣幸见到您。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        953,
+        957,
+        965,
+        966
+      ]
+    },
+    {
+      "name": "阿尔弗雷德·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔弗雷德是奥黛丽的二哥，在东拜朗服役，为上校。他在军火交接时出现，与克莱恩寒暄，展现出“仲裁人”途径特征。",
+      "identInfos": [
+        "霍尔伯爵次子",
+        "奥黛丽二哥",
+        "东拜朗军队上校",
+        "仲裁人途径非凡者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 953,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我的朋友，阿尔弗雷德·霍尔上校，是一位伯爵的次子。"
+        },
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "“阿尔弗雷德！”哈吉斯也注意到了这位先生，略感惊喜地开口喊道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        953,
+        965,
+        966
+      ]
+    },
+    {
+      "name": "帕格尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "帕格尼是阿尔弗雷德的同伴，黑发褐瞳，参与军火交易监视。",
+      "identInfos": [
+        "阿尔弗雷德同伴",
+        "黑发褐瞳",
+        "军队人员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 965,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "黑发褐瞳的男子顿时“呵”了一声：“率领几十个人就敢袭击上千人军队的阿尔弗雷德·霍尔竟然说自己不敢冒险！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        965
+      ]
+    },
+    {
+      "name": "克雷斯泰·塞西玛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塞西玛是黑夜教会值夜者高级执事，“红手套”三巨头之一，奉命在贝克兰德寻找地下遗迹。他被告知克莱恩·莫雷蒂未死且成为半神。",
+      "identInfos": [
+        "值夜者高级执事",
+        "红手套三巨头",
+        "黑夜教会半神",
+        "寻找地下遗迹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克雷斯泰·塞西玛不是一个在意排场的人，他喜欢独自出行，乘坐平民们的交通工具"
+        },
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "我的任务就是找到那处遗迹。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        950
+      ]
+    },
+    {
+      "name": "圣安东尼·史蒂文森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "圣安东尼是贝克兰德教区大主教，圣者，接待塞西玛，得知克莱恩·莫雷蒂疑为女神眷者。",
+      "identInfos": [
+        "贝克兰德大主教",
+        "圣者",
+        "黑夜教会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "圣安东尼·史蒂文森。"
+        },
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "也许，这是一位，女神的眷者……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        950
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蕾妮特·缇尼科尔作为信使，收取克莱恩1万金币报酬，并因克莱恩赚钱能力提升决定后续任务加价。",
+      "identInfos": [
+        "信使小姐",
+        "灵界强者",
+        "四个金发红眼脑袋",
+        "曾为莎伦老师"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 966,
+          "extractReason": "UPDATE",
+          "evidenceText": "提着四个金发红眼脑袋的蕾妮特·缇尼科尔当即从虚空里跨出"
+        },
+        {
+          "chapterSeq": 966,
+          "extractReason": "UPDATE",
+          "evidenceText": "“任务……”“定价……”“取决于……”“你……”“赚钱……”“的……”“能力……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        948,
+        966
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "帕列斯寄生在伦纳德体内，苏醒后与伦纳德对话，承认亚当能察觉寄生，但不知具体身份。他解释天使之王概念，讲述梅迪奇与索伦、艾因霍恩的仇怨。",
+      "identInfos": [
+        "偷盗者途径序列1天使",
+        "寄生伦纳德",
+        "时之虫",
+        "索罗亚斯德家族",
+        "躲避阿蒙"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 964,
+          "extractReason": "UPDATE",
+          "evidenceText": "“老头，你刚才不是问我去了谁的梦境吗？"
+        },
+        {
+          "chapterSeq": 964,
+          "extractReason": "UPDATE",
+          "evidenceText": "你提醒了我，阿兹克·艾格斯确实有一张可以让他变成任何人的面具。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        964
+      ]
+    },
+    {
+      "name": "梅迪奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "梅迪奇恶灵糅合索伦、艾因霍恩残魂，控制路德维尔尸体追踪克莱恩，试图夺取“猎人”物品。三魂争执后妥协共同寻找“看门人”。",
+      "identInfos": [
+        "红天使恶灵",
+        "战争天使",
+        "救赎蔷薇创始者",
+        "与索伦、艾因霍恩残魂融合"
+      ],
+      "aliases": [
+        {
+          "alias": "红天使",
+          "type": "称号"
+        },
+        {
+          "alias": "战争天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "路德维尔左边脸颊上陡然裂出了一张血淋淋的嘴巴，张合着道：“梅迪奇，我们首先需要解决的是存在的问题！”"
+        },
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”梅迪奇控制路德维尔尸体追踪克莱恩"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        965
+      ]
+    },
+    {
+      "name": "路德维尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "路德维尔已成为克莱恩的秘偶，但被梅迪奇恶灵控制尸体追踪克莱恩，体内冥界支撑将消散。",
+      "identInfos": [
+        "地狱上将",
+        "看门人",
+        "曾为克莱恩秘偶",
+        "被梅迪奇恶灵控制"
+      ],
+      "aliases": [
+        {
+          "alias": "地狱上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "路德维尔左边脸颊上陡然裂出了一张血淋淋的嘴巴"
+        },
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个秘偶与主人彻底失去联系后，已经等于真正死去"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        965
+      ]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "亚当在因斯·赞格威尔事件后获得“0-08”，距离神位更近。祂是“空想天使”，远古太阳神之子，阿蒙兄弟，黄昏隐士会首领，具有“凡有言必被知”特性。",
+      "identInfos": [
+        "空想天使",
+        "天使之王",
+        "观众途径",
+        "黄昏隐士会首领",
+        "远古太阳神之子",
+        "阿蒙兄弟"
+      ],
+      "aliases": [
+        {
+          "alias": "空想天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 961,
+          "extractReason": "UPDATE",
+          "evidenceText": "“亚当距离神位更近了。”"
+        },
+        {
+          "chapterSeq": 962,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚当很可能建立了一个非常隐秘的组织，在暗中引导时代的发展。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        961,
+        962
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及威尔·昂赛汀，但本章无直接出场。",
+      "identInfos": [
+        "命运之蛇",
+        "生命学派议长",
+        "怪物途径天使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 957,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩通过千纸鹤咨询威尔·昂赛汀"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿兹克被提及有一张能变成任何人的面具，曾伪装成道恩·唐泰斯。",
+      "identInfos": [
+        "死亡执政官",
+        "克莱恩老师",
+        "死神之子",
+        "多次失忆"
+      ],
+      "aliases": [
+        {
+          "alias": "死亡执政官",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 964,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克·艾格斯确实有一张可以让他变成任何人的面具。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "贝尔纳黛·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及贝尔纳黛，但无直接出场。",
+      "identInfos": [
+        "神秘女王",
+        "罗塞尔之女",
+        "元素黎明首领"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅转向青铜长桌最上首，行了一礼道：“尊敬的‘愚者’先生，这次没有收到罗塞尔日记。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "夏尔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "夏尔夫是“工匠”，被信仰“原始月亮”之人控制，嘉德丽雅计划处理。",
+      "identInfos": [
+        "工匠",
+        "被原始月亮信徒控制",
+        "可能为罗塞尔后裔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位‘工匠’被玫瑰学派内部信仰‘原始月亮’的一些成员控制了"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "格尔曼·斯帕罗是克莱恩的常用身份，在本chunk中作为“世界”被提及，军情九处调查其来历，他在塔罗会上公开击杀因斯·赞格威尔成为半神。",
+      "identInfos": [
+        "疯狂冒险家",
+        "愚者眷者",
+        "序列4诡法师",
+        "击杀因斯·赞格威尔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 947,
+          "extractReason": "UPDATE",
+          "evidenceText": "格尔曼·斯帕罗沉默了下，不答反问道"
+        },
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "格尔曼·斯帕罗杀掉了“地狱上将”路德维尔，被称为五海最强冒险家。"
+        },
+        {
+          "chapterSeq": 960,
+          "extractReason": "UPDATE",
+          "evidenceText": "“军情九处最近在调查格尔曼·斯帕罗的来历。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        947,
+        948,
+        950,
+        951,
+        957,
+        958,
+        960,
+        961
+      ]
+    },
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩·莫雷蒂被确认未死，成为半神，是女神眷者。黑夜教会高层对其复活震惊，决定不追查。",
+      "identInfos": [
+        "原值夜者",
+        "愚者",
+        "穿越者",
+        "廷根事件中殉职"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "一个你永远也不敢相信的名字，克莱恩·莫雷蒂。"
+        },
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "在廷根事件里殉职的那位‘值夜者’队员？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "伊丽娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伊丽娅从因斯·赞格威尔残留灵中获取情报，上报克莱恩未死。",
+      "identInfos": [
+        "黑夜教会通灵者",
+        "从因斯灵中获取情报"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "伊丽娅女士从因斯·赞格威尔残留的灵中知晓了许多重要情况"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "恩佐",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "恩佐是克莱恩的秘偶“赢家”，用于伪装仆人，协助处理财物。",
+      "identInfos": [
+        "克莱恩秘偶",
+        "赢家",
+        "怪物途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 966,
+          "extractReason": "UPDATE",
+          "evidenceText": "变成混血年轻人的“赢家”恩佐打开了手中的箱子"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        966
+      ]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "索斯特是红手套小队队长，通知伦纳德休整后返回贝克兰德。",
+      "identInfos": [
+        "红手套队长",
+        "伦纳德上司"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“休整一天，然后返回贝克兰德？”伦纳德抬起脑袋，看向小队队长索斯特。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        950
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿蒙作为亚当兄弟被提及，是“渎神者”，时天使，在白银城留下恐怖。",
+      "identInfos": [
+        "渎神者",
+        "时天使",
+        "天使之王",
+        "远古太阳神之子",
+        "亚当兄弟"
+      ],
+      "aliases": [
+        {
+          "alias": "渎神者",
+          "type": "称号"
+        },
+        {
+          "alias": "时天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "祂给自己的孩子取名亚当和阿蒙"
+        },
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“时天使”阿蒙更是亲自登场，带来了无法言喻的恐怖。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "苏尼亚索列姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩怀疑精灵王苏尼亚索列姆是穿越者。",
+      "identInfos": [
+        "精灵王",
+        "古神",
+        "疑似穿越者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩怀疑的第一个对象毫无疑问是精灵王苏尼亚索列姆。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "远古太阳神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩怀疑远古太阳神是穿越者，其象征元素有十字架，孩子名亚当阿蒙，被天使之王分食。",
+      "identInfos": [
+        "白银城造物主",
+        "远古太阳神",
+        "疑似穿越者",
+        "被分食"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "远古太阳神，白银城造物主！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "查拉图是密修会首领，序列1诡秘侍者，被提及回归。",
+      "identInfos": [
+        "密修会首领",
+        "占卜家途径天使",
+        "与安提哥努斯敌对"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 957,
+          "extractReason": "UPDATE",
+          "evidenceText": "查拉图回归了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "因斯·赞格威尔被克莱恩击杀，其死讯在塔罗会分享，黑夜教会调查其遗留线索。",
+      "identInfos": [
+        "前黑夜大主教",
+        "半神",
+        "持有0-08",
+        "被克莱恩击杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔的事情有关？"
+        },
+        {
+          "chapterSeq": 961,
+          "extractReason": "UPDATE",
+          "evidenceText": "击杀因斯·赞格威尔的是我和我的同伴。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "乌洛琉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及乌洛琉斯，但无直接出场。",
+      "identInfos": [
+        "命运天使",
+        "救赎蔷薇成员",
+        "怪物途径天使之王"
+      ],
+      "aliases": [
+        {
+          "alias": "命运天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“命运天使”乌洛琉斯"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "萨斯利尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "萨斯利尔为暗天使，救赎蔷薇成员。",
+      "identInfos": [
+        "暗天使",
+        "救赎蔷薇成员"
+      ],
+      "aliases": [
+        {
+          "alias": "暗天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 963,
+          "extractReason": "UPDATE",
+          "evidenceText": "“暗天使”萨斯利尔"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉在因斯·赞格威尔战斗中强行通灵，因代价失控濒死，被克莱恩秘偶化后逝去。",
+      "identInfos": [
+        "值夜者",
+        "灵巫",
+        "戴莉女士"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉·西蒙妮强行通灵"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "索伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "索伦家族先祖残魂与梅迪奇、艾因霍恩残魂融合成恶灵。",
+      "identInfos": [
+        "索伦家族先祖",
+        "天使残魂",
+        "与梅迪奇融合"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "索伦家族先祖"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "艾因霍恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾因霍恩家族先祖残魂与梅迪奇、索伦残魂融合成恶灵。",
+      "identInfos": [
+        "艾因霍恩家族先祖",
+        "天使残魂",
+        "与梅迪奇融合"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 965,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾因霍恩两大家族的先辈残魂"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "福生玄黄天尊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩猜测福生玄黄天尊可能是布置穿越的存在。",
+      "identInfos": [
+        "可能的高位存在",
+        "与穿越有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "福生玄黄天尊？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本chunk新增“星星”伦纳德和“审判”休两名成员。会议分享亚当、“红天使”恶灵等信息，确认“世界”成为半神，展现组织隐秘性和影响力。",
+      "identInfos": [
+        "愚者召集的隐秘组织",
+        "以塔罗牌为代号",
+        "成员遍布各地",
+        "定期神前会议"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是他们自己组织的聚会，由我召集。"
+        },
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”伦纳德和“审判”休也各有感受"
+        }
+      ]
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在塔罗会透露亚当建立的隐秘组织黄昏隐士会，在暗中引导时代，具有“凡有言必被知”特性。",
+      "identInfos": [
+        "亚当创建",
+        "隐秘组织",
+        "成员众多大人物",
+        "引导时代发展"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 962,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚当很可能建立了一个非常隐秘的组织，在暗中引导时代的发展。"
+        }
+      ]
+    },
+    {
+      "name": "黑夜教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜教会塞西玛奉命调查因斯·赞格威尔相关地下遗迹，得知克莱恩未死，怀疑其为女神眷者。教会对克莱恩复活严格保密。",
+      "identInfos": [
+        "七大正神教会之一",
+        "值夜者",
+        "红手套",
+        "圣赛缪尔教堂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣座让我们严格保密这个消息，不许泄露给大主教和高级执事外的任何人"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "军情九处调查格尔曼·斯帕罗来历，确认其身份伪造，源头在贝克兰德。休接受相关任务。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "调查格尔曼·斯帕罗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "军情九处最近在调查格尔曼·斯帕罗的来历。"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族大人物即将抵达贝克兰德见埃姆林，可能涉及考验。血族内部有古堡情报。",
+      "identInfos": [
+        "埃姆林·怀特所属种族",
+        "古老种族",
+        "有天使层次大人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "族内有位大人物即将抵达贝克兰德，点名要见我。"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "灵教团皇室系支持西拜朗梅桑耶斯，被提及但无直接剧情。",
+      "identInfos": [
+        "死神途径组织",
+        "人造死神计划"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 953,
+          "extractReason": "UPDATE",
+          "evidenceText": "暗中却已得到灵教团皇室系的支持。"
+        }
+      ]
+    },
+    {
+      "name": "知识与智慧之神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "半神卢卡·布鲁斯特代表教会，预言克莱恩能助其化解困境。教会与梅桑耶斯有联系。",
+      "identInfos": [
+        "正神教会",
+        "卢卡·布鲁斯特所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 957,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我叫卢卡·布鲁斯特，是侍奉‘知识与智慧之神’的神职人员"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "密修会有异动，查拉图回归，与“占卜家”途径相关。",
+      "identInfos": [
+        "占卜家途径组织",
+        "查拉图为首领",
+        "与安提哥努斯敌对"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 957,
+          "extractReason": "UPDATE",
+          "evidenceText": "我最近收到情报，说因蒂斯的密修会有异动。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派内部信仰“原始月亮”的成员控制工匠夏尔夫，嘉德丽雅处理此事。",
+      "identInfos": [
+        "信仰“欲望母树”或“原始月亮”",
+        "控制工匠夏尔夫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位‘工匠’被玫瑰学派内部信仰‘原始月亮’的一些成员控制了"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩慈善助学基金",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽参与慈善基金，在技术大学协助申请者注册，该基金旨在帮助贫困学生。",
+      "identInfos": [
+        "慈善机构",
+        "奥黛丽参与",
+        "帮助贫困学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 966,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "奥黛丽和“鲁恩慈善助学基金”的工作人员来到这里，配合第一批通过审核的申请者办理入学手续。"
+        }
+      ]
+    },
+    {
+      "name": "北方邦",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "西拜朗北方邦由梅桑耶斯统治，与克莱恩进行军火交易。",
+      "identInfos": [
+        "西拜朗地方势力",
+        "梅桑耶斯统治"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 953,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅桑耶斯沉默了一下道：“开出你的价格。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "红祭司牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩获得“红祭司”亵渎之牌，展示“猎人”途径序列0“红祭司”配方：掀起席卷大陆的战争并获得足够胜利。",
+      "identInfos": [
+        "亵渎之牌",
+        "猎人途径序列0",
+        "罗塞尔制作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "红祭司”牌！"
+        },
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "“序列0：红祭司……掀起一场席卷大陆的战争并获得足够的胜利”"
+        }
+      ]
+    },
+    {
+      "name": "0-08",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "0-08被亚当获取，使其距离神位更近。该封印物具有“凡有言必被知”特性，影响范围可达大都市。",
+      "identInfos": [
+        "0级封印物",
+        "观众途径",
+        "已由亚当掌握"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 950,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔被‘0-08’反噬"
+        },
+        {
+          "chapterSeq": 964,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘0-08’的影响范围也就一座大都市，亚当则是全世界。"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩通过伦纳德归还“蠕动的饥饿”，但具体使用未描述。",
+      "identInfos": [
+        "克莱恩的神奇物品",
+        "手套形态",
+        "可放牧灵魂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "左侧放着伦纳德·米切尔刚通过信使小姐蕾妮特·缇尼科尔送回来的“蠕动的饥饿”。"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思使用“莱曼诺的旅行笔记”在古堡战斗，释放“黑暗之翼”、“深渊枷锁”、“闪电风暴”等能力。",
+      "identInfos": [
+        "佛尔思的神奇物品",
+        "记录官途径",
+        "可记录和使用多种非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 955,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思的手指滑过了“莱曼诺的旅行笔记”其中一页"
+        }
+      ]
+    },
+    {
+      "name": "古老怨灵的诅咒物",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思与休在古堡击杀两名古老怨灵，获得戒指状诅咒物和水晶眼球诅咒物，以及残余灵性和粉尘。",
+      "identInfos": [
+        "来自废弃古堡",
+        "戒指状和水晶眼球状"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 956,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一个呈环状，全透明，仿佛被侵蚀的戒指，一个像是水晶雕成的眼睛，有淡淡的黑气在里面流淌。"
+        }
+      ]
+    },
+    {
+      "name": "偷盗者途径神奇物品断指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及收购“断指”，但无直接描述。",
+      "identInfos": [
+        "偷盗者途径",
+        "从嘉德丽雅处获得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 957,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收购“断指”"
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及“丧钟”左轮，但无直接使用。",
+      "identInfos": [
+        "神奇物品",
+        "左轮手枪",
+        "在拜亚姆获得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩用“丧钟”左轮击杀因斯·赞格威尔"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩提及使用“海神权杖”远程降雷攻击因斯·赞格威尔。",
+      "identInfos": [
+        "风暴途径封印物",
+        "可以掌控海洋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩以“海神权杖”远程降雷"
+        }
+      ]
+    },
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩使用“窃运者”符咒对付因斯·赞格威尔，分离“红天使”恶灵。",
+      "identInfos": [
+        "由时之虫制作",
+        "可窃取命运",
+        "帕列斯提供"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩用“窃运者”符咒分离“红天使”恶灵至冥界"
+        }
+      ]
+    },
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及，但无直接描述。",
+      "identInfos": [
+        "0级封印物",
+        "怪物途径唯一性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "骰子掷出1点逼退极光会圣者"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及使用“全黑之眼”恐吓骰子。",
+      "identInfos": [
+        "克莱恩的神奇物品",
+        "可用于恐吓"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩凭借“全黑之眼”恐吓骰子令其暂时安静"
+        }
+      ]
+    },
+    {
+      "name": "火种手套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "伦纳德卖掉“火种”手套，现有资金充裕。",
+      "identInfos": [
+        "神奇物品",
+        "可窃取非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 958,
+          "extractReason": "UPDATE",
+          "evidenceText": "卖掉“火种”手套后，他并不缺乏金钱"
+        }
+      ]
+    },
+    {
+      "name": "月亮木偶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩研究木偶，发现与“原始月亮”有关，引发血月。",
+      "identInfos": [
+        "来自原始月亮信徒",
+        "引发血月"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩研究木偶，发现其与“原始月亮”有关，并引发血月。"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩提及进入《格罗塞尔游记》获取情报，但无直接使用。",
+      "identInfos": [
+        "神奇物品",
+        "书中世界",
+        "关押多位人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》里有一位侍奉过苏尼亚索列姆王后"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩提及使用阿兹克铜哨，但无直接描述。",
+      "identInfos": [
+        "阿兹克信物",
+        "可用于召唤灵界生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 948,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩利用阿兹克铜哨"
+        }
+      ]
+    },
+    {
+      "name": "秘偶大师魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩获得序列5“秘偶大师”配方，已晋升，本章仅提及。",
+      "identInfos": [
+        "占卜家途径序列5"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩序列5“秘偶大师”"
+        }
+      ]
+    },
+    {
+      "name": "诡法师魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩晋升序列4“诡法师”，提及配方需求灵界掠夺者真实魂体与粉尘。",
+      "identInfos": [
+        "占卜家途径序列4",
+        "需灵界掠夺者魂体"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 949,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩为晋升序列4“诡法师”需灵界掠夺者真实魂体与粉尘"
+        }
+      ]
+    }
+  ]
+}

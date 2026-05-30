@@ -1,0 +1,379 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "瓦尔特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩以道恩·唐泰斯身份雇佣瓦尔特为管家，瓦尔特忠诚执行任务，包括报告脚踏车股份、调查礼仪老师的麻烦、发布悬赏等。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "理查德森",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "理查德森是克莱恩的贴身男仆，因被黑骷髅党胁迫而陷入麻烦，克莱恩出手炸死胁迫者，理查德森得以解脱并继续服务。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "埃莱克特拉主教",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩通过捐献和参与弥撒获得埃莱克特拉主教信任，得以出入教堂内部观察看守者，为盗窃笔记做准备。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "艾辛格·斯坦顿",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "艾辛格协助克莱恩处理脚踏车股份出售，并警示王室监视，克莱恩通过献祭方式安全取走现金。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "海柔尔·马赫特",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩通过魔镜发现海柔尔持有“盗火人”神奇物品且夜探下水道，在舞会上刻意接触以调查其秘密，海柔尔则无意中帮助解决了潜入克莱恩家的黑骷髅党成员。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "奥黛丽通过塔罗会与克莱恩合作，克莱恩抬价脚踏车股份助其获利，双方持续在塔罗会中交易情报和物资。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "嘉德丽雅在塔罗会上提供罗塞尔日记揭示“锚”理论，并完成多项交易，双方保持合作与信息交换。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "佛尔思委托“世界”刺杀X先生，克莱恩同意并达成交易，要求灵界穿梭石头和旅行笔记使用权作为报酬。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "威尔告知克莱恩关于乌洛琉斯寻找运气异常者的内幕、帕列斯寄生伦纳德等信息，并指导制作时之虫符咒。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩为盗窃笔记需应对值夜者审查，通过纸条警告伦纳德不得干涉，伦纳德因忌惮而回避直接接触，双方保持对峙。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "达尼兹作为“海神”信徒，在克莱恩授权下处理事务，并向艾德雯娜转达询问，持续执行克莱恩的指令。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿尔杰在塔罗会上汇报梦境发现，并协助克莱恩进行交易；克莱恩作为“愚者”的眷属继续指挥阿尔杰。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩接受佛尔思委托刺杀极光会神使X先生（路易斯·维恩），并为此制作“窃运者”符咒，双方即将发生冲突。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴里克在塔罗会上报告晋升与神奇物品选择，继续作为克莱恩在白银城的眼线和盟友。"
+    },
+    {
+      "fromChapterSeq": 753,
+      "toChapterSeq": 772,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过管家发布悬赏帮助礼仪老师，休接取悬赏并迅速找回财物，双方形成一次委托合作。"
+    }
+  ]
+}

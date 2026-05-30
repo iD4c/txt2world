@@ -1,0 +1,1238 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以夏洛克·莫里亚蒂身份参加智慧之眼聚会，用野蛮人配方换得非凡子弹和左轮，再以贿赂者配方卖出900镑，花费2000镑购得太阳胸针，获得强力净化驱邪能力但需忍受炎热。他探索威尔迪街32号，用阿兹克铜哨诱敌并击毙怨魂，发现亚伯拉罕家族后裔笔记，得知其受诅咒、先祖伯特利疑为门先生，获得学徒、戏法大师、占星人配方。他通过魔术师佛尔思以450镑售出戏法大师配方，并让她寻找太阳领域物品，后因光之环戒指太贵改为现金交易。他调查埃姆林·怀特失踪，得知其被乌特拉夫斯基神父囚禁。他与莎伦、马里奇合作，在废弃船坞设伏，利用太阳胸针、阿兹克铜哨、炸药等击杀序列5怨魂史蒂夫及其手下活尸杰森和狼人泰尔，战后收获生物毒素瓶、狼人非凡特性和《秘密之书》。为躲避排查，进入杠杆教堂假装祈祷。研究收获时发现《秘密之书》源于原始月亮崇拜，生物毒素瓶有随机放毒和致病负面效果。他受记者迈克委托担任保镖调查东区，目睹一名破产老太太在咖啡馆吃饱后平静死去，警察漠然处置，克莱恩隐藏手枪应对搜查。",
+      "identInfos": [
+        "穿越者，原为地球人",
+        "塔罗会愚者的现实身份",
+        "序列7魔术师",
+        "化名夏洛克·莫里亚蒂，职业私家侦探",
+        "持有太阳胸针、阿兹克铜哨、万能钥匙等神奇物品",
+        "值夜者前成员，廷根事件幸存者"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "UPDATE",
+          "evidenceText": "我有‘野蛮人’的魔药配方……我需要‘太阳圣水’‘太阳圣徽’等强力净化类物品。我可以出金镑购买，也可以拿配方做交换，比如‘野蛮人’后续的序列7‘贿赂者’。"
+        },
+        {
+          "chapterSeq": 334,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抽出一张纸，哼出了鼻涕……生物毒素瓶的负面效果是让持有者逐渐虚弱，并发展到生病！"
+        },
+        {
+          "chapterSeq": 335,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的目标是大桥南区威尔迪街32号，是小偷发现“万能钥匙”的那个地方！他一直在等待购买“净化子弹”才敢行动。"
+        },
+        {
+          "chapterSeq": 335,
+          "extractReason": "UPDATE",
+          "evidenceText": "他握住阿兹克铜哨，将它拿了出来，用力一抖，丢向下方楼梯的半空位置！几乎是瞬间，他就感觉到身体内的阴冷和僵硬消失了。"
+        },
+        {
+          "chapterSeq": 336,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我们亚伯拉罕家族是第四纪最顶尖的大贵族之一……可惜的是，家族的荣光消逝于了四皇之战，先祖伯特利在那场神灵亲自下场的战争里不知所终。"
+        },
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "请您转告‘魔术师’小姐，我已经得到‘戏法大师’魔药的配方了。我希望她能拿一件太阳领域以净化和驱邪为特长的物品交换，如果价值不等，我愿意额外补上相应的金镑。"
+        },
+        {
+          "chapterSeq": 339,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦小姐，你能把你们预定的几个战斗地点告诉我吗？我希望能在这几天提前熟悉一下周围的环境，这样一来，不管你们最终选择哪里，我的准备都会更加充分。"
+        },
+        {
+          "chapterSeq": 344,
+          "extractReason": "UPDATE",
+          "evidenceText": "2000镑，我要那枚‘太阳胸针’。"
+        },
+        {
+          "chapterSeq": 346,
+          "extractReason": "UPDATE",
+          "evidenceText": "他掏出另一个方形铁盒，解除掉外面的“灵性囚笼”，取出了那根太阳鸟形状的暗金色胸针，郑重地将它戴在了左胸位置。"
+        },
+        {
+          "chapterSeq": 348,
+          "extractReason": "UPDATE",
+          "evidenceText": "他胸前的暗金色太阳鸟胸针闪过了一抹流光。他将“净化之斩”附加到了“净化子弹”上！"
+        },
+        {
+          "chapterSeq": 349,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一个暗金色泽的钥匙环，上面吊着一枚古老的精致的铜哨，而铜哨的旁边，悬挂着一把形制古朴的黄铜钥匙。"
+        },
+        {
+          "chapterSeq": 350,
+          "extractReason": "UPDATE",
+          "evidenceText": "史蒂夫脚下的泥土被狂暴地掀开了，赤红的火焰随之腾起……烟花里，‘怨魂’史蒂夫的身体彻底四分五裂了……克莱恩遵循着这种感受，枪交左手，用戴着黑色手套的右掌取下头顶的半高丝绸礼帽，按在胸口，面向莎伦微微鞠躬，行了一礼。"
+        },
+        {
+          "chapterSeq": 350,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦手腕一抖，将棕色的半透明的瓶子和一颗黑绿色的獠牙丢向了他……《秘密之书》在你家的客房内。"
+        },
+        {
+          "chapterSeq": 351,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抬头望了一眼，用手里握着的黑色手杖点了点台阶，迈步走了进去。他打算在这里躲过接下来那一波对周围人群的排查。"
+        },
+        {
+          "chapterSeq": 352,
+          "extractReason": "UPDATE",
+          "evidenceText": "我们崇拜的是月亮，不是黑夜女神。"
+        },
+        {
+          "chapterSeq": 353,
+          "extractReason": "UPDATE",
+          "evidenceText": "迈克·约瑟夫？《每日观察报》那位记者？我记得他在“金玫瑰”里面的表演相当出色……迈克又想做什么？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353
+      ]
+    },
+    {
+      "name": "智慧之眼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "智慧之眼主持非凡聚会，用2-081戒指模拟公证人能力鉴定配方，出售太阳胸针给克莱恩。",
+      "identInfos": [
+        "非凡聚会召集者",
+        "持有封印物2-081戒指",
+        "收藏家，出售太阳胸针",
+        "两颊法令纹很深的老先生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩找了个最方便于逃走的位置，环顾一圈，看见了两颊法令纹很深的“智慧之眼”老先生，看见了脸蛋胖乎乎的“药师”。"
+        },
+        {
+          "chapterSeq": 334,
+          "extractReason": "UPDATE",
+          "evidenceText": "和之前那次一样，“智慧之眼”老先生取出了那枚诸多细碎钻石簇拥绿色如眼宝石的戒指，模拟出“公证人”的非凡能力，确认配方是真实的。"
+        },
+        {
+          "chapterSeq": 344,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳胸针”，也可以被称呼为“盛夏”，类比2级封印物里较弱的那种。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        334,
+        344
+      ]
+    },
+    {
+      "name": "药师",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "药师参加智慧之眼聚会，求购超凡生物做实验，并售卖药剂。",
+      "identInfos": [
+        "脸胖乎乎的非凡者",
+        "参加智慧之眼聚会",
+        "擅长调配药剂",
+        "能读懂野兽想法"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "看见了两颊法令纹很深的“智慧之眼”老先生，看见了脸蛋胖乎乎的“药师”。"
+        },
+        {
+          "chapterSeq": 334,
+          "extractReason": "UPDATE",
+          "evidenceText": "胖乎乎的药师就已抢先开口：“我需要一只超凡生物做实验，最好是兽类，最好是已经制服，没太大危险性的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        334
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林·怀特失踪，克莱恩通过斯图亚特侦探得知寻人委托，确认埃姆林被乌特拉夫斯基神父囚禁在地下室。",
+      "identInfos": [
+        "吸血鬼",
+        "被乌特拉夫斯基神父囚禁",
+        "失踪近两周",
+        "长相秀气英俊，眉眼有傲气"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 337,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "不是被乌特拉夫斯基神父囚禁在地下室内的那个吸血鬼的名字吗？"
+        },
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯图亚特将手里那张纸递了过去道：“就是这个人，失踪近两周了。”“对了，他叫……埃姆林·怀特。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在尼根公爵府邸遇到诺玛夫人，对方介绍心理炼金会成员伊思兰特和阿鲁卡尔德给她结识，奥黛丽决定加入心理炼金会并报备愚者。她确认塔罗会上愚者手边的纸牌为亵渎之牌，得知是黑皇帝途径。她向愚者汇报心理炼金会接触情况，并提交两页罗塞尔日记，愚者提醒她注意官方线人。",
+      "identInfos": [
+        "塔罗会正义",
+        "霍尔伯爵之女",
+        "序列8读心者",
+        "心理炼金会预备成员",
+        "贝克兰德贵族少女"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "她余光一扫，没看见新的成员，旋即望向上首，对笼罩着浓郁灰雾的召集者行礼道：“下午好，‘愚者’先生~”"
+        },
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "我倾向于加入他们，但前提是能保证自身的安全。"
+        },
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "在心理炼金会内部，有一些教会安插进去的人，比如代罚者的线人，值夜者的线人，你要懂得隐藏和掩饰自身。"
+        },
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一张‘黑皇帝’牌。对应的序列9是‘律师’。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337,
+        338,
+        339,
+        343
+      ]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "莎伦与克莱恩、马里奇合作，在废弃船坞设伏击杀追捕者怨魂史蒂夫、活尸杰森和狼人泰尔。她使用深红月冕和掌心的青铜门能力战斗，最后将生物毒素瓶和狼人非凡特性分给克莱恩，并告知《秘密之书》已放在他家。",
+      "identInfos": [
+        "异种途径序列5怨魂",
+        "身穿黑色宫廷长裙，淡金头发，戴小巧软帽",
+        "马里奇的同伴",
+        "使用深红月冕和神秘青铜门能力",
+        "节制派理念，压抑欲望"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 339,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦小姐，你能把你们预定的几个战斗地点告诉我吗？我希望能在这几天提前熟悉一下周围的环境。"
+        },
+        {
+          "chapterSeq": 346,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿黑色宫廷长裙，戴小巧软帽的身影。这正是异种途径的序列5强者，“怨魂”莎伦。"
+        },
+        {
+          "chapterSeq": 347,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦的掌心爆发出了无穷无尽的虚幻光芒……交织成了一扇布满神秘花纹，充斥无法描述味道的青铜色大门。"
+        },
+        {
+          "chapterSeq": 350,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦手腕一抖，将棕色的半透明的瓶子和一颗黑绿色的獠牙丢向了他……《秘密之书》在你家的客房内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        339,
+        346,
+        347,
+        348,
+        349,
+        350
+      ]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "马里奇参与围杀怨魂史蒂夫等人的战斗，利用活尸和自身能力对抗狼人泰尔，依靠克莱恩提供的镇静剂在满月时保持战斗力。",
+      "identInfos": [
+        "异种途径序列6活尸",
+        "莎伦的同伴",
+        "压制杀戮和嗜血欲望",
+        "节制派理念"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 339,
+          "extractReason": "UPDATE",
+          "evidenceText": "对于马里奇，我认为还是存在暂时压制可能的，比如，服食相应的药剂，让他处于没有情绪起伏的状态中。"
+        },
+        {
+          "chapterSeq": 346,
+          "extractReason": "UPDATE",
+          "evidenceText": "马里奇用右手捏住嘴唇，吹了声凄厉的口哨。砰！砰！砰！空地不同位置的泥土被掀开，一具具没有表情的尸体坐了起来。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        339,
+        346,
+        347,
+        348,
+        349,
+        350
+      ]
+    },
+    {
+      "name": "史蒂夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "序列5怨魂史蒂夫是玫瑰学派追捕莎伦和马里奇的人，持有深红月冕和生物毒素瓶。在废弃船坞战斗中被克莱恩、莎伦、马里奇联手击杀。",
+      "identInfos": [
+        "玫瑰学派序列5怨魂",
+        "穿黑色燕尾服，暗红披风",
+        "头发后梳，眼眸黑中藏绿",
+        "持有深红月冕和生物毒素瓶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 347,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这身影的左臂位置燃烧起了神圣而明净的火焰，不断冒出淡黑而泛绿的烟气，映照得他苍白的脸孔阴青一片。这是位四十来岁的中年男士，头发整齐后梳，泛着油光，一丝不苟，眼眸黑中藏绿，没有一点感情，没有丝毫痛苦。‘怨魂’史蒂夫！"
+        },
+        {
+          "chapterSeq": 349,
+          "extractReason": "UPDATE",
+          "evidenceText": "生物毒素瓶，能随机制造不同的毒素，只要打开，它们就会逐渐弥漫往四周。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        347,
+        348,
+        349,
+        350
+      ]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思通过愚者获得戏法大师配方，支付450镑。她参加A先生聚会求购太阳领域物品，光之环戒指要价9000镑太贵，后改为现金交易配方。她在满月之夜因呓语痛苦向愚者祈求，被拉入灰雾庇护。",
+      "identInfos": [
+        "塔罗会魔术师",
+        "畅销小说作家",
+        "序列9学徒",
+        "休的好友",
+        "受满月呓语折磨",
+        "持有腕部手链"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思翻了翻摆在书桌上的日历，拿笔勾出了即将到来的满月日期。她打定主意，到时候一听见那虚幻可怕的呓语，就诵念“愚者”的尊名。"
+        },
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思一阵感慨，忍着激动和欣喜，谨慎地回应道：“‘愚者’先生，那个配方是真的吗？”"
+        },
+        {
+          "chapterSeq": 343,
+          "extractReason": "UPDATE",
+          "evidenceText": "光之环戒指……9000镑？佛尔思张了张嘴巴，简直有种对方在抢劫的感觉。"
+        },
+        {
+          "chapterSeq": 340,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思舒了口气，起身行礼道：“尊敬的‘愚者’先生，您又救了我一次。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337,
+        340,
+        343
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会上颁布调查奴隶失踪的任务，并求购风眷者配方，表明自己即将消化完航海家魔药。他建议太阳戴里克假装失控逃避探索堕落造物主神庙的任务，并教导其方法。",
+      "identInfos": [
+        "塔罗会倒吊人",
+        "风暴教会非凡者",
+        "序列7航海家，即将晋升",
+        "常年在海上活动"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 341,
+          "extractReason": "UPDATE",
+          "evidenceText": "这两三年来，在南大陆，不少原著民部落被劫掠一空，所有人都被绑走了……北大陆诸国废除奴隶贸易后，这样的事情已经许久没有发生过了，你们有听到相应的风声吗？"
+        },
+        {
+          "chapterSeq": 341,
+          "extractReason": "UPDATE",
+          "evidenceText": "你们可以尝试着搜集‘风眷者’的配方了。我会给予你们绝对满意的报酬。"
+        },
+        {
+          "chapterSeq": 342,
+          "extractReason": "UPDATE",
+          "evidenceText": "你可以假装自己接近失控……你只要连续两天，始终让自己的灵性处于较为干涸的状态，你就能产生幻听，出现失控的征兆。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        341,
+        342
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克被安排探索堕落造物主神庙，由牧羊人洛薇雅长老带队。他向塔罗会求助，倒吊人阿尔杰建议他假装失控逃避任务，戴里克最终采纳建议，开始消耗灵性制造失控前兆。",
+      "identInfos": [
+        "塔罗会太阳",
+        "白银城少年",
+        "序列9祈光人",
+        "父母因诅咒死亡",
+        "生活在神弃之地，无阳光"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 342,
+          "extractReason": "UPDATE",
+          "evidenceText": "我被安排了一个任务，将于短期内去之前提到过的那个半毁灭神庙做探索，嗯，就是‘堕落造物主’那个。负责这次行动的首领是‘牧羊人’洛薇雅长老。你们有什么建议吗？"
+        },
+        {
+          "chapterSeq": 343,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格的家中。他绕着桌子，沉默地走了好几圈……他猛地在窗旁，回到桌边，开始以练习“祈光人”非凡能力的方式消耗本身灵性，让它飞快接近干涸。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        341,
+        342,
+        343
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基神父",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基神父囚禁了吸血鬼埃姆林·怀特。",
+      "identInfos": [
+        "丰收教堂神父",
+        "序列6黎明骑士",
+        "囚禁埃姆林·怀特",
+        "擅长战斗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "这不是被乌特拉夫斯基神父囚禁在地下室内的那个吸血鬼的名字吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337
+      ]
+    },
+    {
+      "name": "迈克·约瑟夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "记者迈克雇佣克莱恩作为保镖，前往东区进行采访调查，目睹一名破产老太太在咖啡馆死去，警察漠然处置。",
+      "identInfos": [
+        "每日观察报记者",
+        "皮肤粗糙，蓝眼睛，两撇小胡子",
+        "调查东区情况"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 344,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "迈克·约瑟夫？《每日观察报》那位记者？我记得他在“金玫瑰”里面的表演相当出色……迈克又想做什么？"
+        },
+        {
+          "chapterSeq": 353,
+          "extractReason": "UPDATE",
+          "evidenceText": "迈克·约瑟夫？《每日观察报》那位记者？我记得他在“金玫瑰”里面的表演相当出色……迈克又想做什么？……我想找她做个采访，你可以替我邀请她吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        344,
+        353
+      ]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "前流浪汉老科勒为迈克和克莱恩做向导，介绍东区情况。",
+      "identInfos": [
+        "前流浪汉，两鬓斑白",
+        "在东区码头工作",
+        "曾受克莱恩救济"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 353,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "你们叫我老科勒就行了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        353
+      ]
+    },
+    {
+      "name": "诺玛夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "诺玛夫人介绍心理炼金会成员给奥黛丽认识。",
+      "identInfos": [
+        "公爵夫人黛拉的妹妹",
+        "世袭子爵的妻子",
+        "疑似心理炼金会成员，序列8观众"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 337,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位正是公爵夫人黛拉的妹妹，一个世袭子爵的妻子，诺玛夫人。"
+        },
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "听说我们美丽的少女对神秘学很感兴趣？……我正好认识一些知识很渊博的神秘学专家，有没有兴趣和他们聊一聊？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337,
+        338,
+        339
+      ]
+    },
+    {
+      "name": "伊思兰特·奥西斯莱卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "心理炼金会成员，精神领域医生，被介绍给奥黛丽认识。",
+      "identInfos": [
+        "心理炼金会成员",
+        "心理医生",
+        "娃娃脸，乌黑长发，蓝色眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 339,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位是伊思兰特·奥西斯莱卡小姐，她是精神领域的医生，也就是我们常说的心理医生。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        339
+      ]
+    },
+    {
+      "name": "希尔伯特·阿鲁卡尔德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "心理炼金会成员，心理学家兼珠宝设计师，被介绍给奥黛丽认识。",
+      "identInfos": [
+        "心理炼金会成员",
+        "心理学家，珠宝设计师",
+        "四十多岁，肤色偏棕，沉默内敛"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 339,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位是希尔伯特·阿鲁卡尔德先生，他是一位心理学家，同时也是珠宝设计师，才华非常出众。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        339
+      ]
+    },
+    {
+      "name": "斯图亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "侦探斯图亚特委托克莱恩寻人，寻找埃姆林·怀特。",
+      "identInfos": [
+        "侦探",
+        "参与连环杀人案调查",
+        "委托寻找埃姆林·怀特"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 337,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "斯图亚特将手里那张纸递了过去道：“就是这个人，失踪近两周了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337
+      ]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "大侦探艾辛格分发连环杀人案悬赏，克莱恩获得300镑。他提醒克莱恩小心凶手背后可能还有更凶恶的家伙。",
+      "identInfos": [
+        "大侦探",
+        "连环杀人案调查组织者",
+        "鬓角斑白，脸消瘦，使用烟斗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "这次贡献最大的是夏洛克·莫里亚蒂侦探，他提供的几个思路和想法让我们找到了线索，走上了正确的轨道，他是名副其实的推理专家！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        337,
+        338
+      ]
+    },
+    {
+      "name": "杰森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "活尸杰森作为史蒂夫的同伴，在废弃船坞战斗中被莎伦用神秘青铜门拉走吞噬。",
+      "identInfos": [
+        "序列6活尸",
+        "史蒂夫的同伴",
+        "脸色苍白，脸上有黑斑",
+        "被青铜门吞噬"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 347,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "离他最近的是位脸色和他同样苍白的男子，对方的脸上有几块不明显的黑斑，仿佛腐烂伤口愈合后留下的痕迹，眼中的恶意则完全不加掩饰……序列6的杰森。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        347,
+        348
+      ]
+    },
+    {
+      "name": "泰尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "狼人泰尔作为史蒂夫的同伴，戴着深红月冕战斗，最终被莎伦附身扭断脖子而死，遗留下非凡特性。",
+      "identInfos": [
+        "序列7狼人",
+        "史蒂夫的同伴",
+        "瘦削健壮，头发根根竖起",
+        "被莎伦杀死"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 347,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他们后面十几米的地方，一道身影被越甩越远，那是个瘦削但健壮的男子，头发剃得很短，根根如尖刺般竖着。‘狼人’泰尔……"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        347,
+        348,
+        349,
+        350
+      ]
+    },
+    {
+      "name": "艾伦·克瑞斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "外科医生艾伦告诉克莱恩自己的运势已通过向女神祈祷恢复，并劝他改信女神。",
+      "identInfos": [
+        "外科医生",
+        "克拉格俱乐部成员",
+        "曾运势变差，后恢复"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 339,
+          "extractReason": "UPDATE",
+          "evidenceText": "我按照你的提议，去了教堂，将事情告诉了主教，他让我直接去告解室向女神祈求。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        339,
+        340
+      ]
+    },
+    {
+      "name": "伊康瑟·伯纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "机械之心执事伊康瑟使用封印物阿罗德斯调查船坞战斗，被镜子提问性取向。",
+      "identInfos": [
+        "机械之心执事",
+        "褐发乱糟糟",
+        "使用封印物阿罗德斯银镜"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 351,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "伊康瑟·伯纳德的褐发始终乱糟糟的，倔强地往外伸展着……他望向手里的银镜，用右掌抚了表面三次。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        351
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在威尔迪街32号发现亚伯拉罕家族后裔的笔记，得知该家族是第四纪大贵族，因诅咒导致非凡者最终都会失控，先祖伯特利在四皇之战失踪，疑为门先生。后裔劳伦斯留下学徒、戏法大师、占星人配方。",
+      "identInfos": [
+        "第四纪顶尖大贵族",
+        "图铎王朝主要支持者",
+        "受可怕诅咒，非凡者终将失控",
+        "先祖伯特利疑为门先生",
+        "家族成员散居北大陆各地"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 336,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我们亚伯拉罕家族是第四纪最顶尖的大贵族之一，是图铎王朝的主要支持者……可惜的是，家族的荣光消逝于了四皇之战，先祖伯特利在那场神灵亲自下场的战争里不知所终。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "心理炼金会通过诺玛夫人接触奥黛丽，成员包括伊思兰特和阿鲁卡尔德。奥黛丽决定加入并报备愚者，愚者提醒她注意官方线人。",
+      "identInfos": [
+        "隐秘组织，研究心灵、意识",
+        "有官方线人渗透",
+        "成员多从事心理医生等职业",
+        "观众途径为主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "在心理炼金会内部，有一些教会安插进去的人，比如代罚者的线人，值夜者的线人，你要懂得隐藏和掩饰自身。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派派追捕者史蒂夫、杰森、泰尔追杀莎伦和马里奇，在废弃船坞被反杀。",
+      "identInfos": [
+        "隐秘组织，以放纵欲望为理念",
+        "派史蒂夫追杀莎伦",
+        "成员冷酷，嗜血"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 347,
+          "extractReason": "UPDATE",
+          "evidenceText": "等到我变得虚弱，‘深红月冕’出现，你再用那只‘眼睛’寻找史蒂夫，对他发动突然的袭击。"
+        }
+      ]
+    },
+    {
+      "name": "机械之心",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "机械之心小队调查船坞战斗，执事伊康瑟使用封印物阿罗德斯获取参与者影像。",
+      "identInfos": [
+        "蒸汽与机械之神教会非凡者小队",
+        "调查船坞异常事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 351,
+          "extractReason": "UPDATE",
+          "evidenceText": "几分钟后，一支“机械之心”小队出现在了废弃仓库围成的空地上。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从智慧之眼处以2000镑购得。暗金色太阳鸟形状胸针，佩戴后十米范围内充斥纯净温暖力量，削弱死灵，能召唤圣光、制造圣水、光明之火等，负面效果是永远感觉炎热，长期佩戴可能导致失控。",
+      "identInfos": [
+        "太阳领域神奇物品",
+        "暗金色太阳鸟形状",
+        "可施展多种太阳法术",
+        "负面效果是永远感觉炎热"
+      ],
+      "aliases": [
+        {
+          "alias": "盛夏",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 344,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“太阳胸针”，也可以被称呼为“盛夏”，类比2级封印物里较弱的那种。以它为圆心，十米范围内将充斥纯净温暖的力量……佩戴者很难被邪灵类怪物附体和污染……缺点是，只要佩戴着它，你就永远无法感受到凉爽，始终处于可怕的炎热里。"
+        },
+        {
+          "chapterSeq": 344,
+          "extractReason": "UPDATE",
+          "evidenceText": "2000镑，我要那枚‘太阳胸针’。"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "原属怨魂史蒂夫，战利品分给克莱恩。半透明棕色瓶子，打开后能随机制造不同的毒素弥漫四周，有效范围未知。负面效果是持有者会逐渐虚弱生病。",
+      "identInfos": [
+        "能随机制造毒素",
+        "棕色半透明小瓶",
+        "负面效果让持有者生病",
+        "战利品来自史蒂夫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 349,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "生物毒素瓶，能随机制造不同的毒素，只要打开，它们就会逐渐弥漫往四周。"
+        },
+        {
+          "chapterSeq": 350,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦手腕一抖，将棕色的半透明的瓶子和一颗黑绿色的獠牙丢向了他。"
+        }
+      ]
+    },
+    {
+      "name": "狼人非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "狼人泰尔死后遗留的非凡特性，呈黑绿色獠牙状，用于调配序列7狼人魔药。",
+      "identInfos": [
+        "序列7狼人遗留非凡特性",
+        "黑绿色獠牙状",
+        "可做魔药主材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 350,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "泰尔的脑袋和身体里有一点点黑绿色的光芒析了出来，并以其中一颗獠牙为核心，飞快凝聚在了一起……莎伦手腕一抖，将……一颗黑绿色的獠牙丢向了他。"
+        }
+      ]
+    },
+    {
+      "name": "秘密之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "巫王卡拉曼所著神秘学书籍，内容源于原始月亮崇拜，包含仪式、密契等，尊名为独一无二的红月，生命与美丽的象征，所有灵性力量的母亲。莎伦作为报酬给予克莱恩。",
+      "identInfos": [
+        "巫王卡拉曼著",
+        "源于原始月亮崇拜",
+        "羊皮纸古籍，深黑色封皮",
+        "记载仪式、密契、占星法等"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 350,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "《秘密之书》在你家的客房内。"
+        },
+        {
+          "chapterSeq": 352,
+          "extractReason": "UPDATE",
+          "evidenceText": "我们崇拜的是月亮，不是黑夜女神。"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "形制古朴的黄铜钥匙，在满月时会带来门先生的呓语，让人迷路至危险场景。克莱恩在战斗中将其与阿兹克铜哨串在一起，引诱活尸和幽影抢夺，最后史蒂夫因触碰钥匙听到呓语而发狂。",
+      "identInfos": [
+        "形制古朴的黄铜钥匙",
+        "满月时听到门先生呓语",
+        "会带来迷路诅咒",
+        "原属亚伯拉罕后裔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 338,
+          "extractReason": "UPDATE",
+          "evidenceText": "满月时，它会有什么变化呢？克莱恩咕哝了一句。"
+        },
+        {
+          "chapterSeq": 349,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一个暗金色泽的钥匙环，上面吊着一枚古老的精致的铜哨，而铜哨的旁边，悬挂着一把形制古朴的黄铜钥匙。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在战斗中利用阿兹克铜哨吸引死灵，并与万能钥匙串在一起诱敌，导致史蒂夫听到门先生呓语发狂。",
+      "identInfos": [
+        "古老精致的铜哨",
+        "能吸引死灵",
+        "阿兹克先生的信物",
+        "与万能钥匙配合使用可制造混乱"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 335,
+          "extractReason": "UPDATE",
+          "evidenceText": "他握住阿兹克铜哨，将它拿了出来，用力一抖，丢向下方楼梯的半空位置！几乎是瞬间，他就感觉到身体内的阴冷和僵硬消失了。"
+        },
+        {
+          "chapterSeq": 349,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克铜哨旁边悬挂着一把形制古朴的黄铜钥匙……史蒂夫还未来得及泛起别的想法，一道微弱虚幻但非常诡异的声音就钻入了他的脑海里。"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "来自秘偶大师罗萨戈的遗留，克莱恩触碰后可看到神秘黑线，用于追踪隐形敌人，但会听到疯狂呓语。",
+      "identInfos": [
+        "罗萨戈遗留的全黑之眼",
+        "触碰可见神秘黑线",
+        "伴随疯狂呓语"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 347,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将左手伸入了衣兜，触碰向铁制卷烟盒，解除了表面的“灵性囚笼”，并轻巧地打开了盒子……脑海里就响起了，就充满了疯狂的，污秽的，可怕的呓语！"
+        }
+      ]
+    },
+    {
+      "name": "净化子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用野蛮人配方换得50发非凡子弹中的20发净化子弹，可有效净化鬼魂类怪物，伤害怨魂和幽影。",
+      "identInfos": [
+        "太阳领域符咒子弹",
+        "有效净化鬼魂",
+        "有效期18个月"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "其中20发铭刻有太阳领域的标识和符号，形成了完整的符咒，可以有效净化鬼魂类怪物，伤害到较为强力的怨魂和幽影，所以，叫‘净化子弹’。"
+        }
+      ]
+    },
+    {
+      "name": "猎魔子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩换得的非凡子弹中的20发猎魔子弹，针对污秽堕落类生物。",
+      "identInfos": [
+        "太阳领域符咒子弹",
+        "针对污秽堕落类生物",
+        "有效期18个月"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "还有20发针对污秽堕落类生物，叫‘猎魔子弹’。"
+        }
+      ]
+    },
+    {
+      "name": "驱邪子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩换得的非凡子弹中的10发驱邪子弹，克制邪异类怪物。",
+      "identInfos": [
+        "太阳领域符咒子弹",
+        "克制邪异类怪物",
+        "有效期18个月"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "另外的10发较为克制邪异类怪物，叫‘驱邪子弹’。"
+        }
+      ]
+    },
+    {
+      "name": "深红月冕",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "玫瑰学派的强力神奇物品，新月形状镶嵌一圈绯色宝石，能释放绯红光辉，对异种途径非凡者有特殊效果，增强速度和力量。原属史蒂夫，战后被莎伦持有。",
+      "identInfos": [
+        "新月形状，镶嵌绯色宝石",
+        "释放绯红光辉，免疫满月影响",
+        "增强速度与力量",
+        "原属玫瑰学派"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 347,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "泰尔的脸上则露出了一抹得意和残忍兼具的笑容，右手从衣兜里拿出了一轮缩小的“满月”，绯红的“满月”！那是一件不断散发着宁静光辉的暗红色饰品，它呈圆月的形状，四周镶嵌着一枚又一枚绯色宝石，中间则是象征月亮的符号和诸多神秘标识。"
+        }
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "机械之心执事伊康瑟使用的古老花纹银镜封印物，两侧有黑宝石眼睛装饰，能回答问题和显示画面，但需要使用者回答对等问题，否则遭受惩罚。",
+      "identInfos": [
+        "古老花纹银镜",
+        "两侧有黑宝石眼睛装饰",
+        "能显示过去场景",
+        "要求使用者回答问题作为代价"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 351,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "伊康瑟·伯纳德……望着手里的银镜，用右掌抚了表面三次。停顿两秒，伊康瑟深深吸了口气，沉声道：“尊敬的阿罗德斯，我的问题是，刚才发生在这个地方的事情，有哪些参与者？”"
+        }
+      ]
+    },
+    {
+      "name": "欢愉魔女配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "在智慧之眼聚会上，有位男性求购成年寡妇巨蛛丝腺，克莱恩认出这是欢愉魔女的主材料之一。",
+      "identInfos": [
+        "魔女途径序列6配方",
+        "主材料包括成年寡妇巨蛛丝腺"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 334,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "成年寡妇巨蛛的丝腺？很耳熟啊……这是‘欢愉魔女’药剂的主材料之一！"
+        }
+      ]
+    },
+    {
+      "name": "戏法大师配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从亚伯拉罕家族笔记中获得，序列8戏法大师魔药配方，以450镑卖给佛尔思。",
+      "identInfos": [
+        "学徒途径序列8魔药配方",
+        "主要材料：食灵者胃袋，深海枪鱼血液"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 336,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "序列8，‘戏法大师’……"
+        },
+        {
+          "chapterSeq": 337,
+          "extractReason": "UPDATE",
+          "evidenceText": "请您转告‘魔术师’小姐，我已经得到‘戏法大师’魔药的配方了。"
+        }
+      ]
+    },
+    {
+      "name": "贿责者配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩将贿赂者配方以900镑卖给背后有工匠的女士。",
+      "identInfos": [
+        "黑皇帝途径序列7魔药配方",
+        "主要材料：哭泣婴儿花，怪脸大麻结晶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 344,
+          "extractReason": "UPDATE",
+          "evidenceText": "成交！……‘序列7，贿赂者。’‘主要材料：“哭泣婴儿”花一朵，怪脸大麻结晶。’"
+        }
+      ]
+    },
+    {
+      "name": "光之环戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "在A先生聚会上出现的神奇物品，9000镑，能让佩戴者使用太阳领域法术，净化死灵，负面效果是逐渐变成永恒烈阳的信徒。克莱恩因太贵且副作用而放弃。",
+      "identInfos": [
+        "太阳领域戒指形神奇物品",
+        "能召唤耀眼光束，净化死灵",
+        "负面效果：逐渐变成太阳信徒",
+        "价格9000镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 343,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "神奇物品，‘光之环’戒指，它能让佩戴者成为光的使者，太阳的侍从，免疫诸多疾病，掌握神圣之力……它唯一的问题是，佩戴者如果频繁使用，将逐渐变成‘永恒烈阳’的信徒。如果希望得到，那请一次支付9000镑现金。"
+        }
+      ]
+    }
+  ]
+}

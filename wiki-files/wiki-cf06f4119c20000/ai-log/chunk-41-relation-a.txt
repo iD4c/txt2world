@@ -1,0 +1,329 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 793,
+      "toChapterSeq": 797,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿尔戈斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林猎杀原始月亮信徒阿尔戈斯，在搏斗中将其击杀。"
+    },
+    {
+      "fromChapterSeq": 793,
+      "toChapterSeq": 795,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "加利斯·凯文",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林潜入加利斯·凯文房间，用雷击将其瞬杀。"
+    },
+    {
+      "fromChapterSeq": 795,
+      "toChapterSeq": 795,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩通过塔罗会向埃姆林租用心魇蜡烛，埃姆林献祭蜡烛。"
+    },
+    {
+      "fromChapterSeq": 800,
+      "toChapterSeq": 801,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩借用埃姆林的心魇蜡烛治疗人格分裂。"
+    },
+    {
+      "fromChapterSeq": 797,
+      "toChapterSeq": 807,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡西米·奥德拉",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "卡西米代表血族向埃姆林授予莉莉丝的指环作为狩猎竞赛奖励。"
+    },
+    {
+      "fromChapterSeq": 798,
+      "toChapterSeq": 812,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "玛丽·肖特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "玛丽邀请克莱恩投资考伊姆公司股份，克莱恩积极考虑合作。"
+    },
+    {
+      "fromChapterSeq": 798,
+      "toChapterSeq": 812,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "瓦哈娜·海森",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "瓦哈娜作为礼仪老师指导克莱恩融入上流社会。"
+    },
+    {
+      "fromChapterSeq": 798,
+      "toChapterSeq": 812,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "埃莱克特拉主教",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩通过捐款与主教建立信任，获得出入教堂便利，以观察内部看守者。"
+    },
+    {
+      "fromChapterSeq": 798,
+      "toChapterSeq": 798,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "迈克·约瑟夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在考伊姆公司偶遇旧识迈克，借玛丽引荐自然建立联系。"
+    },
+    {
+      "fromChapterSeq": 798,
+      "toChapterSeq": 798,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "艾伦·克瑞斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在考伊姆公司偶遇旧识艾伦，借玛丽引荐自然建立联系。"
+    },
+    {
+      "fromChapterSeq": 804,
+      "toChapterSeq": 804,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "理查德森",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩询问理查德森对南大陆的印象，得到触动内心的答案。"
+    },
+    {
+      "fromChapterSeq": 804,
+      "toChapterSeq": 804,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "米歇尔·德伊特",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "米歇尔向奥黛丽展示巨龙纹章，透露考古队全员发疯死亡，揭示心灵巨龙污染事件。"
+    },
+    {
+      "fromChapterSeq": 805,
+      "toChapterSeq": 812,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与阿尔杰合作探索原始岛屿远古太阳神教堂遗迹，共同应对羽蛇、石化攻击和异变逝者。"
+    }
+  ]
+}

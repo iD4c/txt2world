@@ -1,0 +1,154 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 564,
+      "toChapterSeq": 582,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩将嘉德丽雅拉入灰雾并邀请其加入塔罗会，成为愚者座下“隐者”。"
+    },
+    {
+      "fromChapterSeq": 565,
+      "toChapterSeq": 582,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩在塔罗会上通过梦境告诫奥黛丽勿冒然探索潜意识海洋，并赋予她在危险时可诵念愚者尊名求救的特权。"
+    },
+    {
+      "fromChapterSeq": 571,
+      "toChapterSeq": 573,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "艾德雯娜·爱德华兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩应艾德雯娜邀请登船会面，双方就保护达尼兹向反抗军援助达成合作，并交流情报。"
+    },
+    {
+      "fromChapterSeq": 571,
+      "toChapterSeq": 576,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩继续以格尔曼·斯帕罗身份与达尼兹保持合作，达尼兹担任助手协助其寻找伊莲、购买船票等。"
+    },
+    {
+      "fromChapterSeq": 574,
+      "toChapterSeq": 574,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "伊莲",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩营救伊莲后审问情报，确认其未参与劫掠后给予新身份和船票让其离开。"
+    },
+    {
+      "fromChapterSeq": 575,
+      "toChapterSeq": 576,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "特雷茜",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩伪装伊莲登上黑死号刺杀特雷茜，双方激烈交战。"
+    }
+  ]
+}

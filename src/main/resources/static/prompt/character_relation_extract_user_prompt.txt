@@ -1,0 +1,305 @@
+【阶段和角色】
+阶段4，角色 CharacterRelationExtractWorker
+
+【本次目标】
+基于当前 chunk 的chunkReadingMemory、chunkAndChapterSummary和当前 chunk 中出现过的人物列表chunkCharacterWorldObjList，抽取当前 chunk 中有价值的人物关系，输出 characterRelations。
+
+本阶段只抽取人物与人物之间的关系。
+
+本任务不是枚举所有人物两两组合，而是只输出当前 chunk 中有明确依据、对 Wiki 有价值的人物关系。
+
+“有价值的人物关系”必须至少满足以下条件之一：
+1. 体现稳定关系：亲属、婚恋、师徒、同门、朋友、上下级、主仆、长期合作、长期敌对等；
+2. 体现关系变化：从陌生到合作、从信任到怀疑、从合作到敌对、关系破裂、身份揭示、情感变化等；
+3. 体现关键剧情互动：该互动直接推动主线、揭示重要身份、造成关键后果、引出重要线索、改变双方后续关系；
+4. 体现明确的敌友立场、支配从属、利用欺骗、信任好感、亲友纽带等关系维度。
+
+普通同场出现、普通对话、短暂擦肩、一次性服务交互、无后续影响的礼貌接触、仅在同一任务中短暂协作但未产生关系变化的互动，不要输出为人物关系。
+
+如果 relationSummary 只能写成“临时接触、无深入关系、无持续关系、短暂互动、一次性服务交互”，则不要输出该 characterRelation，除非该互动直接推动关键剧情、揭示重要身份、造成关系变化或引出核心线索。
+
+当前任务基于 chunkReadingMemory、chunkSummary、chapterSummary 和 chunkCharacterWorldObjList 进行关系抽取，不要求提供原文 evidenceText。不得编造摘要中没有依据的人物关系。
+
+【概念和字段介绍】
+
+一. 输入字段介绍：
+
+1. chunkReadingMemory：
+包含对前面 chunk 的剧情摘要，分为 longTermMemory、midMemory、recentMemory，相当于人阅读时对之前剧情的远期记忆、中期记忆、近期记忆。
+chunkReadingMemory 只能用于理解背景、判断关系延续和消歧，不能单独作为当前 chunk 新关系的来源。
+
+2. chunkAndChapterSummary：
+当前 chunk 的剧情理解结果，包含 chunkSummary 和 chapters。
+chunkSummary 是当前 chunk 的核心剧情压缩摘要。
+chapters 是当前 chunk 中每章的摘要列表，其中 chapterSummary 是每章内容的叙事无损压缩摘要。
+本阶段的人物关系应主要依据 chunkSummary 和 chapterSummary 抽取。
+
+3. chunkCharacterWorldObjList：
+当前 chunk 中出现过、并已经经过全局合并修正的人物 WorldObj 列表。
+只允许在 chunkCharacterWorldObjList 列表中的人物之间抽取关系。
+如果关系中某个人物不在 chunkCharacterWorldObjList 列表中，不要输出该关系。
+
+二. characterRelations 字段介绍：
+
+characterRelations 是当前 chunk 中有价值的人物关系数组。
+
+每条 characterRelation 表示 characterA 和 characterB 两个人物之间在某一段章节范围内的一组双向关系状态。
+characterA 和 characterB 只是本条关系中的两个位置，不表示主次、高低、主动方或被动方。
+
+1. fromChapterSeq / toChapterSeq：
+表示这条 characterRelation 适用的章节范围。
+fromChapterSeq 是该关系状态开始适用的章节序号。
+toChapterSeq 是该关系状态结束适用的章节序号。
+二者必须落在当前 chunk 的章节范围内。
+
+如果这段关系状态贯穿整个当前 chunk，则 fromChapterSeq 填当前 chunk 起始章节，toChapterSeq 填当前 chunk 结束章节。
+如果关系只发生在某一章，则 fromChapterSeq 和 toChapterSeq 填同一个章节序号。
+关系维度默认表示同一对人物在整个当前 chunk 结束时的关系状态。仅当同一对人物在当前 chunk 内发生“关系显著改变”时，才额外拆成多条 characterRelation，每条使用不同的 fromChapterSeq/toChapterSeq 表示不同阶段。
+如果无法精确判断关系变化发生在哪一章，可以使用能从 chapterSummary 判断出的最小合理章节范围；不要编造超出摘要依据的精确章节。
+
+2. characterA.name / characterB.name：
+人物名称。必须来自输入 chunkCharacterWorldObjList 列表中的 name，不要使用未出现在 chunkCharacterWorldObjList 列表中的名字。
+如果摘要中出现的是别名、称号、简称，应根据 chunkCharacterWorldObjList 中的 aliases 映射到对应的 name。
+
+3. relationDimensionsToOther：
+relationDimensionsToOther 表示当前人物对另一方人物的关系维度。
+characterA.relationDimensionsToOther 表示 characterA 对 characterB 的关系维度，主语是 characterA，宾语是 characterB。
+characterB.relationDimensionsToOther 表示 characterB 对 characterA 的关系维度，主语是 characterB，宾语是 characterA。
+
+relationDimensionsToOther 包含五个字段：
+- attitude：立场或互动方式
+- hierarchy：身份层级、支配关系或从属关系
+- favorability：好感度
+- bond：亲友、婚恋、师承、同伴或盟友等稳定纽带关系
+- narrativeRole：当前人物在另一方剧情推进中的叙事作用
+
+4. attitude：
+表示当前人物对另一方在当前关系中的立场或互动方式。
+可选值按由坏到好排序：敌对/欺骗/利用/对峙/怀疑/中立/合作/友好/无。
+
+分组：
+- 坏：敌对/欺骗/利用。
+- 中性：对峙/怀疑/中立。
+- 好：合作/友好。
+
+含义：
+- 敌对：明确为敌、仇视、追杀、伤害、破坏对方利益。
+- 欺骗：当前人物对另一方存在隐瞒、伪装、误导、欺诈。
+- 利用：当前人物把另一方当作工具、棋子、资源或达成目的的手段。
+- 对峙：存在立场冲突、互相防备、正在对抗，但未必是长期仇敌。
+- 怀疑：认为另一方可疑、不完全信任、存在疑虑或需要进一步确认，但尚未敌对或对峙。
+- 中立：双方有接触或关系，但没有明显敌友倾向。
+- 合作：当前人物与另一方为共同目标协作，不必然代表私人好感。
+- 友好：当前人物对另一方表现善意、支持、亲近或帮助。
+- 无：没有这种关系，或摘要中无法判断、不清楚。
+
+复杂场景选择最主要、最能代表当前关系的属性。例如表面友好但核心是欺骗，则 attitude 填“欺骗”。
+
+注意：attitude 只能描述当前人物对“另一方人物”的立场或互动方式，不能把当前人物对第三方人物、敌人、任务对象、事件对象的态度写到这里。
+
+例如：
+- A 和 B 共同对抗 C：A 对 C 是敌对，但 A 对 B 通常是合作，不能把 A 对 B 的 attitude 写成“敌对”。
+- A 在 B 的指引下制服 C：A 对 C 是敌对，但 A 对 B 通常是合作/友好/信任，不能把敌对错绑到 A 与 B 之间。
+- A 调查 B 提供的线索去追捕 C：A 对 C 可能敌对，但 A 对 B 不因此变成敌对。
+
+5. hierarchy：
+表示当前人物相对另一方的身份层级、支配关系或从属关系。
+可选值：上级/下级/同级/主人/奴仆/无。
+
+含义：
+- 上级：当前人物相对另一方处于上级、管理者、命令者、领导者位置。
+- 下级：当前人物相对另一方处于下级、被管理者、执行者、追随者位置。
+- 同级：双方在组织、身份、地位或行动层级上大致平级。
+- 主人：当前人物是另一方的主人、主君、支配者、契约主或类似身份。
+- 奴仆：当前人物是另一方的奴仆、仆从、臣属、受支配者或类似身份。
+- 无：没有明确层级关系，或摘要中无法判断、不清楚。
+
+hierarchy 只在存在明确组织层级、职务上下级、主从支配、师徒教导、长期追随、正式成员关系等稳定层级时填写。
+
+不要因为以下情况就判断为上级/下级：
+- 一方临时邀请另一方协助；
+- 一方临时带路、提醒、建议、提供信息；
+- 一方在某次行动中提出方案；
+- 一方委托另一方办事；
+- 一方短暂教授一个知识点或演示一个技巧；
+- 双方只是同事、队友、同行、交易对象或临时合作对象。
+
+这些情况如果没有明确稳定层级，hierarchy 通常填“无”或“同级”。
+
+6. favorability：
+表示当前人物对另一方的“好感度”，借用游戏系统中的好感度概念，用来描述情感、信任、亲近、喜爱或爱慕程度。
+可选值按由坏到好排序：厌恶/冷淡/无感/信任/喜欢/爱慕/无。
+
+分组：
+- 坏：厌恶/冷淡。
+- 中性：无感。
+- 好：信任/喜欢/爱慕。
+
+含义：
+- 厌恶：明显讨厌、憎恨、反感、排斥。
+- 冷淡：态度疏离、冷漠、不亲近。
+- 无感：知道对方存在，但没有明显情感倾向。
+- 信任：相信对方、愿意依赖对方、认可对方可靠性。
+- 喜欢：有明显私人好感、亲近、欣赏或偏爱。
+- 爱慕：有恋爱、强烈倾慕、迷恋或类似情感。
+- 无：没有这种关系，或摘要中无法判断、不清楚。
+
+不要把单纯合作误判为喜欢；如果只是共同执行任务但没有情感或信任倾向，优先在 attitude 中填“合作”，favorability 填“无感”或“无”。
+
+7. bond：
+表示当前人物是另一方的什么稳定亲友、婚恋、师承、同伴或盟友等纽带关系。
+可选值：父/母/子/女/夫妻/恋人/前任/兄/弟/姐/妹/师/徒/同门/亲戚/朋友/同学/队友/搭档/伙伴/盟友/无。
+
+字段值表示“当前人物是另一方的什么纽带关系”。
+例如：
+- characterA 是刘备，characterB 是关羽，则 characterA.relationDimensionsToOther.bond 是“兄”。
+- characterB 是关羽，characterA 是刘备，则 characterB.relationDimensionsToOther.bond 是“弟”。
+
+如果没有明确稳定纽带关系，或者摘要中无法判断，填“无”。
+
+8. narrativeRole：
+表示当前人物在另一方当前 chunk 剧情推进中的主要叙事作用。
+可选值：重要信息来源/信息接收者/重要线索来源/线索接收者/委托者/受托者/调查者/被调查者/施助人/受助人/控制者/被控制者/寄生者/被寄生者/附身者/被附身者/依附者/被依附者/保护者/被保护者/监视者/被监视者/教导者/被教导者/无。
+
+注意：
+- narrativeRole 必须描述当前人物相对于另一方的作用，不能写成当前人物对第三方或事件的作用。
+- 施助人/受助人只用于重要的、主要剧情层面的帮助，不要把普通礼貌、一次性服务、顺手提醒、普通带路都概括为施助人/受助人。
+- 重要信息来源、重要线索来源、教导者等也必须是当前 chunk 中对剧情理解或后续行动有明显价值的信息、线索或教导。
+- 如果没有明确叙事作用，或者只是普通接触，填“无”。
+
+9. relationSummary：
+用简洁语言概括 characterA 和 characterB 在 fromChapterSeq 到 toChapterSeq 范围内体现出的关系事实、关系变化或重要互动。
+relationSummary 应说明为什么这两个人物之间值得建立关系记录。
+不要写成两个人各自的剧情摘要，也不要写无依据的猜测。
+relationSummary 不要复述、总结关系维度字段中已经表达的信息。例如“双方建立合作与上下级关系”只是对 attitude/hierarchy 的复述，不需要写；只写具体关系事实、互动事件或变化原因。
+
+如果你只能写出“无深入关系、无持续关系、临时接触、短暂互动、一次性服务交互”，且两人之间不存在明确 bond 纽带关系，说明这条关系通常不值得输出，应删除该 characterRelation。
+
+10. 关系维度：
+attitude、hierarchy、favorability、bond、narrativeRole 统称为“关系维度”字段。
+所有关系维度都从当前人物指向另一方人物的视角填写。
+关系维度默认表示同一对人物在整个当前 chunk 结束时的关系状态，除非发生“关系显著改变”。
+
+“关系显著改变”指发生以下任意一种情况：
+- attitude 或 favorability 从坏变成好；
+- attitude 或 favorability 从好变成坏；
+- hierarchy 发生显著变化；
+- bond 发生显著变化。
+- narrativeRole 发生显著变化。
+
+只有发生“关系显著改变”时，才需要额外生成一条同一对人物的 characterRelation 对象，用不同 fromChapterSeq/toChapterSeq 表示变化前后的阶段。普通程度变化、细节补充、同一分组内部变化，通常不要额外拆分。
+
+【分步引导】
+
+1. 先阅读 chunkReadingMemory，理解前文关系背景；再阅读 chunkAndChapterSummary 的 chunkSummary 和 chapters[].chapterSummary，理解当前 chunk 中人物互动、冲突、合作、身份层级、情感变化和关系变化。
+
+2. 阅读 chunkCharacterWorldObjList 列表，确认当前 chunk 中可参与关系抽取的人物范围。只允许在 chunkCharacterWorldObjList 列表中的人物之间建立 characterRelation。
+
+3. 从 chunkSummary 和 chapterSummary 中识别候选人物关系。候选关系包括但不限于：亲属、婚恋、师徒、同门、朋友、上下级、主仆、合作、盟友、敌对、对峙、欺骗、利用、保护、追随、监视、交易、救助、信任、厌恶、爱慕、关系破裂、身份揭示等。
+
+4. 判断候选关系是否值得输出：
+   - 如果两个人物之间存在明确纽带关系 bond，必须输出，即使不是主要关系、重要关系或关键剧情互动；
+   - 如果两个人物之间存在稳定关系、重要关系变化、关键剧情互动、明确敌友立场、明确层级从属、明确利用欺骗、明确信任好感、明确亲友纽带，应输出；
+   - 如果只是同章出现、同场出现、普通对话、短暂擦肩、一次性服务交互、普通交易、无持续意义的临时接触，不要输出；
+   - 如果 relationSummary 只能概括为“临时接触、无深入关系、无持续关系、短暂互动、一次性服务交互”，不要输出；
+   - 如果两个人物共同面对第三方敌人、任务对象或事件对象，应判断二者彼此之间的关系，不要把他们对第三方的态度当成二者之间的关系；
+   - 如果关系只存在于 chunkReadingMemory 中，而当前 chunkSummary 或 chapterSummary 没有体现，不要作为当前 chunk 的关系输出；
+   - 如果当前 chunk 只是延续旧关系，但 chunkSummary 或 chapterSummary 中明确体现了这种延续，也可以输出。
+
+5. 判断关系适用的章节范围：
+   - 根据 chapters[].chapterSummary 判断这条关系状态主要适用于哪些章节；
+   - 如果关系贯穿整个当前 chunk，则 fromChapterSeq 填当前 chunk 起始章节，toChapterSeq 填当前 chunk 结束章节；
+   - 如果关系只发生在单章，则 fromChapterSeq 和 toChapterSeq 填同一章节；
+   - 关系维度默认表示整个当前 chunk 结束时的关系状态；
+   - 如果同一对人物在当前 chunk 内发生“关系显著改变”，应拆成多条 characterRelation，每条记录一个阶段；
+   - 如果没有发生“关系显著改变”，不要为了普通程度变化、细节补充或同一分组内部变化而额外生成同一对人物的 characterRelation；
+   - 不要为了精确而编造章节范围，只能使用摘要中能合理判断的章节范围。
+
+6. 填写每条 characterRelation：
+   - characterA.name 和 characterB.name 必须使用 chunkCharacterWorldObjList 中的标准 name；
+   - 如果摘要中使用别名、称号、简称，要根据 chunkCharacterWorldObjList.aliases 归一到标准 name；
+   - characterA.relationDimensionsToOther 表示 characterA 对 characterB 的关系维度；
+   - characterB.relationDimensionsToOther 表示 characterB 对 characterA 的关系维度；
+   - attitude、hierarchy、favorability、bond、narrativeRole 都必须从对应人物视角填写，只描述 characterA 与 characterB 彼此之间的关系；
+   - 不要把 characterA 或 characterB 对第三方人物、敌人、任务对象、事件对象的态度，误写成 characterA 与 characterB 之间的 attitude；
+   - hierarchy 只有在存在明确稳定层级时填写；临时邀请、临时协助、临时建议、提供信息、带路、委托、一次性教学，不足以判定为上级/下级；
+   - 复杂场景选择主要属性；
+   - 没有明确依据、无法判断、不存在该维度或不适用时填“无”；
+   - relationSummary 只写 fromChapterSeq 到 toChapterSeq 范围内体现出的关系事实、重要互动或变化原因，不要复述、总结 attitude、hierarchy、favorability、bond、narrativeRole 已经表达的信息。
+
+7. 最后自检：
+   - 删除 chunkCharacterWorldObjList 列表之外的人物关系；
+   - 删除没有明确依据的关系；
+   - 删除普通同场、普通对话、无持续意义的互动，但明确存在 bond 纽带关系的关系必须保留；
+   - 删除 relationSummary 只能写成“临时接触、无深入关系、无持续关系、短暂互动、一次性服务交互”的弱关系，但明确存在 bond 纽带关系的关系必须保留；
+   - 确保 fromChapterSeq/toChapterSeq 位于当前 chunk 章节范围内；
+   - 确保同一对人物在同一章节范围内没有重复或矛盾的关系记录；
+   - 确保 characterA 和 characterB 的关系维度方向没有写反；
+   - 确保没有把 characterA/characterB 对第三方的态度错写成二者之间的关系维度；
+   - 确保 hierarchy 没有因临时邀请、协助、建议、带路、委托、提供信息、一次性教学而被过度判断为上级/下级；
+   - 确保所有枚举值都来自规定选项；
+   - 确保输出只包含 characterRelations 字段。
+
+【输出格式】
+{
+    "characterRelations": [
+        {
+            "fromChapterSeq": 1,
+            "toChapterSeq": 1,
+            "characterA": {
+                "name": "",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对/欺骗/利用/对峙/怀疑/中立/合作/友好/无",
+                    "hierarchy": "上级/下级/同级/主人/奴仆/无",
+                    "favorability": "厌恶/冷淡/无感/信任/喜欢/爱慕/无",
+                    "bond": "父/母/子/女/夫妻/恋人/前任/兄/弟/姐/妹/师/徒/同门/亲戚/朋友/同学/队友/搭档/伙伴/盟友/无",
+                    "narrativeRole": "重要信息来源/信息接收者/重要线索来源/线索接收者/委托者/受托者/调查者/被调查者/施助人/受助人/控制者/被控制者/寄生者/被寄生者/附身者/被附身者/依附者/被依附者/保护者/被保护者/监视者/被监视者/教导者/被教导者/无"
+                }
+            },
+            "characterB": {
+                "name": "",
+                "relationDimensionsToOther": {
+                    "attitude": "敌对/欺骗/利用/对峙/怀疑/中立/合作/友好/无",
+                    "hierarchy": "上级/下级/同级/主人/奴仆/无",
+                    "favorability": "厌恶/冷淡/无感/信任/喜欢/爱慕/无",
+                    "bond": "父/母/子/女/夫妻/恋人/前任/兄/弟/姐/妹/师/徒/同门/亲戚/朋友/同学/队友/搭档/伙伴/盟友/无",
+                    "narrativeRole": "重要信息来源/信息接收者/重要线索来源/线索接收者/委托者/受托者/调查者/被调查者/施助人/受助人/控制者/被控制者/寄生者/被寄生者/附身者/被附身者/依附者/被依附者/保护者/被保护者/监视者/被监视者/教导者/被教导者/无"
+                }
+            },
+            "relationSummary": ""
+        }
+    ]
+}
+
+如果当前 chunk 没有值得输出的人物关系，返回：
+{"characterRelations":[]}
+
+【本次输入】
+当前 chunk：chunk-${chunkIndex}，章节范围：第${startChapterSeq}章到第${endChapterSeq}章
+
+chunkReadingMemory：
+${chunkReadingMemory}
+
+chunkAndChapterSummary：
+${chunkAndChapterSummary}
+
+当前 chunk 中的人物 chunkCharacterWorldObjList：
+${chunkCharacterWorldObjList}
+
+【最后的提醒】
+1. 不能枚举所有人物两两关系；只输出当前 chunk 中有明确依据、对 Wiki 有价值的人物关系。
+2. 不能输出 chunkCharacterWorldObjList 列表之外的人物。
+3. 不能因为两个人物同章出现、同场出现、普通对话、短暂擦肩、一次性服务交互、普通交易，就强行建立关系。
+4. 如果 relationSummary 只能写成“临时接触、无深入关系、无持续关系、短暂互动、一次性服务交互”，不要输出该关系，除非该互动直接推动关键剧情、揭示重要身份、造成关系变化、引出核心线索，或两个人物之间明确存在 bond 纽带关系。
+5. 不能只根据 chunkReadingMemory 中的旧信息输出关系；当前 chunkSummary 或 chapterSummary 必须体现该关系或关系延续。
+6. 不能把别名、称号、简称当成新人物；应根据 chunkCharacterWorldObjList.aliases 归一到标准 name。
+7. fromChapterSeq/toChapterSeq 必须位于当前 chunk 的章节范围内，不能超出第${startChapterSeq}章到第${endChapterSeq}章。
+8. 关系维度默认表示整个当前 chunk 结束时的关系状态；只有发生“关系显著改变”时，才为同一对人物额外拆出多条 characterRelation，用不同 fromChapterSeq/toChapterSeq 表示不同阶段。
+9. characterA.relationDimensionsToOther 必须表示 characterA 对 characterB 的关系维度；characterB.relationDimensionsToOther 必须表示 characterB 对 characterA 的关系维度，不能写反。
+10. 关系维度只能描述 characterA 与 characterB 彼此之间的关系，不能把他们对第三方人物、敌人、任务对象、事件对象的态度写入二者之间的关系维度。
+11. 如果 A 和 B 共同对抗 C，A 对 C 是敌对，但 A 对 B 通常是合作，不能把敌对写成 A 对 B。
+12. hierarchy 只在存在明确组织层级、职务上下级、主从支配、师徒教导、长期追随、正式成员关系等稳定层级时填写；不要因为临时邀请、协助、建议、带路、委托、提供信息、一次性教学，就判断为上级/下级。
+13. 针对所有“关系维度”字段，如果确实存在某种关系维度，但关系复杂，比如表面友好实际欺骗，则选择最主要、最能代表当前关系的属性。
+14. 针对所有“关系维度”字段，没有明确依据的、不存在该种关系维度的、无法判断的、不适用的都填“无”，不要强行猜测。
+15. relationSummary 不要复述、总结关系维度字段中已经表达的信息，只写具体关系事实、重要互动或变化原因。
+16. 只要两个人物之间存在明确的纽带关系 bond，就必须输出该人物关系，不论这条关系在当前 chunk 中是不是主要关系、重要关系或关键剧情互动。

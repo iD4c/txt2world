@@ -1,0 +1,754 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩接受奥黛丽的心理治疗以稳定人性，帮助她解决心理炼金会隐患，并将鲍利的“织梦人”非凡特性和配方交给她，助其晋升。"
+    },
+    {
+      "fromChapterSeq": 1362,
+      "toChapterSeq": 1362,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "心理炼金会会长",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩为帮助奥黛丽，闯入“伊甸园”心灵城市，与心理炼金会会长鲍利·德尔劳激战并将其击杀。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "阿蒙晋升序列0“错误”，与克莱恩争夺“源堡”归属，双方处于对立状态。"
+    },
+    {
+      "fromChapterSeq": 1366,
+      "toChapterSeq": 1366,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩将“海神权杖”交给阿尔杰，让他代掌海神教会权柄，并告知末日时需按神谕行事，阿尔杰宣誓追随。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "伦纳德作为塔罗会“星星”，继续追随克莱恩，并在教堂相遇时克莱恩为其捐款，帕列斯提醒伦纳德取金币。"
+    },
+    {
+      "fromChapterSeq": 1365,
+      "toChapterSeq": 1365,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "黑夜女神",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩成功取得“永暗之河”河水献祭给黑夜女神，女神在梦中解答他的疑问，并鼓励他去面对安提哥努斯。"
+    },
+    {
+      "fromChapterSeq": 1365,
+      "toChapterSeq": 1365,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "萨林格尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在“永暗之河”取水时遭遇“死神”萨林格尔的死亡烙印干扰。"
+    },
+    {
+      "fromChapterSeq": 1365,
+      "toChapterSeq": 1365,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "格蕾嘉莉",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在“永暗之河”取水时遭遇不死鸟始祖格蕾嘉莉的攻击干扰。"
+    },
+    {
+      "fromChapterSeq": 1369,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "安提哥努斯",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩窃取安提哥努斯的身份、命运和自我认知，承接其失控命运，开始了容纳“愚者”唯一性的过程。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩写信给阿兹克讲述永暗之河的见闻，支付白骨信使邮费，延续他们的友谊。"
+    },
+    {
+      "fromChapterSeq": 1366,
+      "toChapterSeq": 1366,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩赠予威尔一枚幸运金币作为生日礼物，并咨询容纳唯一性的方法。"
+    },
+    {
+      "fromChapterSeq": 1367,
+      "toChapterSeq": 1367,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩向贝尔纳黛借用“许愿神灯”以备容纳唯一性时使用，贝尔纳黛同意。"
+    },
+    {
+      "fromChapterSeq": 1363,
+      "toChapterSeq": 1363,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩以“律令法师”魔药为交换，希望休在将来愚者沉睡时执行危险任务唤醒祂，休考虑后答应。"
+    },
+    {
+      "fromChapterSeq": 1363,
+      "toChapterSeq": 1363,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩询问蕾妮特是否需要帮助围剿玫瑰学派，信使表示需找到目标后再说。"
+    },
+    {
+      "fromChapterSeq": 1363,
+      "toChapterSeq": 1363,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩去见莎伦和马里奇，一起打牌度过一段时间。"
+    },
+    {
+      "fromChapterSeq": 1363,
+      "toChapterSeq": 1363,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "马里奇",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩去见莎伦和马里奇，一起打牌度过一段时间。"
+    },
+    {
+      "fromChapterSeq": 1360,
+      "toChapterSeq": 1360,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "班森·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "弟",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩暗中参加班森的婚礼，见证班森与露丝结婚。"
+    },
+    {
+      "fromChapterSeq": 1360,
+      "toChapterSeq": 1360,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在班森的婚礼上暗中与梅丽莎等人重逢。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "赫密斯",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "赫密斯向奥黛丽道歉，解释自己利用了她，并给出补偿选择。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "达尼兹传达神谕，让阿尔杰戴面具担任海神教会教皇，阿尔杰接受。"
+    },
+    {
+      "fromChapterSeq": 1358,
+      "toChapterSeq": 1358,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿蒙向梅迪奇交付“战争之红”皇冠，并表达对西大陆的兴趣。"
+    },
+    {
+      "fromChapterSeq": 1359,
+      "toChapterSeq": 1361,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "奥黛丽为克莱恩提供心理治疗，帮助他稳定人性。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "阿尔弗雷德·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿尔弗雷德在庄园发现被剥皮尸体，奥黛丽让苏茜查看，后续共同应对家族事务。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "喜欢",
+          "bond": "主人",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "苏茜",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "喜欢",
+          "bond": "伙伴",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽让苏茜查看被剥皮尸体，苏茜作为她的伙伴和助手继续协助。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "苏茜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "苏茜作为奥黛丽的伙伴，间接协助克莱恩。"
+    },
+    {
+      "fromChapterSeq": 1359,
+      "toChapterSeq": 1360,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "乌特拉夫斯基",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林和乌特拉夫斯基都收到始祖的神启，准备联合节制系对付玫瑰学派。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林作为塔罗会“月亮”，继续追随克莱恩，并积极为血族事务奔走。"
+    },
+    {
+      "fromChapterSeq": 1354,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "被寄生者"
+        }
+      },
+      "characterB": {
+        "name": "伊恩·赖特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "寄生者"
+        }
+      },
+      "relationSummary": "伦纳德与寄生体内的帕列斯继续合作，讨论阿蒙成神和末日危机。"
+    },
+    {
+      "fromChapterSeq": 1360,
+      "toChapterSeq": 1360,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌视",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩扫墓时察觉查拉图可能未死透，推测其有复活后手，因缺少一份“奇迹师”非凡特性。"
+    },
+    {
+      "fromChapterSeq": 1368,
+      "toChapterSeq": 1369,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌视",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩制造分身窃取未消化的“诡秘侍者”特性时，分身出现查拉图特征并失控，克莱恩将其转化为秘偶。"
+    }
+  ]
+}

@@ -1,0 +1,1067 @@
+{
+  "characters": [
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在贝克兰德为济贫基金募集粮食，向父亲霍尔伯爵请求分出部分家中存粮被拒，目睹父亲与哥哥希伯特准备投降因蒂斯的自私言论。她利用‘操纵师’能力影响东切斯特郡农夫采摘蘑菇并匿名购买再分发，以缓解粮食危机，但感到远远不够。在塔罗会上，她目睹格尔曼·斯帕罗开解其迷茫，建议深入底层体验；她帮助戴里克完成‘无暗者’晋升仪式，见证白银城短暂阳光。她因发现贵族真面目和自身伪善而陷入困惑，最终决定自行寻找答案。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会‘正义’",
+        "序列4‘操纵师’",
+        "鲁恩慈善助学基金发起人"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽碧绿的眼眸黯淡了一下，没表现出自身的无奈和软弱，微微点头道：\n“我会想办法的。”"
+        },
+        {
+          "chapterSeq": 1214,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽专注听父亲说话的过程中，表情先是微有变化，旋即沉淀不见，直到结束，都没再有任何额外的情绪呈现。\n此时，她默然了一阵，再次问道：\n“……可我们已经拿到了超过本身所需太多太多的东西，哪怕从中分一部分出来都不行吗？”"
+        },
+        {
+          "chapterSeq": 1221,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽暗中操纵的。\n她先是将‘隐者’女士提供的快速繁殖蘑菇给予林地内一只只动物，借助它们的帮忙，全部‘种’到了合适的地方，接着，成片地‘影响’了周围村庄的农夫，增强他们内心的渴望，让他们能战胜对律法的恐惧"
+        },
+        {
+          "chapterSeq": 1224,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽听得眼睛一点点睁大，整个人就仿佛被邪神入侵了一样。\n等到克莱恩讲完，她沉默了好几秒，用同样低沉的嗓音，略显迷茫地说道：\n“这就是末日的真相？"
+        },
+        {
+          "chapterSeq": 1225,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽浅笑回应道：\n“难道是罗塞尔大帝说的？”"
+        },
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你的这些问题，包括刚才说的自己最真实的想法，都需要自己去寻找答案，别人无法代替你。\n“我只能给你一些建议，去田地里看看劳作的农夫们吧，去工厂里看看辛苦的工人们，去东区深入体验一下，去图书馆认真翻阅过去的报纸和各种相关的著作。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1211, 1214, 1221, 1224, 1225, 1226, 1227, 1228]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "梅丽莎作为鲁恩慈善助学基金工作人员，在圣赛缪尔教堂发放救济食品，面对食物短缺，她将自己的那份食物送给了一位摔倒的饥饿母亲和她的孩子。",
+      "identInfos": [
+        "克莱恩·莫雷蒂的妹妹",
+        "鲁恩慈善助学基金工作人员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎表情沉凝地摇了摇头：\n“就连我们救济的那些伤残士兵，都领不到足额的食品了……”"
+        },
+        {
+          "chapterSeq": 1226,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎从长条桌下的木箱里拿出了一份食物，小跑着奔向了那对母子。\n“我刚才没看到，还有一份……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1211, 1226]
+    },
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗身份在神弃之地最东端发现灰白雾气屏障，听见西大陆诵念‘福生玄黄天尊’，确认西大陆文明存在。他教化月城居民信仰愚者，赐予蘑菇改善生存，并治愈他们。探索切尔诺贝利时，发现研究所日志揭露地底污染起源，遭遇阿蒙分身欺诈，得知‘旧日’、‘外神’等隐秘，受星空污染后靠源堡切断。他利用历史投影在贝克兰德与埃姆林、马里奇会面策划狩猎玫瑰学派巫王。在塔罗会上，他开解奥黛丽，委托成员集思广益诱捕乌黯魔狼，并策划双重狩猎计划。协助戴里克晋升‘无暗者’，白银城迎来阳光。最终以历史投影返回贝克兰德，与莎伦、马里奇商谈合作。",
+      "identInfos": [
+        "源堡主人",
+        "塔罗会‘世界’",
+        "序列3‘古代学者’",
+        "愚者化身格尔曼·斯帕罗"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿黑风衣，戴礼帽，提马灯的克莱恩回答道：\n“不会。\n“因为他们背负着弑亲的诅咒，一条生命如果不能在血脉亲人的手里终结，将异变成可怕的恶灵或者怪物。”"
+        },
+        {
+          "chapterSeq": 1213,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他们已经在向你介绍过我，我是一个传教士，来这片大地是散播主的光辉。”"
+        },
+        {
+          "chapterSeq": 1215,
+          "extractReason": "UPDATE",
+          "evidenceText": "“福生玄黄天尊。”\n听清楚灰白雾气深处那些声音的时候，克莱恩微微一颤，后脑瞬间发麻。"
+        },
+        {
+          "chapterSeq": 1222,
+          "extractReason": "UPDATE",
+          "evidenceText": "他戴着尖顶软帽，套着古典黑袍，右眼眼窝卡着单片眼镜，正是“时天使”阿蒙。\n但这个阿蒙的状态不是太正常，就像是一个蒙着皮膜的骷髅。"
+        },
+        {
+          "chapterSeq": 1223,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩刚要对历史孔隙影像的维持，脑海内突然闪过了一个念头：\n……\n他控制住自己，没让眉头微微皱起，不答反问道：\n“你不是阿蒙的本体？”"
+        },
+        {
+          "chapterSeq": 1224,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩揉了揉额角，用低沉的嗓音将“星空”、“旧日”、“外神”等隐秘说了一遍。"
+        },
+        {
+          "chapterSeq": 1225,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩犹豫了几秒，还是坦然说道：\n“虽然‘观众’途径尽量得在幕后，虽然我本身做事都牢记着‘谨慎’和‘小心’等单词，尽量不把自己放到危险的处境里……”"
+        },
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩让假人“世界”望着“魔术师”小姐道：\n“你不需要到现场，提前召唤出我的历史投影就行了。”"
+        },
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那我的目标将是另外一位‘巫王’，这和你们的行动无关。”"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林和克莱恩一步入内，看见沙发位置浮现出了穿白衬衣、黑马甲的马里奇，而他们背后的大门如有自己的生命，哐当一下就合拢了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1220, 1221, 1222, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230]
+    },
+    {
+      "name": "阿达尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "月城狩猎小队成员，脸上长有不少肉瘤。首次遭遇格尔曼·斯帕罗时，对其展现的神迹感到震惊，接受净化后恢复外貌。成为第一批朝圣者，后被隔离观察，最终成为愚者信徒。",
+      "identInfos": [
+        "月城狩猎小队成员",
+        "脸上长肉瘤后被治愈"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "脸上长了不少肉瘤的阿达尔表情变幻了几下，高声喊道：\n“你究竟是什么人？”"
+        },
+        {
+          "chapterSeq": 1212,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿达尔从队员们的眼神里知道了自己的变化，有些犹豫有点迟缓地抬起右手，摸了摸自己的脸庞，从上到下，从下到上，连续几遍。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1211, 1212, 1213, 1214, 1215, 1217]
+    },
+    {
+      "name": "辛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "月城狩猎小队成员，天生没有鼻子。对白银城和外界充满好奇，询问了诸多问题。接受净化后外貌恢复，成为愚者信徒。",
+      "identInfos": [
+        "月城狩猎小队成员",
+        "天生没有鼻子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "天生没有鼻子的辛已激动地发出了一连串的问题"
+        },
+        {
+          "chapterSeq": 1213,
+          "extractReason": "UPDATE",
+          "evidenceText": "“是，我们看见了光！我们感受到了温暖！”没有鼻子的辛紧跟着补充道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1211, 1212, 1213, 1215, 1217]
+    },
+    {
+      "name": "鲁斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "月城狩猎小队成员，两只眼睛挤在一起。第一次朝圣后返回通知大祭司，未获得净化。第二次率队前往，食用蘑菇后感动落泪。",
+      "identInfos": [
+        "月城狩猎小队成员",
+        "眼睛挤得很近"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "两只眼睛近乎挤在一起的鲁斯忍不住重复起辛后面那个问题：\n“诅咒之地外面还有多少正常人？”"
+        },
+        {
+          "chapterSeq": 1217,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的表情扭曲了一下后却突然凝固。\n接着，他神情一点点舒展，逐渐露出沉醉，享受，渴望的感觉。\n到了最后，鲁斯的眼泪不自觉流了出来"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1211, 1212, 1213, 1214, 1215, 1217, 1218, 1219]
+    },
+    {
+      "name": "尼姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "月城大祭司，序列4‘守夜人’。带领月城居民看守灰白雾气三千多年，发现仪式可让雾气深处传出声音。接待格尔曼·斯帕罗，告知历史隐秘，接受愚者信仰，成为愚者祭司。忍受体内疯狂，组织居民朝圣。",
+      "identInfos": [
+        "月城大祭司",
+        "序列4‘守夜人’",
+        "灰白头发布满沟壑"
+      ],
+      "aliases": [
+        {
+          "alias": "大祭司",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1212,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "来者正是月城大祭司尼姆。"
+        },
+        {
+          "chapterSeq": 1213,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是月城大祭司尼姆。\n……\n裹着深棕兽皮的月城大祭司尼姆摇了摇头：\n“主给我们的神谕是，每日看守，注意是否有人从雾气中走出。”"
+        },
+        {
+          "chapterSeq": 1217,
+          "extractReason": "UPDATE",
+          "evidenceText": "大祭司尼姆一边靠着墙壁，注视广场，一边表情扭曲地忍耐着什么。\n他灰白的头发扬了起来，脸庞上长出了一撮撮黑色的短毛"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1212, 1213, 1214, 1215, 1217, 1218, 1219, 1220, 1226, 1227]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽的父亲。拒绝拿出家中存粮救济民众，向奥黛丽阐述自私的生存哲学，准备在鲁恩战败后投降因蒂斯以保全家族。",
+      "identInfos": [
+        "奥黛丽之父",
+        "鲁恩贵族",
+        "霍尔家族族长"
+      ],
+      "aliases": [
+        {
+          "alias": "爸爸",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1214,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍尔伯爵因女儿到来轻松了不少的表情又慢慢变得严肃：\n“奥黛丽，慈善的前提是不影响自己和家人的生活，这是我希望你牢记的一个准则。”"
+        },
+        {
+          "chapterSeq": 1214,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果战争的结果真的无法逆转，你试着联络因蒂斯那几个家伙，给出我们的诚意。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1214]
+    },
+    {
+      "name": "希伯特·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的哥哥。支持父亲拒绝分出粮食的决定，认为家族财富不应分给他人，准备在父亲投降后接任霍尔伯爵。",
+      "identInfos": [
+        "奥黛丽的哥哥",
+        "霍尔家族长子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1214,
+          "extractReason": "UPDATE",
+          "evidenceText": "希伯特·霍尔有点恼怒地插言道：\n“为什么要将我们辛苦获得的东西分给别人？"
+        },
+        {
+          "chapterSeq": 1214,
+          "extractReason": "UPDATE",
+          "evidenceText": "“爸爸，你在考虑投降了？”希伯特有些诧异地问道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1214]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城首席，序列3‘银骑士’。等待韦特·希尔蒙晋升后，准备再次探索‘巨人王庭’打开沉睡着‘暗天使’的宫殿。指导戴里克，并暗示警惕洛薇雅。",
+      "identInfos": [
+        "白银城首席",
+        "序列3‘银骑士’",
+        "脸上有陈旧疤痕"
+      ],
+      "aliases": [
+        {
+          "alias": "猎魔者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1216,
+          "extractReason": "UPDATE",
+          "evidenceText": "头发花白，脸有陈旧疤痕的科林·伊利亚特眺望着窗外深沉的黑暗"
+        },
+        {
+          "chapterSeq": 1216,
+          "extractReason": "UPDATE",
+          "evidenceText": "“戴里克，你知道为什么初次探索‘巨人王庭’后，已成为序列3‘银骑士’的我要将后续的计划一直压着，不去实施？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1216, 1224, 1227]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城居民，塔罗会‘太阳’，序列5‘光之祭司’。准备晋升‘无暗者’的仪式，接受科林·伊利亚特指导，等待第二次探索‘巨人王庭’。在奥黛丽帮助下成功晋升序列4‘无暗者’，为白银城带来短暂阳光。",
+      "identInfos": [
+        "塔罗会‘太阳’",
+        "白银城居民",
+        "序列4‘无暗者’"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1216,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格毫不犹豫就回答道：\n“即使您想将我留在白银城，我也要申请前往。”"
+        },
+        {
+          "chapterSeq": 1227,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的自我意识，他的情绪念头，都被净化着，排斥着，用不了多久就会只剩下“赞美太阳”的本能。\n这个时候，奥黛丽不再让剥离的强烈情感依附于天使虚影，引导着它们回流向了小“太阳”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1216, 1227, 1229]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘倒吊人’，序列5‘海洋歌者’。通过风暴教会枢机会议审核，由‘海王’亚恩·考特曼主持晋升仪式，成为序列4‘灾难主祭’。参与海战展现半神力量。",
+      "identInfos": [
+        "塔罗会‘倒吊人’",
+        "序列4‘灾难主祭’",
+        "风暴教会枢机主教"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1216,
+          "extractReason": "UPDATE",
+          "evidenceText": "风暴教会枢机主教，“代罚者”高级执事，“海王”亚恩·考特曼立在栏杆后"
+        },
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "这就是“灾难主祭”的力量，这就是半神半人的感觉？他略显沉醉地在心里感慨了一句"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1216, 1228, 1229]
+    },
+    {
+      "name": "亚恩·考特曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会枢机主教，‘代罚者’高级执事，‘海王’。主持阿尔杰·威尔逊的晋升仪式，掌控罗思德群岛海域。",
+      "identInfos": [
+        "风暴教会枢机主教",
+        "‘海王’",
+        "深蓝头发深蓝眼睛"
+      ],
+      "aliases": [
+        {
+          "alias": "海王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1216,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "风暴教会枢机主教，“代罚者”高级执事，“海王”亚恩·考特曼立在栏杆后"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1216]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘隐者’，‘星之上将’。收到贝尔纳黛来信，获邀前往拉夏岛的翡翠城。指导弗兰克·李，并担心其乱来。在塔罗会上参与讨论狩猎巫王等事宜。",
+      "identInfos": [
+        "塔罗会‘隐者’",
+        "‘星之上将’",
+        "序列4‘神秘学家’"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星之上将”嘉德丽雅漫步于甲板上，享受着照穿了淡薄雾气的阳光。"
+        },
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅心中一喜，顾不得使用非凡能力，快步走了过去，拿起那封信，将它拆了开来。\n这来自贝尔纳黛"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1219, 1228, 1229]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘未来号’大副，序列5‘德鲁伊’。向嘉德丽雅表达想成为‘古典炼金师’的愿望，认为自己的发明缺少灵魂。",
+      "identInfos": [
+        "‘未来号’大副",
+        "序列5‘德鲁伊’",
+        "星星海盗团二号人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗兰克·李。\n这位“未来号”的大副，“星星海盗团”的二号人物"
+        },
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我不要做‘德鲁伊’了，我要成为‘古典炼金师’！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1219]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘神秘女王’。邀请嘉德丽雅前往拉夏岛的翡翠城。",
+      "identInfos": [
+        "‘神秘女王’",
+        "罗塞尔大帝之女"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "这来自贝尔纳黛，她简单寒暄了几句后，直接写道：\n“最近如果有空闲，可以秘密来一次拉夏。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1219]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘月亮’，血族子爵，序列5‘深红学者’。为成为伯爵寻求晋升，从血族得知顺位第十二，决心从外部获取伯爵特性。联系马里奇商讨合作对付玫瑰学派，在塔罗会上发布委托，由格尔曼·斯帕罗接下。",
+      "identInfos": [
+        "塔罗会‘月亮’",
+        "血族子爵",
+        "序列5‘深红学者’"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特又一次见到了卡西米·奥德拉这中年绅士模样的血族男爵。"
+        },
+        {
+          "chapterSeq": 1219,
+          "extractReason": "UPDATE",
+          "evidenceText": "“也就是说，只要有哪位伯爵过世，就会轮到我？”\n“不。”卡西米摇了摇头"
+        },
+        {
+          "chapterSeq": 1225,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特看着对面突然出现的马里奇，摘掉礼帽，极有风度地行了一礼。"
+        },
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林立刻坐直了身体，环顾一圈道：\n“女士们，先生们，我有一个委托。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1219, 1225, 1228, 1229, 1230]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "玫瑰学派节制系成员，‘怨魂’。与埃姆林商讨合作对付玫瑰学派放纵系，提出需要足够资格的合作者。认出格尔曼·斯帕罗为夏洛克·莫里亚蒂。",
+      "identInfos": [
+        "玫瑰学派节制系成员",
+        "‘怨魂’",
+        "夏洛克·莫里亚蒂熟人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1225,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特看着对面突然出现的马里奇，摘掉礼帽，极有风度地行了一礼。"
+        },
+        {
+          "chapterSeq": 1225,
+          "extractReason": "UPDATE",
+          "evidenceText": "马里奇坐在沙发上，前倾身体，交握着双手道。"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "“好久不见。”马里奇随即站起身来，以手按胸，对夏洛克·莫里亚蒂行了一礼。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1225, 1230]
+    },
+    {
+      "name": "伦纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘星星’，黑夜教会值夜者。在塔罗会上参与讨论狩猎玫瑰学派巫王，并向体内天使帕列斯·索罗亚斯德咨询诱捕乌黯魔狼的意见。",
+      "identInfos": [
+        "塔罗会‘星星’",
+        "黑夜教会值夜者",
+        "帕列斯·索罗亚斯德寄生者"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1229,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”伦纳德附和道，“多份卷宗显示，玫瑰学派放纵系的非凡者虽然以血腥，残忍，纵欲闻名，但在做事上，还是很有规划的，会体现出一定的狡诈和阴险。”"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "“告诉你前同事，这件事情他没法自己解决，我的建议也只有一个，那就是向那位‘愚者’祈求帮助！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1229, 1230]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘魔术师’，序列5‘旅行家’。被格尔曼·斯帕罗要求召唤其历史投影参与行动，后与休讨论战争局势，并作为工具召唤出格尔曼·斯帕罗。",
+      "identInfos": [
+        "塔罗会‘魔术师’",
+        "序列5‘旅行家’",
+        "休的好友"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思赶紧举了下手道：\n“不要‘满月’。”"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思窝在壁炉旁的安乐椅上，侧耳听了听二楼的动静，将目光投向了好友休"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "“……”佛尔思一阵呆愣，好一会儿才嘴角微动地侧头对休道，“我觉得我就是一个工具……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1228, 1229, 1230]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘审判’，序列5‘惩戒骑士’，军情九处成员。参与塔罗会讨论狩猎巫王，与佛尔思商讨战争局势和家人疏散计划。",
+      "identInfos": [
+        "塔罗会‘审判’",
+        "序列5‘惩戒骑士’",
+        "军情九处成员"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1229,
+          "extractReason": "UPDATE",
+          "evidenceText": "“审判”休看了好友一眼，跟着说道：\n“我两个月前遇到了一起涉及玫瑰学派的超凡事件，目标明显有受到欺骗，踩中了陷阱。”"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "休淡黄的短发不对称地分开着，梳得整整齐齐，她整个人与去年相比，显得更为严肃，更有裁决者的气质"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1229, 1230]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "‘时天使’、‘渎神者’。在切尔诺贝利内部，克莱恩遭遇其留守分身，阿蒙欺诈克莱恩，透露‘旧日’、‘外神’等隐秘，导致克莱恩受星空污染。",
+      "identInfos": [
+        "‘时天使’",
+        "‘渎神者’",
+        "‘偷盗者’途径天使之王",
+        "戴单片眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "时天使",
+          "type": "称号"
+        },
+        {
+          "alias": "渎神者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1222,
+          "extractReason": "UPDATE",
+          "evidenceText": "他戴着尖顶软帽，套着古典黑袍，右眼眼窝卡着单片眼镜，正是“时天使”阿蒙。"
+        },
+        {
+          "chapterSeq": 1223,
+          "extractReason": "UPDATE",
+          "evidenceText": "那阿蒙捏了捏单片眼镜的上下边缘，语气略带自嘲地说道，“但我不是自愿的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1222, 1223]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派节制系成员，‘怨魂’。马里奇提及她，并在最后现身与克莱恩等人会面。",
+      "identInfos": [
+        "玫瑰学派节制系成员",
+        "‘怨魂’",
+        "金发蓝眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "请莎伦小姐出来一起商量吧，我能维持的时间有限。”"
+        },
+        {
+          "chapterSeq": 1230,
+          "extractReason": "UPDATE",
+          "evidenceText": "一张高脚凳上，一道人影飞快勾勒了出来，她皮肤呈现人偶般的白，身穿精致的深黑宫廷风长裙，头戴同色的小巧软帽，金发较淡，蓝眸略浅。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1230]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会成员在周一下午举行聚会，讨论埃姆林的狩猎委托、乌黯魔狼的诱捕办法，交流各处战场情况。成员间合作加深，奥黛丽帮助戴里克晋升，克莱恩策划双重狩猎计划，埃姆林发布委托。",
+      "identInfos": [
+        "愚者组建的秘密组织",
+        "成员以塔罗牌为代号",
+        "定期在灰雾之上聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1228,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道道深红的光芒在青铜长桌两侧蹿升而起，凝固为了一道道较为模糊的身影。"
+        },
+        {
+          "chapterSeq": 1229,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”格尔曼·斯帕罗具现出一叠纸，分发给塔罗会众位成员"
+        }
+      ]
+    },
+    {
+      "name": "月城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "神弃之地东端的城邦，原看守灰白雾气的太阳神信徒，在克莱恩展现神迹、给予蘑菇后，全城改信愚者。大祭司尼姆成为愚者祭司，居民接受净化和治疗，生活条件改善。",
+      "identInfos": [
+        "神弃之地城邦",
+        "原太阳神信徒",
+        "现信仰愚者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1212,
+          "extractReason": "UPDATE",
+          "evidenceText": "月城曾经是属于吸血鬼的城市，但那个文明在古老的年代里已经被毁灭了。\n之后，我们接受伟大的太阳神，创造一切的主命令，迁移到了这里"
+        },
+        {
+          "chapterSeq": 1217,
+          "extractReason": "UPDATE",
+          "evidenceText": "月城居民们按照所属的区域，很有秩序地分别聚集在一起，低声讨论起来"
+        },
+        {
+          "chapterSeq": 1226,
+          "extractReason": "UPDATE",
+          "evidenceText": "这座古老的城邦毫无抵抗力地成为了“愚者”的信徒，将圣者、神使格尔曼·斯帕罗迎到了城内。"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "神弃之地城邦。首席科林·伊利亚特准备第二次探索‘巨人王庭’，戴里克·伯格在奥黛丽帮助下成功晋升‘无暗者’，为全城带来短暂阳光。居民目睹红月变化等异象。",
+      "identInfos": [
+        "神弃之地城邦",
+        "信仰愚者",
+        "以黑面草和蘑菇为食"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1216,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特眺望着窗外深沉的黑暗，直到一团银白锐芒在远处突然爆发，带来了几秒光明"
+        },
+        {
+          "chapterSeq": 1224,
+          "extractReason": "UPDATE",
+          "evidenceText": "白银城居民里思维较为敏捷的那些人一下就联想到了通识教材内对月亮的描述"
+        },
+        {
+          "chapterSeq": 1227,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道道光辉随之腾起，笼罩了整个白银城。\n神话传说中的正午，在这一刻短暂降临。"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩慈善助学基金",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽·霍尔发起的慈善基金，在战争中为贝克兰德民众发放食物，但面临粮食短缺。梅丽莎等工作人员在圣赛缪尔教堂外救济饥民。",
+      "identInfos": [
+        "奥黛丽发起的慈善组织",
+        "办公地点在圣赛缪尔教堂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "UPDATE",
+          "evidenceText": "“鲁恩慈善助学基金”和之后成立的“鲁恩济贫基金”、“鲁恩医疗慈善基金”都从佩斯菲尔街22号搬迁到了教堂内部的几个小房间"
+        },
+        {
+          "chapterSeq": 1226,
+          "extractReason": "UPDATE",
+          "evidenceText": "市民们排成几列，依次从“鲁恩济贫基金”的工作人员手里接过烤面包、蘑菇干和果脯等食物。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "南大陆组织，分为放纵系和节制系。节制系马里奇、莎伦与埃姆林、克莱恩合作，计划猎杀放纵系的‘巫王’以获取伯爵特性。放纵系半神因战争暴露位置，可能有陷阱。",
+      "identInfos": [
+        "南大陆组织",
+        "分为放纵系和节制系",
+        "信仰原始月亮和欲望母树"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1225,
+          "extractReason": "UPDATE",
+          "evidenceText": "“对于贝克兰德的玫瑰学派负责人，我确实没有一点线索。\n但是，战争白热化之后，南大陆东西拜朗、星星高原、帕斯河谷和哈加提草原都变得一片混乱，许多玫瑰学派的半神浮出了水面”"
+        },
+        {
+          "chapterSeq": 1229,
+          "extractReason": "UPDATE",
+          "evidenceText": "“玫瑰学派”放纵系的那些非凡者容易被自身的情绪和本能控制"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "星之杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在灰白雾气前召唤其历史孔隙影像，尝试打开屏障未完全成功；后用其传送到切尔诺贝利。",
+      "identInfos": [
+        "‘0’级封印物",
+        "镶嵌多种宝石的黑色手杖",
+        "可传送和开门"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1211,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是“星之杖”，被克莱恩用“旧日之盒”交换来的，编为“0-62”的恐怖封印物！"
+        },
+        {
+          "chapterSeq": 1212,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩手腕一抖，让已接近维持极限的“0-62”历史投影消失在了现实世界。"
+        },
+        {
+          "chapterSeq": 1222,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“星之杖”的主要能力之一：持有者脑海里浮现的相应场景如果真实存在，依旧存在，那“星之杖”能让他跨越所有阻碍"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩召唤其历史投影净化月城居民，之后在月城大弥撒中使用它为全城治疗，并展示神迹。戴里克晋升时将其粉碎制成魔药。",
+      "identInfos": [
+        "远古太阳神遗留",
+        "净化污染和疾病",
+        "染满铜绿的十字架"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1212,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是“源于‘远古太阳神’的‘无暗十字’历史孔隙影像！”"
+        },
+        {
+          "chapterSeq": 1218,
+          "extractReason": "UPDATE",
+          "evidenceText": "“无暗十字”表面的铜绿飞快剥离，露出了纯粹由阳光组成的本体。"
+        },
+        {
+          "chapterSeq": 1227,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是通过粉碎“无暗十字”得到的半神魔药。"
+        }
+      ]
+    },
+    {
+      "name": "生命手杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩召唤其历史投影治疗月城居民的异变和疾病。",
+      "identInfos": [
+        "原白银城封印物",
+        "可治疗异变和疾病",
+        "原木色手杖"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1212,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是曾经的白银城封印物“生命手杖”！"
+        },
+        {
+          "chapterSeq": 1213,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩见状，再次探手，从虚空内拖出“生命手杖”，让它在空气的推动下飞出"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用其‘开门’能力进入切尔诺贝利；奥黛丽使用其‘传送’能力分发粮食。",
+      "identInfos": [
+        "记录多种非凡能力",
+        "塔罗会成员共享"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1222,
+          "extractReason": "UPDATE",
+          "evidenceText": "他飞快翻到其中一页，准备使用“学徒”的“开门”。"
+        },
+        {
+          "chapterSeq": 1221,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是来自“魔术师”佛尔思的“莱曼诺旅行笔记”。"
+        }
+      ]
+    },
+    {
+      "name": "蘑菇",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩将蘑菇赐予月城居民，以怪物血肉为养分，不含毒素，改善生存。在贝克兰德，奥黛丽利用快速繁殖蘑菇缓解饥荒。",
+      "identInfos": [
+        "以怪物血肉为养分",
+        "可快速繁殖",
+        "不含毒素，黑色蘑菇积累诅咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1217,
+          "extractReason": "UPDATE",
+          "evidenceText": "“它们叫蘑菇，分为不同的种类，如果你们愿意，可以自行摘取食用，但不能碰全黑的那种，而且必须足够熟，才能入口，否则将遭遇可怕的诅咒。”"
+        },
+        {
+          "chapterSeq": 1221,
+          "extractReason": "UPDATE",
+          "evidenceText": "她先是将‘隐者’女士提供的快速繁殖蘑菇给予林地内一只只动物，借助它们的帮忙，全部‘种’到了合适的地方"
+        }
+      ]
+    },
+    {
+      "name": "旅者的行囊",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽向休租借此物，用来装运粮食分发。",
+      "identInfos": [
+        "可装运大量物品",
+        "‘审判’休所有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1221,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是她从“审判”休那里租赁来的“旅者的行囊”。"
+        }
+      ]
+    },
+    {
+      "name": "翻译器",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩在切尔诺贝利内使用其翻译研究所日志上的未知语言。",
+      "identInfos": [
+        "周明瑞携带的翻译器",
+        "可离线翻译"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1222,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是周明瑞之前攒了些钱，准备出国旅行时，专门买的翻译器"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1095 @@
+{
+  "characters": [
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗形象与阿尔杰探索原始岛屿远古太阳神教堂遗迹，击杀异变逝者与六翼石像鬼，获得“暴君”牌等战利品。他与阿尔杰分配战利品后传送回拜亚姆，再返回贝克兰德道恩·唐泰斯住所。他研究“暴君”牌，抄录“灾难主祭”配方给阿尔杰，将“德鲁伊”非凡特性卖给嘉德丽雅，“混乱导师”非凡特性卖给奥黛丽。他在塔罗会上展示“暴君”牌，分享天使之王分食远古太阳神壁画。他预约奥黛丽治疗精神问题，收购“断指”后探索伯克伦德街下水道，发现“偷盗者”途径半神，念头被窃取，引爆失败，最终地底爆炸。他与“神秘女王”贝尔纳黛会面，请她使秘偶塞尼奥尔呈现被查尼斯门后封印核心侵蚀的状态。六月，他准备盗取安提哥努斯家族笔记，利用仆役身份潜入圣赛缪尔教堂，遇到伦纳德及其体内天使帕列斯·索罗亚斯德，进入查尼斯门后第二层，找到笔记，正要用秘偶之手拿取时，遭遇教会高层，身体被抹除。他未死亡，苏醒于神战遗迹夜晚的迷雾小镇外，发现无法联系灰雾，无法召唤信使，决定进入小镇探索，途中遇见一位穿纯白长袍的明艳女子。",
+      "identInfos": [
+        "疯狂冒险家",
+        "愚者眷者",
+        "塔罗会成员“世界”",
+        "曾击杀多位序列5强者",
+        "持有“蠕动的饥饿”手套"
+      ],
+      "aliases": [
+        {
+          "alias": "克莱恩·莫雷蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        813,
+        814,
+        815,
+        816,
+        817,
+        818,
+        819,
+        820,
+        821,
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830,
+        831,
+        832
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰与格尔曼·斯帕罗探索原始岛屿，在墓葬厅配合击杀六翼石像鬼和三位逝者，获得“暴君”牌等战利品。他与克莱恩分配战利品，获得六翼石像鬼核心结晶和眼珠，并请求抄录“暴君”牌内序列4“灾难主祭”配方。他返回拜亚姆，思考晋升序列4的计划。在塔罗会上，他展示天使之王分食远古太阳神壁画，冲击成员信仰。",
+      "identInfos": [
+        "“倒吊人”",
+        "塔罗会成员",
+        "风暴教会“水手”途径非凡者",
+        "序列5“海洋歌者”",
+        "与格尔曼·斯帕罗多次合作"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        813,
+        814,
+        815,
+        822,
+        823,
+        824
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿罗德斯向克莱恩汇报戴莉·西蒙妮路过伯克伦德街并注视房屋，并应克莱恩要求扮演道恩·唐泰斯，应对社交场合。它向克莱恩透露安提哥努斯家族笔记在圣赛缪尔教堂查尼斯门后第二层靠右区域，并在克莱恩潜入教堂期间负责维持幻象。",
+      "identInfos": [
+        "魔镜",
+        "克莱恩的封印物",
+        "喜欢提问",
+        "能映照过去未来"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "别称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        815,
+        829,
+        830
+      ]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "戴莉·西蒙妮乘坐马车路过伯克伦德街160号，对道恩·唐泰斯的房屋注视了三秒以上，被阿罗德斯注意到。",
+      "identInfos": [
+        "通灵者",
+        "黑夜教会非凡者",
+        "黑色眼影与蓝色腮红",
+        "与克莱恩在廷根相识"
+      ],
+      "aliases": [
+        {
+          "alias": "戴莉",
+          "type": "简称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        815
+      ]
+    },
+    {
+      "name": "艾伦·克瑞斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾伦医生携带怀孕的妻子维尔玛参加道恩·唐泰斯的舞会，并邀请道恩参加孩子七月初的出生宴。他是“水银之蛇”威尔·昂赛汀即将出生的父亲。",
+      "identInfos": [
+        "知名外科医生",
+        "克莱恩在贝克兰德的熟人",
+        "威尔·昂赛汀的父亲"
+      ],
+      "aliases": [
+        {
+          "alias": "艾伦医生",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        816,
+        817,
+        818
+      ]
+    },
+    {
+      "name": "维尔玛·葛莱蒂斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "维尔玛怀孕多月，是“水银之蛇”威尔·昂赛汀转生的母亲。她在舞会上与道恩·唐泰斯交谈，提到胎儿半夜偶尔闹腾。她品尝冰淇淋并请求丈夫允许，表现出对甜食的渴望。",
+      "identInfos": [
+        "艾伦医生的妻子",
+        "中学教员",
+        "威尔·昂赛汀的母亲",
+        "怀孕中"
+      ],
+      "aliases": [
+        {
+          "alias": "维尔玛",
+          "type": "简称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        816,
+        817,
+        818
+      ]
+    },
+    {
+      "name": "埃莱克特拉主教",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃莱克特拉主教携妻子肖娜参加道恩·唐泰斯的舞会，与道恩交谈，提及女神庇佑睡眠，并感谢道恩的款待。他提到奥洛莉对道恩的夸赞，并玩笑道恩的内在匹配外表。",
+      "identInfos": [
+        "黑夜教会主教",
+        "克莱恩的邻居",
+        "圣赛缪尔教堂神职人员"
+      ],
+      "aliases": [
+        {
+          "alias": "主教",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817,
+        819
+      ]
+    },
+    {
+      "name": "肖娜·约翰逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "肖娜是埃莱克特拉主教的妻子，年轻，喜欢热闹，不放过任何舞会。在道恩·唐泰斯的舞会上首次登场。",
+      "identInfos": [
+        "埃莱克特拉主教之妻",
+        "年轻有活力"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817
+      ]
+    },
+    {
+      "name": "玛丽夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "玛丽夫人参加道恩·唐泰斯的舞会，与道恩交谈，表示已将道恩视为同伴，暗示好感。她是考伊姆公司相关人士。",
+      "identInfos": [
+        "考伊姆公司相关",
+        "对道恩·唐泰斯有好感"
+      ],
+      "aliases": [
+        {
+          "alias": "玛丽",
+          "type": "简称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817
+      ]
+    },
+    {
+      "name": "马赫特议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "马赫特议员携家人参加道恩·唐泰斯的舞会，送黑兰德酒作为礼物，与道恩寒暄。其女海柔尔也一同参加。",
+      "identInfos": [
+        "下议院议员",
+        "海柔尔的父亲",
+        "伯克伦德街居民"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817
+      ]
+    },
+    {
+      "name": "莉亚娜夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "莉亚娜夫人是马赫特议员的妻子，海柔尔的母亲。她在舞会上与道恩·唐泰斯谈论海柔尔上学的事情。",
+      "identInfos": [
+        "马赫特议员之妻",
+        "海柔尔的母亲"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817
+      ]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "海柔尔参加道恩·唐泰斯的舞会，道恩与她谈梦境话题，试图给予暗示。她夜探下水道被“怨魂”吓退后生病，但仍继续挖掘。她的挖掘导致地底爆炸，随后她发现阳台有只奇怪老鼠。她持有“偷盗者”途径神奇物品，被克莱恩怀疑受半神影响。",
+      "identInfos": [
+        "马赫特议员之女",
+        "“偷盗者”途径非凡者",
+        "受梦境引导",
+        "频繁夜探下水道"
+      ],
+      "aliases": [
+        {
+          "alias": "海柔尔小姐",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817,
+        818,
+        819,
+        821,
+        825,
+        826,
+        832
+      ]
+    },
+    {
+      "name": "奥洛莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥洛莉作为交际花，与道恩·唐泰斯跳开场舞，言语暧昧，称赞道恩内在匹配外表。她是寡妇，在上流社会有一定交际。",
+      "identInfos": [
+        "上流社会交际花",
+        "寡妇",
+        "参加道恩·唐泰斯舞会"
+      ],
+      "aliases": [
+        {
+          "alias": "奥洛莉女士",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        817
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休被极光会跟踪，出现两次恍惚，被军情九处黄金面具男告知极光会重视X先生被杀案。她接受委托留意斯特福德子爵接触的人。佛尔思将“审讯者”非凡特性作为礼物送给她，她准备晋升序列7。",
+      "identInfos": [
+        "赏金猎人",
+        "“治安官”",
+        "佛尔思的好友",
+        "为军情九处做任务"
+      ],
+      "aliases": [
+        {
+          "alias": "休",
+          "type": "简称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        819,
+        820,
+        821
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思在家写小说，将“审讯者”非凡特性作为生日礼物送给休，并试图观察休的跟踪。她在塔罗会上求购古老怨灵诅咒物，并出租“莱曼诺旅行笔记”。",
+      "identInfos": [
+        "“魔术师”",
+        "塔罗会成员",
+        "休的好友",
+        "言情小说作家"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        819,
+        820,
+        822,
+        823,
+        824
+      ]
+    },
+    {
+      "name": "谢尔曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "谢尔曼是东区居民，有性别认知问题，认为自己应是女性。他被黑裙少女性别转换的承诺诱惑，愿意尝试并服从命令。",
+      "identInfos": [
+        "东区居民",
+        "性别认知为女性",
+        "被黑裙少女诱惑"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        820
+      ]
+    },
+    {
+      "name": "军情九处黄金面具男",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "黄金面具男代表军情九处与休接头，讨论极光会跟踪事件，委托休留意斯特福德子爵接触的人，并邀请休加入军情九处。",
+      "identInfos": [
+        "军情九处人员",
+        "佩戴黄金面具",
+        "与休联络"
+      ],
+      "aliases": [
+        {
+          "alias": "黄金面具男",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        820,
+        821
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在塔罗会上提交罗塞尔日记，换取观看“暴君”牌，获知序列0信息。她购买“混乱导师”非凡特性制作成的“恐惧之手”手套，凑齐“催眠师”材料。她目睹天使之王分食壁画，信仰受冲击。她返回贝克兰德准备18岁生日舞会，即将晋升“催眠师”。",
+      "identInfos": [
+        "“正义”",
+        "塔罗会成员",
+        "霍尔伯爵之女",
+        "“心理医生”"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        821,
+        822,
+        823,
+        824,
+        829
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在塔罗会上目睹天使之王分食白银城造物主壁画，备受打击，怀疑神已死，白银城无救赎。他思考“倒吊人”建议，决定去训练场结交朋友，以分拆任务调查前任首席陵寝。",
+      "identInfos": [
+        "“太阳”",
+        "塔罗会成员",
+        "白银城居民",
+        "信仰造物主"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        821,
+        822,
+        824,
+        825
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅在塔罗会上与克莱恩交易“德鲁伊”非凡特性，提供“断指”和炸药，并传达“神秘女王”对神话生物血液交易的筹码。她告知克莱恩“神秘女王”同意见面。她写信请求见面，并在港口等待弗兰克凑钱。",
+      "identInfos": [
+        "“隐者”",
+        "塔罗会成员",
+        "“星之上将”",
+        "“未来号”船长"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        821,
+        822,
+        823,
+        825,
+        826,
+        828
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林在塔罗会上询问白银城是否有对应人造吸血鬼序列5的非凡特性，得知有精神污染。他购买安眠药剂给克莱恩，并考虑请教血族高层。",
+      "identInfos": [
+        "“月亮”",
+        "塔罗会成员",
+        "血族年轻一代",
+        "曾狩猎“原始月亮”信徒"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        822,
+        823,
+        824
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "威尔·昂赛汀在舞会上通过母亲传递对冰淇淋甜度的意见，并在克莱恩盥洗室梦境中提醒其命运偏移，可能与天使有关。他告知克莱恩海柔尔有问题，可聊梦境。他选择“弱小期短暂恢复一定实力的办法”作为交易筹码，并解释神话生物血液作用。",
+      "identInfos": [
+        "“水银之蛇”",
+        "序列1天使",
+        "命运途径",
+        "转生为艾伦医生之子"
+      ],
+      "aliases": [
+        {
+          "alias": "水银之蛇",
+          "type": "称号"
+        },
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        816,
+        818,
+        819,
+        827
+      ]
+    },
+    {
+      "name": "瓦尔特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "瓦尔特作为道恩·唐泰斯的管家，协助接待舞会宾客，并在爆炸后安排仆人保护雇主。",
+      "identInfos": [
+        "道恩·唐泰斯的管家"
+      ],
+      "aliases": [
+        {
+          "alias": "管家瓦尔特",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        816,
+        817,
+        827
+      ]
+    },
+    {
+      "name": "理查德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "理查德森作为道恩·唐泰斯的贴身男仆，在舞会中服务，并协助打听爆炸事件调查结果。",
+      "identInfos": [
+        "道恩·唐泰斯的贴身男仆"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        816,
+        818,
+        827
+      ]
+    },
+    {
+      "name": "贝尔纳黛·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛应克莱恩请求会面，使用“安眠号角”使秘偶塞尼奥尔呈现被黑夜教会查尼斯门后封印核心长期侵蚀的状态，并告知效果。她交易筹码被威尔·昂赛汀接受。",
+      "identInfos": [
+        "“神秘女王”",
+        "罗塞尔大帝之女",
+        "“窥秘人”途径高序列",
+        "持有“安眠号角”"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        823,
+        828,
+        829
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗兰克·李为“未来号”大副，正在研究可在怪物尸体上生长的小麦蘑菇杂交种。嘉德丽雅问他是否需要“德鲁伊”非凡特性，他激动表示需要，并前往港口变卖物品凑钱。",
+      "identInfos": [
+        "“未来号”大副",
+        "“耕种者”途径",
+        "沉迷危险生物实验"
+      ],
+      "aliases": [
+        {
+          "alias": "弗兰克",
+          "type": "简称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        825,
+        828
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在圣赛缪尔教堂地底与伪装成内部看守者的克莱恩相遇，未识破伪装。他体内寄生有天使帕列斯·索罗亚斯德。",
+      "identInfos": [
+        "“红手套”",
+        "黑夜教会非凡者",
+        "克莱恩在廷根的同事",
+        "体内寄生天使帕列斯·索罗亚斯德"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "称呼"
+        },
+        {
+          "alias": "伦纳德",
+          "type": "简称"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        831
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "帕列斯·索罗亚斯德是寄生在伦纳德体内的“偷盗者”途径天使，在教堂地底遇到伪装潜入的克莱恩时，克莱恩判断祂为自保不会揭穿自己。",
+      "identInfos": [
+        "“偷盗者”途径天使",
+        "寄生在伦纳德体内",
+        "索罗亚斯德家族"
+      ],
+      "aliases": [
+        {
+          "alias": "老爷爷",
+          "type": "称呼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        831
+      ]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "提及A先生曾被教会高层抹除，可能存在于迷雾小镇。",
+      "identInfos": [
+        "极光会神使",
+        "已被抹除"
+      ],
+      "aliases": [],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        832
+      ]
+    },
+    {
+      "name": "穿纯白长袍的明艳女子",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "在迷雾小镇中，克莱恩探索时，从小巷走出一位穿纯白长袍、头发松松挽起、容貌明艳的女子。",
+      "identInfos": [
+        "迷雾小镇中出现",
+        "穿纯白长袍"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        832
+      ]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "霍尔伯爵同意奥黛丽购买“恐惧之手”，并准备带奥黛丽返回贝克兰德参加18岁生日舞会。",
+      "identInfos": [
+        "奥黛丽的父亲",
+        "伯爵",
+        "慷慨支持女儿非凡物品"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        829
+      ]
+    },
+    {
+      "name": "斯特福德子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯特福德子爵是宫廷侍卫长，休的父亲曾经的副手，军情九处委托休留意他接触的人。",
+      "identInfos": [
+        "宫廷侍卫长",
+        "休父亲的前副手"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        821
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本周聚会上，克莱恩展示“暴君”牌，分享天使之王分食远古太阳神壁画，冲击成员信仰。成员进行多项交易：奥黛丽购买“混乱导师”非凡特性，阿尔杰获得“灾难主祭”配方，嘉德丽雅购买“德鲁伊”非凡特性，提供“断指”和炸药，佛尔思求购古老怨灵诅咒物。自由交流中，奥黛丽分享心灵巨龙导致考古队发疯事件，戴里克被壁画冲击，阿尔杰建议他结交朋友。克莱恩预约奥黛丽治疗精神问题，并安排与贝尔纳黛会面。",
+      "identInfos": [
+        "由愚者召集的秘密组织",
+        "成员以塔罗牌为代号",
+        "定期在灰雾之上聚会",
+        "涉及非凡知识、魔药、物品交易"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "极光会成员跟踪休，调查X先生被杀事件。军情九处认为极光会重视此案，休可能已被锁定排查。",
+      "identInfos": [
+        "信仰真实造物主的邪教组织",
+        "成员多为疯子",
+        "X先生原为其神使"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "军情九处人员与休接头，委托休留意斯特福德子爵接触的人，并调查极光会事件。邀请休加入军情九处。",
+      "identInfos": [
+        "鲁恩王国军事情报机构",
+        "负责非凡事件及监控"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩潜入圣赛缪尔教堂查尼斯门，试图盗取安提哥努斯家族笔记，遭遇教会高层（“橡皮擦”天使），身体被抹除。教堂内部看守者轮值，查尼斯门后封印核心有侵蚀效果。教会对爆炸事件解释为黑帮军火交易。奥黛丽得到教会保护。",
+      "identInfos": [
+        "七大神灵教会之一",
+        "信仰黑夜女神",
+        "贝克兰德教区有圣赛缪尔教堂",
+        "拥有查尼斯门后封印物"
+      ],
+      "aliases": [
+        {
+          "alias": "值夜者",
+          "type": "下属机构"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会内部晋升竞争激烈，阿尔杰计划立大功或秘密晋升半神。教会拥有“暴君”牌对应序列0“暴君”信息。",
+      "identInfos": [
+        "信仰风暴之主的教会",
+        "水手途径主导",
+        "阿尔杰所在教会"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩复盘原始岛屿探索时推测教堂深处叹息的存在可能与黄昏隐士会有关，齐林格斯可能因其获得晋升。组织由神子亚当建立，试图复活远古太阳神，可能拥有风暴领域高序列材料。",
+      "identInfos": [
+        "最古老隐秘组织",
+        "疑似由神子亚当建立",
+        "目标复活远古太阳神",
+        "与齐林格斯有关"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "嘉德丽雅为摩斯苦修会成员，可通过该组织获取资源和配方。",
+      "identInfos": [
+        "“隐者”嘉德丽雅所在势力",
+        "掌握大量知识"
+      ],
+      "aliases": []
+    }
+  ],
+  "items": [
+    {
+      "name": "暴君牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "“暴君”牌是罗塞尔·古斯塔夫制作的“亵渎之牌”之一，对应“风暴”途径序列0“暴君”。克莱恩与阿尔杰在原始岛屿墓葬厅从异变逝者身上获得。该牌包含完整魔药配方，可使持有者感应材料，本身价值不可估量。克莱恩将其上交灰雾，并在塔罗会上展示。",
+      "identInfos": [
+        "“亵渎之牌”",
+        "对应“风暴”途径序列0",
+        "包含全序列配方",
+        "由罗塞尔制作"
+      ],
+      "aliases": [
+        {
+          "alias": "暴君",
+          "type": "名称"
+        },
+        {
+          "alias": "风暴途径亵渎之牌",
+          "type": "描述"
+        }
+      ]
+    },
+    {
+      "name": "德鲁伊非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“耕种者”途径序列5非凡特性，呈现褐色泥土状，克莱恩从原始岛屿逝者身上获得。他将其卖给“隐者”嘉德丽雅供弗兰克·李使用，售价8000镑。",
+      "identInfos": [
+        "序列5“德鲁伊”",
+        "“耕种者”途径",
+        "褐色泥土状"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "海洋歌者非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“风暴”途径序列5非凡特性，水母状，克莱恩从原始岛屿逝者身上获得。他计划制作成神奇物品，并委托阿尔杰寻找工匠。",
+      "identInfos": [
+        "序列5“海洋歌者”",
+        "水母状",
+        "“风暴”途径"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "混乱导师非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“黑皇帝”途径序列5非凡特性，克莱恩从原始岛屿逝者身上获得。他出售给奥黛丽，制成“恐惧之手”手套。",
+      "identInfos": [
+        "序列5“混乱导师”",
+        "“黑皇帝”途径",
+        "可扭曲目标"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "六翼石像鬼核心结晶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "六翼石像鬼被击杀后，阿尔杰取出其残存红光的眼珠和灰白色半透明晶簇作为战利品，晶簇归阿尔杰。",
+      "identInfos": [
+        "六翼石像鬼核心",
+        "灰白色半透明晶簇"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "六翼石像鬼眼珠",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "具有红光残余的眼珠，可用于制作神奇物品或仪式，克莱恩获得。",
+      "identInfos": [
+        "六翼石像鬼眼珠",
+        "有红光残余"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在原始岛屿探索和潜入教堂时均携带“蠕动的饥饿”手套。在迷雾小镇苏醒后，他确认手套仍可使用。",
+      "identInfos": [
+        "放牧灵魂的手套",
+        "克莱恩常用神奇物品",
+        "可“旅行”"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在原始岛屿探索中使用阿兹克铜哨应对异变逝者，铜哨承受闪电风暴等伤害。在迷雾小镇中，他尝试吹响铜哨但无法召唤信使。",
+      "identInfos": [
+        "阿兹克·艾格斯赠送",
+        "可召唤信使",
+        "能借助灵界力量"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在墓葬厅用“丧钟”左轮射出“净化”子弹击杀异变逝者，并利用“弱点击破”能力攻击六翼石像鬼。",
+      "identInfos": [
+        "神奇左轮",
+        "可发射弱点子弹",
+        "克莱恩常用武器"
+      ],
+      "aliases": [
+        {
+          "alias": "丧钟",
+          "type": "简称"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思租给克莱恩的笔记，克莱恩用于记录半神级能力“闪电风暴”等。归还后，佛尔思发现多了两页半神级能力记录。",
+      "identInfos": [
+        "记录非凡能力的笔记本",
+        "可租赁",
+        "佛尔思所有"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "断指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "“偷盗者”途径神奇物品，外形如镊子，可提升手腕和指头稳定性和灵活度，便于窃取。克莱恩从嘉德丽雅处购得，用于探索下水道。",
+      "identInfos": [
+        "“偷盗者”途径物品",
+        "外形似指骨镊子",
+        "售价500镑"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "恐惧之手",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽用“混乱导师”非凡特性请工匠制作的手套，可提供威严、扭曲、混乱和魅惑能力，负面影响是心理阴暗和混乱。奥黛丽将其交由苏茜携带。",
+      "identInfos": [
+        "序列5神奇物品",
+        "黑色薄纱手套",
+        "“黑皇帝”途径"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "安眠号角",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "贝尔纳黛持有的神奇物品，外形为有孔洞的人类头骨，可吹奏夜的乐章，使目标受黑夜侵蚀。她用其使秘偶塞尼奥尔被侵蚀。",
+      "identInfos": [
+        "人类头骨制成",
+        "可吹奏夜的乐章",
+        "贝尔纳黛持有"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩潜入圣赛缪尔教堂查尼斯门后第二层试图盗取的“1”级封印物。它一直等待克莱恩到来，发出“霍纳奇斯……弗雷格拉……”召唤。但克莱恩被教会高层抹除，未能得手。",
+      "identInfos": [
+        "“1”级封印物",
+        "存放于圣赛缪尔教堂",
+        "安提哥努斯家族遗留"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "安眠药剂",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩从埃姆林处购得，可使目标沉睡10小时且无生理伤害，用于迷晕教堂仆役和内部看守者。",
+      "identInfos": [
+        "沉睡10小时",
+        "无生理伤害",
+        "购自埃姆林"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "审讯者非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "佛尔思作为礼物送给休的“仲裁人”途径序列7非凡特性，浅蓝色半透明六棱柱状。",
+      "identInfos": [
+        "序列7“审讯者”",
+        "浅蓝色六棱柱",
+        "佛尔思赠送休"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "心魇蜡烛",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "提及克莱恩之前使用“心魇蜡烛”治疗精神问题，但未彻底治愈。",
+      "identInfos": [
+        "能治疗精神问题",
+        "克莱恩曾使用"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩复盘原始岛屿探索时，怀疑教堂深处存在对《格罗塞尔游记》感兴趣，可能与黄昏隐士会或空想天使亚当有关。",
+      "identInfos": [
+        "古神“空想之龙”制作",
+        "书中世界",
+        "克莱恩持有"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩下水道探索时携带“黑皇帝”牌作为防护，变身“黑皇帝”形象。",
+      "identInfos": [
+        "“亵渎之牌”之一",
+        "对应“黑皇帝”途径",
+        "克莱恩持有"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "塞尼奥尔金币",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "承载“怨魂”塞尼奥尔的铁制卷烟盒内金币，克莱恩在探索下水道和潜入教堂时均将其带上，作为秘偶载体。",
+      "identInfos": [
+        "秘偶载体",
+        "“怨魂”塞尼奥尔附着"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "幸运天平",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "提及属于“血之上将”塞尼奥尔的神奇物品，可提升幸运但有厄运反噬。",
+      "identInfos": [
+        "可提升幸运",
+        "有厄运反噬",
+        "原属塞尼奥尔"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "丧钟左轮（重复？）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "（与之前丧钟左轮相同，请忽略此条）",
+      "identInfos": [],
+      "aliases": []
+    }
+  ]
+}

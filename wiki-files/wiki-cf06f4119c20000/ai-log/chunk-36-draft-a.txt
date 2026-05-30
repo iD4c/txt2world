@@ -1,0 +1,1398 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗的身份参与书中世界后续处理，决定将格罗塞尔、斯诺曼和龙泽尔的骨灰带回安葬，并获得‘海洋歌者’非凡特性。他通过灰雾告知‘太阳’和‘倒吊人’相关配方已到手。他占卜《格罗塞尔游记》的来历，看到‘空想之龙’安格尔威德的场景，遭受重创。他借到巨人钥匙并买下，占卜发现其与‘巨人王庭’有关。他参加‘黄金梦想号’篝火晚会，与艾德雯娜交流历史，获得《三世界之书》查阅权限。抵达拜亚姆后，他购买‘丧钟’左轮，尝试寻找‘疯船长’康纳斯·维克托。他利用‘海神权杖’在暴风雨夜袭击‘单眼骷髅号’，遭遇‘黑皇帝’途径半神，但被‘海王’亚恩·考特曼打断，‘疯船长’被灭口。他通过‘魔镜’阿罗德斯得知‘诡法师’配方线索在查拉图、霍纳奇斯山脉或圣赛缪尔教堂的安提哥努斯笔记，并了解阿罗德斯来历。塔罗会上，他以‘世界’身份提交‘公证人’和‘海洋歌者’配方，用‘海洋歌者’配方与‘倒吊人’交易原始岛屿坐标，并揭露‘疯船长’事件与贝克兰德大雾霾的关联，引导‘正义’等人怀疑王室。他进入《格罗塞尔游记》探索，发现书中世界有格罗塞尔、莫贝特、夏塔丝等角色的新故事，并进入格罗塞尔梦境，探索‘巨人王庭’潜意识，但因缺乏安抚心灵能力而退出。他安排弗兰克·李研究适合白银城的食物。他购买假身份和船票准备前往康纳特市，在酒吧遭遇军情九处追捕‘银币毒蛇’奥德尔和爱吃糖的神秘老者，认出后者为大科学家图兰尼·冯·赫尔莫修因。",
+      "identInfos": [
+        "疯狂冒险家格尔曼·斯帕罗",
+        "塔罗会‘世界’",
+        "愚者眷者",
+        "序列5‘秘偶大师’",
+        "持有‘蠕动的饥饿’手套",
+        "拥有‘丧钟’左轮",
+        "曾击杀‘屠杀者’吉尔希艾斯",
+        "掌握‘海神权杖’"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜伸手将桌上的《格罗塞尔游记》合拢，递给了克莱恩：\n“这是我的感谢。”"
+        },
+        {
+          "chapterSeq": 704,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩占卜《格罗塞尔游记》来历，看到“那是一片漂浮的大陆！能容纳数座正常城市的大陆！这大陆外围呈灰白色，一块块巨大岩石展现出了它们的轮廓，而在此上方，竖着一根又一根几十上百米高的宏伟石柱，它们或孤单地屹立着，或撑起了一座座巍峨的古拙宫殿。一条条或灰白，或赤红，或黄铜铸就，或冰晶凝聚的巨龙飞舞于这片大陆”"
+        },
+        {
+          "chapterSeq": 708,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥克法将铁黑色左轮递给克莱恩：“它就是‘丧钟’。”"
+        },
+        {
+          "chapterSeq": 710,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩进入灰雾之上，利用“海神权杖”沟通附近海域的海底生物，寻找“疯船长”康纳斯·维克托的船只。"
+        },
+        {
+          "chapterSeq": 711,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩透过画面，看到自身“闪电风暴”被化解的这一幕，忍不住在心里感慨了一句。他肯定这是半神级的力量！"
+        },
+        {
+          "chapterSeq": 713,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔镜”阿罗德斯提供查拉图所在，以及安提哥努斯家族笔记封印于圣赛缪尔教堂的线索。"
+        },
+        {
+          "chapterSeq": 718,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩进入《格罗塞尔游记》书中世界，来到佩索特城，发现格罗塞尔、莫贝特等角色以新身份生活。"
+        },
+        {
+          "chapterSeq": 722,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩认出军情九处追捕的神秘老者为“失踪多年的大科学家图兰尼·冯·赫尔莫修因”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "艾德雯娜将《格罗塞尔游记》作为谢礼送给克莱恩，并允许他借阅自己的藏书。她与克莱恩交流古代历史，同意出售巨人钥匙，最终以5000镑成交。她安排‘黄金梦想号’将克莱恩和安德森送至拜亚姆，并批准达尼兹频繁联络反抗军的申请。",
+      "identInfos": [
+        "‘冰山中将’",
+        "‘黄金梦想号’船长",
+        "‘知识与智慧之神’教会成员",
+        "序列5‘秘术导师’",
+        "收藏许多古代文献"
+      ],
+      "aliases": [
+        {
+          "alias": "冰山中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜伸手将桌上的《格罗塞尔游记》合拢，递给了克莱恩：\n“这是我的感谢。”"
+        },
+        {
+          "chapterSeq": 704,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜浅蓝色的眼眸微转道：\n“唯一的条件是，如果研究出什么，告诉我答案。”"
+        },
+        {
+          "chapterSeq": 706,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜坐在椅上，拿着书本，望向对面道：\n“所以，你也认为所罗门、图铎、特伦索斯特三大帝国曾经并存？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [703, 704, 705, 706, 707]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "安德森提出安葬夏塔丝、莫贝特、斯诺曼和龙泽尔的方案，并分配非凡特性，自己取走‘北方之王’尤里斯安的非凡特性。他陪同克莱恩前往拜亚姆，介绍克莱恩向奥克法购买‘丧钟’左轮，随后离开继续自己的旅途。",
+      "identInfos": [
+        "最强猎人",
+        "迷雾海最强猎人",
+        "序列5‘收割者’",
+        "性格散漫爱嘲讽",
+        "曾属于奥克法的冒险团队"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森勾勒嘴角，摇头叹息道：\n“你啊，总是这么死板，所以一辈子都无法成为艺术家。”"
+        },
+        {
+          "chapterSeq": 707,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森·胡德倚在那里，衣物整洁，发型不乱地笑道：\n“他们大概想说，再见，不，永远不要再见。”"
+        },
+        {
+          "chapterSeq": 708,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥克法看了看安德森，又看了看格尔曼·斯帕罗，决定不继续这个话题，他转而说道：\n“安德森告诉过你‘丧钟’的负面影响了吧？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [703, 704, 705, 707, 708]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹被分配‘巨人的心脏’非凡特性，向安德森请教‘阴谋家’魔药配方。他申请频繁联络反抗军，并向‘愚者’祈祷，首次获得回应，从此成为‘愚者’信徒。",
+      "identInfos": [
+        "‘黄金梦想号’船员",
+        "‘愚者’信徒",
+        "知名海盗",
+        "曾为‘冰山中将’效劳",
+        "性格略怂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看了达尼兹一眼，淡漠说道：\n“你的。”\n“我？我什么都没做，我没参加战斗……”达尼兹非常意外。"
+        },
+        {
+          "chapterSeq": 707,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹表情正经地张了张嘴，却什么都没能说出，只好干笑两声，对安德森道：\n“你有‘阴谋家’的魔药配方吗？”"
+        },
+        {
+          "chapterSeq": 712,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹牙关止不住地的作响，双腿微不可见却又难以遏制地颤栗着，脑海里回荡的尽是那无边无际的灰白雾气、高踞一切之上的模糊身影和“诵我之名应在心中”的低沉威严之声。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [703, 704, 705, 707, 712]
+    },
+    {
+      "name": "格罗塞尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "格罗塞尔战死后，克莱恩决定将其骨灰安葬于巨人遗迹。在书中世界，格罗塞尔以铁匠身份生活在佩索特城，克莱恩进入其梦境，探索‘巨人王庭’相关潜意识。",
+      "identInfos": [
+        "巨人守卫",
+        "原‘巨人王庭’守卫",
+        "死于与‘北方之王’尤里斯安的战斗",
+        "书中世界角色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩默然听完，斟酌了几秒道：\n“格罗塞尔、斯诺曼和龙泽尔的骨灰给我。”"
+        },
+        {
+          "chapterSeq": 718,
+          "extractReason": "UPDATE",
+          "evidenceText": "来往的人类对他并不恐惧，似乎已见得太多。\n他们甚至与那巨人打起了招呼：\n“下午好，格罗塞尔！”"
+        },
+        {
+          "chapterSeq": 719,
+          "extractReason": "UPDATE",
+          "evidenceText": "格罗塞尔和与他相似的几位巨人守在森林外缘，或提斧头，或拿大剑，专心致志地防备着不同方向。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [703, 718, 719]
+    },
+    {
+      "name": "斯诺曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯诺曼战死后，克莱恩决定将其骨灰与格罗塞尔合葬。在书中世界，他以虔诚教士身份存在。",
+      "identInfos": [
+        "苦修士",
+        "原书中世界角色",
+        "死于与‘北方之王’的战斗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "龙泽尔不是想回贝克兰德吗？烧成骨灰，装进盒子，顺路带到那座大都市，至于斯诺曼，他信仰的也不知道是远古太阳神，还是最初的造物主，只能把他葬在格罗塞尔旁边。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [703]
+    },
+    {
+      "name": "龙泽尔·爱德华",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "龙泽尔战死后，克莱恩决定将其骨灰带回贝克兰德安葬。在书中世界，他以‘哲学家’身份出现，表现出对自我归属的困惑。",
+      "identInfos": [
+        "鲁恩士兵",
+        "原书中世界角色",
+        "死于与‘北方之王’的战斗",
+        "绰号‘哲学家’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "龙泽尔不是想回贝克兰德吗？烧成骨灰，装进盒子，顺路带到那座大都市，如果有空，还可以找找他的后裔"
+        },
+        {
+          "chapterSeq": 720,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑发蓝眼的龙泽尔坐在街边的长条木椅上，呆呆地望着仿佛被火烧过的天空，如在沉思。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [703, 720]
+    },
+    {
+      "name": "夏塔丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "夏塔丝战死后，其非凡特性（‘海洋歌者’）被克莱恩获得。在书中世界，她与莫贝特结婚，以精灵歌者身份生活。",
+      "identInfos": [
+        "精灵歌者",
+        "原书中世界角色",
+        "死于与‘北方之王’的战斗",
+        "‘海洋歌者’非凡特性原主人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森用下巴指了指地板上闪烁微光的物品们，“呵呵，这些非凡特性里肯定有残余他们的少量精神……夏塔丝的给我。”克莱恩说。"
+        },
+        {
+          "chapterSeq": 718,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特一下弹起，奔向了门口，一边跑一边嘟囔道：\n“我知道你不会有耐心的，每次数完8，就直接跳到2！”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [703, 718]
+    },
+    {
+      "name": "莫贝特·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "莫贝特战死后，其非凡特性未再提及。在书中世界，他与夏塔丝结婚，常因惧内而抱怨，但最终仍乖乖回家。",
+      "identInfos": [
+        "所罗门帝国贵族",
+        "‘窃梦家’途径",
+        "原书中世界角色",
+        "死于与‘北方之王’的战斗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特看起来想跟夏塔丝一起，那就放到同一个墓穴里。"
+        },
+        {
+          "chapterSeq": 718,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特一下弹起，奔向了门口，一边跑一边嘟囔道：\n“我知道你不会有耐心的，每次数完8，就直接跳到2！”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [703, 718]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰收到‘海洋歌者’魔药配方和主材料，用原始岛屿坐标交换。他接受风暴教会调查‘疯船长’相关人物的任务，并得知格尔曼·斯帕罗击杀吉尔希艾斯的消息。他准备返回帕苏岛述职，并计划顺路探索班西港。他成功举行仪式获得魔药，开始思考晋升仪式的举行地点。",
+      "identInfos": [
+        "‘倒吊人’",
+        "风暴教会‘船长’",
+        "塔罗会成员",
+        "序列5‘海洋歌者’即将晋升",
+        "与齐林格斯共同发现原始岛屿"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 704,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰眼眸一点点睁大，心里既有着难以遏制的喜悦，又涌现出了强烈的诧异和愕然。他记得很清楚，上次塔罗会时，“世界”只承诺三天内帮“太阳”拿到“公证人”魔药配方，根本没说“海洋歌者”相关的事情，结果这才几天过去，这位先生就拿到了少有流通的序列5配方，而且还收获了主材料！"
+        },
+        {
+          "chapterSeq": 712,
+          "extractReason": "UPDATE",
+          "evidenceText": "调查‘疯船长’有关的人？阿尔杰略感疑惑，但没有询问，直接握右拳击左胸道：\n“是，乔戈里阁下。”"
+        },
+        {
+          "chapterSeq": 716,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰用原始岛屿坐标交换‘海洋歌者’配方和主材料。"
+        },
+        {
+          "chapterSeq": 721,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰展开纸张，略过主材料那一栏，快速扫了眼辅助材料，最后将目光停在了仪式部分：\n“在一只奥布尼斯的肚子内服食魔药……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [704, 712, 714, 715, 716, 717, 721]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克收到‘世界’提供的‘公证人’魔药配方，并欠下债务。他继续在下午镇探索，向塔罗会成员介绍白银城以怪物为食的艰苦生活。",
+      "identInfos": [
+        "‘太阳’",
+        "白银城居民",
+        "塔罗会成员",
+        "序列6‘公证人’配方已得"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克眼前突然一花，看见了无边无际的灰白雾气和深红光芒内祈祷的模糊身影。紧接着，他听到了“世界”的声音，知道自己的“公证人”魔药配方有了。"
+        },
+        {
+          "chapterSeq": 715,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克欣喜接过，如饥似渴地快速浏览了一遍羊皮纸上的内容：\n“序列6，‘公证人’。主材料：长者之树的根茎结晶1份，契灵鸟的尾羽5根。”"
+        },
+        {
+          "chapterSeq": 717,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克老实点头道：\n“是的，我们用了很长一段时间建立起营地，然后以小组联合的方式，一条街道一条街道地清除残余的怪物，寻找可能存在的各种古老痕迹。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [703, 714, 715, 716, 717]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅提交三页罗塞尔日记，换取关于大帝晚年疯狂原因的答案。她继续为塔罗会成员提供材料，如陨星水晶、黑狩巨蜥脊髓液，并表现出对‘神话生物血液’的渴望。她推测弗兰克召唤的信使为古代邪物。",
+      "identInfos": [
+        "‘隐者’",
+        "‘星之上将’",
+        "‘未来号’船长",
+        "塔罗会成员",
+        "‘神秘女王’下属",
+        "知识渊博"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 714,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅望向青铜长桌最上首道：\n“尊敬的‘愚者’先生，我有搜集到三页罗塞尔日记。”"
+        },
+        {
+          "chapterSeq": 715,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅早有准备般行了一礼，开口说道：\n“我想知道罗塞尔大帝晚年为何疯狂。”"
+        },
+        {
+          "chapterSeq": 721,
+          "extractReason": "UPDATE",
+          "evidenceText": "船长室内完成献祭不久的“星之上将”嘉德丽雅似有察觉，蕴藏深紫的眼眸下意识就望向了弗兰克·李所在房间的位置，隐隐约约看见了一个手工粗糙的虚幻娃娃。这个娃娃没有脑袋！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [714, 715, 716, 717, 721]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在塔罗会上旁观交易，对‘世界’的能力感到惊叹，同时从‘世界’揭露的‘疯船长’事件中，逐渐怀疑王室与人口贩卖有关。她继续为苏茜准备魔药，并思考‘心理医生’扮演守则。",
+      "identInfos": [
+        "‘正义’",
+        "贵族小姐",
+        "塔罗会成员",
+        "‘心理医生’途径",
+        "‘古物搜集保护基金’建立者"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 714,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽最近的心情确实不错，在返回家族城堡后，她以乖巧女儿的姿态顺利帮母亲凯特琳夫人解决了一些源于实际年龄和身体状态的心理问题，得到了非常好的反馈，这让她总结出了更多的“心理医生”扮演守则。"
+        },
+        {
+          "chapterSeq": 717,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽结合“世界”提供的线索，怀疑真正凶手还隐藏在王室内部，并有一部分军方人士为他效劳。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [714, 715, 716, 717]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思在塔罗会上向‘隐者’购买陨星水晶，但因资金不足需向休借钱。她对‘世界’的能力愈发敬畏，并受委托追查‘月亮’埃姆林的目标。",
+      "identInfos": [
+        "‘魔术师’",
+        "塔罗会成员",
+        "序列8‘戏法大师’",
+        "作家"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 716,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思也有类似的惊叹，并且感触愈发得深。她记得自己刚加入塔罗会的时候，“世界”先生给自己的直观印象是阴沉内敛，除了这个，没什么别的特点"
+        },
+        {
+          "chapterSeq": 716,
+          "extractReason": "UPDATE",
+          "evidenceText": "“陨星水晶已经拿到，60克600镑。”“隐者”嘉德丽雅侧头对“魔术师”佛尔思道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [714, 715, 716, 717]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林前往‘勇敢者酒吧’委托伊恩寻找原始月亮信徒。他在塔罗会上求购辅助材料，并对‘世界’的能力感到羡慕。他得知‘太阳’可提供序列5血族非凡特性，但暂不交易。",
+      "identInfos": [
+        "‘月亮’",
+        "血族",
+        "塔罗会成员",
+        "在丰收教堂做义工"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 706,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特离开马车，推开木门，走了进去。他旋即被里面混杂的气味刺激到，嫌弃地抬手捏了捏鼻子。"
+        },
+        {
+          "chapterSeq": 716,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林有气无力地问道：\n“我上次的委托，你们有线索了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [706, 714, 715, 716, 717]
+    },
+    {
+      "name": "伊恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伊恩在勇敢者酒吧经营黑市武器买卖，并组织纸面冒险游戏。他接受埃姆林的委托寻找原始月亮信徒，并表达对夏洛克·莫里亚蒂的担忧。莎伦暗中观察，告知他莫里亚蒂很好。",
+      "identInfos": [
+        "黑市武器商人",
+        "勇敢者酒吧成员",
+        "红眼睛（血族混血）",
+        "与莎伦有联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 706,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊恩点头笑道：\n“是的，这位先生，你有什么事情吗？或者你想加入我们这个游戏？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [706, 722]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "莎伦在勇敢者酒吧暗中观察伊恩与埃姆林的交易，并告知伊恩夏洛克·莫里亚蒂过得很好，暗示她与克莱恩保持联系。",
+      "identInfos": [
+        "怨魂",
+        "与马里奇是同伴",
+        "曾与克莱恩合作",
+        "哥特风打扮"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 706,
+          "extractReason": "UPDATE",
+          "evidenceText": "桌球室的虚空里突然浮现出一道身影，她脸色苍白，容貌精致，戴着黑色小巧软帽，穿着同款的哥特风宫廷长裙，正是“怨魂”莎伦。\n“他过得很好。”莎伦没什么情绪起伏地回答道，身影旋即虚化，消失不见。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [706]
+    },
+    {
+      "name": "奥克法·康纳克里斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥克法是安德森的前团队医师，现为庄园主。他向克莱恩出售神奇左轮‘丧钟’，详细介绍其能力和负面影响，最终以9000镑成交。",
+      "identInfos": [
+        "安德森前队友",
+        "序列5‘德鲁伊’（推测）",
+        "‘耕种者’途径",
+        "拥有‘丧钟’左轮"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 707,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥克法·康纳克里斯，我曾经团队的医师。安德森没对奥克法介绍格尔曼·斯帕罗，只是笑嘻嘻道：\n“我给你带来了一笔好生意。”"
+        },
+        {
+          "chapterSeq": 708,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥克法详细地介绍道：\n“它的能力其实很单一，就是收割别人的生命，这一共有三种方式……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [707, 708]
+    },
+    {
+      "name": "艾尔兰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "艾尔兰船长拜访克莱恩，告知他已帮助堂娜父亲解决货物问题，并提醒克莱恩已被军方重点关注，建议他改换身份。他还提供‘疯船长’可能停泊在附近岛屿的线索。",
+      "identInfos": [
+        "‘白玛瑙号’船长",
+        "军方人员",
+        "与克莱恩相识"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 709,
+          "extractReason": "UPDATE",
+          "evidenceText": "“拜访朋友不就是最重要的事情吗？”艾尔兰摘掉帽子，一点也不拘束地进了房间。"
+        },
+        {
+          "chapterSeq": 709,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我今天来找你，是想告诉你，你表现得太突出，上面开始重点关注你了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [709]
+    },
+    {
+      "name": "康纳斯·维克托",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "康纳斯·维克托是‘疯船长’，其海盗船‘单眼骷髅号’在暴风雨夜遭遇袭击，他本人被灭口，尸体被钉在桅杆上。克莱恩调查发现他与人口贩卖和贝克兰德大雾霾有关，其船上曾有‘黑皇帝’途径半神。",
+      "identInfos": [
+        "‘疯船长’",
+        "海盗船长",
+        "与奴隶商人勾结",
+        "被半神灭口"
+      ],
+      "aliases": [
+        {
+          "alias": "疯船长",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 709,
+          "extractReason": "UPDATE",
+          "evidenceText": "据红发的伊莲讲，“疾病中将”特雷茜帮魔女教派运送的奴隶都交给了“疯船长”康纳斯·维克托"
+        },
+        {
+          "chapterSeq": 711,
+          "extractReason": "UPDATE",
+          "evidenceText": "这艘船无人控制，在风中随波流荡，上面多处燃着赤红的火焰，焦黑的尸体遍地都是。其中一根桅杆的中段，绑着位头戴三角帽和黑色眼罩的中年男子，他独眼圆睁，满是惊恐，胸口被一根木棒深深插入，鲜血染红了一片。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [709, 710, 711, 712, 717]
+    },
+    {
+      "name": "乔戈里",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "乔戈里是风暴教会拜亚姆教区主教，他向阿尔杰下达调查‘疯船长’相关人物的任务，并询问阿尔杰是否认识格尔曼·斯帕罗。",
+      "identInfos": [
+        "风暴教会教区主教",
+        "阿尔杰的上司"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 712,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔戈里精神依旧矍铄，对阿尔杰主动的汇报非常满意，听完之后，语速颇快地说道：\n“这次是正常述职，你不用担心什么……另外，还有个任务，调查与‘疯船长’康纳斯·维克托有密切联系的那些人。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [712]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗兰克培育出牛肉味蘑菇并寄给克莱恩。在召唤信使蕾妮特·缇尼科尔时，他因对信使的多个脑袋产生研究兴趣而被惩罚倒栽入泥土。克莱恩回信引导他将研究方向转向适合白银城的作物。",
+      "identInfos": [
+        "‘未来号’船员",
+        "序列6‘生物学家’",
+        "热爱杂交培育怪异生物",
+        "令教会头疼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 721,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗兰克·李挽起衬衣袖子，甩了甩钢笔，脸带笑容地写道：\n“我亲爱的朋友格尔曼·斯帕罗，我要告诉你一个好消息，我利用‘蔷薇主教’的血肉，成功培育出了一种全新的蘑菇……”"
+        },
+        {
+          "chapterSeq": 721,
+          "extractReason": "UPDATE",
+          "evidenceText": "蕾妮特·缇尼科尔双手提着的四个脑袋眼眸各自转动，望向了不同的地方，最后统一落到了弗兰克·李脸上。忽然，房间内装在各种容器中的泥土全部飞出，堆在了弗兰克的身前。弗兰克随即浮起，表情愕然地在半空翻了个滚，头下脚上地就栽进了那堆泥土里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [721]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蕾妮特·缇尼科尔作为克莱恩的信使，传递弗兰克的信件并惩罚弗兰克的不敬。她在‘未来号’上显现出古代邪物的气息，被嘉德丽雅察觉。",
+      "identInfos": [
+        "克莱恩的信使",
+        "无头女士",
+        "提四个金发红眼脑袋",
+        "古代邪物",
+        "实力强大"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 721,
+          "extractReason": "UPDATE",
+          "evidenceText": "蕾妮特·缇尼科尔从虚空里走了出来。这位信使小姐穿着与以往类似的繁复黑裙，其中一个脑袋有咬着一封信。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [721, 722]
+    },
+    {
+      "name": "奥德尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥德尔是‘银币毒蛇’，为‘神秘女王’服务的冒险家。他带着爱吃糖的神秘老者出现在海藻酒吧，购买十张船票以迷惑追踪者，随后被军情九处追捕，跳窗逃脱。",
+      "identInfos": [
+        "‘银币毒蛇’",
+        "冒险家",
+        "宣称效忠‘神秘女王’",
+        "擅长反追踪"
+      ],
+      "aliases": [
+        {
+          "alias": "银币毒蛇",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 722,
+          "extractReason": "UPDATE",
+          "evidenceText": "德尼尔吐了口气，侧头看见克莱恩疑惑思索的神情，随口说道：\n“奥德尔，为‘黎明号’主人服务的冒险家奥德尔。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [722]
+    },
+    {
+      "name": "图兰尼·冯·赫尔莫修因",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "赫尔莫修因是失踪多年的大科学家，以爱吃糖的瘦弱老者形象出现，跟随‘银币毒蛇’奥德尔。军情九处正全力追捕他，但要求不伤害。克莱恩通过占卜确认其身份。",
+      "identInfos": [
+        "大科学家",
+        "罗塞尔大帝之后最伟大科学家",
+        "第二代差分机之父",
+        "爱吃糖",
+        "被军情九处追捕"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 722,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩刚有靠近，就看见那位戴兜帽的人从口袋里拿出了一枚咖啡色的糖果，丢进口中，咬得声音外传。……克莱恩一下恍然：“图兰尼·冯·赫尔莫修因，罗塞尔大帝之后最伟大的科学家，数学家，机械学家，第二代差分机之父。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [722]
+    },
+    {
+      "name": "亚恩·考特曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "亚恩·考特曼是风暴教会枢机主教，序列3‘海王’。在克莱恩袭击‘疯船长’时，他感应到异常并隔空打击，制造音爆掀飞‘单眼骷髅号’，随后赶到现场调查。他安排乔戈里交代阿尔杰调查‘疯船长’相关人物。",
+      "identInfos": [
+        "风暴教会枢机主教",
+        "序列3‘海王’",
+        "掌控海域的圣者",
+        "调查‘疯船长’事件"
+      ],
+      "aliases": [
+        {
+          "alias": "海王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 711,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是可怕的音爆！而且它与正常的音爆不同，似乎还夹杂着风领域的呜咽声。这来自“海王”亚恩·考特曼！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [711, 712]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿罗德斯作为‘魔镜’，通过无线电收报机与克莱恩交流，回答三个问题：提供‘诡法师’配方线索（查拉图、霍纳奇斯山脉、安提哥努斯笔记），展示‘疯船长’船上半神的模糊影像，揭示自身来历（由黑色液体中光点与石头结合诞生）。它的说话技巧愈发专业，并向克莱恩祝贺生日。",
+      "identInfos": [
+        "魔镜",
+        "克莱恩的仆人",
+        "需遵守问答规则",
+        "来源神秘",
+        "可直播远距离场景"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 713,
+          "extractReason": "UPDATE",
+          "evidenceText": "哒哒哒，无线电收报机内吐出了一张虚幻的白纸，上面用鲁恩文写道：\n“伟大的主人，您忠诚的谦卑的仆人阿罗德斯终于，终于又追赶上您的脚步了！”"
+        },
+        {
+          "chapterSeq": 713,
+          "extractReason": "UPDATE",
+          "evidenceText": "地面的孔洞涌出了大量的黑色粘稠液体，它们扭曲地向外伸张……一个光点伴随着黑色的液体被喷出，落到了一块石头上，迅速与对方结合，衍变为了一面花纹古老，两侧有黑色宝石装饰的银镜。"
+        }
+      ]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "查拉图是密修会首领，序列1‘诡秘侍者’，但在晋升过程中失控变成怪物。阿罗德斯警示克莱恩，查拉图可能伪装失控。其手中掌握‘占卜家’途径高序列配方，是克莱恩获取‘诡法师’配方的关键线索之一。",
+      "identInfos": [
+        "密修会首领",
+        "序列1‘诡秘侍者’",
+        "疑似失控为怪物",
+        "拥有‘占卜家’途径高序列配方"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 713,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是查拉图，祂在晋升序列1‘诡秘侍者’的过程里失控，变成了怪物，不过，伟大的主人您要小心，祂是一个非常狡诈的家伙，也许这一切表现都是祂故意弄出来的。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [713]
+    },
+    {
+      "name": "罗塞尔·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "罗塞尔日记新内容揭示：他晚年尝试转途径至‘窥秘人’以成为序列1‘知识皇帝’，并怀疑‘隐匿贤者’是概念化唯一性苏醒。他对‘蒸汽与机械之神’控制其子博诺瓦感到愤怒，决心反抗。一篇无日期日记显示他精神受刺激或污染，情绪激烈，决心成神以自救，并提及‘门’先生。",
+      "identInfos": [
+        "罗塞尔大帝",
+        "穿越者",
+        "曾为‘通识者’途径天使",
+        "晚年试图成神",
+        "制作‘亵渎之牌’"
+      ],
+      "aliases": [
+        {
+          "alias": "大帝",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 714,
+          "extractReason": "UPDATE",
+          "evidenceText": "“二月九日，今天是博诺瓦的生日……我心里却有着难以遏制的悲凉，我希望我的孩子能更人性一点，能更有感情一点，能更多地做自己，而非神灵的信徒。”"
+        },
+        {
+          "chapterSeq": 714,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我早就从那个最古老的组织拿到了‘知识皇帝’的魔药配方，现在，是时候寻求相应的材料了。”"
+        },
+        {
+          "chapterSeq": 715,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不！不可能！怎么会这样！如果我的猜测没有错，当初有那样遭遇的应该不止我一个！不！不！怎么会这样！”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [714, 715]
+    },
+    {
+      "name": "博诺瓦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "博诺瓦是罗塞尔之子，被‘蒸汽与机械之神’影响成为极度虔诚的信徒，这种状态让罗塞尔感到悲凉和愤怒。",
+      "identInfos": [
+        "罗塞尔大帝之子",
+        "极度虔诚的‘蒸汽与机械之神’信徒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 714,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“二月九日，今天是博诺瓦的生日，他已经是个健康，结实，诚实，善良的年轻人，他是如此的虔诚，受到了教会的重视……我希望我的孩子能更人性一点，能更有感情一点，能更多地做自己，而非神灵的信徒。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [714]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩提及威尔·昂赛汀的脐带血可能是神话生物血液，并计算其出生时间为七月份。",
+      "identInfos": [
+        "‘命运之蛇’",
+        "序列1神话生物",
+        "正在转生",
+        "生命学派议长"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 705,
+          "extractReason": "UPDATE",
+          "evidenceText": "不知道威尔·昂赛汀出生后留下的脐带血算不算，祂是序列1的“命运之蛇”，绝对的神话生物，但状态又不是太对……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [705]
+    },
+    {
+      "name": "布拉亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "布拉亚是混血警察，表面信仰‘风暴之主’，实为‘海神’卡维图瓦的信徒。他受到克莱恩（海神）的启示，汇报军情九处追捕老者的详细特征。",
+      "identInfos": [
+        "混血警察",
+        "‘海神’信徒",
+        "警司"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 722,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "正在警察局安排下属做事的布拉亚忽然就出了一身的冷汗，忙找了个借口，进入盥洗室，低声祷告道：\n“大海与灵界的眷者，伟大的卡维图瓦，您的信徒向您汇报……寻找的重点人物是一个很瘦的老者，他头发已全部变白，但还算茂密，只是非常杂乱，他很怕冷，在拜亚姆也会穿很厚的衣物，他喜爱吃糖……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [722]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会由‘愚者’召集，成员包括‘正义’、‘倒吊人’、‘太阳’、‘世界’、‘隐者’、‘魔术师’、‘月亮’等。本次聚会中，‘世界’提交‘公证人’和‘海洋歌者’配方，‘倒吊人’用原始岛屿坐标交换，‘隐者’提交罗塞尔日记。众人交流情报，揭露‘疯船长’事件与贝克兰德大雾霾的关联，并进行多项交易。",
+      "identInfos": [
+        "由‘愚者’主持的隐秘组织",
+        "成员代号为塔罗牌",
+        "主要在灰雾之上聚会",
+        "进行情报交换和资源交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 714,
+          "extractReason": "UPDATE",
+          "evidenceText": "一根根石柱撑起的高耸穹顶下，“隐者”嘉德丽雅看见了一道道类似的深红光芒腾起，化作模糊的身影。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "风暴教会通过乔戈里主教向阿尔杰下达调查‘疯船长’的任务，并收集格尔曼·斯帕罗情报。枢机主教亚恩·考特曼亲自处理‘疯船长’船上的半神事件，其势力在海上极为强大。",
+      "identInfos": [
+        "正神教会之一",
+        "掌握‘风暴’途径",
+        "在海上拥有强大力量和奥布尼斯海怪",
+        "总部帕苏岛"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 712,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔戈里顿了顿，没给阿尔杰说话的空间，继续讲道：\n“另外，还有个任务，调查与‘疯船长’康纳斯·维克托有密切联系的那些人。这是考特曼阁下直接交待的任务，你必须重视。”"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "军情九处在拜亚姆追捕‘银币毒蛇’奥德尔和爱吃糖的老者，冲入海藻酒吧搜查无果，随后联合总督府警察进行全城排查，要求不伤害目标老者。克莱恩推测其背后涉及王室。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "负责处理非凡事件",
+        "效忠王室",
+        "在拜亚姆有行动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 722,
+          "extractReason": "UPDATE",
+          "evidenceText": "德尼尔站立不稳，踉跄后退，眼见就要倒下，后脑撞在一张小圆桌边缘，却感觉肩膀位置多了股力量……“谢谢，这群该死的军方鬣狗！”德尼尔先道了声谢，旋即小声咬牙道。"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "密修会首领查拉图在晋升序列1时失控，但可能伪装。其掌握‘占卜家’途径高序列魔药配方，是克莱恩获取‘诡法师’配方的关键线索之一。",
+      "identInfos": [
+        "以‘占卜家’途径为主的隐秘组织",
+        "首领查拉图",
+        "拥有安提哥努斯家族笔记"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 713,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了祂，您无法在密修会任何半神那里得到魔药配方，因为查拉图当初是直接提供的高序列魔药"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "艾德雯娜将《格罗塞尔游记》赠予克莱恩作为感谢。克莱恩占卜其来历，看到‘空想之龙’安格尔威德创造的天空之城场景，并被巨龙阴影重创。他进入书中世界探索，发现死者会以新角色重生（如格罗塞尔、莫贝特、夏塔丝），并进入格罗塞尔梦境。书籍能吸入人物演绎故事，来历神秘。",
+      "identInfos": [
+        "由‘空想之龙’安格尔威德创造",
+        "书中世界自动演绎故事",
+        "可吸入人物",
+        "封皮黄褐色羊皮纸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜伸手将桌上的《格罗塞尔游记》合拢，递给了克莱恩：\n“这是我的感谢。”"
+        },
+        {
+          "chapterSeq": 704,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩占卜《格罗塞尔游记》来历，看到“那是一片漂浮的大陆！能容纳数座正常城市的大陆！这大陆外围呈灰白色，一块块巨大岩石展现出了它们的轮廓……”"
+        },
+        {
+          "chapterSeq": 718,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩进入《格罗塞尔游记》书中世界，来到佩索特城，发现格罗塞尔、莫贝特等角色以新身份生活。"
+        }
+      ]
+    },
+    {
+      "name": "丧钟",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从奥克法处购得神奇左轮‘丧钟’，价值9000镑。它具备弱点攻击、致命攻击和屠杀三种模式，能与不同特性子弹配合。负面影响是每次使用后随机获得或强化一个弱点，持续6小时；仅携带时容易口渴。其能力对应‘猎人’途径序列5‘收割者’。",
+      "identInfos": [
+        "神奇左轮",
+        "能力对应‘收割者’",
+        "三种攻击模式",
+        "负面效果为随机弱点"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 708,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "奥克法详细地介绍道：“它的能力其实很单一，就是收割别人的生命，这一共有三种方式：一是弱点攻击……二是致命攻击……三是‘屠杀’……”"
+        },
+        {
+          "chapterSeq": 708,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥克法看了看安德森，又看了看格尔曼·斯帕罗，决定不继续这个话题，他转而说道：“安德森告诉过你‘丧钟’的负面影响了吧？每次使用后，你会获得一个原本不存在的弱点，或者加强已经存在的弱点……只是携带的话，问题不大，仅仅容易口渴……”"
+        }
+      ]
+    },
+    {
+      "name": "巨人的钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从艾德雯娜处借来并最终以5000镑买下铁黑色巨大钥匙。占卜结果显示其对应‘巨人王庭’的某扇门，且与‘神弃之地’隔绝屏障有关。钥匙外形如七弦琴，原属巨人。",
+      "identInfos": [
+        "铁黑色巨大钥匙",
+        "疑似开启‘巨人王庭’之门",
+        "原属巨人",
+        "价值5000镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 704,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾德雯娜浅蓝色的眼眸微转道：“唯一的条件是，如果研究出什么，告诉我答案……我可以先借给你研究，离船之前你再决定要不要买。”"
+        },
+        {
+          "chapterSeq": 705,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩让铁黑色的巨大钥匙飞到了青铜长桌表面……占卜语句：“这把钥匙对应的地方。”……看见了超过10米高的沉重大门……黄昏的光芒模糊映照过来……克莱恩认为这代表“巨人王庭”的某一扇门"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在灰雾之上使用‘海神权杖’沟通海底生物寻找‘疯船长’船只，并在暴风雨夜发动远程袭击，制造闪电风暴和海啸。但被‘海王’亚恩·考特曼打断。权杖使用负担极大，克莱恩灵性消耗至极限。",
+      "identInfos": [
+        "‘海神’卡维图瓦遗留封印物",
+        "掌控海洋与风暴",
+        "负面效果严重",
+        "置于灰雾之上使用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 710,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩进入灰雾之上，伸手从杂物堆里招出“海神权杖”，浏览起这件封印物周围缭绕的无数光点。"
+        },
+        {
+          "chapterSeq": 711,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩让白骨权杖顶端的青蓝色宝石全部而非相继亮起！“单眼骷髅号”周围，暴风的声音忽然分成了两种……深黑的海浪涌了起来，接近10米！这海浪就像一堵神灵制造的墙壁，被无形之手推动着，涌向了“单眼骷髅号”！"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩佩戴‘蠕动的饥饿’手套进入《格罗塞尔游记》书中世界，利用其‘活尸’力量打开‘巨人王庭’梦境大门。手套可放牧多个灵魂并切换能力。",
+      "identInfos": [
+        "神奇手套",
+        "可放牧灵魂",
+        "克莱恩常用装备",
+        "源于A先生遗留"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 719,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩谨慎地走向门口，用之前在神战遗迹梦境世界里用过的办法，虚假地开启“蠕动的饥饿”，依靠“活尸”的力量，打开了大门。"
+        }
+      ]
+    },
+    {
+      "name": "梦魇非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用‘梦魇’非凡特性进入格罗塞尔的梦境，探索其潜意识，但因缺乏安抚心灵能力而退出。该特性原属于红手套戴维·雷蒙，克莱恩打算将其归还给黑夜女神教会。",
+      "identInfos": [
+        "‘梦魇’途径非凡特性",
+        "可用于入梦",
+        "原主人戴维·雷蒙"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 719,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩从灵体内拿出“梦魇”的非凡特性，相当艰涩地利用着它天然具备的那些能力。幽深宁静的黑暗飞快弥漫，一下就将克莱恩和格罗塞尔笼罩于内。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩携带阿兹克铜哨进入书中世界作为灵体加固手段，铜哨的死亡气息能强化灵体。",
+      "identInfos": [
+        "阿兹克·艾格斯赠与",
+        "召唤信使或加固灵体",
+        "源于死神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 718,
+          "extractReason": "UPDATE",
+          "evidenceText": "考虑到“黑皇帝”外形太过引人瞩目，在不清楚书中世界具体状况的前提下，克莱恩决定不携带那张亵渎之牌，转用阿兹克铜哨加固灵体，免得被莫名力量秒杀，来不及返回灰雾之上。"
+        }
+      ]
+    },
+    {
+      "name": "海洋歌者非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "夏塔丝死后遗留的非凡特性，被克莱恩获得，作为‘海洋歌者’魔药主材料。其外观为透明薄膜内包裹蔚蓝海水，伴有歌声。克莱恩计划将其交易给‘倒吊人’阿尔杰。",
+      "identInfos": [
+        "序列5‘海洋歌者’非凡特性",
+        "源于精灵夏塔丝",
+        "克莱恩获得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩上前几步，弯腰拾起了夏塔丝遗留的非凡特性，看到透明薄膜内的蔚蓝海水在轻轻摇晃，隐约又听见了那位精灵的优美歌声。"
+        }
+      ]
+    },
+    {
+      "name": "巨人心脏",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "格罗塞尔死后遗留的非凡特性，外形为婴儿手掌般的诡异事物。达尼兹被分配获得此物，计划制成防御型神奇物品。安德森认为其很有趣，可能制成能聊天的物品。",
+      "identInfos": [
+        "格罗塞尔的非凡特性",
+        "巨人途径",
+        "达尼兹获得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "安德森扫了剩下的两份非凡特性一眼，目光停留在了那婴儿手掌般的诡异事物上……还剩下“巨人的心脏”没有归属，克莱恩看了达尼兹一眼，淡漠说道：“你的。”"
+        }
+      ]
+    },
+    {
+      "name": "光之祭司非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯诺曼死后遗留的非凡特性，被艾德雯娜取走。克莱恩已有一份，因此没有选择。对应‘光之祭司’序列。",
+      "identInfos": [
+        "斯诺曼的非凡特性",
+        "序列5‘光之祭司’",
+        "艾德雯娜获得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 703,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾德雯娜想了想道：\n“我拿斯诺曼的。”\n这对应“光之祭司”，克莱恩已经有一份，因此并没有选择。"
+        }
+      ]
+    },
+    {
+      "name": "黄金酒杯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩将精灵王后高希纳姆的黄金酒杯交给艾德雯娜，请她放入夏塔丝墓穴。酒杯铭刻‘天灾，高希纳姆’精灵语。",
+      "identInfos": [
+        "精灵王后高希纳姆的遗物",
+        "黄金材质",
+        "铭刻精灵语"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 704,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将精灵王后的黄金酒杯递了过去道：\n“放进夏塔丝的墓穴里。”\n“……好。”艾德雯娜先是沉默了两秒，接着点头接过。"
+        }
+      ]
+    },
+    {
+      "name": "三世界之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "艾德雯娜收藏的古代文献，涉及物质世界、灵界、绝对理性世界，附录有高深符咒学内容。克莱恩借阅以寻找更好利用‘海神权杖’和‘时之虫’的方法。",
+      "identInfos": [
+        "生命学派成员著作",
+        "涉及三个世界理论",
+        "附录符咒学"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 706,
+          "extractReason": "UPDATE",
+          "evidenceText": "他手里正抓着本《三世界之书》，这来源于一位生命学派的成员，后落入“冰山中将”手里，它在讲述物质世界、灵的世界、绝对理性世界之外，有附带一些符咒学的内容，其中不乏高深的地方，克莱恩今天的重点就在研究这块，希望能找到更好利用“海神权杖”和那条“时之虫”的办法。"
+        }
+      ]
+    },
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩曾利用‘概率之骰’（怪物途径唯一性）恐吓使其安静，该封印物已由生命学派议员瑞乔德封印。未在当前chunk直接出现，仅作为克莱恩记忆提及。",
+      "identInfos": [
+        "‘0’级封印物",
+        "怪物途径唯一性",
+        "生命学派保管"
+      ],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "火种手套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩曾委托‘月亮’埃姆林从伦纳德处购得的神奇物品，可窃取非凡能力，但残留天使气息。当前chunk中未直接使用，仅作为背景提及。",
+      "identInfos": [
+        "神奇物品",
+        "可窃取非凡能力",
+        "曾属于伦纳德·米切尔"
+      ],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "时之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩研究《三世界之书》以寻找更好利用‘时之虫’的方法，但当前chunk未详细描写。",
+      "identInfos": [
+        "源于‘偷盗者’途径",
+        "可用于仪式或符咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 706,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩今天的重点就在研究这块，希望能找到更好利用“海神权杖”和那条“时之虫”的办法。"
+        }
+      ]
+    },
+    {
+      "name": "无线电收报机",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩使用无线电收报机与‘魔镜’阿罗德斯通信，阿罗德斯通过机器吐字并形成虚幻白纸。该机器被献祭至灰雾之上。",
+      "identInfos": [
+        "通信设备",
+        "可连接‘魔镜’阿罗德斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 713,
+          "extractReason": "UPDATE",
+          "evidenceText": "哒哒哒，无线电收报机内吐出了一张虚幻的白纸，上面用鲁恩文写道：……"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿罗德斯揭示该笔记封印于黑夜女神教会圣赛缪尔教堂查尼斯门后，其中可能记载‘诡法师’魔药配方。克莱恩决定将其作为获取配方的主要目标。",
+      "identInfos": [
+        "安提哥努斯家族遗物",
+        "记载‘占卜家’途径配方",
+        "封印于圣赛缪尔教堂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 713,
+          "extractReason": "UPDATE",
+          "evidenceText": "白纸吐出，画面一转，深沉的黑暗里，一个由根根白骨组成的空荡书架上，静静地摆着一本古老的笔记，它的封皮由硬纸制成，染着黑色。克莱恩一眼就认出了这本笔记：它是导致身体原主死亡的安提哥努斯家族笔记！"
+        }
+      ]
+    }
+  ]
+}

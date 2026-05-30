@@ -1,0 +1,29 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 452,
+      "toChapterSeq": 452,
+      "characterA": {
+        "name": "班森·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "班森通过政府雇员考试后，计划带领妹妹梅丽莎一起迁往贝克兰德生活。"
+    }
+  ]
+}

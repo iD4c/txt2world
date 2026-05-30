@@ -1,0 +1,304 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 773,
+      "toChapterSeq": 775,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "relationSummary": "克莱恩发现特莉丝未死并试图为埃德萨克王子复仇，特莉丝透露逼迫王子自杀的是宫廷侍卫长斯特福德子爵，并提出合作。克莱恩决定有限度合作，利用特莉丝调查大雾霾真相。"
+    },
+    {
+      "fromChapterSeq": 773,
+      "toChapterSeq": 775,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "瓦尔特",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩怀疑管家瓦尔特卷入威廉·赛克斯死亡事件，跟踪其至下水道，发现他与魔女特莉丝密会，从而揭露其暗中参与复仇计划。克莱恩继续监视并利用这一关系获取信息。"
+    },
+    {
+      "fromChapterSeq": 774,
+      "toChapterSeq": 774,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "海柔尔·马赫特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "海柔尔进入下水道探索时，克莱恩操纵秘偶塞尼奥尔附身阻止其与瓦尔特相遇，防止暴露自己的监视行动。海柔尔仅被吓退，未察觉克莱恩的存在。"
+    },
+    {
+      "fromChapterSeq": 777,
+      "toChapterSeq": 779,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩受委托刺杀极光会神使X先生（路易斯·维恩）。在聚会上，他伪装成休，利用秘偶大师能力和怨魂塞尼奥尔无声控制X先生，最终以丧钟左轮将其击杀，并抽取到传送能力。"
+    },
+    {
+      "fromChapterSeq": 776,
+      "toChapterSeq": 776,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在教堂遇见伦纳德，通过纸条警告其不得干涉自己，利用对索罗亚斯德家族寄生者的了解成功威慑。旧识重逢，但双方隐藏真实身份。"
+    },
+    {
+      "fromChapterSeq": 776,
+      "toChapterSeq": 776,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴莉因克莱恩模仿邓恩·史密斯的神态而短暂恍惚，克莱恩回忆邓恩与戴莉的情感，心情低沉。这是对逝者的共同怀念，但无实际关系发展。"
+    },
+    {
+      "fromChapterSeq": 782,
+      "toChapterSeq": 782,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "阿尔杰在深渊漩涡找到奥布尼斯海怪，向愚者祈祷求助。克莱恩以海神权杖威慑海怪，助阿尔杰成功晋升序列5海洋歌者。阿尔杰承诺调查科诺托海战弗萨克上校。"
+    },
+    {
+      "fromChapterSeq": 786,
+      "toChapterSeq": 786,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩从X先生手套中释放审讯者安迪·海顿灵魂，得知其死于科诺托海战，被弗萨克上校俘虏。这仅是处理战利品，对X先生无进一步关系。"
+    },
+    {
+      "fromChapterSeq": 780,
+      "toChapterSeq": 780,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿罗德斯",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "阿罗德斯扮演病中的道恩应付主教探病，但因言语不当导致克莱恩风评被害。克莱恩训诫阿罗德斯不要刺激别人。"
+    },
+    {
+      "fromChapterSeq": 773,
+      "toChapterSeq": 792,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "塔罗会上，月亮埃姆林租用莱曼诺旅行笔记两天，以狩猎原始月亮信徒。双方保持稳定的交易与合作关系。"
+    },
+    {
+      "fromChapterSeq": 773,
+      "toChapterSeq": 792,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "塔罗会上，正义奥黛丽参与交易，感叹出租旅行笔记的新模式。双方维持稳定的塔罗会成员关系。"
+    },
+    {
+      "fromChapterSeq": 773,
+      "toChapterSeq": 792,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "塔罗会上，隐者嘉德丽雅提供罗塞尔日记，揭示穿越者秘密和警告小心月亮。世界透露能联络怪物途径天使，她震惊并计划咨询神秘女王。双方维持交易与信息交换关系。"
+    }
+  ]
+}

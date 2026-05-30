@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1307,
+      "toChapterSeq": 1308,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩以周明瑞形象与罗塞尔残存意识对话，罗塞尔讲述自己被“堕落母神”污染的过程，警告不要集齐二十二张亵渎之牌，并托付照顾贝尔纳黛后沉眠。"
+    },
+    {
+      "fromChapterSeq": 1307,
+      "toChapterSeq": 1326,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩帮助贝尔纳黛封印被污染的父亲，并助其晋升序列2“贤者”，贝尔纳黛得知愚者真实身份后，双方继续保持合作与信任。"
+    },
+    {
+      "fromChapterSeq": 1307,
+      "toChapterSeq": 1308,
+      "characterA": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "女",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "父",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "贝尔纳黛在克莱恩帮助下封印被污染的父亲罗塞尔，父女关系得到体现。"
+    },
+    {
+      "fromChapterSeq": 1311,
+      "toChapterSeq": 1311,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "洛雷托",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "大地教会大主教洛雷托向埃姆林说明神恩者与神眷者体系，并任命其为负责贝克兰德血族事务的高级执事。"
+    },
+    {
+      "fromChapterSeq": 1311,
+      "toChapterSeq": 1311,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "维尔杜·加西亚",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被监视者"
+        }
+      },
+      "relationSummary": "阿尔杰奉愚者神谕监视亚伯拉罕家族成员维尔杜，并拖延其离开拜亚姆。"
+    },
+    {
+      "fromChapterSeq": 1316,
+      "toChapterSeq": 1319,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "心理炼金会会长",
+        "relationDimensionsToOther": {
+          "attitude": "中性",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "奥黛丽被心理炼金会会长引入心灵城市“伊甸园”并加入评议团，但她怀疑其背后有亚当影子，对会长保持警惕。"
+    },
+    {
+      "fromChapterSeq": 1319,
+      "toChapterSeq": 1319,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "苏茜",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "苏茜是奥黛丽的宠物金毛大狗，具备超凡智慧，协助奥黛丽发现异常并多次提供帮助。"
+    },
+    {
+      "fromChapterSeq": 1324,
+      "toChapterSeq": 1325,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿蒙在愚者教堂敲钟后消失，克莱恩困惑其意图，双方未发生直接对抗。"
+    },
+    {
+      "fromChapterSeq": 1325,
+      "toChapterSeq": 1325,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴里克在教堂察觉阿蒙敲钟的异常，想起圣典中关于“时天使”的描述，但未与阿蒙直接互动。"
+    }
+  ]
+}

@@ -1,0 +1,1018 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以新身份格尔曼·斯帕罗出海，乘坐白玛瑙号前往罗思德群岛。他写信给阿兹克归还黑皇帝牌和铜哨，获得封印技巧等线索；通过灰雾通灵无面人得知美人鱼位置，并怀疑有陷阱。塔罗会上以世界身份委托卖出无面人非凡特性，获得100镑报酬。放弃参加巴布尔河谷聚会，专注海上航行。在船上结识冒险家克里维斯等人，参与猎杀鱼人，听船长讲述宝藏传说。因酒吧冲突教训骗子，审问白鲨汉密尔顿，获得无线电台情报及海盗联系，布下诱饵。收到阿兹克回信，得知其曾参与四皇之战及血皇帝、黑皇帝。",
+      "identInfos": [
+        "穿越者，原地球人周明瑞",
+        "序列6无面人，塔罗会愚者",
+        "当前身份格尔曼·斯帕罗，冒险家",
+        "执掌蠕动的饥饿等神奇物品",
+        "曾破坏真实造物主降临仪式"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "他叫做格尔曼·斯帕罗。"
+        },
+        {
+          "chapterSeq": 483,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "逆走四步，进入灰雾之上。"
+        },
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "通灵一名无面人灵魂，得知美人鱼位于加尔加斯群岛往苏尼亚海深处。"
+        },
+        {
+          "chapterSeq": 489,
+          "extractReason": "UPDATE",
+          "evidenceText": "占卜巴布尔河谷聚会情况，看到伦纳德·米切尔。"
+        },
+        {
+          "chapterSeq": 492,
+          "extractReason": "ALIAS",
+          "evidenceText": "格尔曼·斯帕罗。"
+        },
+        {
+          "chapterSeq": 500,
+          "extractReason": "UPDATE",
+          "evidenceText": "审问白鲨汉密尔顿，获得无线电台及海盗情报。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩写信归还黑皇帝牌和灵教团铜哨，阿兹克回信提及回忆画面：曾仰望血皇帝和黑皇帝，参与四皇之战；提供封印亵渎之牌和去除非凡特性污染线索；警告铜哨危险。",
+      "identInfos": [
+        "死神后裔，长生者",
+        "克莱恩的历史教员和朋友",
+        "多次失忆，曾参与四皇之战",
+        "拥有强大信使"
+      ],
+      "aliases": [
+        {
+          "alias": "阿兹克先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "尊敬的阿兹克先生：请原谅我到今天才给您写信。"
+        },
+        {
+          "chapterSeq": 502,
+          "extractReason": "UPDATE",
+          "evidenceText": "回想了一些画面，有山峰一样高大，着鲜红披风的血皇帝，祂眼神异常疯狂，近乎没有理智，处在失控的边缘，有复活归来的真正黑皇帝，祂坐在巨大的王座上，俯视着大地上的一切。我仰望着祂们，被血皇帝看了一眼，于是失去了知觉。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [483, 502]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在塔罗会上以正义身份活动，感谢愚者眷者拯救贝克兰德；感谢世界预先警告；采购长者之树果实、镜龙血液；预定无面人特性制作的神奇物品；向愚者汇报心理炼金会发现赫密斯遗迹，得知赫密斯是黄昏隐士会成员。",
+      "identInfos": [
+        "塔罗会正义",
+        "鲁恩贵族少女，霍尔伯爵之女",
+        "观众途径序列7心理医生",
+        "心理炼金会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "正义小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 484,
+          "extractReason": "UPDATE",
+          "evidenceText": "正义奥黛丽由衷地赞美道：您的眷者真正拯救了贝克兰德。"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "正义小姐确认长者之树果实和镜龙血液交易。"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "我可以预定工匠用这种特性制作出来的神奇物品吗？"
+        },
+        {
+          "chapterSeq": 488,
+          "extractReason": "UPDATE",
+          "evidenceText": "我从心理炼金会得到了一些消息，其中最重要的是，他们的建立源于挖掘出赫密斯的遗迹。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [484, 485, 486, 487, 488]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上以倒吊人身份活动，接受世界委托卖出无面人非凡特性；向月亮提供血族晋升线索；替正义预定神器制作；向成员询问让全船人沉睡的办法，准备猎杀蓝影隼。",
+      "identInfos": [
+        "塔罗会倒吊人",
+        "风暴教会航海家",
+        "海上冒险者，序列6风眷者",
+        "幽蓝复仇者号船员"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        },
+        {
+          "alias": "倒吊人先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 484,
+          "extractReason": "UPDATE",
+          "evidenceText": "倒吊人阿尔杰即使飘荡在海上，也收到了贝克兰德大雾霾事件的消息。"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "倒吊人阿尔杰露出了笑容：不，我们都是塔罗会的成员，这样的信息交流免费。"
+        },
+        {
+          "chapterSeq": 488,
+          "extractReason": "UPDATE",
+          "evidenceText": "他之所以到今天还没有去那个原始岛屿猎杀蓝影隼，是因为他还没想到怎么不引人怀疑地离开幽蓝复仇者号。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [484, 486, 487, 488]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上以太阳身份向愚者感谢指导，讲述白银城探索小队破坏命运循环经过，提到首席科林破坏循环、小男孩杰克来自恩马特港、命运天使乌洛琉斯、天使之王等信息；询问古赫密斯语。",
+      "identInfos": [
+        "塔罗会太阳",
+        "白银城少年，神弃之地居民",
+        "渴望成为太阳神官",
+        "曾受阿蒙分身寄生"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        },
+        {
+          "alias": "小太阳",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 485,
+          "extractReason": "UPDATE",
+          "evidenceText": "太阳戴里克先是诚实点头，接着向青铜长桌最上首行礼道：伟大的愚者先生，万分感谢您的指导，这让我从有救赎蔷薇文字的壁画上找到了命运天使这个关键点，帮助首席破坏了命运的循环。"
+        },
+        {
+          "chapterSeq": 486,
+          "extractReason": "UPDATE",
+          "evidenceText": "首席告诉我，他通过之前的事情和我给出的提醒，想到了一些古老典籍里记载的不知道真假的内容，传闻创造一切的主，全知全能的神注视着这片大地的时候，身边环绕着诸多天使，而天使们的首领，最接近神座的王者共有八位，其中包括了神的子嗣。"
+        },
+        {
+          "chapterSeq": 488,
+          "extractReason": "UPDATE",
+          "evidenceText": "太阳戴里克第一个回应，然后不好意思地补充道：世界先生，您想要的去除非凡特性内精神污染的办法还需要等待一段时间，我应该很快就能晋升序列7。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [485, 486, 488, 489]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "以月亮身份首次参加塔罗会，自我介绍为纯正血族；询问血族如何提升实力；与太阳争论血族历史；向倒吊人咨询晋升途径；承诺为倒吊人寻找让全船人沉睡的办法；为正义提供非凡材料渠道。",
+      "identInfos": [
+        "塔罗会月亮",
+        "血族成年者，吸血鬼",
+        "丰收教堂乌特拉夫斯基神父俘虏",
+        "受愚者解除心魇蜡烛暗示"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        },
+        {
+          "alias": "月亮先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 484,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位是新的成员，月亮先生。"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "月亮埃姆林顿时有些不知所措，隐约明白自己好像问了什么不该问的问题。"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "ALIAS",
+          "evidenceText": "是的，我是一名纯正的血族。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [484, 486, 487, 488, 489]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上以魔术师身份活动，提供罗塞尔日记；与倒吊人交易龙眼海雕眼珠；向太阳催促食灵者胃袋；震惊于贝克兰德大雾霾背后真相；惶恐于提前卷入大事件。",
+      "identInfos": [
+        "塔罗会魔术师",
+        "小说家，亚伯拉罕家族学徒",
+        "序列9占星人，受门先生呓语影响",
+        "休的密友"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        },
+        {
+          "alias": "魔术师小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思眼前霍然清晰，看见了坐在斑驳长桌对面的三道身影。"
+        },
+        {
+          "chapterSeq": 484,
+          "extractReason": "UPDATE",
+          "evidenceText": "魔术师佛尔思则又惊讶又后怕，没想到已带走几万条人命的恐怖大雾霾背后还藏着更加恐怖的真相。"
+        },
+        {
+          "chapterSeq": 486,
+          "extractReason": "UPDATE",
+          "evidenceText": "魔术师佛尔思松了口气道：没问题，我能等待，我准备好了足够的金镑。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [483, 484, 486, 487, 488]
+    },
+    {
+      "name": "克里维斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "前冒险家，现保镖。在白玛瑙号上结识克莱恩，组织猎杀鱼人，展现丰富经验和专业素养；与船长讨论宝藏传说；给予克莱恩10镑酬劳。",
+      "identInfos": [
+        "前冒险家，现为布兰奇家族保镖",
+        "淡蓝眼眸，有风霜感",
+        "精通冷兵器及鱼人狩猎"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 492,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克里维斯，前冒险家。"
+        },
+        {
+          "chapterSeq": 493,
+          "extractReason": "UPDATE",
+          "evidenceText": "前冒险家克里维斯正蹲在船舷旁布置什么。"
+        },
+        {
+          "chapterSeq": 494,
+          "extractReason": "UPDATE",
+          "evidenceText": "克里维斯有条不紊地放下手里的步枪，拿起了靠在旁边的三棱刺。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [492, 493, 494, 495, 496, 497, 498, 502]
+    },
+    {
+      "name": "艾尔兰·卡格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白玛瑙号船长，前皇家海军水手长。参与猎杀鱼人，购买战利品；讲述海上宝藏传说；在飞鱼与酒酒吧为克莱恩出头，承担部分损失；展现公正强势形象。",
+      "identInfos": [
+        "白玛瑙号船长",
+        "前皇家海军水手长",
+        "绰号公正的艾尔兰",
+        "达米尔港出身"
+      ],
+      "aliases": [
+        {
+          "alias": "公正的艾尔兰",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 490,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾尔兰就是这样被逼着离开海军，加入了白玛瑙号，一步步成为船长。"
+        },
+        {
+          "chapterSeq": 494,
+          "extractReason": "UPDATE",
+          "evidenceText": "这中年男子穿着暗红色的厚外套，白色的宽松长裤，头上戴着这个时代标准的船形帽。他手里提着一杆落后于时代的铁色手铳，粗大黑深的枪口正冒着白烟。克莱恩之前听侍者介绍过，认识这位男子，知道他是白玛瑙号的船长，艾尔兰·卡格。"
+        },
+        {
+          "chapterSeq": 499,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔兰握住手铳的木柄，上前一步，沉声说道：是，这就是我的态度！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [490, 494, 495, 496, 497, 498, 499, 500, 502]
+    },
+    {
+      "name": "堂娜·布兰奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "商人乌尔迪·布兰奇的女儿，十四五岁少女，活泼好奇。在白玛瑙号上围观猎杀鱼人，品尝鱼肉；听宝藏传说；食用特制腌肉后短暂获得灵视，看见白骨信使。",
+      "identInfos": [
+        "布兰奇家少女",
+        "白玛瑙号乘客，克里维斯雇主之女",
+        "雀斑褐眸，朝气蓬勃"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 492,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "叫做堂娜的少女听见自己被提及，皱了皱鼻子，颇为好奇地仰脸问克莱恩：叔叔，你也是冒险家？"
+        },
+        {
+          "chapterSeq": 502,
+          "extractReason": "UPDATE",
+          "evidenceText": "她看见堂娜和丹顿姐弟俩眼睛圆睁，嘴巴半张，似乎因刚才那幕场景想要尖叫，却还没来得及发出声音，就看到事情结束。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [493, 494, 495, 496, 497, 498, 502]
+    },
+    {
+      "name": "丹顿·布兰奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜的弟弟，不到10岁男孩。围观猎杀鱼人，好奇冒险家生活；食用特制腌肉后短暂看见白骨信使。",
+      "identInfos": [
+        "布兰奇家小绅士",
+        "堂娜的弟弟"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 492,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "小的是男孩，不到10岁，穿着儿童版的燕尾正装，大的十五六岁，是个朝气蓬勃的少女。"
+        },
+        {
+          "chapterSeq": 502,
+          "extractReason": "UPDATE",
+          "evidenceText": "她往斜下一看，发现自家弟弟还是那副呆呆愣愣的样子，忙拉起他的胳膊，将他的手掌杵向嘴边。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [493, 494, 495, 496, 497, 498, 502]
+    },
+    {
+      "name": "塞西尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "布兰奇家的女保镖，参与猎杀鱼人；梦想找到宝藏后购买大庄园。",
+      "identInfos": [
+        "布兰奇家族保镖",
+        "女性，使用步枪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 493,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克里维斯的女性同伴塞西尔明显舒了口气，拿起甲板上的步枪，半俯身体，快步走至另一个方向。"
+        },
+        {
+          "chapterSeq": 496,
+          "extractReason": "UPDATE",
+          "evidenceText": "塞西尔也开始畅想收获宝藏后的生活：我要购买一个很大的庄园。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [493, 494, 495, 496, 497]
+    },
+    {
+      "name": "乌尔迪·布兰奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜和丹顿的父亲，商人，雇佣克里维斯等人保护全家前往罗思德群岛；购买达米尔特制腌肉。",
+      "identInfos": [
+        "商人，布兰奇一家之主",
+        "白玛瑙号乘客"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 492,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "为首者是位中年发福的绅士，脸颊红润，眼睛有神，双排扣长礼服上能看见怀表的金链和镶嵌宝石的领针。"
+        },
+        {
+          "chapterSeq": 501,
+          "extractReason": "UPDATE",
+          "evidenceText": "堂娜的父亲插言问道：克里维斯先生，这位是？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [492, 501]
+    },
+    {
+      "name": "烈焰达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "冰山中将下属，黄金梦想号第四水手长。在达米尔港酒吧外试图招揽克莱恩未果，后感知其危险气息如实回答；为了任务中断假期，登上白玛瑙号，再次遇见克莱恩。",
+      "identInfos": [
+        "赏金3000镑，烈焰达尼兹",
+        "黄金梦想号第四水手长",
+        "冰山中将下属"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 499,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "冰山中将艾德雯娜·爱德华兹的下属，黄金梦想号的第四水手长，烈焰达尼兹。"
+        },
+        {
+          "chapterSeq": 502,
+          "extractReason": "UPDATE",
+          "evidenceText": "烈焰达尼兹拍完电报后，考虑到船长或许要吩咐一些事情，决定中断假期，前往罗思德群岛的首府待命。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [499, 502]
+    },
+    {
+      "name": "白鲨汉密尔顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "飞鱼与酒酒吧老板，与多股海盗合作销赃传递情报；被克莱恩审问，透露为血之上将和神秘女王服务；拥有电台；事后被克莱恩留下破绽追踪。",
+      "identInfos": [
+        "飞鱼与酒老板",
+        "绰号白鲨",
+        "水手途径低序列者",
+        "海盗情报中间人"
+      ],
+      "aliases": [
+        {
+          "alias": "白鲨",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 498,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我老板是白鲨！"
+        },
+        {
+          "chapterSeq": 499,
+          "extractReason": "UPDATE",
+          "evidenceText": "白鲨汉密尔顿却真的与多股海盗有联系，充当着不光彩的角色。"
+        },
+        {
+          "chapterSeq": 500,
+          "extractReason": "UPDATE",
+          "evidenceText": "他快速擦掉脸上的汗水，将电台搬到桌上，翻出个密码本，忙碌着向远方拍了封电报。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [498, 499, 500, 501]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩通过占卜巴布尔河谷聚会场景，发现伦纳德消失在河谷。不确定他是作为值夜者调查员还是私人复仇。",
+      "identInfos": [
+        "值夜者红手套成员",
+        "廷根市前队友",
+        "体内寄生老爷爷"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 489,
+          "extractReason": "UPDATE",
+          "evidenceText": "其中一位黑发绿瞳，长相不错，俨然便是克莱恩的熟人。伦纳德·米切尔！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [489]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "封印物2-111，古老银镜。被机械之心用来询问夏洛克·莫里亚蒂逃脱方式，回答问题后向伊康瑟提出刺穿灵魂的问题。",
+      "identInfos": [
+        "封印物2-111，魔镜",
+        "能回答问题和惩罚提问者"
+      ],
+      "aliases": [
+        {
+          "alias": "阿罗德斯",
+          "type": "别名"
+        },
+        {
+          "alias": "2-111",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 489,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊康瑟摘下帽子，按了按蓬松却不柔软的头发，坐到了左侧第一个位置。随即，他从衣物内侧特制的口袋里拿出了阿罗德斯这面古老银镜。"
+        },
+        {
+          "chapterSeq": 489,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿罗德斯这面魔镜标注为2-111。"
+        },
+        {
+          "chapterSeq": 491,
+          "extractReason": "UPDATE",
+          "evidenceText": "尊敬的阿罗德斯，我的问题是，夏洛克·莫里亚蒂什么时候认识阿兹克·艾格斯的？"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "伊康瑟·伯纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "机械之心成员，负责调查夏洛克·莫里亚蒂；使用阿罗德斯魔镜提问，经历尴尬和惩罚。",
+      "identInfos": [
+        "机械之心执事",
+        "使用封印物2-111阿罗德斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 489,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "伊康瑟摘下帽子……从衣物内侧特制的口袋里拿出了阿罗德斯这面古老银镜。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [489, 491]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "密修会首领，被通灵的无面人描述为不死的怪物。",
+      "identInfos": [
+        "密修会首领",
+        "占卜家途径高序列强者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "你见过你们的首领查拉图吗？见过！他，他不正常！他是个不死的怪物！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [483]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的封印物手套，放牧五个灵魂，包括无面人灵魂；在灰雾之上释放无面人灵魂用于通灵；具有伪装效果。",
+      "identInfos": [
+        "人皮手套，封印物",
+        "放牧五个灵魂",
+        "克莱恩常用神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "翻出蠕动的饥饿，将它戴到手上。闭目感应了下一个个扭曲虚幻的灵魂，他尝试着释放了那位无面人。"
+        },
+        {
+          "chapterSeq": 489,
+          "extractReason": "UPDATE",
+          "evidenceText": "蠕动的饥饿的一大特点是未使用时，本身有伪装效果，不会被大部分非凡手段检测出来。"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩归还给阿兹克的亵渎之牌，包含黑皇帝途径信息；阿兹克回信将其归还，并提供封印技巧。",
+      "identInfos": [
+        "亵渎之牌之一",
+        "黑皇帝途径完整信息",
+        "克莱恩从罗塞尔纪念展盗取"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "这里面包就括我承诺的亵渎之牌。"
+        },
+        {
+          "chapterSeq": 502,
+          "extractReason": "UPDATE",
+          "evidenceText": "最先映入他眼帘的是黑皇帝牌。"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "无面人非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从蠕动的饥饿中释放的无面人灵魂遗留下的非凡特性，委托倒吊人卖出或制作神奇物品。",
+      "identInfos": [
+        "无面人非凡特性",
+        "果冻状半透明，黑绿背景下脸孔飘荡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "无面人的非凡特性最终形成一个果冻状的半透明物品，黑绿的背景下，里面时不时有长相各异的脸孔若隐若现地飘荡，就像藏在深色窗帘后的人影。"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "世界委托的非凡特性：一位非凡者遗留的特性，等于序列6，主要作用是让人改变外貌和身材。"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "白玛瑙号",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩乘坐的客船，前往罗思德群岛。船长艾尔兰，曾在甲板上有猎杀鱼人、美食交流等活动。",
+      "identInfos": [
+        "蒸汽与风帆混合客船",
+        "最高航速16节",
+        "船长公正的艾尔兰"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 490,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "白玛瑙号是蒸汽船，但又保留着风帆，最高航速能达到16节。"
+        },
+        {
+          "chapterSeq": 491,
+          "extractReason": "UPDATE",
+          "evidenceText": "白玛瑙号停泊在那里，相对人类而言，异常庞大，据说能搭乘数百位船客。"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "灵教团铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从灵教团成员处获得的铜哨，可召唤信使，但阿兹克警告不要轻易使用；归还后阿兹克同样预警危险。",
+      "identInfos": [
+        "铜哨，疑似灵教团成员遗留",
+        "可召唤信使，但具有危险"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "它是一枚铜哨，可以召唤信使的铜哨，它来自于一次偶然的遇见和一位从棺材里爬起的老者。"
+        },
+        {
+          "chapterSeq": 502,
+          "extractReason": "UPDATE",
+          "evidenceText": "你最好不要吹响那枚铜哨，驱使信使，这会带来极大的危险。"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "无线电台",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "飞鱼与酒酒吧老板白鲨藏有的通讯设备，用于与海盗联络如血之上将和神秘女王。克莱恩获得密码和频谱。",
+      "identInfos": [
+        "无线电报装置",
+        "白鲨用于与海盗联络"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 500,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是他们告诉我的称呼，和电报类似，但不需要线。汉密尔顿转身走到灰白色保险柜前，蹲了下来。"
+        },
+        {
+          "chapterSeq": 500,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩双手插兜，静静看着，将波段频谱和密码本的内容全部收入眼底。"
+        }
+      ],
+      "lifeStatus": "",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "赫密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在罗塞尔日记中被提及为黄昏隐士会成员，创造古赫密斯语的人类神秘学奠基者，从第二纪活到第五纪；正义汇报心理炼金会源于赫密斯遗迹。",
+      "identInfos": [
+        "创造古赫密斯语的人类神秘学奠基者",
+        "黄昏隐士会成员",
+        "从第二纪活到第五纪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 484,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那位老先生笑眯眯回答我，他说他叫赫密斯。赫密斯？创造古赫密斯语的那个赫密斯？人类神秘学的奠基者赫密斯？"
+        },
+        {
+          "chapterSeq": 488,
+          "extractReason": "UPDATE",
+          "evidenceText": "我从心理炼金会得到了一些消息，其中最重要的是，他们的建立源于挖掘出赫密斯的遗迹。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [484, 488]
+    },
+    {
+      "name": "霍拉米克·海顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "蒸汽教会贝克兰德大主教，主持机械之心调查会议，对夏洛克·莫里亚蒂持宽容态度。",
+      "identInfos": [
+        "蒸汽教会贝克兰德大主教",
+        "神前会议成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 489,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "大主教霍拉米克·海顿召集开会。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [489]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城首席，猎魔者，带领探索小队破坏命运循环；发现天使之王相关壁画。",
+      "identInfos": [
+        "白银城首席",
+        "猎魔者",
+        "巨人途径强者"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 486,
+          "extractReason": "UPDATE",
+          "evidenceText": "首席告诉我，他通过之前的事情和我给出的提醒，想到了一些古老典籍里记载的不知道真假的内容。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [486]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在灰雾之上聚会，愚者主持。新成员月亮加入；成员间完成多项交易，交流情报，包括大雾霾真相、天使之王等；正义汇报心理炼金会与赫密斯遗迹的发现。",
+      "identInfos": [
+        "愚者主持的隐秘组织",
+        "成员以塔罗牌为代号",
+        "灰雾之上聚会，定期交流交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 484,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个聚会叫塔罗会，他们分别是……"
+        },
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "我们塔罗会现在成员还不多。"
+        }
+      ]
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "在罗塞尔日记中提及，赫密斯为其成员；愚者认为其可能拥有天使之王力量；正义得知赫密斯是成员后警觉。",
+      "identInfos": [
+        "古老隐秘组织",
+        "信奉黄昏将近理念",
+        "成员包括赫密斯等远古强者",
+        "可能与天使之王有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 484,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位老先生笑眯眯回答我，他说他叫赫密斯。"
+        },
+        {
+          "chapterSeq": 488,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫密斯是黄昏隐士会的成员。"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "通灵的无面人源于密修会；其首领查拉图被描述为不死的怪物；可能掌握占卜家途径高序列配方。",
+      "identInfos": [
+        "掌握占卜家途径的隐秘组织",
+        "首领查拉图，占据安提哥努斯遗产"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 483,
+          "extractReason": "UPDATE",
+          "evidenceText": "你属于哪个组织？密修会，我属于密修会。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "正义汇报其建立源于挖掘赫密斯遗迹；愚者提醒赫密斯是黄昏隐士会成员；正义警觉组织可能有关联。",
+      "identInfos": [
+        "研究心灵领域的隐秘组织",
+        "源于赫密斯遗迹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 488,
+          "extractReason": "UPDATE",
+          "evidenceText": "我从心理炼金会得到了一些消息，其中最重要的是，他们的建立源于挖掘出赫密斯的遗迹。"
+        }
+      ]
+    },
+    {
+      "name": "机械之心",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "蒸汽教会非凡小队，调查夏洛克·莫里亚蒂相关事件；使用封印物2-111阿罗德斯；大主教霍拉米克主持。",
+      "identInfos": [
+        "蒸汽教会非凡者小队",
+        "负责贝克兰德事件调查"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 489,
+          "extractReason": "UPDATE",
+          "evidenceText": "机械之心执事和队长们被召集开会。"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "月亮自称纯正血族，与太阳争论历史；血族有公侯伯子男爵位划分；始祖为莉莉丝。",
+      "identInfos": [
+        "吸血鬼种族",
+        "始祖莉莉丝",
+        "有爵位体系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 487,
+          "extractReason": "UPDATE",
+          "evidenceText": "是的，我是一名纯正的血族。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "特制腌肉",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "达米尔港特产，在死火山地洞晾制，染有灵界气息，食用后可能使人短暂获得灵视。布兰奇一家购买作为礼物。",
+      "identInfos": [
+        "达米尔港特产腌肉",
+        "含灵界气息，风味独特"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 501,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是达米尔港的特产……地洞则存在缝隙，有天然的热风吹拂，在那里晾制腌肉，能获得美妙而独特的风味。"
+        },
+        {
+          "chapterSeq": 501,
+          "extractReason": "UPDATE",
+          "evidenceText": "有灵界的气息，但基本没危害……这腌肉很奇特啊……"
+        }
+      ]
+    }
+  ]
+}

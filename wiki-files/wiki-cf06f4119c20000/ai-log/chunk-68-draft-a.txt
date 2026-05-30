@@ -1,0 +1,954 @@
+{
+  "characters": [
+    {
+      "name": "周明瑞（克莱恩·莫雷蒂）",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "以周明瑞形象与罗塞尔残存意识对话，得知其被“堕落母神”污染的过程，接受照看贝尔纳黛的请求，并承诺帮助。向黑夜女神祷告警示“亵渎之牌”隐患。在利蒙市以“梅林·赫尔墨斯”身份投放“全自动许愿机”，通过实现愿望扮演“奇迹师”，消化魔药，并对愿望的哲学意义加深理解。在贝克兰德，作为“愚者”庇护奥黛丽应对心理炼金会。在塔罗会上揭示非凡途径与星空外神的关系。半年后，在月城人祈祷时实现集体愿望，治愈畸形，制造钟声神迹。阿蒙在愚者教堂敲钟，困惑其意图。准备构建秘偶城市以晋升“诡秘侍者”。",
+      "identInfos": [
+        "占卜家途径序列2“奇迹师”",
+        "塔罗会首领“愚者”",
+        "来自地球的穿越者",
+        "原名克莱恩·莫雷蒂",
+        "曾用身份夏洛克·莫里亚蒂、格尔曼·斯帕罗",
+        "道恩·唐泰斯、梅林·赫尔墨斯"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "克莱恩·莫雷蒂",
+          "type": "原名"
+        },
+        {
+          "alias": "周明瑞",
+          "type": "原名"
+        },
+        {
+          "alias": "梅林·赫尔墨斯",
+          "type": "化名"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "化名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "化名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1307,
+        1308,
+        1309,
+        1310,
+        1312,
+        1314,
+        1315,
+        1316,
+        1319,
+        1320,
+        1321,
+        1322,
+        1323,
+        1324,
+        1325,
+        1326
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1307,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个人类黑发棕瞳，与格尔曼·斯帕罗有几分相像，但轮廓不够刚硬，线条不够深刻，气质不够冷峻，五官也存在一定的区别，下巴和肚子上还多了点社会催生的少量肥肉，正是克莱恩原本的周明瑞形象，正是那个挂在“源堡”内部，和罗塞尔·黄涛·古斯塔夫做了几千年“室友”的周明瑞。"
+        },
+        {
+          "chapterSeq": 1307,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不要集齐二十二张牌！\n“小心‘母亲’牌！”\n这两句话回荡于深沉的“黑皇帝”陵寝内部，久久没有平息。"
+        },
+        {
+          "chapterSeq": 1308,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我会帮你照看她的。”\n“……嘶，这话怎么听的有点别扭？”罗塞尔的语气瞬间变得有些古怪，“对了，还没问你的姓名，至于我，你应该很清楚，黄涛。”\n“周明瑞。”克莱恩坦然回答道。"
+        },
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩具现出一个盒子，把四张“亵渎之牌”都放进里面，做了层层封印后，立刻回到现实世界，直奔最近的那座黑夜教堂。他打算将“亵渎之牌”的隐患用祷告的形式告知“黑夜女神”，提醒祂注意相关的问题，不要让“大地母神”莉莉丝得到“母亲”牌或者“月亮”牌。"
+        },
+        {
+          "chapterSeq": 1312,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“它叫‘全自动许愿机’。”那年轻男子笑着介绍道，“这是我的发明，可以自动化地实现操纵者的愿望，对了，忘记自我介绍了，我叫梅林·赫尔墨斯，一位流浪的魔术师。”"
+        },
+        {
+          "chapterSeq": 1314,
+          "extractReason": "UPDATE",
+          "evidenceText": "“最大的问题在于，我无法用正常的办法满足她变得非常非常非常美丽的愿望，‘谎言’只能在一定程度内做调整。\n“所以，我不得不将一件源自魔女的封印物的其中一个效果‘嫁接’到她的身上，这导致她在获得惊人美貌的同时，也附带上了可怕的魅惑能力，让周围的男人无法抗拒。”"
+        },
+        {
+          "chapterSeq": 1314,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奇迹只能一时，命运总是漫长。”"
+        },
+        {
+          "chapterSeq": 1326,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩闭目感应了几秒，颇为感叹地抬起右手，屈起中指，轻敲了斑驳长桌的边缘一下。\n笃的声音里，无形的力量就像水面的波纹一样急速扩散，涌入了每一个祈祷光点内，洒落到月城人身上。"
+        }
+      ]
+    },
+    {
+      "name": "贝尔纳黛·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在原始岛屿封印被污染的罗塞尔后，以坚强心态晋升序列2“贤者”，成为天使。从“橘光”希拉里昂处获知旧日、外神知识。得知“愚者”真实身份。继续寻找父亲陵寝。",
+      "identInfos": [
+        "罗塞尔大帝长女",
+        "“神秘女王”",
+        "“要素黎明”首领",
+        "序列2“贤者”",
+        "“黎明号”船长"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1309
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1309,
+          "extractReason": "UPDATE",
+          "evidenceText": "随着“贤者”魔药的入口，贝尔纳黛的身体以肉眼可见的速度变得虚幻。\n她分解成了一股股庞杂的知识，往着信息洪流的存在形式转变。"
+        },
+        {
+          "chapterSeq": 1309,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝尔纳黛依靠“贤者额饰”，曾经多次化身信息洪流，虽然都局限于两三秒内，不会维持太久，但也算有点经验，此时，她竭力维持着自身意识的存在，并与阻止一场高层次灾难产生的灵界信息建立起了某种联系。"
+        },
+        {
+          "chapterSeq": 1309,
+          "extractReason": "UPDATE",
+          "evidenceText": "“橘光”希拉里昂笑呵呵回答道：\n“灵界之上的伟大主宰。”\n灵界之上的伟大主宰……贝尔纳黛复述着这个尊名，一时思绪如潮。\n希拉里昂看了她一眼，笑了笑道：\n“祂还有另外一个尊称：\n“‘愚者’先生。”"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔·古斯塔夫（污染残影）",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在“黑皇帝”陵寝内以残存意识与周明瑞（克莱恩）对话，讲述被“堕落母神”污染的过程，警告不要集齐二十二张“亵渎之牌”并小心“母亲”牌。给出成为旧日的建议，托付克莱恩照看贝尔纳黛后陷入永恒沉眠。",
+      "identInfos": [
+        "原罗塞尔大帝",
+        "被“堕落母神”污染",
+        "“黑皇帝”途径",
+        "制作“亵渎之牌”",
+        "贝尔纳黛的父亲"
+      ],
+      "aliases": [
+        {
+          "alias": "罗塞尔大帝",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "被封印",
+      "appearanceChapterSeqs": [
+        1307,
+        1308
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1307,
+          "extractReason": "UPDATE",
+          "evidenceText": "罗塞尔声音突然拔高，带上了些许难以言喻的恐惧：\n“不要集齐二十二张牌！\n“小心‘母亲’牌！”"
+        },
+        {
+          "chapterSeq": 1307,
+          "extractReason": "UPDATE",
+          "evidenceText": "“只要我能在成为序列0‘黑皇帝’，并半疯之后，被真正杀死，那我就有机会在陵寝内或星界中复活，那个时候，回归我的将是纯净的‘唯一性’和三份序列1非凡特性，不再有丝毫的污染，不再蕴藏无法遏制的疯狂。"
+        },
+        {
+          "chapterSeq": 1308,
+          "extractReason": "UPDATE",
+          "evidenceText": "“再见吧，朋友。\n“希望真的能有再见的一天。”\n他的身影飞快虚幻，仿佛消失在了当前世界里，只剩若有若无的影子徘徊于那座铁黑色的宝座上。\n罗塞尔·古斯塔夫回归了永恒的沉眠。"
+        }
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "成为血族伯爵和大地教会高级执事，受命组建血族非凡小队。从洛雷托处了解神恩者与神眷者体系，怀疑“月亮”途径存在异常。",
+      "identInfos": [
+        "血族伯爵",
+        "塔罗会“月亮”",
+        "大地教会高级执事",
+        "佩戴“莉莉丝的指环”"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1310,
+        1321
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "“早上好，伯爵阁下。”\n埃姆林目视前方，微不可见地点了点头：\n“米斯特拉尔还没来吗？”"
+        },
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛雷托的表情顿时严肃了下来：\n“首先，最重要的一点，无论是教会的神职人员，还是母神的信徒，只要声称自己获得了神启，都是受到了魔鬼的诱惑，没有例外。"
+        },
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "思绪电转间，埃姆林突然注意到了一个细节：\n神眷者都不属于“大地”和“月亮”两条途径！\n所以，有问题的不是神恩者，而是这两条途径本身？埃姆林隐约觉得自己的这个猜测或许就是真相。"
+        }
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为风暴教会枢机主教，继续安置白银城和月城居民，渴望为“愚者”做出更多贡献以换取“海神”身份。接到监控亚伯拉罕家族成员维尔杜的任务。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会枢机主教",
+        "序列5“海洋歌者”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1311,
+        1325
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1311,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，他眼前突然浮现出了一片灰白的雾气。\n随即，他看到了位于雾气中央的古老宫殿和模糊人影，听见了来自“愚者”先生的话语：\n“一个任务，监控一个叫做维尔杜·加西亚的人。”"
+        },
+        {
+          "chapterSeq": 1311,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰身穿绣有闪电和海浪符号的主教长袍，戴着一枚金属制成的风暴圣徽，站在海边山脉的峰顶，眺望着岛上森林的另外一边。"
+        }
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "加入心理炼金会评议团，获“傲慢”人格面具，进入心灵城市“伊甸园”。发现评议团背后有亚当影子，接下调查心灵巨龙任务。请求“愚者”封印“傲慢”面具，并做好应对准备。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "霍尔伯爵之女",
+        "序列4“操纵师”",
+        "心理炼金会评议团委员“傲慢”"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "傲慢",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1316,
+        1317,
+        1318,
+        1319,
+        1320
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1317,
+          "extractReason": "UPDATE",
+          "evidenceText": "德尔劳抬起双手，交握着杵到了长桌表面：\n“奥黛丽小姐，我有些事情想问你。”\n“请讲。”奥黛丽脑袋微转，用碧绿的眼眸回应了对方的注视。"
+        },
+        {
+          "chapterSeq": 1317,
+          "extractReason": "UPDATE",
+          "evidenceText": "“从现在开始，你就是心理炼金会评议团的委员了。\n“你可以选择一张人格面具作为自己的代号。”\n......\n“我选‘傲慢’。”"
+        },
+        {
+          "chapterSeq": 1319,
+          "extractReason": "UPDATE",
+          "evidenceText": "德尔劳的表情顿时变得严肃：\n“它来自第三纪那位造物主的圣典，涉及心灵领域的最高奥秘，与我们心理炼金会的某件事物有密切关系。\n“它是‘亚当’。”"
+        },
+        {
+          "chapterSeq": 1320,
+          "extractReason": "UPDATE",
+          "evidenceText": "下一秒钟，奥黛丽看见那张灰白色的“傲慢”面具从身前的集体潜意识大海内浮现了出来，虚幻感一点点消失，闪烁出少量的金属光泽。\n不知为什么，这张人格面具有了一定的实质感，处在了虚幻与真实之间。\n这就意味着它与奥黛丽的心灵岛屿有了物理意义上的隔离。"
+        }
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上寻求“预言大师”非凡特性，接受“世界”委托搜集“隐匿贤者”资料。给女王贝尔纳黛写信表达牵挂，并计划归还“许愿神灯”。",
+      "identInfos": [
+        "塔罗会“隐者”",
+        "“未来号”船长，“星之上将”",
+        "序列4“神秘学家”",
+        "贝尔纳黛的养女"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1309,
+        1323,
+        1324
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1309,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅突然从梦中惊醒，额头尽是冷汗。\n刚才的梦中，她看见女王浑身血淋淋地倒下，胸腹被撕开，钻出来了一个婴儿状的怪物。"
+        },
+        {
+          "chapterSeq": 1323,
+          "extractReason": "UPDATE",
+          "evidenceText": "消化完“神秘学家”魔药已经有很长一段时间，可只是从摩斯苦修会得到了“预言大师”的魔药配方，距离拿到非凡特性或者说主材料还很远很远。"
+        },
+        {
+          "chapterSeq": 1324,
+          "extractReason": "UPDATE",
+          "evidenceText": "“船长，要来一杯吗？”弗兰克单手就举起了那一大桶啤酒。\n嘉德丽雅坚定地摇了下头，状似闲聊般问道：\n“这又是仁慈母亲的意志？”"
+        }
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“魔术师”，对“仲裁人”途径来源表示关切。",
+      "identInfos": [
+        "塔罗会“魔术师”",
+        "序列7“占星师”"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1321
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1321,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思愕然转头，看了“审判”休一眼。\n她刚刚还觉得这件事情和自己没什么关系，可以只旁观，不担忧，谁知，火一下就烧到了她家门口。"
+        }
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“审判”，对“仲裁人”途径来源表示关切。持有魔女雪曼的封印物。",
+      "identInfos": [
+        "塔罗会“审判”",
+        "序列6“法官”"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1314,
+        1321
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1314,
+          "extractReason": "UPDATE",
+          "evidenceText": "因为休保存时出现疏漏，雪曼的非凡特性和装它的盒子融合在了一起，成为了一件负面效果惊人的封印物，这导致休的弟弟看那个盒子的眼神都变得不对。"
+        },
+        {
+          "chapterSeq": 1321,
+          "extractReason": "UPDATE",
+          "evidenceText": "“审判”休微皱眉头，望向青铜长桌最上首道：\n“尊敬的‘愚者’先生，我平时没感觉到有什么异常，也从未得到过神启，嗯，来自您之外的。”"
+        }
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "成为黑夜教会高级执事，领取“1”级封印物并计划利用“寄生”降低负面效果。在塔罗会上分享梅林·赫尔墨斯相关情报，调查任务中打算敷衍了事。",
+      "identInfos": [
+        "塔罗会“星星”",
+        "黑夜教会高级执事",
+        "序列5“灵巫”",
+        "体内寄生天使帕列斯"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1320,
+        1321
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1320,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德从教宗那里拿到了一份文件。\n这将是他成为高级执事后负责的第一件事情。"
+        },
+        {
+          "chapterSeq": 1320,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德“啧”了一声：\n“这是在扮演啊，目前还需要扮演的‘奇迹师’应该只有一位。\n“你应该知道我说的是谁。”\n伦纳德又看了眼手中的资料，咕哝了一句道：\n“玩得很开心嘛……”"
+        }
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为白银城首席和愚者教堂大主教，为白银城发展经济及传教寻求建议。在月城人畸形治愈神迹中扮演重要角色。",
+      "identInfos": [
+        "塔罗会“太阳”",
+        "白银城“六人议事团”首席",
+        "序列5“光之祭司”"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1322,
+        1323,
+        1326
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1322,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克左右各看了一眼，试探着问道：\n“白银城已开垦好了周围的田地，种下了小麦等作物，但丰收无法立刻到来，我想知道，我们能做些什么来赚取金镑，购买物资？”"
+        },
+        {
+          "chapterSeq": 1326,
+          "extractReason": "UPDATE",
+          "evidenceText": "轮值这里的大主教、白银城“六人议事团”长老戴里克·伯格同样愕然地望向了高处的彩绘玻璃。"
+        }
+      ]
+    },
+    {
+      "name": "贾斯敏",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "利蒙市少女，因战火毁容，使用“全自动许愿机”治愈烧伤，但第三个愿望“变得非常美丽”带来魅惑副作用，最终取消并回归原貌。事件后被“值夜者”招募为文职人员。",
+      "identInfos": [
+        "利蒙市毁容少女",
+        "被“全自动许愿机”治愈",
+        "成为值夜者文职人员"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1312,
+        1313,
+        1314,
+        1315
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1312,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "贾斯敏将围巾包裹在脸上，走出了公寓的大门。"
+        },
+        {
+          "chapterSeq": 1312,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你可以许一个让自己变回原本样子的愿望。”\n这句话如同一支利箭，射入了贾斯敏的心中，惊得她站了起来，慌忙退后，试图离开。"
+        },
+        {
+          "chapterSeq": 1313,
+          "extractReason": "UPDATE",
+          "evidenceText": "贾斯敏抿嘴一笑，什么都没说，登上了无轨公共马车。\n车上的人依旧不少，所有座位都被占满了。\n就在贾斯敏努力寻找位置时，好几位男士抬起屁股，直起身体，望着她笑道：\n“小姐，你可以坐这里。”"
+        },
+        {
+          "chapterSeq": 1314,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我希望我的上一个愿望取消。”她边闭眼默念，边握住扳手，转了一下。\n......\n她又看见了自己，那个不算漂亮的少女。"
+        },
+        {
+          "chapterSeq": 1315,
+          "extractReason": "UPDATE",
+          "evidenceText": "一周后，贾斯敏正式入职利蒙市“值夜者”队伍，担任文职人员。"
+        }
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在愚者教堂敲钟，以戴单片眼镜的青年形象出现，引发克莱恩困惑其意图。",
+      "identInfos": [
+        "“时天使”",
+        "“偷盗者”途径序列1“时之虫”",
+        "远古太阳神之子",
+        "戴单片眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "时天使",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1325,
+        1326
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1325,
+          "extractReason": "UPDATE",
+          "evidenceText": "这青年微笑着从衣兜里掏出了一块水晶磨成的单片眼镜，将它戴到了右眼位置。"
+        },
+        {
+          "chapterSeq": 1326,
+          "extractReason": "UPDATE",
+          "evidenceText": "几乎是同时，他借助祈祷光点看见了附属于教堂的高高钟楼，看见钟楼的顶端站着位戴尖顶软帽，穿古典黑袍的年轻男子。\n这青年正拿着黑色的钟锤，一下又一下地敲击着大钟。\n似乎察觉到来自无穷高处的注视，这青年停了下来，微抬脑袋，正了正戴于右眼位置的水晶单片眼镜。\n与此同时，他本就含着笑意的嘴角越扯越大。"
+        }
+      ]
+    },
+    {
+      "name": "格蕾",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "利蒙市值夜者警官，负责调查“全自动许愿机”事件，招募贾斯敏入队，并撰写报告上报。",
+      "identInfos": [
+        "利蒙市值夜者警官",
+        "处理“全自动许愿机”事件"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1314,
+        1315
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1314,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你们可以称呼我格蕾女士。”这位警官自我介绍了一句，指着另外的椅子和外间的床铺道，“坐。”"
+        },
+        {
+          "chapterSeq": 1315,
+          "extractReason": "UPDATE",
+          "evidenceText": "格蕾放下手中的资料，揉了揉额角道：\n“报给警察局，让他们来处理。"
+        }
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“未来号”船员，“耕种者”途径“德鲁伊”，研究海底微生物和无酒精啤酒。嘉德丽雅担忧其可能被“堕落母神”影响，克莱恩决定隔开他与“原始月亮”信徒。",
+      "identInfos": [
+        "“耕种者”途径序列4“德鲁伊”",
+        "“未来号”船员",
+        "蘑菇大王",
+        "热衷禁忌生命实验"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1309,
+        1323,
+        1324
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1309,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗兰克抬起头来，笑容明朗地说道：\n“之前的构想遇到了挫折，暂时进行不下去，我拜托妮娜从海底给我弄了些泥土，研究里面蕴藏的微生物。”"
+        },
+        {
+          "chapterSeq": 1324,
+          "extractReason": "UPDATE",
+          "evidenceText": "“刚才的塔罗会上，‘愚者’先生说‘耕种者’和‘月亮’是较为特殊的两条途径，来自星空，易受污染，听到不知是真是假的神启。\n“弗兰克正是‘耕种者’途径的非凡者……”"
+        }
+      ]
+    },
+    {
+      "name": "鲍利·德尔劳",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理炼金会会长，多重身份，邀请奥黛丽加入评议团，授予“傲慢”面具，并告知其说出“亚当”名字可获拯救。",
+      "identInfos": [
+        "心理炼金会会长",
+        "多重身份：鲍利·德尔劳、巴洛斯·霍普金斯、埃里克·德雷克",
+        "“观众”途径高序列"
+      ],
+      "aliases": [
+        {
+          "alias": "黑座之王",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1316,
+        1317,
+        1318,
+        1319
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1316,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“奥黛丽小姐，我是心理炼金会的会长埃里克·德雷克，我希望见你一面，讨论你成为心理炼金会评议团委员的事情，我就在附近的公园内。”"
+        },
+        {
+          "chapterSeq": 1317,
+          "extractReason": "UPDATE",
+          "evidenceText": "“对一名‘观众’来说，死亡只代表一个身份的终结，在别的戏剧里，我依旧活着。”坐在黑色轮椅上的老派绅士微笑回应道，“除了前王室医学顾问，贝克兰德医学院前任校长这个身份，我还是大海上的‘黑座之王’巴洛斯·霍普金斯，是著名隐士埃里克·德雷克，等等，等等。”"
+        },
+        {
+          "chapterSeq": 1319,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果遭遇意外，依靠自身无法解决，你可以试着说出一个名字，这会让你得到拯救。”\n......\n“它是‘亚当’。”"
+        }
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "大地教会主教，神眷者，负责贝克兰德血族事务。",
+      "identInfos": [
+        "大地教会主教",
+        "神眷者",
+        "弗萨克人",
+        "负责血族事务"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1310
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这位是大主教洛雷托阁下。”乌特拉夫斯基神父向埃姆林介绍道。\n他站在窗户边，几乎挡住了大部分光照。"
+        }
+      ]
+    },
+    {
+      "name": "洛雷托",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "大地教会大主教，向埃姆林解释神恩者和神眷者体系，强调警惕假神启。",
+      "identInfos": [
+        "大地教会大主教"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1310
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛雷托用比较别扭的鲁恩语笑道：\n......\n“我来贝克兰德，是受宗座的嘱托，将教会内部需要注意的一些事项当面告诉你。”"
+        }
+      ]
+    },
+    {
+      "name": "维尔杜·加西亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "亚伯拉罕家族成员，在拜亚姆研究救“门”先生之法，被阿尔杰奉命监控。",
+      "identInfos": [
+        "亚伯拉罕家族成员",
+        "试图拯救“门”先生"
+      ],
+      "aliases": [
+        {
+          "alias": "维尔杜·亚伯拉罕",
+          "type": "全名"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1311,
+        1325
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1311,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是一个叫做维尔杜·加西亚的人......这是一位隐藏起来的亚伯拉罕家族成员，最近刚离开迪西郡，前来罗思德群岛。"
+        },
+        {
+          "chapterSeq": 1325,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴金边眼镜的维尔杜·亚伯拉罕拿着一叠厚厚的资料，就着不算太明亮的光芒，认真地做着阅读，时不时用笔画一个符号，记录下感觉会有用处的内容。"
+        }
+      ]
+    },
+    {
+      "name": "巴德尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "月城半巨人，在拜亚姆餐厅工作，热心传教。",
+      "identInfos": [
+        "月城半巨人",
+        "愚者信徒",
+        "在拜亚姆餐厅工作"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1325,
+        1326
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1325,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他刚从一个小贩手中买下用果实外壳装着的“特亚纳”饮料，突然就感觉身旁出现了一大片阴影。\n这青年转过脑袋，一点点往上看去，发现有位接近两米五的半巨人走了过来。\n......\n“你可以讲了。”那青年完全没掩饰自己的好奇。\n身高体壮的半巨人表情一下变得肃穆：\n“我主自称‘愚者’......”"
+        },
+        {
+          "chapterSeq": 1326,
+          "extractReason": "UPDATE",
+          "evidenceText": "巴德尔憨厚地笑了笑，走入后厨，对来投奔自己的月城好友波恩道：\n......\n“好，我先准备今天的食材。”巴德尔笑着对波恩点头道。"
+        }
+      ]
+    },
+    {
+      "name": "波恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "月城人，畸形不太严重，在拜亚姆学习厨艺，参与祈祷治愈畸形。",
+      "identInfos": [
+        "月城人",
+        "畸形不太严重",
+        "巴德尔的好友"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1326
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1326,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "波恩看起来较为正常，只是两只眼睛一上一下显得别扭，属于畸形不太严重，有勇气和外界人交流的那种月城人，他闻言点了点头：\n“今天可以教你怎么做烤鱼了。”"
+        }
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的金毛大狗，已晋升“梦境行者”，被心理炼金会会长利用传递信息，后陪同奥黛丽等待。",
+      "identInfos": [
+        "奥黛丽的宠物狗",
+        "序列5“梦境行者”",
+        "金毛大狗"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1316,
+        1320
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1316,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥黛丽小姐，我是心理炼金会的会长埃里克·德雷克，我希望见你一面......就在附近的公园内。”\n......\n苏茜长长地松了口气，恢复了原本的嗓音：\n“奥黛丽，有个怪家伙找你，我，我记不清他长什么样子了，他，他直接将想说的话放入了我的心灵岛屿内！”"
+        },
+        {
+          "chapterSeq": 1320,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜正蹲在门口，等待奥黛丽归来。\n此时，一看到她靠近，这金毛大狗就立刻迎了上去，并且相当有表演天赋地“汪”了两声，摇起了尾巴。"
+        }
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "大地母神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "洛雷托大主教向埃姆林揭示神恩者与神眷者体系，暗示“月亮”途径易受邪神诱惑。在鲁恩战后协助官方处理非凡事件，允许组建血族小队。",
+      "identInfos": [
+        "信仰“大地母神”",
+        "神恩者与神眷者体系",
+        "在鲁恩传教受限"
+      ],
+      "aliases": [
+        {
+          "alias": "大地教会",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1310,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛雷托斟酌了下语言，详细解释道：\n“这个世界上，有许多邪恶的存在，祂们会冒充神灵，蛊惑神职人员，诱骗信徒。\n“因为我们大地母神教会主要的两条途径都和生命有关，所以，受到的影响比其他教会要严重，时不时就会有人走上歧途，尝试禁忌的生命实验，一点点堕落。\n“为了遏制这样的趋势，我们从很早开始就在母神的意志引导下，改组了教会，确立了神恩者和神眷者这两大体系。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "隐秘组织，由鲍利·德尔劳领导，在心灵城市“伊甸园”召开评议团会议。授予奥黛丽“傲慢”委员，告知遇险可呼唤“亚当”之名。对心灵巨龙展开调查。",
+      "identInfos": [
+        "探索心灵领域的隐秘组织",
+        "幕后主导者为“空想家”亚当",
+        "评议团位于“伊甸园”",
+        "使用七张人格面具"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1319,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果遭遇意外，依靠自身无法解决，你可以试着说出一个名字，这会让你得到拯救。”\n......\n“它是‘亚当’。”"
+        },
+        {
+          "chapterSeq": 1317,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是每个人心中的城市。\n“有人的地方就有它。”\n......\n“这里的一切都有着相应的心理学象征，他们叫做‘兽欲’。”"
+        }
+      ]
+    },
+    {
+      "name": "愚者教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城和月城信仰组织，已修建教堂，编写圣典，在拜亚姆等地传教。戴里克担任大主教。阿蒙在教堂敲钟。",
+      "identInfos": [
+        "信仰“愚者”的教会",
+        "以白银城、月城为核心",
+        "圣典包含“时天使”等内容",
+        "在拜亚姆等城市传教"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1326,
+          "extractReason": "UPDATE",
+          "evidenceText": "当！”\n空灵悠扬的钟声回荡于月城人的心中，响在了每一位听闻者的耳畔，仿佛能洗涤他们的心灵，带来对生命最真切的感动。"
+        },
+        {
+          "chapterSeq": 1326,
+          "extractReason": "UPDATE",
+          "evidenceText": "轮值这里的大主教、白银城“六人议事团”长老戴里克·伯格同样愕然地望向了高处的彩绘玻璃。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "全自动许愿机",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩以“梅林·赫尔墨斯”身份发明的神奇物品，可投入硬币实现愿望，但第三个愿望常被扭曲。在利蒙市引发多起超凡事件。",
+      "identInfos": [
+        "黄铜色机器，暴露齿轮等零件",
+        "投入硬币许愿",
+        "梅林·赫尔墨斯创造",
+        "实现三个愿望"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1312,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "它表面呈黄铜色，镶嵌着几块没有什么透明度的玻璃，齿轮、轴承、铆钉、金属管等零件直接暴露于外，显得非常粗犷。\n......\n“它叫‘全自动许愿机’。”那年轻男子笑着介绍道，“这是我的发明，可以自动化地实现操纵者的愿望”"
+        }
+      ]
+    },
+    {
+      "name": "傲慢面具",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理炼金会评议团七张人格面具之一，奥黛丽选择它为代号，可放大傲慢认知，后由“愚者”封印以降低影响。",
+      "identInfos": [
+        "心理炼金会人格面具",
+        "灰白色，眼睛上移至额头",
+        "放大傲慢情绪",
+        "与亚当相关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1317,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“剩下两张人格面具，一张是‘暴怒’，一张是‘傲慢’。”德尔劳介绍道，“它们来源于第三纪那位造物主的圣典。”\n奥黛丽想了一秒，将手伸向了不含怒气的那张人格面具：\n“我选‘傲慢’。”"
+        },
+        {
+          "chapterSeq": 1318,
+          "extractReason": "UPDATE",
+          "evidenceText": "那张冰冷的灰白面具上，两只眼睛往上移动，固定到了额头位置，似乎只注视高处，不关心其他，给人一种又好笑又怪诞又暗藏惊悚意味的感觉。"
+        }
+      ]
+    }
+  ]
+}

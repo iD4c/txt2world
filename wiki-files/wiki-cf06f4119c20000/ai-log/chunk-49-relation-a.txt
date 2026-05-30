@@ -1,0 +1,179 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 947,
+      "toChapterSeq": 948,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "奥黛丽为“世界”（周明瑞）提供心理治疗，疏导其发现“光门”和“蚕茧”后的绝望情绪，帮助他重建新目标。"
+    },
+    {
+      "fromChapterSeq": 951,
+      "toChapterSeq": 951,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩以“愚者”身份将伦纳德拉入塔罗会，通过作弊抽牌赋予其“星星”代号，确立上下级关系。"
+    },
+    {
+      "fromChapterSeq": 956,
+      "toChapterSeq": 956,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "休在古堡受污染后诵念愚者尊名获救，被拉入塔罗会，抽到“审判”牌，成为新成员。"
+    },
+    {
+      "fromChapterSeq": 953,
+      "toChapterSeq": 957,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "卢卡·布鲁斯特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "卢卡遵循预言拜访克莱恩，确认其为能助其化解未来困境之人，双方建立联系。"
+    },
+    {
+      "fromChapterSeq": 957,
+      "toChapterSeq": 962,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "受控者"
+        }
+      },
+      "relationSummary": "伦纳德加入塔罗会后，戴上面具以“星星”身份配合克莱恩传递情报；克莱恩利用塔罗会层级和伪装向教会传递梅迪奇情报。"
+    },
+    {
+      "fromChapterSeq": 964,
+      "toChapterSeq": 966,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "追踪者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被追踪者"
+        }
+      },
+      "relationSummary": "红天使恶灵控制路德维尔尸体追踪克莱恩，试图夺取“猎人”物品，克莱恩察觉危险提前离开。"
+    },
+    {
+      "fromChapterSeq": 964,
+      "toChapterSeq": 966,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "“地狱上将”路德维尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "红天使恶灵附身并控制路德维尔的尸体，用作追踪克莱恩的秘偶。"
+    }
+  ]
+}

@@ -1,0 +1,1167 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在占卜俱乐部确认安提哥努斯笔记交易第三位老者身份，获得灵视提升，感悟‘占卜家’扮演守则。在恶龙酒吧得知老者曾寻霍纳奇斯主峰文献。前往德维尔图书馆调查借阅记录，确认老者为西里斯·阿瑞匹斯。遭遇并枪杀失控的西里斯，搜身后发现极光会信件和‘小丑’魔药线索。通过通灵仪式获得‘小丑’魔药配方。首次轮值查尼斯门，目睹封印物‘3-0625’厄运布偶异常开门并展示竖眼图案，占卜确认其与安提哥努斯家族宝藏相关，并决定隐瞒。接触阿兹克，得知其失忆和特殊能力，承诺帮忙寻找来历。塔罗会上，规定新成员加入需经自己允许。委托侦探亨利调查红烟囱房屋和购买‘观众’辅助材料者，得知后者为达斯特·古德里安。以值夜者身份接触达斯特，发展其为线人。参与调查廷根市异常死亡事件，与伦纳德、弗莱勘查贫民死亡，发现劳维斯太太之死存在超凡因素。",
+      "identInfos": [
+        "穿越者，原主为历史系毕业生",
+        "值夜者小队成员",
+        "灰雾之上神秘空间的主人，塔罗会‘愚者’",
+        "序列9‘占卜家’",
+        "哥哥班森，妹妹梅丽莎"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号/代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 101,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩按了下头顶的半高丝绸礼帽，沿着楼梯，一步步走向大门。他不再是往常的正装打扮，而是白衬衣配浅马甲，外面套了件及膝的黑色薄风衣，整个人平添了几分精悍的气质。"
+        },
+        {
+          "chapterSeq": 101,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩突然发现自身的灵视清晰了几分，隐约间甚至能分辨出安洁莉卡气场颜色的某些细节。这个瞬间，他就像近视患者戴上了度数合适的眼镜。"
+        },
+        {
+          "chapterSeq": 102,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩用手指摩挲着那位借阅者的资料，将它们牢牢记在了心里：‘西里斯·阿瑞匹斯，布料商人，家住豪尔斯街区19号……’"
+        },
+        {
+          "chapterSeq": 103,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没急着去检查尸体，而是丢下手杖，掏出随身携带的猎魔子弹，一枚一枚塞入了左轮。做完这一切，他才稳定住精神，强忍着恶心，半蹲了下去，摸索起西里斯黑色双排扣礼服的口袋。"
+        },
+        {
+          "chapterSeq": 104,
+          "extractReason": "UPDATE",
+          "evidenceText": "看到这里，克莱恩的瞳孔急剧收缩，差点让信纸从手上飘落。‘安提哥努斯家族掌握的那个序列是‘占卜家’途径？’‘这还真是巧了！’"
+        },
+        {
+          "chapterSeq": 105,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拧开金属小瓶的盖子，将它凑至鼻端，闻到了略显刺激但让人精神一振的味道。这是由深眠花、龙血草、深红檀香和薄荷等草药调配成的‘圣夜粉’，……他要用‘通灵’仪式和‘梦境占卜’的技巧，让死人开口！"
+        },
+        {
+          "chapterSeq": 105,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘这是第二份配方，笔记记载的名称是‘小丑’。纯水80毫升，曼陀罗汁液5滴，黑边太阳花粉末7克，金斗篷草粉末10克，毒堇汁3滴，以上是辅助材料。主要的、非凡的材料是：成年的霍纳奇斯灰山羊独角结晶一枚，完整的人脸玫瑰一朵。’"
+        },
+        {
+          "chapterSeq": 108,
+          "extractReason": "UPDATE",
+          "evidenceText": "扎！生涩到让人牙酸的声音里，克莱恩几乎快要凝固的眼睛看见了一道身影，它大概成年的、普通的男士小臂高，穿着黑色的、典雅的、微缩的宫廷长裙，裙摆有着明显污痕。……这是一个布偶，玩具布偶！……纸张之上描绘着众多的隐秘符号，有克莱恩认识的，也有他还未掌握的，它们共同构成了一只竖着的眼睛！"
+        },
+        {
+          "chapterSeq": 110,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩想了想，在这只眼睛的下方写道：‘这是安提哥努斯家族遗留的宝藏的关键。’……他闭上双眼，……看见黄水晶吊坠正带着银制链条小幅度地顺时针旋转。而这在灵摆法里表示肯定。"
+        },
+        {
+          "chapterSeq": 112,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克先生，您是一位值得信赖，让人尊敬的绅士，我想知道您究竟从我身上看到了什么，或者说您知道些什么？我是指上次那件事情，你说我的命运存在不协调地方的事情。"
+        },
+        {
+          "chapterSeq": 114,
+          "extractReason": "UPDATE",
+          "evidenceText": "你们要记住，对非聚会成员而言，……没有我的允许，不得诵念我的名。"
+        },
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩笑笑道：‘这只是一个偶然，或许命运安排我们认识。’‘其实我们有在恶龙酒吧的地下交易市场见过面，但当时你并没有注意我。’‘你虽然聪明地将序列魔药的辅助材料分开购买，但对刚好也了解这个配方的我来说，依然足够值得关注。’"
+        },
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "我想发展他成为值夜者的线人，或者隐秘的外围成员。……邓恩缓缓颔首道：‘你处理得非常好，但以后再有这种事情，最好先告诉我。’"
+        },
+        {
+          "chapterSeq": 120,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩点头回答：‘是的，但这只是我的解读，占卜往往都是模糊的。’……弗莱收拾好各种东西，做了清理和遮掩，转头说道：‘死因是自然的心脏疾病，这一点没有疑问。’……克莱恩……补充道：‘尸体不要急着下葬，再等待一天，或许还会有一次彻底的检查。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        120
+      ]
+    },
+    {
+      "name": "安洁莉卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "占卜俱乐部接待女士，认出克莱恩画像中的老者，提供海纳斯·凡森特与该老者接触的线索。",
+      "identInfos": [
+        "占卜俱乐部接待员",
+        "漂亮女士"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 101,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘这个人……’安洁莉卡看着仿佛照片般的画像，陷入了沉思。而在克莱恩眼中，她的情绪气场呈现‘思考蓝’，属于正常的反应。‘这个人……’安洁莉卡又低语了一句，缓缓抬头道，‘我见过他。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        101
+      ]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者队长，批准克莱恩调查西里斯，查尼斯门异常后拍电报询问圣堂，确认安提哥努斯笔记为‘1’级封印物。认可克莱恩发展达斯特为线人。",
+      "identInfos": [
+        "值夜者小队队长",
+        "灰眸深邃",
+        "‘梦魇’，记忆不好"
+      ],
+      "aliases": [
+        {
+          "alias": "队长",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 101,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩灰眸深邃地看着手中画像道：‘你想用排查的方式找到这个人？’"
+        },
+        {
+          "chapterSeq": 105,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩环视一圈，用幽邃的灰眸看着克莱恩道：‘你尝试过通灵了？’"
+        },
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩轻轻颔首，望向克莱恩：‘你也听到了，我们获得了‘小丑’的魔药配方，但暂时无法确认是否真实，有待于圣堂给我们反馈。’"
+        },
+        {
+          "chapterSeq": 107,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩用幽邃的灰眸扫了值守室一圈道：‘我留在这里的咖啡和文职人员办公室内的红茶，你都可以随意享用。’"
+        },
+        {
+          "chapterSeq": 110,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣堂已经确认，是那本安提哥努斯家族笔记的问题，并且重新将它定位为‘1’级封印物，可惜，这样你就不够保密等级翻阅了。"
+        },
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩缓缓颔首道：‘你处理得非常好，但以后再有这种事情，最好先告诉我。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        101,
+        105,
+        106,
+        107,
+        110,
+        117
+      ]
+    },
+    {
+      "name": "斯维因",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "恶龙酒吧老板，前廷根市‘代罚者’小队队长，告知克莱恩画像中的老者曾询问霍纳奇斯主峰相关文献和物品。",
+      "identInfos": [
+        "恶龙酒吧老板",
+        "前廷根市‘代罚者’小队队长",
+        "褐发蓝眼，身材魁梧"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 101,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩心中一动，连忙喊道：‘等一下，斯维因先生，我有件事情想请教你。’……斯维因仔细看了一眼，肯定回答道：‘我记得他，他来问过我，问有没有霍纳奇斯主峰相关的文献和物品。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        101
+      ]
+    },
+    {
+      "name": "阿德米索尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "‘怪物’非凡者，在恶龙酒吧地下交易市场见到克莱恩后惊慌逃跑。",
+      "identInfos": [
+        "‘怪物’",
+        "天生高灵感",
+        "脸色苍白，眼神涣散"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 102,
+          "extractReason": "UPDATE",
+          "evidenceText": "他刚往前走了一步，忽然看见上次说他有死亡味道的‘怪物’阿德米索尔站在角落里。这位脸色苍白，眼神涣散中透着可怕疯狂的年轻人也有所察觉，望了过来。视线相触，阿德米索尔突然伸手捂住脸孔，惊慌失措地靠向墙角，一步一步挪动。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        102
+      ]
+    },
+    {
+      "name": "西里斯·阿瑞匹斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "布料商人，极光会‘秘祈人’。与海纳斯·凡森特将安提哥努斯笔记卖给韦尔奇。在德维尔图书馆被克莱恩撞见后失控，被克莱恩枪杀。通灵后获得‘小丑’魔药配方。",
+      "identInfos": [
+        "布料商人，家住豪尔斯街区19号",
+        "极光会成员，‘秘祈人’",
+        "浓密杂乱眉毛，灰蓝色眼眸",
+        "参与安提哥努斯笔记交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 102,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩用手指摩挲着那位借阅者的资料，将它们牢牢记在了心里：‘西里斯·阿瑞匹斯，布料商人，家住豪尔斯街区19号……’"
+        },
+        {
+          "chapterSeq": 103,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩瞄到了对方浓密而杂乱的眉毛，瞄到了一双灰蓝色的眼眸！这些都是高高的领子无法遮掩的部位！西里斯？西里斯·阿瑞匹斯？"
+        },
+        {
+          "chapterSeq": 104,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘尊敬的Z先生：请允许我为自己辩护，我和海纳斯将安提哥努斯家族的笔记转手卖掉并不是愚蠢，也不是背叛……’"
+        },
+        {
+          "chapterSeq": 105,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩在脑海内飞快过了一遍极光会的资料，初步判断西里斯是‘秘祈人’。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        103,
+        104,
+        105
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会‘正义’，受邀参加格莱林特子爵沙龙，结识非凡者佛尔思·沃尔，被请求搭救其同伴休·迪尔查。发现宠物狗苏茜能说话。塔罗会上提问非凡宠物用处，提交一页罗塞尔日记，得知罗塞尔发现世界无石油并加入古老隐秘组织。询问‘仲裁人’序列和‘学徒’能力。商量发展新成员标准，愚者规定‘没有我的允许，不得诵念我的名’。",
+      "identInfos": [
+        "霍尔伯爵之女，贵族少女",
+        "塔罗会成员，代号‘正义’",
+        "序列9‘观众’"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 102,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔穿着羊腿袖、荷叶边、胸前有蕾丝的白色长裙，站在贵宾包厢内，眺望着飞快冲刺的马匹。……格莱林特左右看了一眼，低笑道：‘奥黛丽，我认识了一位真正的非凡者，不属于王室的非凡者。’"
+        },
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽遵循礼仪，将手交给了主人，看着他虚吻了一下。‘你的美丽让我的沙龙充满光彩。’格莱林特先是正常地赞美了一句，接着压低嗓音道，‘那位女士已经来了，她既是非凡者，也是一位作家。’"
+        },
+        {
+          "chapterSeq": 107,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽观察着格莱林特的反应，状似随意地问了一句。……佛尔思低笑两声道：‘让我们坦诚地交流吧，留给我们的时间并不多。’‘我曾经是一名诊所医生，在某个偶然的机会里成为了非凡者，到今天已超过两年。’"
+        },
+        {
+          "chapterSeq": 112,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔坐在阴凉角落里的吊椅上，望着阳光底下怒放的一丛丛鲜花，思考起佛尔思·沃尔请求帮忙的那件事情。"
+        },
+        {
+          "chapterSeq": 112,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽的嘴巴一点点张开，完全忘记了优雅淑女该具备的礼仪，她完全不敢相信自己看到的这一幕场景和听到的僵硬声音。她猛地站起，脱口而出道：‘苏茜，你会说话？你什么时候会说话了？’"
+        },
+        {
+          "chapterSeq": 113,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽念头急转，终于组织好了语言：‘尊敬的愚者先生，总是帮助我的倒吊人先生，我有一个问题想要请教，一只拥有非凡之力的宠物能帮助主人做什么？’"
+        },
+        {
+          "chapterSeq": 113,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽脸色一变，重新坐直，浅笑说道：‘愚者先生，我又找到了一页罗塞尔大帝的日记。’"
+        },
+        {
+          "chapterSeq": 114,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽松了口气，调整状态，成为‘观众’，浅笑着道：‘我想知道是否有序列魔药的名称是‘仲裁者’，另外，什么样的非凡者能直接穿过木门，或者让反锁无效？’"
+        },
+        {
+          "chapterSeq": 114,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽缓缓点头，往后微靠，优雅开口道：‘我没有问题了。’……‘愚者先生，如果，我是说如果，我有机会加入别的组织，比如心理炼金会，是否可以？’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        102,
+        106,
+        107,
+        112,
+        113,
+        114,
+        115
+      ]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽的朋友，介绍非凡者佛尔思·沃尔给奥黛丽认识，希望借助奥黛丽的身份和资源搭救休·迪尔查。",
+      "identInfos": [
+        "子爵，奥黛丽的朋友",
+        "瘦弱年轻人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 102,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔……格莱林特左右看了一眼，低笑道：‘奥黛丽，我认识了一位真正的非凡者，不属于王室的非凡者。’"
+        },
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽遵循礼仪，将手交给了主人，看着他虚吻了一下。‘你的美丽让我的沙龙充满光彩。’格莱林特先是正常地赞美了一句，接着压低嗓音道，‘那位女士已经来了，她既是非凡者，也是一位作家。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        102,
+        106
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作家，非凡者，序列9‘学徒’。主动接触格莱林特和奥黛丽，请求他们帮忙搭救因伤害罪被关押的同伴休·迪尔查，许诺引领他们进入非凡者圈子并给予魔药配方。",
+      "identInfos": [
+        "作家，《暴风山庄》作者",
+        "序列9‘学徒’，能穿门而过",
+        "曾经是诊所医生",
+        "休·迪尔查的同伴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 106,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "格莱林特挺直身体，呵呵笑道：‘是的，我想你应该看过她的作品，最近两个月受到广泛称赞的《暴风山庄》。’……‘奥黛丽，这位就是佛尔思·沃尔女士，《暴风山庄》的作者。’"
+        },
+        {
+          "chapterSeq": 107,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思低笑两声道：‘让我们坦诚地交流吧，留给我们的时间并不多。’‘我曾经是一名诊所医生，在某个偶然的机会里成为了非凡者，到今天已超过两年。’‘我希望你们帮我做一件事情，而我给予的报酬是引领你们进入真正非凡者的圈子，卖给你们某些序列魔药的配方和相应的材料。’"
+        },
+        {
+          "chapterSeq": 107,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思低笑两声道：‘……我有位同伴被关入了监狱，正等待着最后的审判，我希望你们能够救她出来，无论用什么办法。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        106,
+        107
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "佛尔思的同伴，因伤害黑帮头目被关押，佛尔思请求奥黛丽和格莱林特搭救。",
+      "identInfos": [
+        "佛尔思的同伴",
+        "‘仲裁者’",
+        "因伤害罪被关押"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 107,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "佛尔思低笑两声道：‘……我有位同伴被关入了监狱，正等待着最后的审判，我希望你们能够救她出来，无论用什么办法。’……‘她的罪名是因财产纠纷严重伤害了一位体面的绅士，让对方至今仍躺在医院的床上，也许再也站不起来了。’"
+        }
+      ],
+      "lifeStatus": "被囚禁",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者队员，与克莱恩、弗莱一组勘查贫民死亡事件。在查尼斯门异常事件中冷静推理，认为问题出自安提哥努斯笔记。",
+      "identInfos": [
+        "值夜者队员",
+        "‘午夜诗人’",
+        "墨发碧瞳，浪漫诗人气质"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 105,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德望了眼地面的尸体，状似随口地开了句玩笑。‘我感觉你和非凡者，和邪恶力量有着宿命的羁绊……’"
+        },
+        {
+          "chapterSeq": 109,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德难得正经地点头道：‘……基于足够的证据，我怀疑问题出自那本安提哥努斯家族的笔记。’"
+        },
+        {
+          "chapterSeq": 118,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德身穿白衬衣、黑长裤和无扣皮靴，手里正旋转着自己的帽子，看见克莱恩出来，含笑开口道：‘惊喜吗？’……‘队长让你配合我和弗莱，我们路上再详细说。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        105,
+        108,
+        109,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "name": "科恩黎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "值夜者队员，参与西里斯藏身处搜查，找到三份魔药配方。在查尼斯门异常事件中协助处理。",
+      "identInfos": [
+        "值夜者队员",
+        "矮个子，精明强干"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 105,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，矮个子的科恩黎关心了一句。"
+        },
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "科恩黎也是从文职人员转成的值夜者，个子不高，褐发还算浓密，……精明强干的感觉。……‘我们找到的，有价值的物品包括三份序列魔药的配方，分别是序列9‘占卜家’，序列9‘学徒，序列8‘小丑’’……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        105,
+        106,
+        109
+      ]
+    },
+    {
+      "name": "洛耀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "值夜者队员，在查尼斯门异常事件后留下与克莱恩一起值守。",
+      "identInfos": [
+        "值夜者队员",
+        "冷淡女士，黑发柔顺"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 109,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，洛耀清冷地补充道：‘我会留在这里，和你一起值守。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        109
+      ]
+    },
+    {
+      "name": "赛琳娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "梅丽莎的朋友，在市政小礼堂听讲座后与伊丽莎白前往哈罗德百货商店，途中前往占卜俱乐部，发现克莱恩·莫雷蒂的名字，但因克莱恩未在而错过。",
+      "identInfos": [
+        "梅丽莎的朋友",
+        "酒红色头发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 111,
+          "extractReason": "UPDATE",
+          "evidenceText": "赛琳娜鼓了鼓腮帮子道：‘……我想去旁边的占卜俱乐部做次占卜，看凡森特先生的事情是否真的和我有关。’……‘克莱恩·莫雷蒂，克莱恩·莫雷蒂？这和梅丽莎哥哥的名字一样诶？’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        111
+      ]
+    },
+    {
+      "name": "伊丽莎白",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "梅丽莎的朋友，与赛琳娜一起前往哈罗德百货商店，在占卜俱乐部注意到克莱恩·莫雷蒂的名字。",
+      "identInfos": [
+        "梅丽莎的朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 111,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊丽莎白怔了怔，反复看了‘克莱恩·莫雷蒂’这两个单词几遍，若有所思地点头道：‘是啊……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        111
+      ]
+    },
+    {
+      "name": "阿兹克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "霍伊大学历史教员，向克莱恩坦白自己失忆并拥有特殊能力，能看出克莱恩命运不协调且已成为非凡者，请求克莱恩帮助寻找来历线索。",
+      "identInfos": [
+        "霍伊大学历史教员",
+        "肤色古铜，右耳下方有颗小痣",
+        "失忆，拥有特殊能力",
+        "能看到命运的不协调"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 112,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克点了下手杖，叹息笑道：‘我没想到你会这么直接……坦白地讲，你的命运存在不协调的地方是我能够看出来的唯一事情，除此之外，我并不比你知道更多。’"
+        },
+        {
+          "chapterSeq": 112,
+          "extractReason": "UPDATE",
+          "evidenceText": "在进入贝克兰德大学历史系之前，我失去了绝大部分记忆，仅仅记得自己的名字和基本的知识……而在大学那几年里，我逐渐发现我具备一些奇特的能力，超乎常识范畴的能力。"
+        },
+        {
+          "chapterSeq": 113,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克顿了下笑道：‘……我还看出了另外一件事情。克莱恩，你已经不是正常人了，你拥有超凡的、奇怪的能力，和我很像。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        112,
+        113
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘倒吊人’，在塔罗会上回答‘正义’关于非凡宠物用处、‘仲裁人’序列和‘学徒’能力的问题。询问极光会‘圣所’是否就是‘神弃之地’，被愚者制止。请求‘正义’调查国王对弗萨克帝国开战意图。",
+      "identInfos": [
+        "塔罗会成员，代号‘倒吊人’",
+        "疑似风暴教会非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 113,
+          "extractReason": "UPDATE",
+          "evidenceText": "倒吊人阿尔杰·威尔逊默然了十几秒，语气略显古怪地回答道：‘这必须看那只宠物拥有什么样的超凡能力……’"
+        },
+        {
+          "chapterSeq": 114,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰望了愚者一眼，沉吟着说道：‘我想知道国王是否有意在今年内或者明年六月前报复弗萨克帝国，在拜朗东海岸开启新的战争。’"
+        },
+        {
+          "chapterSeq": 114,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰想了下，侧头望向青铜长桌上首：‘尊敬的愚者先生，我想问一件事情，极光会宣扬的真实造物主‘圣所’是否就是传说中的‘神弃之地’？’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        113,
+        114,
+        115
+      ]
+    },
+    {
+      "name": "康纳德·科恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的导师，霍伊大学资深副教授，与克莱恩交流霍纳奇斯主峰古代遗迹相关事情。",
+      "identInfos": [
+        "克莱恩的导师",
+        "霍伊大学资深副教授"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 112,
+          "extractReason": "UPDATE",
+          "evidenceText": "属于历史系的三层灰石小楼里，克莱恩与导师科恩·昆汀闲聊了一阵，交流着与霍纳奇斯主峰古代遗迹相关的事情。"
+        },
+        {
+          "chapterSeq": 113,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克叹息一声道：‘那次来学校询问我和科恩的警察里，就有两名具备超凡能力的人。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        112
+      ]
+    },
+    {
+      "name": "亨利",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "私家侦探，接受克莱恩委托调查红烟囱房屋和购买‘观众’辅助材料者，成功查到后者为达斯特·古德里安。",
+      "identInfos": [
+        "私家侦探",
+        "亨利侦探事务所",
+        "脸庞线条刚硬，眉毛如利剑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘我是侦探亨利，请问我有什么能够帮助到你？’一个穿白衬衣、黑马甲的男子迎了过来。他手里拿着烟斗，脸庞线条刚硬，眉毛如同利剑，深蓝色的眼睛则职业性地上下打量起对面的雇主。"
+        },
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "亨利抽了口烟道：‘按照你的描述，我和助手在恶龙酒吧等待了三天，终于遇到了那位先生。’‘他确实是位相当警惕的绅士，而且也非常擅于观察，幸好我是这方面的老手……’‘他叫达斯特·古德里安，格林赫尔疯人院的医生。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        106,
+        117
+      ]
+    },
+    {
+      "name": "达斯特·古德里安",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "格林赫尔疯人院医生，心理炼金会成员，被克莱恩发现非凡者身份后发展为值夜者线人，同意有限度合作。",
+      "identInfos": [
+        "格林赫尔疯人院医生",
+        "心理炼金会成员",
+        "序列‘观众’",
+        "金边眼镜，气质出众"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 117,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "亨利抽了口烟道：‘按照你的描述，我和助手在恶龙酒吧等待了三天，终于遇到了那位先生。’‘他确实是位相当警惕的绅士，而且也非常擅于观察，幸好我是这方面的老手……’‘他叫达斯特·古德里安，格林赫尔疯人院的医生。’"
+        },
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩随手关门，取下帽子，按在胸口，行了一礼道：‘上午好，达斯特医生，请原谅我的冒昧来访，我是阿霍瓦郡警察厅的见习督察克莱恩·莫雷蒂，这是我的证件和徽章。’……‘我还是廷根市值夜者小队的成员，专门处理涉及非凡因素的事情。’‘上午好，观众先生。’"
+        },
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "达斯特沉默听着，好一会儿才开口问道：‘你希望我背叛我的组织？’……‘不，不是背叛。’克莱恩陈恳说道，‘这是对公义，对道德，对善良的维护……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        117
+      ]
+    },
+    {
+      "name": "班森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的哥哥，对克莱恩兼职警察部门顾问表示羡慕，决定努力学习文法书籍。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "原本是低级文员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森抬手捂住嘴巴，满足地打了个嗝。‘虽然已经是第三次吃到它，但我依旧觉得足够美味……’"
+        },
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森沉默几秒，半是感慨半是自嘲地说道：‘我现在报考大学还来得及吗？’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        106,
+        110
+      ]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的妹妹，与赛琳娜、伊丽莎白去听家庭事务讲座后因不满讲座内容提前离开，后独自回家。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "喜欢机械和齿轮"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎往后靠住椅背，无声地附和着点了下头。"
+        },
+        {
+          "chapterSeq": 110,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎‘嗯’了一声，忽然想起什么似的说道：‘我和班森上午要去圣赛琳娜教堂做祈祷，参与弥撒，午餐可能会迟一点。’"
+        },
+        {
+          "chapterSeq": 111,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎认真听着，不用默算就记起了两个哥哥加起来的年收入。‘超过200镑了……’她半是欣慰半是惶恐地想着。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        106,
+        110,
+        111
+      ]
+    },
+    {
+      "name": "弗莱",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者队员，‘收尸人’，与克莱恩、伦纳德一组勘查贫民死亡事件，发现劳维斯太太死于自然心脏疾病，但认可存在超凡因素的可能。为劳维斯家留下下葬费用。",
+      "identInfos": [
+        "值夜者队员，‘收尸人’",
+        "皮肤苍白，气质冰冷"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 118,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德将帽子戴上道：‘队长让你配合我和弗莱，我们路上再详细说。’"
+        },
+        {
+          "chapterSeq": 120,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗莱保持冰冷内敛的状态，向后退开两步道：‘你先尝试。’他偏头看了克莱恩一眼，忽然语气没有起伏地感叹了一句：‘你越来越习惯这样的场合了。’"
+        },
+        {
+          "chapterSeq": 120,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗莱突然打断道：‘我留了下葬的费用在你太太旁边。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "name": "劳维斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "码头工人，妻子劳维斯太太突发心脏疾病死亡，接受克莱恩等人调查。",
+      "identInfos": [
+        "码头工人",
+        "死者劳维斯太太的丈夫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 119,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "萎靡男子有气无力地抬头，诧异问道：‘今天上午不是检查过了，问过了吗？’……‘那就是劳维斯，床上是他的妻子，也就是死者，经过我们初步检查，死于突发的疾病。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        119,
+        120
+      ]
+    },
+    {
+      "name": "比奇·蒙巴顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "负责铁十字街下街的警长，协助值夜者调查劳维斯太太死亡事件。",
+      "identInfos": [
+        "警长",
+        "棕黄色络腮胡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 119,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩看到了等待在这里的比奇·蒙巴顿。这位负责周围街区的警长留着棕黄色的络腮胡，对亮出督察身份的伦纳德满是谄媚之情。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        119
+      ]
+    },
+    {
+      "name": "赛薇娅拉·赫达",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "家庭事务讲座老师，风暴之主信徒，宣扬女性应服从男性的观点，导致梅丽莎等人提前离场。",
+      "identInfos": [
+        "讲座老师",
+        "风暴之主信徒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 111,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "没过多久，颧骨较高的讲座老师登上小礼堂前方的半高木台，放开嗓子说道：‘上午好，各位善良的、仁慈的女士，我是赛薇娅拉·赫达……’"
+        },
+        {
+          "chapterSeq": 111,
+          "extractReason": "UPDATE",
+          "evidenceText": "赛琳娜掩住嘴巴，压低嗓音对两位好友道：‘她似乎是风暴之主的信徒，她戴着风暴徽章。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        111
+      ]
+    },
+    {
+      "name": "克里斯蒂娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "兰尔乌斯诈骗案受害者，带外甥女梅高欧丝求助克莱恩占卜兰尔乌斯下落。",
+      "identInfos": [
+        "兰尔乌斯诈骗案受害者",
+        "梅高欧丝的姨母"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 115,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "格拉西斯侧过头，对那位眼角有了些许鱼尾纹的女士道：‘克里斯蒂娜女士，你看，我们还没有开口，莫雷蒂先生就知道我们的目的了……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        115,
+        116
+      ]
+    },
+    {
+      "name": "梅高欧丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "克里斯蒂娜的外甥女，兰尔乌斯的恋人，已怀孕，言语渐显异常，认为孩子体贴讨喜。",
+      "identInfos": [
+        "克里斯蒂娜的外甥女",
+        "兰尔乌斯的恋人，已怀孕"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 116,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她伸手指着旁边戴荷叶帽的年轻姑娘道：‘这是我的外甥女梅高欧丝，她的母亲是我的长姐，我很遗憾，也很抱歉，当初竟然认为兰尔乌斯是出众的、卓越的年轻人，于是将梅高欧丝介绍给了未婚的他，看着他们成为恋人。’"
+        },
+        {
+          "chapterSeq": 116,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅高欧丝低下脑袋，垂着目光，许久没有说话。过了一阵，她才摸着小腹，露出温柔的笑容道：‘他和他父亲不一样，他是一个很体贴很讨人喜欢的孩子。’‘他每天都会轻轻踢我，告诉我他的心情，他还会哼歌，会吹口哨，用音乐帮助我入睡……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        116
+      ]
+    },
+    {
+      "name": "格拉西斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "兰尔乌斯诈骗案受害者，带克里斯蒂娜找克莱恩占卜。",
+      "identInfos": [
+        "兰尔乌斯诈骗案受害者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 115,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着单片眼镜，手拿丝绸礼帽的格拉西斯走了进来，他身旁还跟着位穿蓝色立领长裙的三十来岁女士。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        115
+      ]
+    },
+    {
+      "name": "西迦·特昂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "值夜者队员，与其他队员调查北区死亡事件。在例会中汇报未找到‘教唆者’特里斯线索。",
+      "identInfos": [
+        "值夜者队员，‘午夜诗人’",
+        "白发黑瞳，气质沉静"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "白发黑瞳，气质沉静的‘午夜诗人’西迦·特昂道：‘依旧没能找到‘教唆者’特里斯的线索，我怀疑他已经逃离了廷根。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        106
+      ]
+    },
+    {
+      "name": "胡德·欧根",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "心理炼金会成员，通过看穿达斯特·古德里安的能力将其引入组织。",
+      "identInfos": [
+        "心理炼金会成员",
+        "曾为格林赫尔疯人院病人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 117,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "达斯特看着对方的眼睛道：‘因为这家疯人院的一位病人，我给他看病的时候，发现他能完全看穿我，清醒理智地不像是个疯子……’‘他叫做胡德·欧根。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    }
+  ],
+  "factions": [
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "崇拜‘真实造物主’的隐秘组织，西里斯·阿瑞匹斯是其成员。西里斯信件中提及‘Z先生’和向主奉献廷根市全部羔羊的计划。",
+      "identInfos": [
+        "崇拜‘真实造物主’",
+        "掌握‘秘祈人’、‘倾听者’序列",
+        "西里斯·阿瑞匹斯为其成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 105,
+          "extractReason": "UPDATE",
+          "evidenceText": "极光会是最近两三百年才出现的隐秘组织，他们崇拜‘真实造物主’，以倒吊的巨人作为那位存在的象征……极光会掌握的序列9叫做‘秘祈人’……"
+        },
+        {
+          "chapterSeq": 104,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘尊敬的Z先生：请允许我为自己辩护，我和海纳斯将安提哥努斯家族的笔记转手卖掉并不是愚蠢，也不是背叛……’"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "达斯特·古德里安所属组织，其成员胡德·欧根通过看穿达斯特的能力将其引入。",
+      "identInfos": [
+        "隐秘组织",
+        "达斯特·古德里安为其成员",
+        "成员胡德·欧根能看穿人心"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 117,
+          "extractReason": "UPDATE",
+          "evidenceText": "达斯特看着对方的眼睛道：‘因为这家疯人院的一位病人，我给他看病的时候，发现他能完全看穿我，清醒理智地不像是个疯子……’‘他叫做胡德·欧根。’"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "厄运布偶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物‘3-0625’，在克莱恩轮值查尼斯门时异常开门，展示绘有神秘竖眼图案的纸张，图案被确认为安提哥努斯家族宝藏的关键。已更换封印措施。",
+      "identInfos": [
+        "封印物编号3-0625",
+        "穿黑色古典宫廷长裙的布偶",
+        "带来厄运",
+        "最早出现于苔丝老太太家"
+      ],
+      "aliases": [
+        {
+          "alias": "3-0625",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 108,
+          "extractReason": "UPDATE",
+          "evidenceText": "扎！生涩到让人牙酸的声音里，克莱恩几乎快要凝固的眼睛看见了一道身影，它大概成年的、普通的男士小臂高，穿着黑色的、典雅的、微缩的宫廷长裙，裙摆有着明显污痕。……这是一个布偶，玩具布偶！……纸张之上描绘着众多的隐秘符号，有克莱恩认识的，也有他还未掌握的，它们共同构成了一只竖着的眼睛！"
+        },
+        {
+          "chapterSeq": 108,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘编号：0625。’‘名称：厄运布偶。’‘危险等级：‘3’，有一定危险，需小心使用，只有三人以上的行动才能申请。’……"
+        }
+      ]
+    },
+    {
+      "name": "小丑魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩通过通灵西里斯获得‘小丑’魔药配方：纯水80毫升，曼陀罗汁液5滴，黑边太阳花粉末7克，金斗篷草粉末10克，毒堇汁3滴，成年的霍纳奇斯灰山羊独角结晶一枚，完整的人脸玫瑰一朵。值夜者从西里斯藏身处亦找到该配方，待圣堂确认。",
+      "identInfos": [
+        "序列8‘小丑’魔药配方",
+        "辅助材料：曼陀罗汁液、黑边太阳花粉末等",
+        "主材料：霍纳奇斯灰山羊独角结晶、人脸玫瑰"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 105,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘这是第二份配方，笔记记载的名称是‘小丑’。纯水80毫升，曼陀罗汁液5滴，黑边太阳花粉末7克，金斗篷草粉末10克，毒堇汁3滴，以上是辅助材料。主要的、非凡的材料是：成年的霍纳奇斯灰山羊独角结晶一枚，完整的人脸玫瑰一朵。’"
+        },
+        {
+          "chapterSeq": 106,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘我们找到的，有价值的物品包括三份序列魔药的配方，分别是序列9‘占卜家’，序列9‘学徒，序列8‘小丑’’……’"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "被圣堂重新定位为‘1’级封印物。影响‘3-0625’厄运布偶向克莱恩展示竖眼图案，被认为视克莱恩为传承者。",
+      "identInfos": [
+        "安提哥努斯家族笔记",
+        "原为第四纪笔记",
+        "已重新定位为‘1’级封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 110,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣堂已经确认，是那本安提哥努斯家族笔记的问题，并且重新将它定位为‘1’级封印物，可惜，这样你就不够保密等级翻阅了。"
+        },
+        {
+          "chapterSeq": 109,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德……轻敲桌子边笑道：‘如果能让厄运布偶出现异常，‘2-049’早就在贝克兰德的查尼斯门后制造类似的事件了，所以，我怀疑问题出自那本安提哥努斯家族的笔记。’"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘正义’奥黛丽在塔罗会提交新一页罗塞尔日记，记载罗塞尔发现世界没有石油，并提及加入古老隐秘组织。",
+      "identInfos": [
+        "罗塞尔大帝的日记",
+        "用中文简体字书写",
+        "记录世界无石油等秘密"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 113,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩斜垂视线，望向日记的前几行：‘十二月二十日，又要开始新的一年了，但陆陆续续获得的反馈让我非常迷惑和为难。’‘这个世界竟然找不到石油！竟然找不到石油！’"
+        },
+        {
+          "chapterSeq": 114,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看到这里，忽然发现下面没有了，心情简直无法言喻：‘大帝啊，你说的那个古老的、隐秘的、暗中影响着世界局势的组织究竟叫什么名字？’"
+        }
+      ]
+    }
+  ]
+}

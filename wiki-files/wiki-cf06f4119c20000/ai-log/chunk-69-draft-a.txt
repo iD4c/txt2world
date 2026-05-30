@@ -1,0 +1,1040 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩为晋升序列1“诡秘侍者”创建秘偶城镇乌托邦，通过“源堡”和“幕布”进行嫁接，让外来者进入以推进仪式。他编写近五千秘偶的详细命运并让秘偶掌握专业知识。乌托邦随机出现在不同地点，引发官方注意。他分化意识，本体沉睡于教堂地底，监控异常。奥黛丽梦境事件与文德尔返回乌托邦同时发生，让他产生警惕。他试图让外来者离开，但查拉图在亚当安排下突袭乌托邦，利用“神孽”斯厄阿历史投影和克莱恩人偶隔绝其与秘偶联系，封锁“源堡”回归。克莱恩逃入历史迷雾旧日都市，遭秘偶格尔曼·斯帕罗背叛，被十字木桩封印。亚当现身，揭示自己即远古太阳神，展示第二块“亵渎石板”上的旧日配方，并称克莱恩为“诡秘”。",
+      "identInfos": [
+        "源堡主人",
+        "愚者先生",
+        "曾用名夏洛克·莫里亚蒂、格尔曼·斯帕罗、道恩·唐泰斯",
+        "占卜家途径天使之王",
+        "创建秘偶城镇乌托邦",
+        "塔罗会首领"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "化名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "化名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1327,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩为晋升序列1“诡秘侍者”创建秘偶城镇乌托邦，通过“源堡”和“幕布”进行嫁接，使外来者进入，形成互动以推进仪式。他编写近五千秘偶的详细命运，并让秘偶掌握专业知识。"
+        },
+        {
+          "chapterSeq": 1328,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩本体放下钢笔，揉了揉额角，长长地舒了口气。他终于编写好了秘偶城镇近五千个居民的资料，而相应的知识储备也接近完成。"
+        },
+        {
+          "chapterSeq": 1328,
+          "extractReason": "UPDATE",
+          "evidenceText": "他随即拿出工具，在木牌上书写下了这座城镇的名称：“乌托邦”。"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "这段时间以来，克莱恩的状态一直很奇妙，似乎完全分化为了成千上万的生灵，每一个分身都有自己的意志、想法、认知和命运。不过，在这众多意识之上，存在一道占据统治地位的主意识……他的本体一直躺在圣阿里安娜教堂的地底，意识时而上升至“源堡”内部，时而沉入体内。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩迅速具现出一枚金币，啪地将它弹向半空，做了个占卜。占卜的结果显示，今天的事情没什么危害。克莱恩随即散去金币，准备下降意识，回归沉睡于圣阿里安娜教堂的本体内。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "查拉图不再掩饰，也无法掩饰，拿出一张黑乎乎的裹尸布，猛地将克莱恩人偶包了起来！整个乌托邦内，所有秘偶的“灵体之线”同时断掉，无法再连接本体。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一下醒了过来，知道意外确确实实来临了。他没有犹豫，念头一转，就要回归“源堡”……就在这个时候，他上浮的意识碰到了无形的，深暗的屏障，难以穿透过去，进入“源堡”。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道人影随之勾勒于他的身后，是位戴半高丝绸礼帽，穿黑色风衣的冷峻男子。格尔曼·斯帕罗。“亚当给了我人性。”克莱恩的瞳孔一下放大。"
+        },
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩双脚落地，站在了教堂中央……穿着简朴白袍，留着淡金胡须，挂着银制十字架吊坠的亚当立在十字架下……克莱恩低头看了眼插在胸口的十字木桩，缓步走向了第一排座椅。"
+        },
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "诡秘之主、时空之王、命运道标、源堡化身、灵界支配者：“源堡”+“愚者”唯一性+“错误”唯一性+“门”唯一性+1份“诡秘侍者”非凡特性+1份“时之虫”非凡特性+1份“星之匙”非凡特性。"
+        },
+        {
+          "chapterSeq": 1346,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚当微微一笑：“我们又见面了，诡秘。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1327, 1328, 1335, 1336, 1338, 1339, 1340, 1343, 1344, 1345, 1346]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽得知兄长阿尔弗雷德即将返回贝克兰德。在家族猎狐活动中，她因接近赫德拉克村庄而感到不安，使用“操纵师”能力改变兄长想法以避免靠近。深夜，她被引入梦境迷宫，与古老心灵巨龙艾瑞霍格相遇，对方通过她留在利维希德的印记追踪到她，询问利维希德情况。随后“暴怒”先生（赫密斯）闯入，与艾瑞霍格交锋，编织噩梦。奥黛丽逃离梦境，唤醒庄园众人，但仍有仆人死亡。她目睹艾瑞霍格逃走前说出“亚当不一定就是亚当”。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "贝克兰德最耀眼的宝石",
+        "塔罗会“正义”",
+        "观众途径序列4“操纵师”",
+        "金毛大狗苏茜的同伴",
+        "心理炼金会评议团委员“傲慢”"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1328,
+          "extractReason": "UPDATE",
+          "evidenceText": "“阿尔弗雷德已经登上了返回北大陆的客轮？”奥黛丽没有掩饰自己的惊喜。"
+        },
+        {
+          "chapterSeq": 1340,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔弗雷德、希伯特和奥黛丽领着各自的猎狐犬，带着数量不等的仆从，绕着森林边缘，追逐着猎物。"
+        },
+        {
+          "chapterSeq": 1341,
+          "extractReason": "UPDATE",
+          "evidenceText": "回过神后，奥黛丽一边保持着浅笑的状态，一边变得警惕。她隐约觉得冥冥中有股力量在推动着自己来赫德拉克这有巨龙崇拜风俗的村庄。"
+        },
+        {
+          "chapterSeq": 1341,
+          "extractReason": "UPDATE",
+          "evidenceText": "迷迷蒙蒙之中，她忽然坐了起来……她随即环顾了一圈，看见了熟悉的梳妆台和盥洗室入口，发现自己还在房间内，可窗外已没有了红月，也没有了繁星，一片深暗。这不是现实世界……奥黛丽瞬间做出判断。"
+        },
+        {
+          "chapterSeq": 1342,
+          "extractReason": "UPDATE",
+          "evidenceText": "那条心灵巨龙收敛住张开的皮膜巨翼，低头看着披蓝色斗篷的奥黛丽道：“这里是许多心灵拼凑起来的梦境迷宫……我叫艾瑞霍格，目前仅存的三条古龙之一。”"
+        },
+        {
+          "chapterSeq": 1343,
+          "extractReason": "UPDATE",
+          "evidenceText": "那巨龙的声音回荡在了虚幻的大海中：“亚当不一定就是亚当，就像我不一定就是艾瑞霍格。”巨型白兔的身影骤然放缓，逐渐停止。所有的异常随之中断，整片区域又恢复了正常。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1328, 1333, 1334, 1340, 1341, 1342, 1343]
+    },
+    {
+      "name": "阿尔弗雷德·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔弗雷德乘船返回北大陆途中，因风暴误入乌托邦港，与港口临时指挥官西奥多和旅馆老板翠西相遇，他选择留在船上。抵达后，他发现乌托邦不在正规地图上，遂向军情九处报告。在贝克兰德与家人重逢，并与妹妹奥黛丽谈及非凡者之路的危险。参与家族猎狐时，受奥黛丽影响改变主意返回。",
+      "identInfos": [
+        "霍尔伯爵次子",
+        "奥黛丽的哥哥",
+        "陆军少将",
+        "序列5“惩戒骑士”",
+        "南大陆服役经历"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1328,
+          "extractReason": "UPDATE",
+          "evidenceText": "作为陆军少将，阿尔弗雷德没有跟随海军的舰队前往迪西海湾，而是带着副官和扈从，登上了一艘前往普利兹港的蒸汽风帆混合动力客轮。"
+        },
+        {
+          "chapterSeq": 1329,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔弗雷德缓慢摇了下头：“我们对这里没有丝毫的了解，必须足够谨慎。留在船上是最好的选择。”"
+        },
+        {
+          "chapterSeq": 1330,
+          "extractReason": "UPDATE",
+          "evidenceText": "那名扈从压着声音道：“将军，王国所有的正规地图都没有标注乌托邦港。”"
+        },
+        {
+          "chapterSeq": 1333,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔弗雷德笑着指了指楼梯口：“先回房间休息一下，等会到书房再聊。”他对次子的精神状态和成长进度相当满意。"
+        },
+        {
+          "chapterSeq": 1340,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔弗雷德、希伯特和奥黛丽领着各自的猎狐犬，带着数量不等的仆从，绕着森林边缘，追逐着猎物。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1328, 1329, 1330, 1333, 1334, 1336, 1340, 1341]
+    },
+    {
+      "name": "维尔杜·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "维尔杜在拜亚姆接触班西港的神秘学资料，产生强烈兴趣，搭乘海盗船前往班西。他探索班西电报局、祭坛废墟和一扇神秘木门。在电报局遭遇异常，水晶球占卜爆炸；在祭坛废墟发现渗血巨石；打开木门后看见灰雾中的街道和班西电报局，听见邀请声，被吓跑。之后梦见“战争之神”尊名。其行动被“红天使”恶灵和神秘乌鸦利用。",
+      "identInfos": [
+        "亚伯拉罕家族成员",
+        "“学徒”途径序列7“占星人”",
+        "为解救“门”先生而探索神秘",
+        "持有古典长袍封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1327,
+          "extractReason": "UPDATE",
+          "evidenceText": "班西……维尔杜无声自语了一句，对那个港口突然产生了强烈的兴趣。他开始考虑要不要也收购些来自班西的物品，深入地研究一下。"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "维尔杜在寻找去班西的海盗船或走私船。"
+        },
+        {
+          "chapterSeq": 1337,
+          "extractReason": "UPDATE",
+          "evidenceText": "维尔杜拉开行李箱，取出一件很有古典韵味的黑色长袍，将它套在了身上。这长袍的表面绣有金丝银线，镶嵌着多种米粒大小的宝石，是属于亚伯拉罕家族的封印物。"
+        },
+        {
+          "chapterSeq": 1338,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！它直接爆开了，将碎片抛洒向四周。……维尔杜目光凝固，呆立在原地，竟忽视掉了碎片插入身体带来的痛苦。"
+        },
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "维尔杜眼前突然出现了一片灰白的雾气。雾气之中有一条若隐若现的街道和一栋栋联排的房屋。其中一栋房屋外，镶嵌着木牌，上面似乎写着几个鲁恩文单词：“班西港电报局。”"
+        },
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "灰蒙蒙的梦境世界中……他听见旷野的深处，一道道略显断续的声音传了过来：“伟大的，战争之神……”“铁，与，血，的象征……”“动乱，和，纷争，的，主宰……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1327, 1328, 1335, 1336, 1337, 1338, 1339]
+    },
+    {
+      "name": "文德尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "军情九处情报员文德尔护送机密文件途中，因暴风雨误入乌托邦，入住“鸢尾花”旅馆。他卷入翠西杀人案，作为证人提供帮助，后半夜发现文件提及乌托邦，惊恐逃离。返回军情九处后，他受到监视，极度和焦虑。两周后，乌托邦警察拜尔斯找到他，要求出庭作证。文德尔最终选择返回乌托邦，打开盥洗室门后进入法庭。",
+      "identInfos": [
+        "军情九处内务行动部成员",
+        "序列7非凡者",
+        "原情报人员",
+        "乌托邦事件亲历者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1330,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他不到三十岁，鬓角深黑，褐眸沉静，长相上没什么能让人记住的特点……在几个月前，他还是活跃于迪西海湾费内波特部分的情报人员，立下了不少功劳，如今已成为序列7的非凡者，归属于军情九处内务行动部。"
+        },
+        {
+          "chapterSeq": 1331,
+          "extractReason": "UPDATE",
+          "evidenceText": "她头发凌乱，脸色惨白，浅绿色的衣物上星星点点全是鲜红的血液，手里还提着一把往下滴落鲜血的匕首。“我杀了人……”"
+        },
+        {
+          "chapterSeq": 1332,
+          "extractReason": "UPDATE",
+          "evidenceText": "他目光一扫间，却通过那破洞看见了文件上一个单词：“乌托邦”。文德尔的精神一下绷紧，只觉外面的风声和雨声骤然停止了。"
+        },
+        {
+          "chapterSeq": 1333,
+          "extractReason": "UPDATE",
+          "evidenceText": "他昨晚借口去盥洗室时，手里有提着行李箱和雨伞，完全不像是蒸汽列车内临时下来的乘客。而那名站台工作人员竟没有发现这点，或者说，已经发现，却出于未知的目的没有揭穿！"
+        },
+        {
+          "chapterSeq": 1336,
+          "extractReason": "UPDATE",
+          "evidenceText": "那名叫做拜尔斯的年轻警察带着礼貌的笑容道：“乌托邦的翠西杀人案。”“……”文德尔的瞳孔瞬间放大。"
+        },
+        {
+          "chapterSeq": 1343,
+          "extractReason": "UPDATE",
+          "evidenceText": "下一秒，文德尔拧动把手，向后一拉，打开了盥洗室的房门。出现于他眼前的不再是熟悉的卧室，而是一处陌生的大厅。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1330, 1331, 1332, 1333, 1336, 1337, 1342, 1343, 1344]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休作为军情九处“国内安全和反间谍组”副组长，接到调查乌托邦的任务。她向组员下发任务，并在塔罗会上询问乌托邦。得知有乌托邦居民来到贝克兰德后，她安排属下调查，并亲自搜集情报。她从酒保处听说有来自乌托邦的客人。她向“愚者”祷告，得到“世界”允许后，继续调查。最后，她安排文德尔在军情九处总部躲避。",
+      "identInfos": [
+        "军情九处副处长兼组长",
+        "塔罗会“审判”",
+        "佛尔思的好友",
+        "原赏金猎人",
+        "序列5“惩戒骑士”"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1334,
+          "extractReason": "UPDATE",
+          "evidenceText": "休目前已担任“国内安全和反间谍组”的副组长，直接管理着一支规模不算小的非凡者队伍，负责处理贝克兰德大区与因蒂斯相关的间谍案件。"
+        },
+        {
+          "chapterSeq": 1336,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你们之后的任务是调查这位女士的来历，找到她的家人和朋友，确认她是否已经回来。”“是，上校。”两名军情九处人员行了一礼，退出了休的办公室。"
+        },
+        {
+          "chapterSeq": 1337,
+          "extractReason": "UPDATE",
+          "evidenceText": "休微微点头，语气凝重地说道：“与之前案例里进出乌托邦的相关描述初步吻合。”"
+        },
+        {
+          "chapterSeq": 1337,
+          "extractReason": "UPDATE",
+          "evidenceText": "“去告诉文德尔，之后的两周，他将在这里度过，直到那份文书过期。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1334, 1336, 1337]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思在血月之夜与“门”先生对话，得知“漫游者”序列的奥秘。她表面上应付“门”先生的诱惑，实则并无动力探索星空。她已是序列4半神，不再受满月呓语影响。",
+      "identInfos": [
+        "畅销作家",
+        "塔罗会“魔术师”",
+        "序列4“旅行家”",
+        "休的好友",
+        "“门”先生的后裔"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1334,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思正靠躺在床上，边欣赏窗外的“血月”，边忍着脑袋被针扎的痛苦，听“门”先生说话……她已有点适应和“门”先生直接对话带来的痛苦。"
+        },
+        {
+          "chapterSeq": 1334,
+          "extractReason": "UPDATE",
+          "evidenceText": "“只要你帮我脱困，我就会给你‘漫游者’的魔药配方和非凡特性，并助你完成仪式……”“真是让人向往啊。”佛尔思由衷地赞叹道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1334]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林梦见血月下悬崖和血污婴儿，惊醒后认为梦境不简单。他寻求乌特拉夫斯基神父鉴定，得知并非“大地母神”神启。在塔罗会上，克莱恩分析其梦境可能来自“堕落母神”的诱导或自身忧虑。",
+      "identInfos": [
+        "血族伯爵",
+        "塔罗会“月亮”",
+        "“巫王”",
+        "信仰大地母神"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1334,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特脚下石块破碎，整个人掉下了悬崖，坠往沼泽。这位血族伯爵猛然从梦中惊醒，既后怕又茫然地环顾起周围。"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "“三个可能，一是这梦境在诱导你去探寻什么……”“第三个可能不用讲，前面两种可能的应对方法都一样，不去想，不去探究，无必要不离开贝克兰德。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1334, 1335]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰监控维尔杜，发现其寻找去班西的海盗船。他决定安排海盗船给维尔杜，并继续监控。在塔罗会上汇报此事，“愚者”吩咐继续监控。",
+      "identInfos": [
+        "风暴教会枢机主教",
+        "塔罗会“倒吊人”",
+        "“灾难主祭”",
+        "海王亚恩·考特曼的副手"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1334,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰伸手接住了狂风“送”来的纸条，展开看了一眼：“维尔杜在寻找去班西的海盗船或走私船。”"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "班西？维尔杜想去班西？我坐在斑驳长桌最下方，看着向“愚者”先生汇报的“倒吊人”……“愚者”先生吩咐了一句：“继续监控。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1334, 1335]
+    },
+    {
+      "name": "翠西",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "翠西是乌托邦港口旅馆的老板，曾是商人情妇。她刺死纠缠她的情夫后被警察逮捕。文德尔作为证人为她提供帮助。她在警察局思考社会现象，请求借书。案件进入司法程序，由事务律师辩护。",
+      "identInfos": [
+        "乌托邦港口旅馆老板",
+        "翠西杀人案被告",
+        "曾为商人情妇",
+        "有野性气质的美人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1329,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我叫翠西。”那女郎堆起了笑容，“港口旅馆的老板，同时也是前台和服务生。”"
+        },
+        {
+          "chapterSeq": 1331,
+          "extractReason": "UPDATE",
+          "evidenceText": "她头发凌乱，脸色惨白，浅绿色的衣物上星星点点全是鲜红的血液，手里还提着一把往下滴落鲜血的匕首。“我杀了人……”"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "“翠西小姐，你有在听我们说话吗？”一道声音拉回了我的思绪，来自那位有点青涩的警察先生。我对他笑了笑……"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我会努力地为自己辩护，也会坦然为犯下的罪行忏悔……等待上庭的这段时间里，能帮我从图书馆借几本书吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1329, 1330, 1331, 1332, 1333, 1335, 1336, 1337, 1343]
+    },
+    {
+      "name": "拜尔斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "拜尔斯是乌托邦的年轻警察，负责翠西杀人案。他前往贝克兰德寻找证人出庭，成功说服文德尔。他的出现引发文德尔和军情九处的惊慌，最终文德尔同意作证。",
+      "identInfos": [
+        "乌托邦警察",
+        "翠西案办案警官",
+        "青涩的年轻人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "“翠西小姐，你有在听我们说话吗？”一道声音拉回了我的思绪，来自那位有点青涩的警察先生。"
+        },
+        {
+          "chapterSeq": 1336,
+          "extractReason": "UPDATE",
+          "evidenceText": "那名叫做拜尔斯的年轻警察带着礼貌的笑容道：“乌托邦的翠西杀人案。”"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这两天好好休息，上庭还要等一段时间。”拜尔斯将文德尔送到了“鸢尾花”旅馆的门口。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1335, 1336, 1337, 1340, 1343, 1344]
+    },
+    {
+      "name": "莫妮卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "莫妮卡是一位游记作家，笔名夏绿蒂。她滞留乌托邦，记录当地风土人情，寄出游记。她入住“鸢尾花”旅馆，与警察拜尔斯有交集，参加教堂布道。",
+      "identInfos": [
+        "游记作家",
+        "笔名夏绿蒂",
+        "乌托邦滞留旅客",
+        "迪西海湾风格女性"
+      ],
+      "aliases": [
+        {
+          "alias": "夏绿蒂",
+          "type": "笔名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1336,
+          "extractReason": "UPDATE",
+          "evidenceText": "那两位乘客只知道那位女士叫莫妮卡，不清楚她的姓氏和来历。"
+        },
+        {
+          "chapterSeq": 1340,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫妮卡放下钢笔，认真地阅读了两遍手稿……她是一位作家……自从写《暴风山庄》的佛尔思·沃尔小姐开创了旅游专栏……莫妮卡也开始为贝克兰德的一些报纸书写游记……夏绿蒂就是她的笔名。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫妮卡睡到半夜，忽然尿急……推动盥洗室房门时，她有种这变沉了一点的感觉。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1336, 1340, 1344]
+    },
+    {
+      "name": "赫密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "赫密斯以“暴怒”先生身份出现在梦境迷宫，与艾瑞霍格交锋。他编织远古太阳神噩梦攻击艾瑞霍格。艾瑞霍格说出“亚当不一定就是亚当”后，他停止追击。其真实目的可能是试探亚当状态。",
+      "identInfos": [
+        "心理炼金会评议团成员“暴怒”",
+        "巨型白兔形态",
+        "可能为“作家”途径天使"
+      ],
+      "aliases": [
+        {
+          "alias": "暴怒",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1343,
+          "extractReason": "UPDATE",
+          "evidenceText": "那扇失去所有外在凭依的孤单木门一点点后敞，显露出了访客的模样：一只巨大的，白乎乎的，耳朵一动一动的，人立行走的兔子。"
+        },
+        {
+          "chapterSeq": 1343,
+          "extractReason": "UPDATE",
+          "evidenceText": "当他的轮廓将要清晰，身影就会一阵扭曲，如同被干扰了信号的机器……奥黛丽借助当前状态的特殊，第一时间就知道了艾瑞霍格编织的噩梦代表什么……这是在巨型白兔心中留下了深刻阴影的事物。"
+        },
+        {
+          "chapterSeq": 1343,
+          "extractReason": "UPDATE",
+          "evidenceText": "那巨龙的声音回荡在了虚幻的大海中：“亚当不一定就是亚当，就像我不一定就是艾瑞霍格。”巨型白兔的身影骤然放缓，逐渐停止。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1343]
+    },
+    {
+      "name": "艾瑞霍格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "古龙艾瑞霍格通过奥黛丽在利维希德留下的印记追踪到她，在梦境迷宫中询问利维希德和青铜门情况。祂与赫密斯交锋，编织被“地底”侵蚀的安格尔威德噩梦。逃离前说出“亚当不一定就是亚当”。",
+      "identInfos": [
+        "现存三条古龙之一",
+        "心灵巨龙",
+        "可能为序列2“洞察者”",
+        "曾栖息于奇迹之城利维希德"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1342,
+          "extractReason": "UPDATE",
+          "evidenceText": "那条鳞片硕大的灰白巨龙嗡嗡说道：“我叫艾瑞霍格，目前仅存的三条古龙之一。”"
+        },
+        {
+          "chapterSeq": 1343,
+          "extractReason": "UPDATE",
+          "evidenceText": "那条巨龙的声音回荡在了虚幻的大海中：“亚当不一定就是亚当，就像我不一定就是艾瑞霍格。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1342, 1343]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "查拉图在亚当安排下突袭乌托邦，利用“神孽”斯厄阿历史投影和克莱恩人偶隔绝克莱恩与秘偶联系。祂与克莱恩在历史迷雾中交战，被纸人替身欺骗。后守在尸骨教堂外，等待捕获克莱恩。",
+      "identInfos": [
+        "密修会首领",
+        "“占卜家”途径天使之王",
+        "曾为“诡秘侍者”",
+        "阿蒙的潜在对手"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "做好相应的准备后，借助之前历史投影提供的定位，查拉图悄然潜入了乌托邦。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "查拉图不再掩饰，也无法掩饰，拿出一张黑乎乎的裹尸布，猛地将克莱恩人偶包了起来！"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩虽然无法回归“源堡”，但能够影响值守灰雾之上的“灵之虫”们，让它们摄来“幕布”，提供帮助。躲过查拉图的致命一击后，克莱恩狂奔于历史迷雾内。"
+        },
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "“所以，祂选择了和我合作，这个过程中，如果祂能抓住机会，抢在我之前，将你变成秘偶……反之，祂就彻底认输，效忠阿蒙。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1344, 1345]
+    },
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "格尔曼·斯帕罗是克莱恩的秘偶分身，被亚当赋予人性后背叛克莱恩，在历史迷雾中用十字木桩从背后刺穿克莱恩心脏。之后因“灵体之线”被放弃而死。他也以独立身份探索班西木门后的灰雾街道。",
+      "identInfos": [
+        "克莱恩的秘偶分身",
+        "疯狂冒险家形象",
+        "被亚当赋予人性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1338,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是那位戴半高丝绸礼帽，穿黑色长款风衣，面容冷峻的年轻男子。"
+        },
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我是，格尔曼，斯帕罗。”戴半高丝绸礼帽的年轻男子用同样断续的声音回答道。"
+        },
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道人影随之勾勒于他的身后，是位戴半高丝绸礼帽，穿黑色风衣的冷峻男子。格尔曼·斯帕罗。“亚当给了我人性。”克莱恩的瞳孔一下放大。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1336, 1338, 1339, 1344, 1345]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "亚当在尸骨教堂中现身，揭示自己即远古太阳神，用“空想家”特殊能力分离出亚当身份。祂与阿蒙交易，展示第二块“亵渎石板”上的旧日配方，解释查拉图合作原因，并称克莱恩为“诡秘”。祂给予格尔曼·斯帕罗人性，导致克莱恩被背叛。",
+      "identInfos": [
+        "“空想家”途径序列0真神",
+        "远古太阳神复活后手",
+        "阿蒙的兄长",
+        "神国为尸骨教堂",
+        "黄昏隐士会幕后"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿着简朴白袍，留着淡金胡须，挂着银制十字架吊坠的亚当立在十字架下……祂神情和煦，眼眸清澈……"
+        },
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "“阿蒙来偷尸骨教堂时，我和祂达成了一项交易，祂帮我拿到第一块‘亵渎石板’，我帮祂抓住你。”"
+        },
+        {
+          "chapterSeq": 1346,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚当保持着牧师和煦的微笑，用启发的口吻说道：“你不觉得八大天使之王里，我是最为特殊的那个吗？”"
+        },
+        {
+          "chapterSeq": 1346,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚当身体微有前倾，简单解释了一句：“分身和本体依旧是一个整体，只是位于不同的地方。……是在我陨落，‘真实’诞生时。”"
+        },
+        {
+          "chapterSeq": 1346,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们又见面了，诡秘。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1345, 1346]
+    },
+    {
+      "name": "贝尔纳黛·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛在迷雾海中意识到克莱恩遇险，拿起“许愿神灯”向愚者祈祷求助。",
+      "identInfos": [
+        "神秘女王",
+        "罗塞尔之女",
+        "序列2“贤者”",
+        "持有“0-05”许愿神灯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1346,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝尔纳黛突然睁开眼睛，坐了起来。她眉头微皱了一下，旋即拿起了摆放在旁边的一件物品。那物品通体呈金色……这是封印物“0-05”，“许愿神灯”。贝尔纳黛拿着这盏神灯，微低脑袋，诵念起了一个尊名：“不属于这个时代的愚者……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1346]
+    },
+    {
+      "name": "索伦·艾因霍恩·梅迪奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“红天使”恶灵在班西与神秘乌鸦合作，利用维尔杜传递信息。祂试图获取亚伯拉罕家族的信任。祂嘲笑乌鸦的形象，并谈论“门”先生回归的计划。",
+      "identInfos": [
+        "红天使恶灵",
+        "索伦·艾因霍恩·梅迪奇",
+        "战争之神相关",
+        "与阿蒙合作"
+      ],
+      "aliases": [
+        {
+          "alias": "红天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "这人影穿着黑色的染血盔甲，留着一头半长的火红头发，年轻而英俊。他眉心处长着旌旗般的血色印记，脸上隐约可见腐烂的痕迹，正是“红天使”恶灵索伦·艾因霍恩·梅迪奇。"
+        },
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "“小乌鸦，你什么时候支付报酬？没有足够的实力我可没法取信亚伯拉罕家族那个无脑者。”"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [1339]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "霍尔伯爵迎接次子阿尔弗雷德归来，对儿子成长表示满意。他提醒阿尔弗雷德与奥黛丽谈谈非凡者的危险。在家族猎狐活动中，他与家人同行。",
+      "identInfos": [
+        "奥黛丽的父亲",
+        "鲁恩王国伯爵",
+        "贝克兰德贵族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1333,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍尔伯爵笑着指了指楼梯口：“先回房间休息一下，等会到书房再聊。”他对次子的精神状态和成长进度相当满意。"
+        },
+        {
+          "chapterSeq": 1333,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我希望你能找她谈谈，告诉她序列魔药这条路有多么危险、疯狂和痛苦，让她就停留在当前层次。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1328, 1333, 1336]
+    },
+    {
+      "name": "希伯特·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "希伯特作为内阁秘书，周末与家人回东切斯特郡。在猎狐中，他提议留宿赫德拉克附近庄园，后因奥黛丽影响改变主意。",
+      "identInfos": [
+        "霍尔伯爵长子",
+        "奥黛丽的哥哥",
+        "内阁秘书"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1336,
+          "extractReason": "UPDATE",
+          "evidenceText": "来者正是霍尔伯爵的长子，阿尔弗雷德的兄弟，希伯特·霍尔勋爵。希伯特勾勒出完美符合礼仪的笑容道：“我只是内阁秘书，不是内阁首席秘书，不会忙碌到连一个周末都没有。”"
+        },
+        {
+          "chapterSeq": 1341,
+          "extractReason": "UPDATE",
+          "evidenceText": "希伯特笑了起来：“我听过这个村庄，我记得家族在附近有一个庄园。”说话间，他抬头看了眼天色：“快要傍晚了，不如留宿在这边，明天继续狩猎？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1333, 1336, 1340, 1341]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "（未在当前chunk直接出场，但被提及作为海神眷者，不提取）",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    }
+  ],
+  "factions": [
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "军情九处负责调查乌托邦事件，休担任副组长。文德尔作为成员误入乌托邦后接受内部审查。组织安排人员监控文德尔，并调查乌托邦相关线索。",
+      "identInfos": [
+        "鲁恩军情机构",
+        "地址贝洛托街9号",
+        "负责国内安全与反间谍",
+        "休·迪尔查任副组长"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1330,
+          "extractReason": "UPDATE",
+          "evidenceText": "“给我拟一份电报，将乌托邦的事情汇报给军情九处。”"
+        },
+        {
+          "chapterSeq": 1334,
+          "extractReason": "UPDATE",
+          "evidenceText": "军情九处的办公楼位于西区贝洛托街，是栋看起来毫不起眼的三层小楼。它的门口没有任何可以说明自己身份的标识，只简单地挂了一个门牌：“9”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会在灰雾之上举行聚会，“审判”询问乌托邦，“世界”暗示其为仪式，“愚者”吩咐监控维尔杜。克莱恩分析埃姆林梦境。",
+      "identInfos": [
+        "由愚者克莱恩创立",
+        "成员包括正义、倒吊人、审判等",
+        "在灰雾之上聚会",
+        "利用深红星辰联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "我坐在斑驳长桌的最下方，听见“审判”小姐在讲述乌托邦的事情。等她说完，我环顾了一圈，低哑着嗓音道：“这是一个仪式。”"
+        },
+        {
+          "chapterSeq": 1335,
+          "extractReason": "UPDATE",
+          "evidenceText": "班西？维尔杜想去班西？我坐在斑驳长桌最下方，看着向“愚者”先生汇报的“倒吊人”……“愚者”先生吩咐了一句：“继续监控。”"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "维尔杜作为亚伯拉罕家族成员，为解救“门”先生探索班西。他持有家族封印物古典长袍。家族与“红天使”恶灵有潜在联系。",
+      "identInfos": [
+        "“门”先生的血脉后裔",
+        "掌握“学徒”途径",
+        "持有多种封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1337,
+          "extractReason": "UPDATE",
+          "evidenceText": "这长袍的表面绣有金丝银线，镶嵌着多种米粒大小的宝石，是属于亚伯拉罕家族的封印物。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "（未在当前chunk直接出场，但提及其成员“神孽”斯厄阿的历史投影被查拉图利用，不提取）",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "密修会首领查拉图参与袭击乌托邦，与亚当合作。",
+      "identInfos": [
+        "以查拉图为首",
+        "占卜家途径组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "密修会首领，查拉图！"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "第二块亵渎石板",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "亚当在尸骨教堂展示第二块“亵渎石板”，上面记载旧日途径配方，包括上帝和诡秘之主的成神条件。克莱恩解读其内容，得知“空想家”特殊之处。",
+      "identInfos": [
+        "记载旧日途径配方",
+        "由亚当持有",
+        "石板材料斑驳",
+        "书写源初语言"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一块灰扑扑的石板，表面多有斑驳痕迹残留，显得颇为沧桑。这和第一块“亵渎石板”很像，但没有那种异常古老的感觉。它的上面同样有那种仿佛所有语言源头的文字。"
+        },
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "诡秘之主、时空之王、命运道标、源堡化身、灵界支配者：“源堡”+“愚者”唯一性+“错误”唯一性+“门”唯一性+1份“诡秘侍者”非凡特性+1份“时之虫”非凡特性+1份“星之匙”非凡特性。"
+        }
+      ]
+    },
+    {
+      "name": "许愿神灯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物“0-05”，贝尔纳黛持有。她在迷雾海中用它向愚者祈祷求助。",
+      "identInfos": [
+        "封印物编号0-05",
+        "形似金色微缩水壶",
+        "贝尔纳黛持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1346,
+          "extractReason": "UPDATE",
+          "evidenceText": "那物品通体呈金色，表面铭刻着难以描述的神秘符号，像是一个微缩的水壶。这是封印物“0-05”，“许愿神灯”。"
+        }
+      ]
+    },
+    {
+      "name": "古典长袍",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "亚伯拉罕家族封印物，维尔杜穿上它探索班西。长袍会勒紧使用者，但能提供传送能力。维尔杜多次使用导致肋骨骨折。",
+      "identInfos": [
+        "亚伯拉罕家族封印物",
+        "黑色绣金丝银线",
+        "镶嵌宝石",
+        "可传送但有副作用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1337,
+          "extractReason": "UPDATE",
+          "evidenceText": "这长袍的表面绣有金丝银线，镶嵌着多种米粒大小的宝石，是属于亚伯拉罕家族的封印物。"
+        },
+        {
+          "chapterSeq": 1338,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是由三枚红宝石、三枚绿宝石和三枚钻石组成的“门”型图案。几乎是瞬间，那长袍猛地收紧，让维尔杜身上的肉一块块凸显了出来。"
+        }
+      ]
+    },
+    {
+      "name": "十字木桩",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "古老的染血十字木桩，被格尔曼·斯帕罗用来从背后刺穿克莱恩心脏，封印其非凡能力。",
+      "identInfos": [
+        "染血十字木桩",
+        "封印非凡能力",
+        "格尔曼·斯帕罗持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1344,
+          "extractReason": "UPDATE",
+          "evidenceText": "一个古老的，残留血迹的十字木桩从背后穿透了克莱恩的心脏。"
+        },
+        {
+          "chapterSeq": 1345,
+          "extractReason": "UPDATE",
+          "evidenceText": "对一个由诸多“灵之虫”组成的，真正的神话生物而言，胸口的伤势根本谈不上致命，那古老染血的十字木桩主要作用是封印非凡能力。"
+        }
+      ]
+    },
+    {
+      "name": "木门（班西）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "班西废墟中一扇完好的木门，推开后可看见灰雾中的街道和电报局。离开班西后失效并腐烂。格尔曼·斯帕罗多次实验。",
+      "identInfos": [
+        "班西废墟唯一完好的门",
+        "推开可见灰雾街道",
+        "离开班西失效"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1338,
+          "extractReason": "UPDATE",
+          "evidenceText": "那扇木门不管是往哪一边推，都不会带来不同寻常的变化，而不尝试搬动的触碰不会有什么危险。"
+        },
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "维尔杜眼前突然出现了一片灰白的雾气。雾气之中有一条若隐若现的街道和一栋栋联排的房屋。"
+        },
+        {
+          "chapterSeq": 1339,
+          "extractReason": "UPDATE",
+          "evidenceText": "下一秒，木门急速腐烂，朽成了一摊烂泥，仿佛在逃避被实验的命运。"
+        }
+      ]
+    }
+  ]
+}

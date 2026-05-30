@@ -1,0 +1,354 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1107,
+      "toChapterSeq": 1107,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "特雷茜",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "下级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩（格尔曼·斯帕罗）为获取卡特琳娜的血液，突袭“黑死号”，用“扭曲”能力控制特雷茜，获取其血液用于占卜追踪卡特琳娜。为防止卡特琳娜感应，克莱恩未杀特雷茜，仅将其禁锢。"
+    },
+    {
+      "fromChapterSeq": 1107,
+      "toChapterSeq": 1107,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "伙伴",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "达尼兹和安德森监控巴兹并通知克莱恩特雷茜的位置，克莱恩传送至“黑死号”行动。达尼兹作为下属，协助情报传递。"
+    },
+    {
+      "fromChapterSeq": 1107,
+      "toChapterSeq": 1107,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "安德森·胡德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "安德森与达尼兹一起监视野兽巴兹，得知特雷茜位置后通知克莱恩，协助克莱恩成功找到特雷茜。"
+    },
+    {
+      "fromChapterSeq": 1108,
+      "toChapterSeq": 1108,
+      "characterA": {
+        "name": "特雷茜",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "女",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡特琳娜·佩莱",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "母",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "特雷茜是卡特琳娜的女儿，但生母原为其父，后变为女性，家庭关系混乱，特雷茜因此痛苦。"
+    },
+    {
+      "fromChapterSeq": 1109,
+      "toChapterSeq": 1111,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通知梅迪奇卡特琳娜的位置，梅迪奇在镜中设伏制服卡特琳娜。克莱恩通灵卡特琳娜获取情报，梅迪奇配合但实际控制卡特琳娜未真正杀死，并借机探知克莱恩意图。"
+    },
+    {
+      "fromChapterSeq": 1113,
+      "toChapterSeq": 1122,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩通过灰雾观察白银城探索小队行动，戴里克诵念“愚者”尊名让克莱恩恢复观察视野。克莱恩借灰雾力量打破命运循环解救小队，传达“银骑士”配方给戴里克，并指示返回。"
+    },
+    {
+      "fromChapterSeq": 1113,
+      "toChapterSeq": 1122,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "同门",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "科林作为白银城首席，带领戴里克等探索小队深入巨人王庭，在战斗中保护并教导戴里克，并在事后暗示戴里克警惕洛薇雅。"
+    },
+    {
+      "fromChapterSeq": 1113,
+      "toChapterSeq": 1122,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "同级",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被监视者"
+        }
+      },
+      "relationSummary": "科林对身为“牧羊人”长老的洛薇雅存有疑虑，在探索过程中警惕其行为，并在最后暗示戴里克小心洛薇雅。"
+    },
+    {
+      "fromChapterSeq": 1123,
+      "toChapterSeq": 1123,
+      "characterA": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "海柔尔·马赫特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "海柔尔偶遇戴单片眼镜的邮差，恢复部分记忆，但阿蒙分身察觉后再次抹除其记忆，并声称下次要偷走教堂。"
+    },
+    {
+      "fromChapterSeq": 1124,
+      "toChapterSeq": 1124,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩见海柔尔后，奥黛丽暂停对海柔尔的治疗，以避免意外，显示两人配合默契。"
+    },
+    {
+      "fromChapterSeq": 1124,
+      "toChapterSeq": 1124,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩梦中询问威尔关于容纳“唯一性”的方法，威尔告知三种法门，但遗憾错过容纳“概率之骰”的时机。"
+    },
+    {
+      "fromChapterSeq": 1125,
+      "toChapterSeq": 1125,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过蕾妮特寄信给伦纳德，蕾妮特作为信使索要三枚符咒作为破坏乔治三世图谋的报酬。"
+    },
+    {
+      "fromChapterSeq": 1125,
+      "toChapterSeq": 1125,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩写信给伦纳德并寄送“昨日重现”符咒。"
+    },
+    {
+      "fromChapterSeq": 1126,
+      "toChapterSeq": 1126,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "伦纳德以间谍嫌疑带走大地母神教会主教乌特拉夫斯基和血族埃姆林，以防止宗教冲突。"
+    }
+  ]
+}

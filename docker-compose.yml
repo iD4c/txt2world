@@ -1,0 +1,51 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: txt2world-mysql
+    restart: unless-stopped
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --default-time-zone=+08:00
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-txt2world_root_password}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-txt2world}
+    ports:
+      - "${MYSQL_PORT:-33069}:3306"
+    volumes:
+      - txt2world-mysql-data:/var/lib/mysql
+      - ./txt2world.sql:/docker-entrypoint-initdb.d/01-txt2world.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p$${MYSQL_ROOT_PASSWORD} --silent"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+
+  txt2world:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: txt2world:1.0-SNAPSHOT
+    container_name: txt2world-app
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      TZ: Asia/Shanghai
+      SPRING_PROFILES_ACTIVE: dev
+      SERVER_PORT: 49600
+      SPRING_DATASOURCE_URL: jdbc:log4jdbc:mysql://mysql:3306/${MYSQL_DATABASE:-txt2world}?characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: ${MYSQL_ROOT_PASSWORD:-txt2world_root_password}
+      AI_DEEPSEEK_BASE_URL: ${AI_DEEPSEEK_BASE_URL:-https://api.deepseek.com}
+      AI_DEEPSEEK_MODEL: ${AI_DEEPSEEK_MODEL:-deepseek-v4-pro}
+      AI_DEEPSEEK_API_KEY: ${AI_DEEPSEEK_API_KEY:?please set AI_DEEPSEEK_API_KEY in .env}
+    ports:
+      - "${APP_PORT:-49600}:49600"
+    volumes:
+      - ./wiki-files:/app/wiki-files
+
+volumes:
+  txt2world-mysql-data:

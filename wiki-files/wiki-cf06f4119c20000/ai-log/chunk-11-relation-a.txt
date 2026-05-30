@@ -1,0 +1,104 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 221,
+      "toChapterSeq": 227,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "伊恩·赖特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "伊恩委托克莱恩调查侦探泽瑞尔失踪，克莱恩接受委托并深入调查，揭露泽瑞尔已死及背后的阴谋。"
+    },
+    {
+      "fromChapterSeq": 222,
+      "toChapterSeq": 226,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "默尔索",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "默尔索为寻找伊恩而袭击克莱恩，克莱恩反杀默尔索并通灵获取情报。"
+    },
+    {
+      "fromChapterSeq": 228,
+      "toChapterSeq": 228,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "马里奇",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩试图雇佣马里奇作为保镖，马里奇因任务涉及大国背景而拒绝。"
+    },
+    {
+      "fromChapterSeq": 229,
+      "toChapterSeq": 232,
+      "characterA": {
+        "name": "休",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "A先生在聚会上向休提供治安官配方主要材料，以换取休完成某项任务，休初步同意合作。"
+    }
+  ]
+}

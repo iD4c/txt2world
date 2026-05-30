@@ -1,0 +1,1135 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "继续适应值夜者文职工作，完成申请经费的文件。与伦纳德合作解救人质艾略特，利用占卜能力迅速定位绑匪，并开枪击伤一名绑匪。在行动中感应到安提哥努斯家族笔记的气息，后通过梦境确认笔记就在绑匪对面房间。参与值夜者搜查行动，发现老妇人尸体和瑞尔·比伯失踪。学习仪式魔法基础，向老尼尔请教。加入占卜俱乐部，扮演“占卜家”消化魔药，为安娜占卜成功，获得俱乐部成员认可。在塔罗会上以“愚者”身份解释“扮演”原理，阅读罗塞尔日记，获知“通识者”序列与“扮演”概念，并从“倒吊人”处了解安提哥努斯家族历史及第二块“亵渎石板”。回家梳理总结，烧毁中文笔记，并写信给导师询问霍纳奇斯主峰资料。",
+      "identInfos": [
+        "穿越者",
+        "值夜者小队文职人员",
+        "占卜家非凡者",
+        "塔罗会“愚者”",
+        "霍伊大学历史系毕业生",
+        "擅长占卜和仪式魔法",
+        "曾自杀未遂"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩沿着墙上的一盏盏煤气灯，拐向了通往黑荆棘安保公司的阶梯。"
+        },
+        {
+          "chapterSeq": 43,
+          "extractReason": "UPDATE",
+          "evidenceText": "脑海“光球”凝聚，克莱恩心情飞快宁然，眼眸的褐色随之转深，进入了半冥想的状态。他只觉身体的“灵”有变轻漂浮的迹象，隐约看见了那无处不在的“灵之世界”，心里默念起“艾略特的位置”。"
+        },
+        {
+          "chapterSeq": 44,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩心中一惊，忽然发现“愚者”的嘴角勾了起来！呼！他霍地坐起，看见了透过窗帘的绯红月光，看见了书架和书桌，看见了本身卧室的轮廓，发现自己做了个噩梦。身为一名“占卜家”，他明白梦境总是揭示着什么，于是认真回味了一遍。回想之中，克莱恩一下僵住，因为他知道今天忽略什么了！沉浸于伦纳德的吟唱时，自己受到了无形的、漠然的、来自背后的注视。这种注视与正常冥想和使用灵视的体会都不相同，给自己一种似曾相识的感觉！而按照队长邓恩的说法，一旦出现类似的感觉，往往就意味着……对，是它，那本笔记！那本安提哥努斯家族的笔记！"
+        },
+        {
+          "chapterSeq": 45,
+          "extractReason": "UPDATE",
+          "evidenceText": "他快步进入佐特兰街36号，沿楼梯抵达了黑荆棘安保公司的外面。"
+        },
+        {
+          "chapterSeq": 47,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩听得频频点头，又是欣喜又是放松地说道：“希望是这样。”"
+        },
+        {
+          "chapterSeq": 48,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩从内侧口袋里掏出新领取的一张5镑纸币，看着亨利·奥古斯都一世的头像远离了自己。"
+        },
+        {
+          "chapterSeq": 49,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩停下钢笔，吸了两口气，努力让自己平静下来。呼，他吐出浊气，继续梳理道：“考虑重新设计这个仪式，让它变得完整，而祈求的目标是回归地球，回归父母和亲朋所在的世界。”"
+        },
+        {
+          "chapterSeq": 55,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脑海内勾勒出光球，眼眸转为深黑，整个人飞快进入了冥想状态。四周顿时变得空灵，上方似乎有无形的事物和虚幻的灰雾在延伸，无边无际。克莱恩又回想了一遍纸张上的所有内容，然后放纵自己，在这样的状态里沉沉睡去。他要用的是“梦境占卜法”！"
+        },
+        {
+          "chapterSeq": 57,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩摊开笔记本，拿上钢笔，用中文一字一句地书写起来：“为什么魔药消化的关键是‘扮演’？”"
+        },
+        {
+          "chapterSeq": 58,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩来回踱步，沉思着可能的解决办法。脚步无声，他转了一圈又一圈，自然而然地将这件事情和灰雾之上的神秘世界联系到了一块。"
+        },
+        {
+          "chapterSeq": 59,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩用手指轻敲着长桌边缘，语气轻松地说道：“我用一个比较形象的事例来说明吧，序列魔药的核心力量，是一座守卫森严的城堡，那些残余的、会造成反噬的精神就居住于城堡内，我们的目标是解决它，真正成为城堡的主人。”"
+        },
+        {
+          "chapterSeq": 60,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩手指轻动，微笑开口道：“我之前说过，要进行一些尝试，让你们能提前请假，不用担心周一下午处在不合时宜的场合怎么办。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 54, 55, 57, 58, 59, 60]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "与克莱恩合作接受绑架案委托，利用“午夜诗人”能力让绑匪沉睡，轻松解救烟草商之子艾略特。在克莱恩发现笔记线索后，参与值夜者搜查行动。在塔罗会相关剧情中未直接出场。",
+      "identInfos": [
+        "值夜者小队正式成员",
+        "黑发绿瞳",
+        "有诗人气质",
+        "序列8“午夜诗人”",
+        "擅长格斗、射击和吟唱"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 42,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑发绿瞳的伦纳德·米切尔从隔断出来，疑惑看向沙发位置：“这位是？”"
+        },
+        {
+          "chapterSeq": 43,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔轻笑出声道：“刻利先生，我的同伴，嗯，同事，养了一只奇特的宠物，它的嗅觉比猎犬还灵敏，所以我们需要小艾略特穿过的衣物和他曾经随身的物品来帮忙寻人，你知道的，线索往往只会锁定在一个大概的范围。”"
+        },
+        {
+          "chapterSeq": 44,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德的吟唱像是安眠的歌曲，轻渺回荡于了左右房门之间，回荡于了蜿蜒的木制楼梯内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [42, 43, 44, 45, 46]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在克莱恩报告发现安提哥努斯家族笔记线索后，组织值夜者小队前往调查，确认老妇人死亡和瑞尔·比伯失踪，下令通缉瑞尔·比伯并请求上级支援封印物2-049。同意克莱恩继续外出寻找线索，并提及为克莱恩申请正式成员和格斗教师。",
+      "identInfos": [
+        "值夜者小队队长",
+        "序列7“梦魇”",
+        "灰色眼眸",
+        "记忆力不佳",
+        "身穿黑色风衣",
+        "使用镶嵌黄金的手杖"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩正等待午餐的送达，看见克莱恩递过来的文件后，嘴角略微上翘道：“老尼尔教你的？”"
+        },
+        {
+          "chapterSeq": 45,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯已打开办公室的门，站在了入口处。“有什么事情？”他身穿黑色风衣，提着把镶嵌黄金的手杖，表情沉稳而严肃。"
+        },
+        {
+          "chapterSeq": 46,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩将黑色手套取下，对伦纳德和克莱恩道：“你们拿着瑞尔·比伯的画像去询问这里的住户，做最后的确认，接着以谋杀母亲的名义通缉他。”"
+        },
+        {
+          "chapterSeq": 54,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩灰色的眼眸看不出丝毫疲倦道：“多方证实，安提哥努斯家族的笔记就在瑞尔·比伯的手里，不过，他彻底失踪了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 45, 46, 54]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "继续教授克莱恩神秘学知识，包括仪式魔法基础。演示用仪式魔法解决30镑债务，并教导向正统神灵祈求的原则。参与调查安提哥努斯家族笔记事件，用仪式魔法绘制瑞尔·比伯画像。",
+      "identInfos": [
+        "值夜者小队成员",
+        "序列8“窥秘人”",
+        "擅长仪式魔法",
+        "年迈，身体衰弱",
+        "周薪12镑但常缺钱"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一点也没有犹豫地出卖了老尼尔。"
+        },
+        {
+          "chapterSeq": 46,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔点了点头，从那身黑色古典长袍的腰间暗袋里取出几个拇指大小的瓶子，将里面的液体按照一定顺序洒向了四周。紧接着，他又捻出一把粉末，绕着自身洒了一圈。"
+        },
+        {
+          "chapterSeq": 47,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔往后倚住沙发的靠背，呵呵笑道：“这不是需要隐瞒的事情，我在这里待了很多年，目前每周可以从教会和警察部门分别领取到一份薪水，总价值12镑。”"
+        },
+        {
+          "chapterSeq": 51,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔放下银制小箱，笑了笑道：“我先给你演示一个仪式魔法，你注意观察和记忆。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 45, 46, 47, 50, 51, 52]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "成功调制“观众”魔药，但被宠物狗苏茜误饮第一份，只得重制并服食，成为非凡者。开始在宴会中本能“扮演”观众，观察他人细节。在塔罗会上以“正义”身份参与，进一步理解“扮演”原理，询问“观众”后续序列及动物服用魔药后果，并请求愚者提供请假仪式。",
+      "identInfos": [
+        "贵族少女",
+        "塔罗会“正义”",
+        "序列9“观众”",
+        "金发碧眼",
+        "霍尔家族小姐",
+        "宠物金毛大狗苏茜"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "个子高挑、金发柔顺的奥黛丽凝视着手中的杯子，只见无数气泡冒出，让氛围都变得宁静。最终，杯子里的液体沉淀为了粘稠的银白。"
+        },
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽傻在了门口，仿佛一尊雕像。金毛大狗苏茜端坐，用无辜的眼神望向主人，摇起了尾巴。"
+        },
+        {
+          "chapterSeq": 52,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔穿着立领、高腰、羊腿袖的浅白色长裙，上身被紧束，腰部被勒得极细，多层次的蛋糕剪裁则被鲸箍完美撑起。她的金色长发优雅盘束，耳饰、项链和戒指皆闪烁着亮眼的光芒。"
+        },
+        {
+          "chapterSeq": 59,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽双手交握，置于身前道：“愚者先生，倒吊人先生，我有三个问题想要请教，如果你们认为答案具备很高的价值，就告诉我你们想要什么，我会在之后尽量寻找。”"
+        },
+        {
+          "chapterSeq": 60,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽非常感兴趣地听着，记录着，末了问道：“那咒文呢？愚者先生，对应的咒文呢？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 52, 58, 59, 60]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "选择出海成为“幽蓝复仇者”船长，追捕极光会“倾听者”。在塔罗会上以“倒吊人”身份提供安提哥努斯家族历史、第二块“亵渎石板”等信息作为报酬，并解释动物服用魔药后果。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "疑似风暴教会非凡者",
+        "序列7“航海家”或更高",
+        "幽蓝复仇者号船长",
+        "粗犷深刻的脸庞"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰粗犷深刻的脸庞没有额外的表情，庄严肃穆地回答道：“大海属于风暴，这是主的国度，我愿意遵循主的意志，替祂巡视这片国度。”"
+        },
+        {
+          "chapterSeq": 53,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊站在空旷的甲板上，眺望着周围如山如峰的巨浪，不知在思考些什么。“又要到周一了……”他无声低语了一句。"
+        },
+        {
+          "chapterSeq": 60,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰斟酌了下语言道：“安提哥努斯是一个古老的家族，他们的历史甚至能追溯到第四纪之前的灾变纪元，与第二块‘亵渎石板’有关。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 53, 58, 59, 60]
+    },
+    {
+      "name": "刻利",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "作为烟草商维克罗尔的管家，前来黑荆棘安保公司委托寻回被绑架的小艾略特。在任务完成后支付200镑报酬。",
+      "identInfos": [
+        "烟草商维克罗尔的管家",
+        "鬓角花白",
+        "高瘦",
+        "手提雨伞"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 42,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "鬓角花白，手提雨伞的高瘦男子取下帽子，躬身行礼道：“打扰了，告辞。”"
+        },
+        {
+          "chapterSeq": 42,
+          "extractReason": "UPDATE",
+          "evidenceText": "我叫刻利，是烟草商维克罗尔先生的管家，他唯一的儿子，小艾略特于今早被绑架了"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [42, 43, 44]
+    },
+    {
+      "name": "艾略特·维克罗尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "烟草商维克罗尔之子，被绑架后由克莱恩和伦纳德解救。",
+      "identInfos": [
+        "烟草商之子",
+        "十岁左右",
+        "头发略长遮眼",
+        "脸上有雀斑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 42,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他唯一的儿子，小艾略特于今早被绑架了"
+        },
+        {
+          "chapterSeq": 44,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾略特·维克罗尔被枪声惊醒，身体从蜷缩变为打直，并缓缓坐起。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [44]
+    },
+    {
+      "name": "瑞尔·比伯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "涉嫌谋杀母亲凯蒂·斯蒂芬娜·比伯并失踪，疑似持有安提哥努斯家族笔记，被值夜者通缉。占卜无法定位，其存在与笔记密切相关。",
+      "identInfos": [
+        "珠宝匠人",
+        "安提哥努斯家族后裔",
+        "30岁左右",
+        "黑发深蓝眼",
+        "嘴左侧有全瓷假牙",
+        "与安提哥努斯笔记有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 46,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "凯蒂·斯蒂芬娜·比伯，55岁到60岁之间，寡妇，和儿子瑞尔·比伯共同租住在这里超过十年。"
+        },
+        {
+          "chapterSeq": 46,
+          "extractReason": "ALIAS",
+          "evidenceText": "黑色的头发，深蓝色的眼睛，嘴巴左侧有颗全瓷假牙。"
+        },
+        {
+          "chapterSeq": 46,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩将黑色手套取下，对伦纳德和克莱恩道：“你们拿着瑞尔·比伯的画像去询问这里的住户，做最后的确认，接着以谋杀母亲的名义通缉他。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [46]
+    },
+    {
+      "name": "弗莱",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "参与调查安提哥努斯家族笔记事件，作为“收尸人”检查老妇人尸体，确认死亡超过5天且无超凡力量直接影响。",
+      "identInfos": [
+        "值夜者小队成员",
+        "序列9“收尸人”",
+        "皮肤苍白",
+        "黑发蓝眼",
+        "气质冰冷阴暗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 45,
+          "extractReason": "UPDATE",
+          "evidenceText": "“收尸人”弗莱的皮肤白皙到像是许久没晒过太阳，或是严重缺血，他大概三十来岁，黑发蓝眼，鼻梁高挺，嘴唇很薄，气质冰冷而阴暗"
+        },
+        {
+          "chapterSeq": 46,
+          "extractReason": "UPDATE",
+          "evidenceText": "“收尸人”弗莱直起腰腿，用随身携带的白色手帕擦拭着双手道：“死亡超过5天，没有外伤，也没有超凡力量造成的显著影响，具体原因必须等待进一步的检查。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [45, 46]
+    },
+    {
+      "name": "罗珊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "在黑荆棘安保公司接待来访者，处理委托合约，与伦纳德互相嘲讽。",
+      "identInfos": [
+        "黑荆棘安保公司接待员",
+        "值夜者小队文职人员",
+        "负责接待和合约"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "罗珊待在接待台那里"
+        },
+        {
+          "chapterSeq": 42,
+          "extractReason": "UPDATE",
+          "evidenceText": "罗珊离开接待台，进入文员办公室，哒哒哒的敲击声当即响起。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 42]
+    },
+    {
+      "name": "奥利安娜太太",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "负责会计工作，接收委托报酬并分配，与老尼尔和克莱恩交谈。",
+      "identInfos": [
+        "黑荆棘安保公司会计",
+        "美丽文雅",
+        "负责财务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 47,
+          "extractReason": "UPDATE",
+          "evidenceText": "秀气文雅的奥利安娜太太将时髦的卷发盘了起来，浅绿裙摆轻荡地走入接待厅。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [47]
+    },
+    {
+      "name": "安洁莉卡·巴雷哈特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "占卜俱乐部接待员，为克莱恩办理会员，并推荐顾客。",
+      "identInfos": [
+        "廷根市占卜俱乐部接待员",
+        "棕黄色长发",
+        "成熟典雅"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 48,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩又一次看见那位负责接待的漂亮女士。她依旧盘着棕黄色长发，显得成熟而典雅"
+        },
+        {
+          "chapterSeq": 48,
+          "extractReason": "UPDATE",
+          "evidenceText": "我是安洁莉卡·巴雷哈特，你们勤劳的服务者"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [48, 49, 54, 55]
+    },
+    {
+      "name": "海纳斯·凡森特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "在占卜俱乐部讲解星盘占卜和魔镜占卜，有黑眼圈，褐色头发浓密刚硬。",
+      "identInfos": [
+        "占卜俱乐部知名占卜者",
+        "讲解星盘和魔镜占卜",
+        "有明显黑眼圈",
+        "褐色头发浓密刚硬"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 48,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "海纳斯·凡森特先生正在讲解星盘占卜"
+        },
+        {
+          "chapterSeq": 49,
+          "extractReason": "UPDATE",
+          "evidenceText": "海纳斯·凡森特用手中的道具进行着演示。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [48, 49]
+    },
+    {
+      "name": "爱德华·斯蒂夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "占卜俱乐部会员，擅长塔罗和扑克占卜，与克莱恩交流占卜心得。",
+      "identInfos": [
+        "占卜俱乐部会员",
+        "擅长塔罗和扑克占卜",
+        "白衬衣黑马甲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 48,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "你好，我是爱德华·斯蒂夫。"
+        },
+        {
+          "chapterSeq": 49,
+          "extractReason": "UPDATE",
+          "evidenceText": "爱德华·斯蒂夫喝了口锡伯红茶，低声叹息道：“我发现很多时候，我们的解读都太过模糊”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [48, 49]
+    },
+    {
+      "name": "安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "前来占卜俱乐部请求占卜未婚夫乔伊斯·迈尔的下落，克莱恩为其占卜并准确预言乔伊斯已回家。",
+      "identInfos": [
+        "占卜俱乐部顾客",
+        "未婚夫是乔伊斯·迈尔",
+        "穿浅蓝色长裙",
+        "忧郁"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 55,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "你可以称呼我安娜。”浅蓝色长裙的女子将纱帽放至一边，满含期待又多有怀疑地看着克莱恩道，“我想占卜我未婚夫的状况"
+        },
+        {
+          "chapterSeq": 55,
+          "extractReason": "UPDATE",
+          "evidenceText": "安娜的眼睛陡地睁大，好半天愕然无言。过了一阵，她才喃喃道：“那是他送我的礼物，就在我家的门口，你，你怎么知道的……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [55]
+    },
+    {
+      "name": "乔伊斯·迈尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "安娜的未婚夫，乘坐苜蓿号从南大陆返回，遭遇海盗和内讧后幸存，回到家中。",
+      "identInfos": [
+        "安娜的未婚夫",
+        "金色短发",
+        "老鹰嘴喙般的鼻子",
+        "苜蓿号幸存者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 55,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "乔伊斯·迈尔，1323年9月15日下午两点，廷根市东区斯蒂芬斯街8号，金色短发，老鹰嘴喙般的鼻子"
+        },
+        {
+          "chapterSeq": 56,
+          "extractReason": "UPDATE",
+          "evidenceText": "安娜噙住泪水，扑了过去，给予未婚夫一个温暖的拥抱。灰蓝色的房屋外，两人静静相拥，玩具风车缓慢转动，所有的磨难似乎都已远去。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [56]
+    },
+    {
+      "name": "格拉西斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "占卜俱乐部会员，曾找克莱恩占卜，后因肺炎康复，称克莱恩为“非常神奇的医生”。",
+      "identInfos": [
+        "占卜俱乐部会员",
+        "曾患肺炎",
+        "淡黄柔软的头发",
+        "佩戴单片眼镜"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 49,
+          "extractReason": "UPDATE",
+          "evidenceText": "格拉西斯激动地踱了两步道：“如果他下次前来时，我没有在俱乐部，请一定问清楚他什么时候还会来！”"
+        },
+        {
+          "chapterSeq": 54,
+          "extractReason": "UPDATE",
+          "evidenceText": "格拉西斯先生从一场大病中康复。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [49, 54]
+    },
+    {
+      "name": "科恩·昆汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的大学导师，克莱恩写信询问霍纳奇斯主峰历史资料。",
+      "identInfos": [
+        "克莱恩的大学导师",
+        "资深副教授"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 57,
+          "extractReason": "UPDATE",
+          "evidenceText": "他要写信询问科恩·昆汀资深副教授，问他有没有霍纳奇斯主峰相关的历史资料。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [57]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的宠物金毛大狗，误饮第一份“观众”魔药，可能成为超凡生物。在宴会上以观众姿态观察奥黛丽。",
+      "identInfos": [
+        "金毛大狗",
+        "奥黛丽的宠物",
+        "误饮“观众”魔药",
+        "可能成为超凡生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "金毛大狗苏茜摇着尾巴，一脸讨好"
+        },
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "她视线所及，是摔碎在地上的杯子，是金毛大狗苏茜舔掉的最后一滴银白液体。"
+        },
+        {
+          "chapterSeq": 52,
+          "extractReason": "UPDATE",
+          "evidenceText": "在那片阴影内，一只金毛大犬安静端坐，目光幽宁地看着里面，看着奥黛丽，半个身体藏于了黑暗中。苏茜……奥黛丽嘴角一抽，表情瞬间垮塌，再也维持不住“观众”的状态。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 52]
+    },
+    {
+      "name": "洛耀·莱汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "值夜者小队成员，“不眠者”，提醒克莱恩仪式魔法危险。",
+      "identInfos": [
+        "值夜者小队成员",
+        "序列9“不眠者”",
+        "眉毛细长，眼睛很大",
+        "头发漆黑顺滑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 50,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛耀用深蓝色的眸子望了他一眼，微不可见地点头致意。两人快擦肩而过时，洛耀忽然停步，目视前方地说道：“仪式魔法是很危险的事情。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [50]
+    },
+    {
+      "name": "布莱特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "值夜者小队文职人员，与克莱恩、罗珊一起午餐，帮忙看守武器库。",
+      "identInfos": [
+        "值夜者小队文职人员",
+        "轮休时补眠"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 50,
+          "extractReason": "UPDATE",
+          "evidenceText": "布莱特也答应帮我看守。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [41, 50]
+    },
+    {
+      "name": "德维尔爵士",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "丢失钱包的贵族，奖励诚实的老尼尔和克莱恩30镑。",
+      "identInfos": [
+        "德维尔信托公司创立者",
+        "为底层提供廉价出租房",
+        "贵族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 52,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我家主人是德维尔爵士，他说你们的品质让他赞赏，这是诚实者应该获得的报酬，请不要拒绝。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [52]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的哥哥，关心克莱恩工作，收到克莱恩给的5镑额外报酬，计划购买会计书籍提升自己。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "进出口公司职员",
+        "周薪1镑10苏勒",
+        "负责家庭主要开支"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 50,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森叉了块土豆炖牛肉里的土豆，隐含关心地提起了清晨的事情。"
+        },
+        {
+          "chapterSeq": 50,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森满足地撕咬了一口燕麦面包，想了十几秒道：“我现在的工作不需要太体面的衣服”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [50, 56]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的妹妹，收到克莱恩给班森的5镑用于家庭，希望存钱，对邻居信仰风暴之主的某些观点不满。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "廷根技术学校学生",
+        "喜欢机械和齿轮",
+        "节俭"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 50,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎停下刀叉，认真回答。“你不是一个会撒谎的人。”"
+        },
+        {
+          "chapterSeq": 56,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎小声嘟囔道。“唯一的问题是，他们一家都信仰风暴之主，认为女孩子不应该去学校，只能接受家庭教育。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [50, 56]
+    },
+    {
+      "name": "赛琳娜·伍德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "梅丽莎的朋友，即将举办十六岁生日晚宴，哥哥是事务律师。",
+      "identInfos": [
+        "梅丽莎的同学兼好友",
+        "即将十六岁生日",
+        "哥哥是事务律师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 50,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "梅丽莎低下脑袋，嘟囔着回答，然后狠狠叉起了一块炖牛肉。沉默一阵，她忽然记起一件事情，忙抬头说道：“隔壁的肖德太太让女仆送了张名片过来，希望周日下午，也就是明天下午4点，半正式地拜访我们，认识新的邻居。”"
+        },
+        {
+          "chapterSeq": 50,
+          "extractReason": "UPDATE",
+          "evidenceText": "赛琳娜·伍德是梅丽莎的同学兼好朋友，家庭条件还算不错，哥哥是事务律师，父亲是贝克兰德银行廷根分行的资深雇员。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [50]
+    },
+    {
+      "name": "肖德太太",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "水仙花街4号的邻居，事务律师的妻子，半正式拜访莫雷蒂家。",
+      "identInfos": [
+        "邻居",
+        "事务律师的妻子",
+        "信仰风暴之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 50,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "隔壁的肖德太太让女仆送了张名片过来，希望周日下午，也就是明天下午4点，半正式地拜访我们，认识新的邻居。"
+        },
+        {
+          "chapterSeq": 56,
+          "extractReason": "UPDATE",
+          "evidenceText": "肖德太太来坐了一刻钟，带了些礼物，对我们准备的小松饼和柠檬蛋糕非常满意"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [56]
+    },
+    {
+      "name": "特里斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "苜蓿号幸存者口中的英雄，在船员内讧中鼓舞幸存者反击，圆脸、腼腆，像个女孩，但性格坚定。",
+      "identInfos": [
+        "苜蓿号乘客",
+        "圆脸腼腆像女孩",
+        "内讧中带领幸存者反击",
+        "被乔伊斯称为英雄"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 56,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "特里斯先生鼓舞我们，勇敢地带头，率领我们向那群杀人犯进攻……他有着张圆圆的、和蔼的脸孔，性格腼腆，像个女孩"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [56]
+    },
+    {
+      "name": "纳斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "五海之王，大海盗，所罗门帝国后裔，恪守不杀害俘虏的美德，洗劫了苜蓿号但未杀人。",
+      "identInfos": [
+        "五海之王",
+        "大海盗",
+        "所罗门帝国后裔",
+        "不杀害俘虏"
+      ],
+      "aliases": [
+        {
+          "alias": "五海之王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 56,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "自称‘五海之王’的那位大海盗？"
+        },
+        {
+          "chapterSeq": 56,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘五海之王’纳斯特宣称自己是所罗门帝国的后裔，恪守着不杀害俘虏的美德"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [56]
+    }
+  ],
+  "factions": [
+    {
+      "name": "值夜者小队",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩所在的非凡者小队，隶属于黑夜女神教会，负责处理廷根市的超凡事件。在当前chunk中，小队成员合作解救人质、调查安提哥努斯家族笔记事件，并通缉瑞尔·比伯。小队展现了分工明确的运作方式，包括队长邓恩、文职人员、正式成员等。",
+      "identInfos": [
+        "黑夜女神教会下属",
+        "负责处理超凡事件",
+        "位于廷根市佐特兰街36号",
+        "以黑荆棘安保公司为掩护",
+        "成员包括邓恩、伦纳德、老尼尔等"
+      ],
+      "aliases": [
+        {
+          "alias": "黑荆棘安保公司",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 41,
+          "extractReason": "UPDATE",
+          "evidenceText": "刚入门是宽敞的接待厅，有一组沙发和桌椅，通过隔断，是内侧区域，走廊左侧的三个房间由近及远分别是属于奥利安娜太太的会计室、摆放有几张类似沙发床的休息室、通往地底的阶梯所在。右侧三个房间由近及远则分别为队长邓恩·史密斯的办公室、配制了打字机的文职人员办公室、值夜者小队正式成员的娱乐室。"
+        },
+        {
+          "chapterSeq": 46,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩将黑色手套取下，对伦纳德和克莱恩道：“你们拿着瑞尔·比伯的画像去询问这里的住户，做最后的确认，接着以谋杀母亲的名义通缉他。”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "由“愚者”克莱恩召集的神秘聚会，成员有“正义”奥黛丽和“倒吊人”阿尔杰。在本次聚会中，克莱恩进一步解释“扮演”原理，阅读罗塞尔日记，并设计请假仪式。阿尔杰提供安提哥努斯家族信息，奥黛丽询问“观众”后续。",
+      "identInfos": [
+        "由“愚者”召集的神秘组织",
+        "成员以塔罗牌为代号",
+        "每周一聚会",
+        "目前成员：愚者、正义、倒吊人",
+        "交流非凡知识和罗塞尔日记"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 58,
+          "extractReason": "UPDATE",
+          "evidenceText": "他要趁这个机会，好好探查那里！就在克莱恩站至房间空位，即将开始逆时针步行时，他忽然从担忧“正义”和“倒吊人”有没有进入合适环境，会不会被别人打扰和发现，联想到了一件事情：他说过要想出办法，让“正义”和“倒吊人”如果确实脱不了身，或者遭遇了别的什么状况，能提前“请假”，缺席聚会。"
+        },
+        {
+          "chapterSeq": 59,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽双手交握，置于身前道：“愚者先生，倒吊人先生，我有三个问题想要请教，如果你们认为答案具备很高的价值，就告诉我你们想要什么，我会在之后尽量寻找。”"
+        },
+        {
+          "chapterSeq": 60,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰斟酌了下语言道：“安提哥努斯是一个古老的家族，他们的历史甚至能追溯到第四纪之前的灾变纪元，与第二块‘亵渎石板’有关。”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔杰追捕的目标所属组织，其成员为“倾听者”，信奉造物主。",
+      "identInfos": [
+        "隐秘组织",
+        "有“倾听者”成员",
+        "信奉造物主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 53,
+          "extractReason": "UPDATE",
+          "evidenceText": "追捕一位极光会的‘倾听者’。"
+        },
+        {
+          "chapterSeq": 53,
+          "extractReason": "UPDATE",
+          "evidenceText": "造物主创造了这个世界，祂无处不在，祂存在于每个生灵的体内，所以，万物皆有神性"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "一个隐秘组织，拥有“观众”途径的后续魔药配方，其成员曾被阿尔杰杀死。被部分人认为其理论邪恶疯狂。",
+      "identInfos": [
+        "隐秘组织",
+        "拥有“观众”途径魔药配方",
+        "有成员被阿尔杰杀死"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 60,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是我从一位心理炼金会的成员那里知道的情况，我想他们应该拥有这个途径的不少魔药配方。"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "存活了上千年的隐秘组织，与安提哥努斯家族笔记有关，被值夜者认为会追查笔记下落。",
+      "identInfos": [
+        "古老隐秘组织",
+        "与安提哥努斯家族笔记有关",
+        "存活上千年"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 47,
+          "extractReason": "UPDATE",
+          "evidenceText": "而我们通缉瑞尔·比伯的事情很快就会传到密修会那里，他们应该能够猜想到，这与安提哥努斯家族笔记的下落相关，相信我，这些存活了上千年的隐秘组织，肯定有着各种各样的消息渠道"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在解救人质行动中感应到其气息，后通过梦境确认笔记就在绑匪对面房间。值夜者调查发现老妇人死亡，其子瑞尔·比伯失踪且疑似持有笔记。笔记与安提哥努斯家族相关，具有诡异力量，能导致接触者自杀或失控。值夜者通缉瑞尔·比伯并请求封印物2-049协助追踪。",
+      "identInfos": [
+        "安提哥努斯家族遗留",
+        "封面染成黑色",
+        "用赫密斯文书写",
+        "与霍纳奇斯山脉夜之国有关",
+        "能引起诡异注视和自杀"
+      ],
+      "aliases": [
+        {
+          "alias": "那本笔记",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 44,
+          "extractReason": "UPDATE",
+          "evidenceText": "摊开的那页画着一个图案，那是穿华丽衣物、戴绚烂头饰的“愚者”！“愚者”下方，写着一行赫密斯语：“所有人都会死，包括我。”"
+        },
+        {
+          "chapterSeq": 45,
+          "extractReason": "UPDATE",
+          "evidenceText": "对，是它，那本笔记！那本安提哥努斯家族的笔记！"
+        },
+        {
+          "chapterSeq": 47,
+          "extractReason": "UPDATE",
+          "evidenceText": "那本笔记也到瑞尔·比伯的手里了，并且事情已经暴露"
+        }
+      ]
+    },
+    {
+      "name": "2-049封印物",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者队长邓恩请求上级从贝克兰德教区派人护送来的封印物，属于安提哥努斯家族的危险物品，能帮助确认瑞尔·比伯是否为安提哥努斯家族后裔。",
+      "identInfos": [
+        "2级封印物",
+        "危险且需谨慎利用",
+        "曾属于安提哥努斯家族",
+        "用于追踪安提哥努斯后裔"
+      ],
+      "aliases": [
+        {
+          "alias": "2-049",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 54,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我已经向贝克兰德教区发去电报，请求他们派人护送2-049号封印物过来，那是曾经属于安提哥努斯家族的一件危险物品，它能帮助我们知道瑞尔·比伯是不是安提哥努斯家族的后裔。"
+        }
+      ]
+    },
+    {
+      "name": "全类武器使用证",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩通过内部渠道申请到的证件，允许他合法持有武器。",
+      "identInfos": [
+        "允许合法持有各类武器",
+        "克莱恩通过内部渠道申请"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 44,
+          "extractReason": "UPDATE",
+          "evidenceText": "至于持械的问题，他一点也不担心，因为前天刚拿到了“全类武器使用证”——通过内部渠道申请，审批会非常快。"
+        }
+      ]
+    },
+    {
+      "name": "风暴护符",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "艾略特随身佩戴的护符，青铜底座，雕刻狂风和海浪符号，被克莱恩用作占卜媒介。",
+      "identInfos": [
+        "青铜底座",
+        "雕刻狂风和海浪符号",
+        "艾略特的随身物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 43,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是他之前佩戴的风暴护符。"
+        }
+      ]
+    },
+    {
+      "name": "苜蓿号",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "一艘从南大陆返回的船只，遭遇海盗洗劫后发生严重内讧，乘客和船员互相残杀，最终幸存者抵达恩马特港。",
+      "identInfos": [
+        "一艘船只",
+        "从南大陆返回",
+        "遭遇海盗和内讧",
+        "船上发生血腥事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 55,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他乘坐的那艘‘苜蓿号’还是没有抵达恩马特港。"
+        },
+        {
+          "chapterSeq": 56,
+          "extractReason": "UPDATE",
+          "evidenceText": "苜蓿号离开凯撒港五天后，我们遭遇了海盗……苜蓿号的乘客和船员们爆发了激烈的内讧……"
+        }
+      ]
+    }
+  ]
+}

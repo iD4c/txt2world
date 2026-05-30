@@ -1,0 +1,454 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 414,
+      "toChapterSeq": 416,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "智慧之眼",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩与艾辛格（智慧之眼）在对抗欲望使徒时合作，联手设伏追踪，但艾辛格的计策差点失败，克莱恩用‘伤害转移’救了他。"
+    },
+    {
+      "fromChapterSeq": 414,
+      "toChapterSeq": 416,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡斯兰娜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与卡斯兰娜在艾辛格的组织下临时合作对抗欲望使徒，但她被情绪种子控制重伤艾辛格。"
+    },
+    {
+      "fromChapterSeq": 414,
+      "toChapterSeq": 416,
+      "characterA": {
+        "name": "智慧之眼",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡斯兰娜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "艾辛格与卡斯兰娜临时合作对抗欲望使徒，但她被情绪种子控制重伤艾辛格。"
+    },
+    {
+      "fromChapterSeq": 416,
+      "toChapterSeq": 424,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "杰森·贝利亚",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩与欲望使徒杰森·贝利亚处于敌对关系，杰森报复侦探并刺杀尼根公爵，克莱恩为除后患追杀杰森并将其彻底净化。"
+    },
+    {
+      "fromChapterSeq": 421,
+      "toChapterSeq": 423,
+      "characterA": {
+        "name": "杰森·贝利亚",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "伦纳德穿戴封印物‘1-42’追击并重创欲望使徒，将其分尸，但杰森以影化逃脱。"
+    },
+    {
+      "fromChapterSeq": 414,
+      "toChapterSeq": 414,
+      "characterA": {
+        "name": "伊康瑟·伯纳德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿罗德斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "伊康瑟使用封印物‘阿罗德斯’（魔镜）调查欲望使徒，魔镜回答问题时也向伊康瑟提问。"
+    },
+    {
+      "fromChapterSeq": 414,
+      "toChapterSeq": 414,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿罗德斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩触摸魔镜时，魔镜显示出‘您忠实的阿罗德斯’字样，表现出异常的友好。"
+    },
+    {
+      "fromChapterSeq": 417,
+      "toChapterSeq": 417,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "希尔伯特·阿鲁卡尔德",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽接受心理炼金会考察，希尔伯特介绍组织目标并同意她加入，奥黛丽正式成为成员。"
+    },
+    {
+      "fromChapterSeq": 419,
+      "toChapterSeq": 426,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托埃姆林购买千面狩猎者材料并打听杰森下落，双方维持交易合作关系。"
+    },
+    {
+      "fromChapterSeq": 420,
+      "toChapterSeq": 420,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "艾斯·斯内克",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩察觉‘神之歌者’艾斯·斯内克动身追击杰森，但没有直接互动。"
+    },
+    {
+      "fromChapterSeq": 422,
+      "toChapterSeq": 422,
+      "characterA": {
+        "name": "杰森·贝利亚",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "洛克哈德·西亚卡姆",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "欲望使徒刺杀尼根公爵时与公爵秘书洛克哈德交战，秘书使用‘篡改规则’能力反击但最终失败。"
+    },
+    {
+      "fromChapterSeq": 425,
+      "toChapterSeq": 425,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "霍尔伯爵",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "父",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽从父亲霍尔伯爵处得知尼根公爵被刺的后续政治安排。"
+    },
+    {
+      "fromChapterSeq": 425,
+      "toChapterSeq": 425,
+      "characterA": {
+        "name": "阿古希德·尼根",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "霍尔伯爵",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "首相阿古希德·尼根与霍尔伯爵商议将尼根公爵之死罪名指向极光会，以稳定局势。"
+    },
+    {
+      "fromChapterSeq": 425,
+      "toChapterSeq": 425,
+      "characterA": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伊康瑟·伯纳德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴莉向伊康瑟提供了塔罗牌案件的索引，协助追查侠盗黑皇帝。"
+    },
+    {
+      "fromChapterSeq": 426,
+      "toChapterSeq": 426,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "黛西",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩探望此前救出的黛西，得知她上学的情况，家庭仍艰难。"
+    },
+    {
+      "fromChapterSeq": 427,
+      "toChapterSeq": 427,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "伊恩·赖特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "relationSummary": "克莱恩向新晋黑市武器商伊恩打听情报，得知阿兹克被军情九处悬赏。"
+    },
+    {
+      "fromChapterSeq": 427,
+      "toChapterSeq": 427,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "relationSummary": "莎伦突然出现告知克莱恩‘人皮幽影’特性线索，并提醒‘原始月亮’危险。"
+    },
+    {
+      "fromChapterSeq": 428,
+      "toChapterSeq": 428,
+      "characterA": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "徒",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "多里安·格雷",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "师",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "多里安收佛尔思为学生，提供‘学徒’魔药，佛尔思被迫再次服食以保守秘密。"
+    }
+  ]
+}

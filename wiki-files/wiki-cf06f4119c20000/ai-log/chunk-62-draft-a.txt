@@ -1,0 +1,1097 @@
+{
+  "characters": [
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以“世界”格尔曼·斯帕罗身份与多里安·格雷·亚伯拉罕会面，提出用“旧日之盒”或解除诅咒的承诺换取“旅法师”魔药配方和亚伯拉罕家族的一件“0”级封印物。他展现了“源堡”的力量，让多里安通过信仰“愚者”暂时摆脱了诅咒，确认了承诺。他分析“旅法师”晋升仪式需在星球外留下传说，决定选择“星之杖”作为交易目标。在神弃之地，他以格尔曼·斯帕罗的身份遇见月城居民，声称来自白银城和诅咒之地外。",
+      "identInfos": [
+        "五海最强冒险家",
+        "愚者座下天使",
+        "塔罗会“世界”",
+        "源堡主人",
+        "已晋升古代学者",
+        "寻找晋升奇迹师仪式"
+      ],
+      "aliases": [
+        {
+          "alias": "克莱恩·莫雷蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1207,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将手伸入衣物内侧，拿出了一块金壳怀表。啪，他按开怀表，看了一眼，不带一点感情地对多里安道：“你有三分钟的时间。”"
+        },
+        {
+          "chapterSeq": 1208,
+          "extractReason": "UPDATE",
+          "evidenceText": "在星球之外的九个地方留下传说……这不就是星空吗？克莱恩看着手中的魔药配方，险些皱起眉头。"
+        },
+        {
+          "chapterSeq": 1210,
+          "extractReason": "UPDATE",
+          "evidenceText": "那提着玻璃灯笼的人影平缓回应道：“格尔曼·斯帕罗。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1193, 1199, 1200, 1201, 1202, 1203, 1205, 1206, 1207, 1208, 1209, 1210]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "佛尔思作为诱饵参与狩猎“秘之圣者”布提斯的行动，但自身并未参与战斗，事后得知布提斯已死，深感震惊。她向老师多里安转达了格尔曼·斯帕罗的善意，并促成了双方的会面。她还在塔罗会私下聚会中讨论了行动计划，并选择布提斯的眼珠作为战利品。",
+      "identInfos": [
+        "亚伯拉罕家族弟子",
+        "塔罗会“魔术师”",
+        "已晋升旅行家",
+        "畅销小说作家",
+        "持有莱曼诺旅行笔记"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1191,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思差点怀疑自己的耳朵。"
+        },
+        {
+          "chapterSeq": 1202,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思嘴巴微张，有种自己在做梦的感觉。她觉得自己就是恐惧了一秒，恍惚了一下，任务就圆满完成了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1195, 1202, 1203, 1204, 1207]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在狩猎布提斯的行动中担任重要角色，她负责操纵非凡者聚会参与者的心理，利用“心灵风暴”配合嘉德丽雅作战，并在战后将“旧日之盒”献祭给愚者。她还帮助佛尔思编织故事向老师转达善意，展现了作为“操纵师”的强大能力。她在贝克兰德目睹战争下的民生，决定前往圣赛缪尔教堂。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会“正义”",
+        "已晋升操纵师",
+        "心理炼金会成员",
+        "巨龙化能力"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1191,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽瞄了身旁的她一眼，浅笑望向“世界”格尔曼·斯帕罗"
+        },
+        {
+          "chapterSeq": 1197,
+          "extractReason": "UPDATE",
+          "evidenceText": "“操纵师”，“心灵风暴”。"
+        },
+        {
+          "chapterSeq": 1210,
+          "extractReason": "UPDATE",
+          "evidenceText": "从马车窗户看到食品发放点排出的长长队伍后，奥黛丽缓慢收回目光，对贴身女仆安妮道：“去圣赛缪尔教堂……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1193, 1195, 1197, 1198, 1199, 1202, 1203, 1210]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "嘉德丽雅在狩猎“秘之圣者”布提斯的行动中担任主力，利用“神秘再现”创造多种魔法，包括“灰姑娘”、“卖火柴的小女孩”、“背叛之宴”、“朗基努斯之枪”等，与奥黛丽配合成功击杀布提斯。战后她选择“秘法师”非凡特性作为报酬，并将战利品献祭给愚者。她还主持了塔罗会的私下讨论。",
+      "identInfos": [
+        "星之上将",
+        "塔罗会“隐者”",
+        "已晋升神秘学家",
+        "神秘女王贝尔纳黛的学生",
+        "掌握多种童话魔法"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1192,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅接过了主导权，开口说道："
+        },
+        {
+          "chapterSeq": 1195,
+          "extractReason": "UPDATE",
+          "evidenceText": "这正是“星之上将”嘉德丽雅，但她的容貌、形象和气质都已发生改变。这是“灰姑娘”魔法给予她的！"
+        },
+        {
+          "chapterSeq": 1196,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅刚才用的魔法叫做“背叛之宴”，来源于她从塔罗会上得知的“远古太阳神之死”这个神秘学知识"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1193, 1195, 1196, 1197, 1198, 1199, 1203]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "伦纳德作为红手套队长参与调查塔罗牌事件，在会议上将组织命名为“塔罗会”。他体内寄生的帕列斯·索罗亚斯德因雅各宝藏陷阱被阿蒙本体击杀，失去序列1特性，以序列2复活。伦纳德对此深感悲痛，但被帕列斯安慰未死透。他参与狩猎布提斯行动的讨论，并负责调查极光会。",
+      "identInfos": [
+        "红手套队长",
+        "塔罗会“星星”",
+        "黑夜教会值夜者",
+        "帕列斯·索罗亚斯德寄生者",
+        "前同事克莱恩·莫雷蒂的朋友"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1201,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着“红手套”，穿黑色呢制大衣的伦纳德正领着自己的队员，认真地检查现场。"
+        },
+        {
+          "chapterSeq": 1205,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙！"
+        },
+        {
+          "chapterSeq": 1206,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德的脚步逐渐放慢，失神地重复起这句话。他越来越慢，最终停在了一根石柱旁，埋低脑袋，抬起双手，捂住了脸孔。就在这个时候，他脑海内突然回荡起了一道略显苍老的嗓音：“难过什么？我还没死透呢！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1201, 1202, 1204, 1205, 1206]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休在狩猎布提斯行动中担任辅助角色，负责禁止传送和外围警戒，战后选择“旅者的行囊”作为战利品。她参与了塔罗会私下讨论，并在关键时刻干扰布提斯脱离。",
+      "identInfos": [
+        "塔罗会“审判”",
+        "已晋升法官",
+        "军情九处成员",
+        "佛尔思的好友"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1192,
+          "extractReason": "UPDATE",
+          "evidenceText": "“好。”“审判”休虽然失落于自己只能做这些外围性事务，但也很清楚，以自己的实力，可以做的只有这么多。"
+        },
+        {
+          "chapterSeq": 1203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“审判”休同样知道自己没做太大的贡献，也清楚自己没能力抵御“旧日之盒”的负面效果，所以，看都没看“0-61”一眼，指着黑色口袋道：“我选‘旅者的行囊’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1193, 1196, 1199, 1203]
+    },
+    {
+      "name": "多里安·格雷·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "多里安收到学生佛尔思的信件，得知“秘之圣者”布提斯已被击杀，并获知格尔曼·斯帕罗的善意和交易提议。他经过挣扎后决定前往贝克兰德见佛尔思，并做好赴死准备。他与格尔曼·斯帕罗会面，给出“旅法师”魔药配方，确认信仰愚者可暂时解除诅咒后，承诺召集家族成员商议交易“0”级封印物。他在满月之夜首次体验宁静，感动落泪。",
+      "identInfos": [
+        "亚伯拉罕家族成员",
+        "佛尔思的老师",
+        "序列7占星人",
+        "祖传诅咒受害者",
+        "已决定信仰愚者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1204,
+          "extractReason": "UPDATE",
+          "evidenceText": "终于，多里安停了下来，表情逐渐沉凝，有了决断。下定了决心后，多里安整个人都轻松了不少，脸上甚至多了点微笑。他先是烧掉了佛尔思的来信，接着简单收拾了下行囊，直接出门，前往普利兹港的蒸汽列车站点。"
+        },
+        {
+          "chapterSeq": 1207,
+          "extractReason": "UPDATE",
+          "evidenceText": "多里安站了起来，开始踱步。突然，他停止下来，望向佛尔思道：“我需要与他见一面，谈一谈，才能下定决心。”"
+        },
+        {
+          "chapterSeq": 1208,
+          "extractReason": "UPDATE",
+          "evidenceText": "一阵默然后，多里安低下脑袋，拿出怀表，按开看了一眼。“……”他抬起右手，揉了揉眼睛，顺势掩住了脸孔，久久没有松开。他脸上斑白的胡须逐渐变得凌乱，沾染上了眼泪和鼻涕。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1193, 1194, 1204, 1207, 1208]
+    },
+    {
+      "name": "秘之圣者布提斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "布提斯作为极光会圣者，在察觉佛尔思可能与亚伯拉罕家族有联系后，联合“幽暗圣者”克斯玛设伏抓捕佛尔思。他使用“旧日之盒”将佛尔思玩具化，但在逃离时遭到嘉德丽雅和奥黛丽的伏击。经过激烈战斗，他陷入“精神瘟疫”和“狂乱”等影响，最终失控，试图打开“旧日之盒”第三层失败，死亡后留下“秘法师”非凡特性、眼珠和“旧日之盒”。",
+      "identInfos": [
+        "极光会五大圣者之一",
+        "秘法师，学徒途径序列4",
+        "持有0级封印物旧日之盒",
+        "曾颠覆亚伯拉罕家族",
+        "死于塔罗会狩猎"
+      ],
+      "aliases": [
+        {
+          "alias": "布提斯",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1195,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他正是极光会五大圣者之一的“秘之圣者”布提斯。"
+        },
+        {
+          "chapterSeq": 1199,
+          "extractReason": "UPDATE",
+          "evidenceText": "一位序列4的“秘法师”就这样死亡了。"
+        },
+        {
+          "chapterSeq": 1199,
+          "extractReason": "UPDATE",
+          "evidenceText": "啪！“旧日之盒”的盖子合拢后，布提斯右手一抓，将镶嵌在半空透明漩涡处的镜子收了回来。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1194, 1195, 1196, 1197, 1198, 1199]
+    },
+    {
+      "name": "幽暗圣者克斯玛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克斯玛作为极光会圣者，辅助布提斯调查佛尔思与亚伯拉罕家族的联系，并参与伏击。战后他得知布提斯死亡，痛苦忏悔，受到惩罚。",
+      "identInfos": [
+        "极光会幽暗圣者",
+        "黑骑士，秘祈人途径序列4",
+        "负责鲁恩教区"
+      ],
+      "aliases": [
+        {
+          "alias": "克斯玛",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1194,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "极光会的“幽暗圣者”克斯玛缓慢摇头道"
+        },
+        {
+          "chapterSeq": 1196,
+          "extractReason": "UPDATE",
+          "evidenceText": "另外一边，阴影中蹿出了一个穿黑色全身盔甲的高大骑士，他提着又长又宽的直剑，眼窝位置闪烁着两团深红的光芒。“幽暗圣者”克斯玛。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1194, 1196, 1197, 1204]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "帕列斯因雅各宝藏陷阱被阿蒙本体击杀，失去序列1特性，但通过预先设置的分身以序列2复活。祂安慰伦纳德，并分析阿蒙成神仪式是“在别人的成神仪式上，顶替祂的位置”。祂计划后续行动。",
+      "identInfos": [
+        "偷盗者途径序列2天使",
+        "寄生在伦纳德体内",
+        "被阿蒙夺走序列1特性",
+        "已复活但降级"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1206,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德叹息着回答道：“差不多是这样，其实吧，阿蒙也不是没有察觉，我将你推出尸骨教堂的时候，祂没做阻拦，就是给我留一点希望，让我在接下来的战斗里失去拼死的决心”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1204, 1205, 1206]
+    },
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在灰雾之上监控战斗，使用“旧日之盒”干扰阿蒙，试图拯救帕列斯未果，但他通过伦纳德的祈祷得知了帕列斯的结局。他分析从多里安处获得的“旅法师”配方，考虑晋升“奇迹师”的仪式。他在神弃之地以格尔曼·斯帕罗身份遇见月城居民。",
+      "identInfos": [
+        "源堡主人",
+        "愚者",
+        "已晋升古代学者",
+        "准备晋升奇迹师",
+        "塔罗会创建者",
+        "格尔曼·斯帕罗本尊"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "周明瑞",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1199,
+          "extractReason": "UPDATE",
+          "evidenceText": "灰雾之上，古老宫殿内，克莱恩松了口气，满含疑惑地放下了手中的“海神权杖”。"
+        },
+        {
+          "chapterSeq": 1200,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩咕哝了几句，开始检视“旧日之盒”。"
+        },
+        {
+          "chapterSeq": 1208,
+          "extractReason": "UPDATE",
+          "evidenceText": "在星球之外的九个地方留下传说……这不就是星空吗？克莱恩看着手中的魔药配方，险些皱起眉头。"
+        },
+        {
+          "chapterSeq": 1210,
+          "extractReason": "UPDATE",
+          "evidenceText": "那提着玻璃灯笼的人影平缓回应道：“格尔曼·斯帕罗。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1191, 1192, 1193, 1199, 1200, 1201, 1202, 1203, 1205, 1206, 1207, 1208, 1209, 1210]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰作为塔罗会“倒吊人”和风暴教会成员，返回拜亚姆休整，遇到熟人雷尔夫，并观察了当地的慈善学校。他后前往深海宫殿取得某件物品，如“深蓝珊瑚”。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "已晋升海洋歌者",
+        "风暴教会成员",
+        "原海盗船长"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1209,
+          "extractReason": "UPDATE",
+          "evidenceText": "“幽蓝复仇者号”在傍晚时分停入了港口。...作为一名序列5的“海洋歌者”，他已有资格直接面见风暴教会枢机主教"
+        },
+        {
+          "chapterSeq": 1209,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰环顾了一圈，发现两侧描绘着一幅幅壁画。...他郑重地伸出右手，拿起了那根珊瑚。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1209]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿蒙的本体在贝克兰德通过千年陷阱（雅各宝藏）击杀帕列斯·索罗亚斯德，夺取序列1“时之虫”特性，准备成神。祂利用尸骨教堂延迟神降，成功逃脱。祂的神性呓语和欺诈能力展现无遗，其成神仪式是“在别人的成神仪式上，顶替祂的位置”。祂在神弃之地的分身继续追踪克莱恩。",
+      "identInfos": [
+        "时天使",
+        "渎神者",
+        "远古太阳神之子",
+        "偷盗者途径天使之王",
+        "寻找错误成神仪式"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1205,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙！"
+        },
+        {
+          "chapterSeq": 1205,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见穿古典黑袍，戴着尖顶软帽，右脚搁于左腿上，正悠闲地读着一份报纸。似乎察觉到了伦纳德进来，那人抬起脑袋，正了正戴于右眼的单片眼镜，露出了戏谑的笑容。"
+        },
+        {
+          "chapterSeq": 1206,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德叹息着回答道：“...阿蒙接下来的重心肯定是成神仪式，这将是我们最后一段安静的时光。祂一旦成神，肯定会来找你，通过你对付那位‘愚者’。”"
+        },
+        {
+          "chapterSeq": 1206,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯嗓音低沉地回答道：“在别人的成神仪式上，顶替祂的位置。”"
+        },
+        {
+          "chapterSeq": 1193,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙。这位“时天使”似乎察觉到了来自“源堡”的注视，抬起脑袋，正了正水晶磨成的单片眼镜，微微翘起了嘴角。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1193, 1205, 1206]
+    },
+    {
+      "name": "阿达尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿达尔是月城狩猎小队队长，带领队伍在黑暗中狩猎怪物作为食物。他在狩猎中发现父亲遗留的护身符，深感悲伤。他最先发现克莱恩提着的灯火，与克莱恩进行初次对话。",
+      "identInfos": [
+        "月城狩猎队长",
+        "脸上有肉瘤的异变者",
+        "曾在怪物腹中发现父亲护身符"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1210,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那脸上长着多个肉瘤的男子在解剖怪物尸体，搜集可食用部分时，动作突然停滞。“阿达尔，怎么了？”没有鼻子的女性疑惑地开口问道。"
+        },
+        {
+          "chapterSeq": 1210,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿达尔环顾了一圈道：“辛，鲁斯，这是我小时候送给我父亲的。他在我成年那天，感觉已无法控制自己，选择自行离开城邦，进入黑暗深处……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1210]
+    },
+    {
+      "name": "辛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "辛是月城狩猎小队成员，没有鼻子的女性畸形者，与阿达尔一同打猎。",
+      "identInfos": [
+        "月城狩猎小队成员",
+        "没有鼻子的畸形者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1210,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "没有鼻子的女性辛犹豫着对阿达尔道：“也许，这就是杀害你父亲的那个怪物。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1210]
+    },
+    {
+      "name": "鲁斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "鲁斯是月城狩猎小队成员，两眼挤在一起的畸形者，担忧新生代畸形增多的问题。",
+      "identInfos": [
+        "月城狩猎小队成员",
+        "两只眼睛挤在一起的畸形者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1210,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "两只眼睛近乎挤在一起的鲁斯突然低沉开口道：“新生的孩子里，畸形者越来越多了……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1210]
+    },
+    {
+      "name": "雷尔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "雷尔夫是拜亚姆的混血贸易商人，曾是海盗和海神信徒，现在资助慈善学校。他接待了阿尔杰，并汇报了达尼兹的情况。",
+      "identInfos": [
+        "海神卡维图瓦原信徒",
+        "混血贸易商人",
+        "慈善学校资助者",
+        "拜亚姆居民"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1209,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿尔杰突然看见了一位熟人。那是一个着正装，打领结，戴眼镜，看起来颇为斯文的中年男子，但阿尔杰很清楚，这是“海神”卡维图瓦的信徒，曾经做过海盗，现在是黑白通吃的贸易商人。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1209]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹出现在罗思德群岛，作为海神反抗军的高层，居住在雷尔夫家中。他通过雷尔夫听取汇报。",
+      "identInfos": [
+        "原海盗",
+        "海神反抗军高层",
+        "格尔曼·斯帕罗的下属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1209,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹大人，我有事想要汇报。”房间内，一道低沉威严的声音回应道：“进来。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1209]
+    },
+    {
+      "name": "安东尼·史蒂文森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安东尼·史蒂文森作为黑夜教会贝克兰德大主教，主持了涉及塔罗会事件的调查会议。",
+      "identInfos": [
+        "黑夜教会贝克兰德教区大主教",
+        "穿黑底红纹大主教长袍"
+      ],
+      "aliases": [
+        {
+          "alias": "圣安东尼",
+          "type": "尊称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1201,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿黑底红纹长袍的圣安东尼站了起来，沉声说道：“贝克兰德的郊外发生了一场高层次的战斗，现场有遗留可怕的污染和一张塔罗牌，‘隐者’牌。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1201]
+    },
+    {
+      "name": "雷达尔·瓦伦丁",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "雷达尔·瓦伦丁作为风暴教会枢机主教，出现在战斗现场，并参与塔罗会调查会议，提议将组织命名为“塔罗会”。",
+      "identInfos": [
+        "风暴教会枢机主教",
+        "贝克兰德教区大主教",
+        "深蓝主祭"
+      ],
+      "aliases": [
+        {
+          "alias": "深蓝主祭",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1200,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是风暴教会的枢机主教，贝克兰德教区大主教，“深蓝主祭”雷达尔·瓦伦丁。"
+        },
+        {
+          "chapterSeq": 1201,
+          "extractReason": "UPDATE",
+          "evidenceText": "“深蓝主祭”雷达尔·瓦伦丁略感不耐烦地对伦纳德道：“给他们取一个名称吧...你有什么意见？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1200, 1201]
+    },
+    {
+      "name": "霍拉米克·海顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "霍拉米克·海顿作为蒸汽教会大主教，参与了战斗现场的调查和后续会议。",
+      "identInfos": [
+        "蒸汽与机械之神教会贝克兰德教区大主教",
+        "神前会议成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1200,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是蒸汽与机械之神教会贝克兰德教区的大主教，神前会议的成员，霍拉米克·海顿。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1200, 1201]
+    },
+    {
+      "name": "赛尔特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "赛尔特是官方半神，参与了战斗现场的调查。",
+      "identInfos": [
+        "金眼半神",
+        "疑似军方或教会人士"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1200,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "走出位黑发金眼，礼服笔挺，成熟儒雅的英俊男士。...被称为赛尔特的金眼男子摇了摇头："
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1200]
+    },
+    {
+      "name": "提姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "提姆是霍尔家的甜品师，半夜被梦境驱使制作冰淇淋，这些冰淇淋被用作向“命运之蛇”威尔·昂赛汀的献祭。",
+      "identInfos": [
+        "霍尔伯爵家甜品师",
+        "被奥黛丽利用制作献祭用冰淇淋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1202,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "专属甜品师提姆忽然从梦中醒来，在黑暗里凝望天花板。他刚才梦见自己在享用一款冰淇淋，刚有吃到就一下惊醒。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1202]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在狩猎“秘之圣者”布提斯行动中展现了强大的半神级战力，由“隐者”嘉德丽雅、“正义”奥黛丽等成员配合成功击杀目标并缴获“0”级封印物。战后分配战利品，并策划与亚伯拉罕家族的进一步交易。该组织首次被三大教会正式命名为“塔罗会”，并被认为是拥有地上天使的隐秘组织。",
+      "identInfos": [
+        "以塔罗牌为代号的隐秘组织",
+        "信仰愚者",
+        "核心成员为序列4以上半神",
+        "由格尔曼·斯帕罗等组成"
+      ],
+      "aliases": [
+        {
+          "alias": "塔罗会",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1201,
+          "extractReason": "ALIAS",
+          "evidenceText": "“就叫‘塔罗会’！”"
+        },
+        {
+          "chapterSeq": 1203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“祝贺各位，这次狩猎很成功。所有的战利品都在这里。”"
+        }
+      ]
+    },
+    {
+      "name": "月城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "月城是神弃之地中的人类聚居点，居民因长期食用污染食物而畸形化，面临灭绝危机。他们派出狩猎小队在黑暗中猎杀怪物为食，许多人在失控前会自行离开城邦。",
+      "identInfos": [
+        "神弃之地人类城邦",
+        "居民因污染畸形化",
+        "以狩猎怪物为生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1210,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "在月城，这是经常会发生的事情。因为没有足够安全的食材，他们只能采摘变异的植物果实，搜集怪物血肉，以此维持生存。"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "亚伯拉罕家族通过多里安与格尔曼·斯帕罗接触，确认信仰愚者可暂时解除诅咒。多里安承诺召集成员商议用“0”级封印物交换“旧日之盒”。佛尔思作为家族弟子传递了情报。",
+      "identInfos": [
+        "古老家族",
+        "学徒途径传承",
+        "受“门”先生诅咒困扰",
+        "拥有多件0级封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1208,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我将召集家族其他成员，商量是否用那两件‘0’级封印物之一换取‘旧日之盒’……”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "旧日之盒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "编号0-61的“0”级封印物，原属亚伯拉罕家族，被布提斯抢夺。第一层可将目标玩具化对换位置；第二层记录不同场景可转移，但随机性强；第三层极度危险。布提斯死后被献祭给愚者，克莱恩分析其用途并考虑与亚伯拉罕家族交换。塔罗会成员均了解其危险性。",
+      "identInfos": [
+        "0级封印物",
+        "三层银黑宝石首饰盒形态",
+        "源于亚伯拉罕天使尸骸",
+        "持有者会随机消失/暴毙/异变",
+        "编号0-61"
+      ],
+      "aliases": [
+        {
+          "alias": "0-61",
+          "type": "编号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1195,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这“旧日之盒”的第一层能将目标地点玩具化，与本身内部空间对换位置...这银黑的三层“首饰盒”正是他从亚伯拉罕家族抢走的那件“0”级封印物。"
+        },
+        {
+          "chapterSeq": 1195,
+          "extractReason": "UPDATE",
+          "evidenceText": "“旧日之盒”的第三层能打开..."
+        },
+        {
+          "chapterSeq": 1200,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩咕哝了几句，开始检视“旧日之盒”。...“第一层可以将内部空间与目标区域对换位置..."
+        }
+      ]
+    },
+    {
+      "name": "旅者的行囊",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "布提斯利用“秘法师”能力制作的空间物品，内有一个房间大小的空间，但需定期加固。休选择它为战利品。",
+      "identInfos": [
+        "黑色口袋形态",
+        "连接灵界隐藏空间",
+        "需定期加固空间隐藏"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1200,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是因为布提斯利用“秘法师”能力制作的，从本质上来说，口袋不是物品，而是一个出入口。"
+        }
+      ]
+    },
+    {
+      "name": "布提斯的眼珠",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "布提斯死后残留的两颗眼珠，凝固着惊恐，含有污染和力量，可作为诅咒媒介。佛尔思选择为战利品，用以向老师证明布提斯之死。",
+      "identInfos": [
+        "瞳色深黑",
+        "含有旧日之盒污染",
+        "强诅咒媒介"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1199,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "啪啪两声，他的两颗眼珠落到了地上，沾染到了尘埃。这两颗眼珠凝固着难以言喻的惊恐，保持着足够的完好，和身体其他部位截然不同。"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思持有的神奇物品，亚伯拉罕家族重视的物品，可记录非凡能力。在狩猎行动中，作为诱饵的一部分。",
+      "identInfos": [
+        "外壳铜绿的笔记本",
+        "亚伯拉罕家族神奇物品",
+        "可记录非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1195,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道戴着兜帽的人影习惯性地选择了靠窗的角落，拿出一册外壳铜绿的巴掌大小笔记本，随意地翻了几页...这是“莱曼诺的旅行笔记”。"
+        }
+      ]
+    },
+    {
+      "name": "秘法师非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "布提斯遗留的序列4非凡特性，外形如晶石，内有无数的门。嘉德丽雅选择为战利品，后可制作封印物或出售。",
+      "identInfos": [
+        "梦幻晶石形态",
+        "学徒途径序列4特性",
+        "内含虚幻之门"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1200,
+          "extractReason": "UPDATE",
+          "evidenceText": "这外形如同晶石，里面无数光芒折射，衍化出了一道又一道虚幻而璀璨的门。"
+        }
+      ]
+    },
+    {
+      "name": "星之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "布提斯死后残留的星之虫，共九条，被塔罗会成员分配。它们是“学徒”途径高序列材料。",
+      "identInfos": [
+        "布提斯的星之虫",
+        "学徒途径高序列材料",
+        "共九条"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1199,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "嘉德丽雅小心翼翼避开了...布提斯死亡区域，那里有...大概十条“星之虫”"
+        }
+      ]
+    },
+    {
+      "name": "命运之重启",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "布提斯记录的“命运天使”乌洛琉斯的序列1非凡能力，可重启三秒内的现实，仅限一定范围。在战斗中被使用。",
+      "identInfos": [
+        "序列1非凡能力记录",
+        "命运天使乌洛琉斯能力",
+        "可重启三秒内现实"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1197,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是“命运之重启”！...可“重启”三秒内的现实，只能“重启”这么一个打通的房间"
+        }
+      ]
+    },
+    {
+      "name": "神之画卷",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "亚伯拉罕家族的两件“0”级封印物之一，油画形态，不定时变化画面，能召唤场景、人物或造成未知效果。曾走出一位神灵，导致分支覆灭。多里安提供其信息作为交换选项。",
+      "identInfos": [
+        "0级封印物",
+        "亚伯拉罕家族持有",
+        "黄铜框架油画",
+        "画面不定时变化"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1209,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一件叫‘神之画卷’，它看起来是一副套在黄铜框架内的普通油画，但上面描绘的内容会不定时地变化。"
+        }
+      ]
+    },
+    {
+      "name": "星之杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "亚伯拉罕家族的另一件“0”级封印物，黑色镶嵌宝石手杖。可凭想象转移地点或再现能力/人物，但要求细节绝对正确；也可直接攻击造成随机效果。负面效果是随机转移和异常。克莱恩倾向于选择此物交易。",
+      "identInfos": [
+        "0级封印物",
+        "亚伯拉罕家族持有",
+        "黑色宝石手杖",
+        "可凭想象转移"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1209,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "另一件‘0’级封印物叫‘星之杖’，它外形是一根黑色的，镶嵌宝石的手杖。"
+        }
+      ]
+    },
+    {
+      "name": "旅法师魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "多里安提供的序列1“旅法师”魔药配方，辅助材料包括星之虫、时之虫、灵体之虫；仪式是在星球外九个地方留下传说。克莱恩认为这极为危险。",
+      "identInfos": [
+        "序列1魔药配方",
+        "学徒途径",
+        "仪式需在星空留下传说"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1208,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“辅助材料：星之虫一条，时之虫一条，灵体之虫一条。晋升仪式：在这个星球外的九个地方留下传说。”"
+        }
+      ]
+    },
+    {
+      "name": "深蓝珊瑚",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔杰在深海宫殿中获得的物品，外表银白电光缭绕，融入体内后电光绽放，疑似与风暴途径相关。",
+      "identInfos": [
+        "深蓝晶莹珊瑚",
+        "银白电光环绕",
+        "源自精灵深海宫殿"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1209,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他郑重地伸出右手，拿起了那根珊瑚。哗啦声音随之响起，宫殿外的海水猛然晃荡，而那珊瑚在一片“深蓝”的包裹下，逐渐虚化，融入了阿尔杰的身体。一道又一道电光像花瓣一样绽放了。"
+        }
+      ]
+    },
+    {
+      "name": "水晶球",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "布提斯用来占卜和反追踪的水晶球，被灌入深沉黑夜，用于确认行动安全。",
+      "identInfos": [
+        "布提斯的占卜工具",
+        "灌入黑夜的水晶球"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1194,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位“秘之圣者”从黑袍的暗袋里取出了一个水晶球。这水晶球不明净，也不剔透，仿佛被灌入了深沉的黑夜。"
+        }
+      ]
+    },
+    {
+      "name": "月亮纸人",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "嘉德丽雅从佛尔思处借来的纸人，可承担一次精神刺穿，辅助战斗。",
+      "identInfos": [
+        "承担精神攻击的纸人",
+        "从佛尔思处获得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1198,
+          "extractReason": "UPDATE",
+          "evidenceText": "她携带着从“魔术师”佛尔思那里拿来的“月亮纸人”，这能帮她承担一次“精神刺穿”！"
+        }
+      ]
+    },
+    {
+      "name": "时之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿蒙夺走的帕列斯序列1非凡特性，以及之前作为材料使用。本文中提到阿蒙获得特性并用于成神，以及克莱恩考虑用它制作符咒。",
+      "identInfos": [
+        "偷盗者途径天使特性",
+        "十二条环节",
+        "阿蒙成神所需"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1205,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯，忘了告诉你...雅各家族的始祖是我假扮的...我早就秘密吞掉了祂"
+        }
+      ]
+    },
+    {
+      "name": "传送符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩制作的“传送”符咒，基于“莱曼诺旅行笔记”上的记录，嘉德丽雅和奥黛丽使用它准备撤退。",
+      "identInfos": [
+        "愚者赐予的符咒",
+        "可使人传送"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1199,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "当即拿出了一枚略显透明的幽暗符咒，并开口念出了一个巨人语单词：“星”！"
+        }
+      ]
+    }
+  ]
+}

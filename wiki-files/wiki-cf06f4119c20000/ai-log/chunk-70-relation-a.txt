@@ -1,0 +1,304 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1347,
+      "toChapterSeq": 1353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "亚当",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "亚当向克莱恩解读第二块“亵渎石板”上的旧日途径配方和源质秘辛，并解释“三支柱”及第四支柱的象征，为克莱恩揭露诡秘之主真相。双方存在暂时合作关系，克莱恩借此拖延时间完成自身计划。"
+    },
+    {
+      "fromChapterSeq": 1349,
+      "toChapterSeq": 1350,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "灯神",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩与“灯神”进行交易谈判，以未来将“许愿神灯”送入星空为条件，换取“灯神”满足两个愿望，为自己解围并完成“诡秘侍者”仪式。克莱恩利用愿望的副作用对抗当前困境。"
+    },
+    {
+      "fromChapterSeq": 1347,
+      "toChapterSeq": 1353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "两人在乌托邦内外持续敌对，查拉图在亚当安排下突袭并试图封印克莱恩，克莱恩诈死后晋升“诡秘侍者”，最终剥夺查拉图非凡特性使其消亡。"
+    },
+    {
+      "fromChapterSeq": 1352,
+      "toChapterSeq": 1353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "阿尔杰在地底压制封印物即将不支时，克莱恩通过“源堡”展现灰雾力量，使封印物安静下来，间接救助阿尔杰。"
+    },
+    {
+      "fromChapterSeq": 1349,
+      "toChapterSeq": 1350,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "贝尔纳黛向“愚者”祈祷求助，克莱恩通过与“灯神”交易，将其许愿代价转移到自己身上，帮助贝尔纳黛免受副作用，并间接协助其脱困。"
+    },
+    {
+      "fromChapterSeq": 1353,
+      "toChapterSeq": 1353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "查拉图召唤罗塞尔历史投影对付克莱恩，但克莱恩提前嫁接自身状态，使罗塞尔背叛查拉图，以信息洪流冲击查拉图，助力克莱恩击败查拉图。罗塞尔为历史投影，受克莱恩操控。"
+    },
+    {
+      "fromChapterSeq": 1348,
+      "toChapterSeq": 1352,
+      "characterA": {
+        "name": "维尔杜·加西亚",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "战争之神",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "维尔杜向“战争之神”举行仪式，祈求帮助先祖“门”先生脱困。“战争之神”要求献祭血液并直接提供仪式所需的半神级怪物祭品，维尔杜大喜并开始准备仪式。"
+    },
+    {
+      "fromChapterSeq": 1348,
+      "toChapterSeq": 1352,
+      "characterA": {
+        "name": "维尔杜·加西亚",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "伯特利·亚伯拉罕",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "维尔杜作为伯特利·亚伯拉罕的后裔，受“战争之神”指使举行仪式助其脱困。维尔杜竭力营救先祖，但伯特利最终在成神时被阿蒙顶替牺牲。"
+    },
+    {
+      "fromChapterSeq": 1352,
+      "toChapterSeq": 1353,
+      "characterA": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伯特利·亚伯拉罕",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "阿蒙在“门”先生伯特利即将成神时顶替其位，成为序列0“错误”，导致伯特利牺牲。阿蒙取代伯特利，并挡住“堕落母神”侵蚀。"
+    },
+    {
+      "fromChapterSeq": 1350,
+      "toChapterSeq": 1352,
+      "characterA": {
+        "name": "风暴之主",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "风暴之主因不想让阿蒙成为“诡秘之主”，在乌托邦降下雷罚干预，阻碍阿蒙的计划，双方形成间接敌对。"
+    },
+    {
+      "fromChapterSeq": 1352,
+      "toChapterSeq": 1352,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "风暴之主",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "阿尔杰向“风暴之主”祈祷求助，“风暴之主”降下蔚蓝海水屏障并劈下闪电助其压制封印物，回应了阿尔杰的祈求。"
+    },
+    {
+      "fromChapterSeq": 1353,
+      "toChapterSeq": 1353,
+      "characterA": {
+        "name": "亚当",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "亚当与阿蒙之间存在交易，亚当在乌托邦事件中展示第二块“亵渎石板”，帮助阿蒙成为“错误”，后拾取克莱恩遗留的“魔镜”离开，但无直接互动。"
+    }
+  ]
+}

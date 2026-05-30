@@ -1,0 +1,1036 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩从“红天使”恶灵处得知鲁恩国王乔治三世的一系列改革实为“黑皇帝”成神仪式，且七神默许。他拒绝接受这种结局，决定阻止乔治三世，并与“神秘女王”贝尔纳黛达成合作。他锁定魔女教派的“白之魔女”卡特琳娜为突破口，利用战争在医院制造恐怖传说扮演“诡法师”，进一步消化魔药。他委托安德森与达尼兹追查“疾病中将”特雷茜下落，并让奥黛丽催眠情报贩子巴兹遗忘记忆。他帮助知识教会半神卢卡·布鲁斯特从失控边缘恢复，得知末日预言在1368年。塔罗会上，他阅读罗塞尔日记，发现罗塞尔最后秘密陵寝在遭星空污染的无名小岛，并怀疑其晚年被星空污染。他安排佛尔思询问班杰明·亚伯拉罕线索，并将佛尔思丢到塞洛斯岛记录风土人情以消化魔药。他继续在各地制造恐怖传说，遭遇查拉图秘偶的追踪。",
+      "identInfos": [
+        "塔罗会首领“愚者”",
+        "化名格尔曼·斯帕罗、道恩·唐泰斯",
+        "占卜家途径序列4“诡法师”",
+        "持有“蠕动的饥饿”手套",
+        "灰雾之主",
+        "与黑夜女神有合作关系"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "被“红天使”恶灵的问题点醒，克莱恩精神一紧，脑海内飞快闪过了诸多想法，同时也有了另外的疑问。他看着对面那位瘦高，年轻，没有血色的“看门人”，斟酌着说道：“乔治三世想直接成为‘黑皇帝’？可他连序列4都还没有……”"
+        },
+        {
+          "chapterSeq": 1091,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不，我不接受。”克莱恩默然一阵，突地开口，嗓音低沉。这声音随即回荡在了房间内，层层叠叠，交错共鸣：“不，我不接受！”"
+        },
+        {
+          "chapterSeq": 1092,
+          "extractReason": "UPDATE",
+          "evidenceText": "“一些可笑的，不值得一提的理由。”贝尔纳黛的目光在他脸上停留了一阵道：“足够了，我也是在为一些渺茫的，很可能不会发生的事情。“在阻止乔治三世上，我们可以合作。”"
+        },
+        {
+          "chapterSeq": 1097,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个过程中，克莱恩莫名有了种奇怪的感觉，那就是恐怖的黑暗中伸出了一条条无形的触手，或追寻着自己的行踪，或尝试预判，提前做着拦截，沉默而冰冷，一旦被它们缠住，结果不堪想象。克莱恩知道这或许就是来自查拉图的“寻找”"
+        },
+        {
+          "chapterSeq": 1103,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩操纵“世界”格尔曼·斯帕罗，让他用不是太确定的口吻低沉说道：“‘风暴’、‘太阳’、‘观众’、‘阅读者’和‘秘祈人’是相近途径。‘黑夜’、‘战神’和‘死神’也是。而相近途径往往会成为敌人，当然，这并不绝对，至少七神建立起了一个联盟。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1087, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103, 1104, 1105, 1106]
+    },
+    {
+      "name": "红天使恶灵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从“红天使”恶灵处得知乔治三世的改革实为“黑皇帝”成神仪式，以及七神的默许态度。他还透露乔治三世可能已经是序列1的天使，并点明克莱恩本可以反抗。他要求克莱恩发现“白之魔女”卡特琳娜踪迹时通知他。",
+      "identInfos": [
+        "恶灵形态的梅迪奇",
+        "曾是“救赎蔷薇”成员",
+        "红天使途径的天使",
+        "附身“看门人”海特尔"
+      ],
+      "aliases": [
+        {
+          "alias": "梅迪奇",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵闻言嗤笑了一声：“你怎么知道乔治三世只有序列5？你怎么确定被检查的乔治三世是真的乔治三世？难道不能是空想出来的，或者哪位天使层次的‘无面人’变成的？”"
+        },
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵又露出好笑的表情，上下打量了道恩·唐泰斯和他的贴身男仆几眼：“你几岁了？为什么还这么天真和幼稚？六神和六神教会在某些时候并不一定等同，六神知道的事情未必会告知下面的天使和圣者。”"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [1087]
+    },
+    {
+      "name": "乔治三世",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "乔治三世是鲁恩国王，正在进行“黑皇帝”成神仪式，其一系列改革如废除《谷物法案》等均为仪式的一部分。他可能已经是序列1的天使，且得到了七神的默许。克莱恩决定阻止他成神。",
+      "identInfos": [
+        "鲁恩王国国王",
+        "奥古斯都家族成员",
+        "正在进行“黑皇帝”成神仪式",
+        "可能已序列1"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "被“红天使”恶灵的问题点醒，克莱恩精神一紧，脑海内飞快闪过了诸多想法……乔治三世想直接成为‘黑皇帝’？可他连序列4都还没有……"
+        },
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵又露出好笑的表情，上下打量了道恩·唐泰斯和他的贴身男仆几眼：“你几岁了？为什么还这么天真和幼稚？六神和六神教会在某些时候并不一定等同，六神知道的事情未必会告知下面的天使和圣者。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1087, 1088]
+    },
+    {
+      "name": "贝尔纳黛·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛是罗塞尔大帝的长女，“神秘女王”。她向克莱恩透露自己要晋升序列2“贤者”需要阻止一场涉及高层次力量的灾难，但已失败。她与克莱恩达成合作，共同阻止乔治三世成为“黑皇帝”。她提供信使召唤方式，并提到自己掌握“0”级封印物。",
+      "identInfos": [
+        "罗塞尔大帝长女",
+        "称号“神秘女王”",
+        "“窥秘人”途径序列3“预言大师”",
+        "持有“0”级封印物"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1092,
+          "extractReason": "UPDATE",
+          "evidenceText": "“窥秘人”途径的序列2魔药有个奇怪的名字，叫做‘贤者’，想晋升到这个位阶，必须阻止一场涉及高层次力量的灾难。”"
+        },
+        {
+          "chapterSeq": 1092,
+          "extractReason": "UPDATE",
+          "evidenceText": "“在阻止乔治三世上，我们可以合作。”克莱恩暗叹一声道：“我会把信使的召唤方法给你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1091, 1092, 1093, 1106]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在鲁恩慈善助学基金工作，关心空袭伤员。她捐款并组织慈善医疗，接受克莱恩的委托管理玫歌庄园资源。她作为塔罗会“正义”，帮助克莱恩催眠情报贩子巴兹遗忘记忆，并治疗知识教会半神卢卡·布鲁斯特的失控倾向。她在塔罗会上了解各种隐秘知识。",
+      "identInfos": [
+        "塔罗会成员“正义”",
+        "霍尔伯爵之女",
+        "“观众”途径序列5“梦境行者”",
+        "金毛大狗苏茜的伙伴"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1088,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽手里拿着报纸，望向道恩·唐泰斯道：“有几位受助者在这次空袭里受伤，我刚去看望过他们，安排好了后续的治疗。”这位贵族小姐的眼眶隐约有些发红，似乎在医院里看见了种种让人难掩悲痛的事情。"
+        },
+        {
+          "chapterSeq": 1096,
+          "extractReason": "UPDATE",
+          "evidenceText": "她随即按照格尔曼·斯帕罗的吩咐，布置仪式，祈求“愚者”先生赐予。虚幻之门很快成形并打开，三件事物飞了出来，落至祭坛上。这一是薄薄的人皮手套，一是白纸承载的“使用说明”，一是没有捆绑起来，却整整齐齐的钞票。"
+        },
+        {
+          "chapterSeq": 1098,
+          "extractReason": "UPDATE",
+          "evidenceText": "“治疗一位出现失控征兆的半神……又能积攒贡献了……”奥黛丽放下手中的钢笔，套上了白底金纹的披风。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1088, 1096, 1098, 1099, 1101, 1103]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "蕾妮特·缇尼科尔是克莱恩的信使，一位高位灵界生物。她帮助克莱恩传递信件给莎伦和马里奇，警告查拉图在贝克兰德。",
+      "identInfos": [
+        "克莱恩的信使",
+        "前玫瑰学派节制派天使",
+        "提四个金发红眼脑袋的形象",
+        "灵界生物"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1088,
+          "extractReason": "UPDATE",
+          "evidenceText": "很快，提着四个金发红眼脑袋的蕾妮特·缇尼科尔从虚空中走了出来，对自己契约者新的模样没一点诧异。克莱恩未给出信纸，直接说道：“转告莎伦小姐和马里奇，说查拉图来了贝克兰德，很可能与玫瑰学派有接触，让他们务必小心，最近一段时间最好连‘勇敢者’酒吧也不要再去了。”"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [1088, 1096]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹和安德森受克莱恩委托追查“疾病中将”特雷茜的下落。他们在塞洛斯岛找到情报贩子巴兹，获取了联络特雷茜的浆糊状黑色事物。两人演戏让巴兹放松警惕，最终获得情报并报告克莱恩。",
+      "identInfos": [
+        "格尔曼·斯帕罗的仆人",
+        "海盗出身",
+        "信仰“愚者”",
+        "与安德森合作追查“疾病中将”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹颇为兴奋地回答道：“可能很大！‘黑死号’不就是向西驶出塞洛斯岛后消失的吗？”"
+        },
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "他和安德森的那番对话其实是预先排练好的戏剧，为的是让安德森放过巴兹这件事情合乎情理，不被怀疑。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1089, 1095, 1096]
+    },
+    {
+      "name": "安德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安德森和达尼兹受克莱恩委托追查“疾病中将”特雷茜的下落。他通过分析识破巴兹是陷阱，并设计让巴兹暴露联络方式。他还帮助达尼兹找到了“阴谋家”魔药材料。",
+      "identInfos": [
+        "迷雾海最强猎人",
+        "与达尼兹合作",
+        "序列5“收割者”",
+        "嘴巴毒舌"
+      ],
+      "aliases": [
+        {
+          "alias": "迷雾海最强猎人",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森撇了下嘴巴，呵呵笑道：“要是‘疾病中将’的下落这么容易就被你打听到，她又有什么必要躲藏？就连你都能打听到的岛屿，又怎么能称得上足够隐秘？”"
+        },
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森笑了笑道：“不错，经过我的教导，你已经有不小的进步了，要不然，我怀疑就算喝下‘阴谋家’魔药，你也没法提升脑子，只会异变出将敌人变笨，把他拉到自己熟悉领域，从而战胜他的能力。这句话不是我说的，是罗塞尔大帝说的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1089, 1095, 1096]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗兰克·李是“星之上将”嘉德丽雅船上的成员，序列5“生物学家”，需要“德鲁伊”配方来催化研究。嘉德丽雅将克莱恩提供的配方卖给他。",
+      "identInfos": [
+        "“星之上将”属下",
+        "“耕种者”途径序列5“生物学家”",
+        "疯狂科学家，喜欢杂交",
+        "理想是消除饥荒"
+      ],
+      "aliases": [
+        {
+          "alias": "生物学家",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1089,
+          "extractReason": "UPDATE",
+          "evidenceText": "“能不受限制地研究土壤、作物和杂交技术，还有，让人类不再有饥荒，让人与人之间变得平等，你能够做的，我也能够做，你能长的，我也能长……”听到这里，旁边的“工匠”夏尔夫慢慢翻身而起，默默蹲到旁边，张开嘴巴，呕吐了起来。"
+        },
+        {
+          "chapterSeq": 1089,
+          "extractReason": "UPDATE",
+          "evidenceText": "“有‘德鲁伊’魔药配方了，来自格尔曼·斯帕罗，5000金镑。”嘉德丽雅讲得颇为详细，仿佛在刻意说给“工匠”夏尔夫听，让他知道真正的“凶手”是谁。弗兰克·李眼中顿时流露出了纯粹的喜悦：“他真是一个好人啊！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1089]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“星之上将”嘉德丽雅，塔罗会“隐者”，已晋升序列4“神秘学家”。她帮助弗兰克·李购买“德鲁伊”配方，并为“神秘女王”转达消息和提问。她在塔罗会上询问“小心观众”和罗塞尔秘密陵寝的位置。",
+      "identInfos": [
+        "塔罗会成员“隐者”",
+        "“星之上将”海盗将军",
+        "“窥秘人”途径序列4“神秘学家”",
+        "贝尔纳黛的养女"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1089,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星之上将”嘉德丽雅的船队正好经过奥拉维岛，从来往的电报里搜集到了各种情报。她随即看见了无边无际的灰雾，听到了“世界”格尔曼·斯帕罗的话语。"
+        },
+        {
+          "chapterSeq": 1100,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅收敛起忧虑，转向青铜长桌最上首，低下脑袋，恭敬说道：“伟大的‘愚者’先生，我这次搜集到了一整本罗塞尔日记。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1089, 1100, 1101, 1103]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“魔术师”佛尔思，序列6“记录官”。她委托“世界”格尔曼·斯帕罗带她“旅行”以消化魔药。克莱恩要求她写医院怪谈小说作为报酬。她被克莱恩扔到塞洛斯岛记录风土人情。她还负责询问老师多里安·格雷关于班杰明·亚伯拉罕的线索。",
+      "identInfos": [
+        "塔罗会成员“魔术师”",
+        "“学徒”途径序列6“记录官”",
+        "畅销小说作家",
+        "休的好友"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1101,
+          "extractReason": "UPDATE",
+          "evidenceText": "她话音刚落，一直在那里培养勇气的“魔术师”佛尔思就用一种闭上眼睛冲向死亡的“决绝”态度开口道：“‘世界’先生，我有一件事情想委托你。”她忙又解释道：“您需要做的并不多，每隔一段时间将我扔到一个陌生的地方，过几天来接走就行了……”"
+        },
+        {
+          "chapterSeq": 1106,
+          "extractReason": "UPDATE",
+          "evidenceText": "她深吸了口气，继续等待格尔曼·斯帕罗靠近过来，抓住自己的肩膀，开始“传送”。可过了好几秒钟，什么动静都未发生。佛尔思愕然抬头，只见“世界”先生依旧立在前方，望着自己。她随即听到对方低沉开口道：“现在就写。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1094, 1101, 1106]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“审判”休，序列5“惩戒骑士”（“法官”途径）。她晋升序列6“法官”，与军情九处联系，获得2500镑酬劳，并准备购买“法官”配方和材料。她向佛尔思提议让“世界”帮忙“旅行”。",
+      "identInfos": [
+        "塔罗会成员“审判”",
+        "“仲裁人”途径序列6“法官”",
+        "佛尔思的好友",
+        "曾为军情九处做事"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1094,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是你用功勋换取的酬劳，总计2500镑，呵呵，帮你多争取了500镑。”那位戴黄金面具的男子丢了一个胀鼓鼓的信封给休。休准确接住，没有去数，本能按了一下就诚恳开口道：“谢谢。”"
+        },
+        {
+          "chapterSeq": 1094,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我可以花钱请那位带你‘旅行’。”休很谨慎地没提具体代号和人名，“每次将你丢到一个陌生地方待上三四天甚至一周再接走，这用不了多久你就能记录下各种民俗风情，而且，你还可以从他，从他们手上租赁一些神奇物品，用来‘记录’非凡能力，这既能增强你，还可以帮助你消化。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1094]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“倒吊人”，风暴教会“船长”，序列5“海洋歌者”。他疑惑风暴教会在战争中的不积极态度，发现多处出现诡异怪谈。塔罗会上，他从“世界”处了解相近途径知识，并渴望晋升序列4。",
+      "identInfos": [
+        "塔罗会成员“倒吊人”",
+        "风暴教会船长",
+        "序列5“海洋歌者”",
+        "持有“幽蓝复仇者号”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1097,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊基于谨慎的原则，没有离开“幽蓝复仇者号”，只是派水手们轮流上岸，打听情报。……教会似乎有点不太重视这次的战争啊……"
+        },
+        {
+          "chapterSeq": 1101,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰听完“魔术师”的话语后，却一阵唏嘘，因为连这位“学徒”都开始冲击序列5位阶了，而自己还停留在这个层次。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1097, 1101, 1102, 1103]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“月亮”，血族男爵，序列5“深红学者”。他担忧乌特拉夫斯基神父在战争中的处境，询问如何处理敌对势力神职人员。",
+      "identInfos": [
+        "塔罗会成员“月亮”",
+        "血族子爵",
+        "序列5“深红学者”",
+        "丰收教堂成员"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1101,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林环顾了一圈，目光落在了“星星”伦纳德脸上：“如果你们是官方非凡者，在战争期间会怎么处理一位管辖范围内的敌对势力神职人员？他还没做也没打算做不好的事情。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1097, 1101]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“太阳”，白银城居民，序列5“光之祭司”。他跟随白银城队伍前往探索“巨人王庭”，持有“无暗十字”。他注意到“牧羊人”长老洛薇雅对“无暗十字”的灼热目光。",
+      "identInfos": [
+        "塔罗会成员“太阳”",
+        "白银城居民",
+        "序列5“光之祭司”",
+        "持有“无暗十字”"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1093,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格站在中央，是第二矮的那个，手里握着一个铜绿色有尖刺的十字架。他左右两边分别是约书亚和海因姆，他们随时准备着接过那“无暗十字”，以免戴里克的非凡特性析出。"
+        },
+        {
+          "chapterSeq": 1103,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们已经出发，目前距离下午镇还有不到一天的路程，到时候，再休整一到两天就要开始探索‘巨人王庭’了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1093, 1101, 1103]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“星星”，黑夜教会“红手套”队长，序列5“灵巫”。他被留在贝克兰德作为机动力量，疑惑原因。他与帕列斯·索罗亚斯德讨论阿蒙、查拉图可能到来的平衡，以及非凡特性聚合定律的影响。塔罗会上，他获知相近途径知识。",
+      "identInfos": [
+        "塔罗会成员“星星”",
+        "黑夜教会“红手套”队长",
+        "序列5“灵巫”",
+        "帕列斯·索罗亚斯德寄宿者"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1099,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着红手套的伦纳德走下马车，预备进入圣赛缪尔教堂时，看见报童挥舞着报纸，快速奔跑于街道和广场上。"
+        },
+        {
+          "chapterSeq": 1101,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”伦纳德颇为自觉地想了想道：“保护性关押。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1099, 1101, 1102, 1104]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯·索罗亚斯德，寄宿在伦纳德体内的“偷盗者”途径天使。他与伦纳德讨论被留在贝克兰德的原因，推测是为了形成查拉图、阿蒙与他的三角平衡。他提及四皇之战往事和非凡特性聚合定律。",
+      "identInfos": [
+        "“偷盗者”途径序列1天使",
+        "索罗亚斯德家族祖先",
+        "寄宿于伦纳德体内",
+        "曾参与四皇之战"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1104,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德笑了一声道：“平衡就意味着大家都会很克制，再说，阿蒙很可能也不会让本体进入贝克兰德，顶多召集大量分身过来，毕竟黑夜没有办法不表示风暴和蒸汽没可能神降。”"
+        },
+        {
+          "chapterSeq": 1104,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德“呵”了一声：“我熟悉的那个查拉图已经在‘四皇之战’里陨落了，现在这个应该是他的后代，我当初或许见过，也或许没见过。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1099, 1104]
+    },
+    {
+      "name": "乌特拉夫斯基",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "大地母神教会主教，弗萨克人，在丰收教堂服务。因战争爆发，信徒对他态度变化，埃姆林担心他的安全。",
+      "identInfos": [
+        "大地母神教会主教",
+        "半巨人弗萨克人",
+        "丰收教堂神父",
+        "埃姆林·怀特的上司"
+      ],
+      "aliases": [
+        {
+          "alias": "神父",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1097,
+          "extractReason": "UPDATE",
+          "evidenceText": "此刻，教堂里面没有一个信徒，只得仿佛半巨人的乌特拉夫斯基神父坐在最前方，虔诚地祈祷着。埃姆林没急着去换教士袍，坐到了神父身旁，本想说点什么，可张嘴之后却变成了“嘿”的笑声。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1097]
+    },
+    {
+      "name": "安东尼·史蒂文森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "黑夜教会大主教，圣者。他告知克莱恩战争期间需要帮忙，并暗示克莱恩躲藏起来，因为教会暂时无法对付查拉图。",
+      "identInfos": [
+        "黑夜教会大主教",
+        "圣安东尼",
+        "圣赛缪尔教堂主管"
+      ],
+      "aliases": [
+        {
+          "alias": "大主教",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1088,
+          "extractReason": "UPDATE",
+          "evidenceText": "战争爆发了，有太多的事情需要去做，作为女神的虔诚信徒，你是否愿意提供一定的帮助？”果然……看来阿里安娜女士已经离开贝克兰德了……克莱恩一边感慨，一边在胸前画出绯红之月：“这是我的荣幸，赞美女神。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1088]
+    },
+    {
+      "name": "卢卡·布鲁斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "知识教会半神，序列4“秘术导师”（序列3？）。他因费内波特和大地母神教会的袭击，开启神话生物形态后陷入失控危机。克莱恩请奥黛丽治疗他，使他恢复。他告知末日预言在1368年，以及序列越高靠近地底越危险。",
+      "identInfos": [
+        "知识教会圣者",
+        "曾任“秘术导师”",
+        "灰绿色眼睛",
+        "擅长预言",
+        "与艾德雯娜相识"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1098,
+          "extractReason": "UPDATE",
+          "evidenceText": "听见那一摊摊黑影的话语，克莱恩脑海内顿时浮现出了一道身影：那是一位穿镶黄铜丝线素白长袍的老者，头发已然全白，梳理得很是整齐，有一双让人印象深刻的灰绿色眼睛。他自称是知识教会的神职人员，负责西拜朗的事务，和梅桑耶斯关系匪浅。"
+        },
+        {
+          "chapterSeq": 1099,
+          "extractReason": "UPDATE",
+          "evidenceText": "卢卡·布鲁斯特的表情瞬间变得严肃：“不，这不是预言。凡是拥有预言能力的人，都非常肯定末日即将到来。神在祂赐予的圣文里提到，末日在第五纪1368年。当然，神也说，会有拯救者。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1098, 1099]
+    },
+    {
+      "name": "尤朵拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "贝克兰德技术大学学生，空袭中右腿重伤面临截肢，被克莱恩用“生命手杖”治愈。她的例子成为医院怪谈的一部分。",
+      "identInfos": [
+        "贝克兰德技术大学学生",
+        "空袭受伤者",
+        "被“小丑天使”治愈"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1089,
+          "extractReason": "UPDATE",
+          "evidenceText": "尤朵拉表情木然地躺在病床上，没有一点属于少女的活力。她还不满18岁，还没来得及品尝生活的美好，就要失去一条腿，失去理想了。"
+        },
+        {
+          "chapterSeq": 1089,
+          "extractReason": "UPDATE",
+          "evidenceText": "她再次望向床边，哪里还有什么黑影。……她又拉起被子，盖住了自己的脸孔。几十秒后，被子底下传出了不敢相信的，惊恐的，又夹杂几分喜悦的哭声。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1089]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "密修会首领，序列1“占卜家”途径天使。他在贝克兰德，对克莱恩构成威胁。他的秘偶乌鸦曾出现在“魔术师”佛尔思附近。克莱恩警告莎伦等人小心，并推测查拉图可能在追踪自己。",
+      "identInfos": [
+        "密修会首领",
+        "序列1天使",
+        "“占卜家”途径",
+        "罗塞尔大帝老友",
+        "曾疯掉后恢复正常"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1088,
+          "extractReason": "UPDATE",
+          "evidenceText": "密修会首领，曾经疯掉现在又正常了的序列1天使。”克莱恩掏出枚金币，递给了信使小姐。"
+        },
+        {
+          "chapterSeq": 1101,
+          "extractReason": "UPDATE",
+          "evidenceText": "“密修会的首领，序列1的天使，罗塞尔大帝的老友查拉图目前正潜藏在贝克兰德。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1088, 1101, 1104]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城首席，率领队伍探索“巨人王庭”。出发前，“牧羊人”长老洛薇雅对“无暗十字”表现异常。",
+      "identInfos": [
+        "白银城首席",
+        "率领探索巨人王庭"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1093,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克莫名打了个寒颤，随即听见首席科林·伊利亚特开口道：“出发。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1093]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城“六人议事团”成员，“牧羊人”长老。她对“无暗十字”表现出灼热目光，并说“这是主的物品”。",
+      "identInfos": [
+        "白银城“牧羊人”长老",
+        "六人议事团成员",
+        "银灰微卷长发",
+        "淡灰色眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1093,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位队伍中个子最矮的女士留着银灰而微卷的长发，正用淡灰色的眼眸看着那斑驳古老的“无暗十字”，目光里竟透着几分灼热。察觉到戴里克的回望，这位“牧羊人”长老嘴角微动，露出了难以形容的笑意：“这是主的物品。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1093]
+    },
+    {
+      "name": "叶戈尔·艾因霍恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗萨克帝国苏尼亚海舰队指挥官，皇室出身，序列4“铁血骑士”。他被克莱恩的诡秘袭击惊吓，舰队损失一艘风帆战列舰，被迫撤退。",
+      "identInfos": [
+        "弗萨克帝国上将",
+        "艾因霍恩皇室成员",
+        "序列4“铁血骑士”",
+        "苏尼亚海舰队指挥官"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1090,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗萨克帝国，苏尼亚海舰队，“尼波斯号”这艘旗舰上。身材魁梧，超过两米，唇上留着浓密胡须的叶戈尔·艾因霍恩正坐在摆放着地图的书桌后，边喝着苏尼亚血酒，边思考接下来的安排："
+        },
+        {
+          "chapterSeq": 1090,
+          "extractReason": "UPDATE",
+          "evidenceText": "接下来，叶戈尔没再让舰队停留，舍弃掉那条变成了诡异传说的风帆战列舰，离开了这片海域。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1090]
+    },
+    {
+      "name": "特雷茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“疾病中将”，克莱恩的目标，与“白之魔女”卡特琳娜有血缘关系。她通过情报贩子巴兹散布陷阱消息，安德森和达尼兹找到了她的联络方式。",
+      "identInfos": [
+        "“疾病中将”海盗将军",
+        "魔女教派成员",
+        "卡特琳娜之女",
+        "“黑死号”船长"
+      ],
+      "aliases": [
+        {
+          "alias": "疾病中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你怀疑‘疾病中将’的船队就藏在那里？”听到达尼兹的话语，安德森若有所思地反问了一句。"
+        },
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "巴兹语速极快地回答道，害怕自己因流血过多身亡，“我没问她为什么，那时候我只顾着欣赏她的美貌，不愧是五海闻名的‘疾病少女’啊……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1091, 1095, 1096]
+    },
+    {
+      "name": "卡特琳娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“白之魔女”，魔女教派重要成员。克莱恩决定以她为突破口来阻止乔治三世，因为她更容易对付。她与“疾病中将”特雷茜有血缘关系。",
+      "identInfos": [
+        "“白之魔女”",
+        "魔女教派成员",
+        "特雷茜的母亲"
+      ],
+      "aliases": [
+        {
+          "alias": "白之魔女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1091,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的思路渐渐清晰，决定以“白之魔女”卡特琳娜为突破口，将她作为接下来的目标，不过，在此之前，他要听听“神秘女王”贝尔纳黛的预言是什么，听听她在贝克兰德想要做的事情是什么。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1091]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "命运之蛇，序列1“水银之蛇”。克莱恩在与“红天使”恶灵会面时，暗中利用威尔的“昨日重现”符咒作为后手。威尔的意志关注着克莱恩。",
+      "identInfos": [
+        "命运之蛇",
+        "序列1“水银之蛇”",
+        "曾被乌洛琉斯追杀",
+        "艾伦·克瑞斯医生的孩子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "你以为我为什么选择“火焰跳跃”而不是直接“传送”？那是为了隐藏皮夹内千纸鹤被点燃的动静！这样一来，“命运之蛇”威尔·昂赛汀的目光将无声无息投注到我身上，一旦有什么不对，祂就会使用“昨日重现”符咒……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1087]
+    },
+    {
+      "name": "夏尔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“工匠”，在“星之上将”船上，被弗兰克的研究折磨得呕吐。他对弗兰克获得“德鲁伊”配方表示惊恐。",
+      "identInfos": [
+        "“工匠”非凡者",
+        "“星之上将”属下",
+        "害怕弗兰克的研究"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1089,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不，我不会帮助你的！你这个恶魔！”默默呕吐的“工匠”夏尔夫抬起脑袋，急声喊道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1089]
+    },
+    {
+      "name": "巴兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "塞洛斯岛的情报贩子，被“疾病中将”特雷茜利用散布陷阱。安德森和达尼兹找到他，演戏获取联络方式，后奥黛丽催眠他遗忘记忆。",
+      "identInfos": [
+        "塞洛斯岛情报贩子",
+        "棕头发",
+        "被“疾病中将”利用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "巴兹打了个哈欠，走入了自己的房间。他还没来得及借助窗外的月光点燃蜡烛，突然看见一抹炽白的火焰在眼前亮起，这映得他短暂竟难以视物。"
+        },
+        {
+          "chapterSeq": 1095,
+          "extractReason": "UPDATE",
+          "evidenceText": "他有办法联络她吗？”“没有。”巴兹飞快摇头道，“她让我记下所有打听她下落的人，等她返回塞洛斯岛再告诉她，而如果有谁得到那个隐秘岛屿的情报后，真的离港前往，就任由他去。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1095, 1096]
+    },
+    {
+      "name": "马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "国会议员，克莱恩的熟人。克莱恩向他求助购买武器和食物，他答应帮忙。",
+      "identInfos": [
+        "国会议员",
+        "克莱恩的熟人",
+        "曾被阿蒙寄生留下后遗症"
+      ],
+      "aliases": [
+        {
+          "alias": "议员",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1087,
+          "extractReason": "UPDATE",
+          "evidenceText": "伯克伦德街39号，预先占卜过的克莱恩如愿见到了正要去西区的马赫特议员。“你不是去玫歌庄园了吗？我也打算让莉亚娜和海柔尔躲去麋鹿庄园。”马赫特议员捏了捏眼睛两侧道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1087]
+    }
+  ],
+  "factions": [],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的封印物手套，具有“放牧”和“旅行”等能力。克莱恩将它借给奥黛丽，让她传送并催眠巴兹，以及治疗卢卡·布鲁斯特。",
+      "identInfos": [
+        "克莱恩的封印物手套",
+        "可放牧灵魂",
+        "具有“旅行”能力",
+        "原为A先生秘偶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1096,
+          "extractReason": "UPDATE",
+          "evidenceText": "这一是薄薄的人皮手套，一是白纸承载的“使用说明”，一是没有捆绑起来，却整整齐齐的钞票。这就是“蠕动的饥饿”？奥黛丽审视了祭坛几眼，感谢起“愚者”先生。然后，她戴上那手套，按照“使用说明”，驱使起那个“旅行家”的魂灵。"
+        },
+        {
+          "chapterSeq": 1098,
+          "extractReason": "UPDATE",
+          "evidenceText": "做完这一切，克莱恩坐至“愚者”那张座椅，具现出格尔曼·斯帕罗的身影，让他简洁而快速地做起相应祷告。……她布置仪式，接收了“蠕动的饥饿”，戴上了变成银白面具的“谎言”，在“天使之拥”的保护中，按照“世界”格尔曼·斯帕罗给予的路线图，“传送”到了西拜朗库克瓦城的梅桑耶斯府邸。"
+        }
+      ]
+    },
+    {
+      "name": "生命手杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用它与戴里克交换“无暗十字”而来。克莱恩在医院使用它治疗重伤者，同时制造怪谈消化“诡法师”魔药。",
+      "identInfos": [
+        "原为白银城封印物",
+        "能治愈伤势",
+        "克莱恩用“无暗十字”交换所得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1090,
+          "extractReason": "UPDATE",
+          "evidenceText": "他刚趁着天黑，在贝克兰德和普利兹港的几家医院内用“生命手杖”治好了这次袭击里受伤的人们，并顺便留下了诡异惊悚的都市怪谈，进一步消化起“诡法师”魔药。"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "远古太阳神遗物，铜绿色有尖刺的十字架，能净化污染、析出多余特性。白银城探索队持有它，洛薇雅对其表现异常。",
+      "identInfos": [
+        "远古太阳神遗物",
+        "铜绿色有尖刺十字架",
+        "可净化污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1093,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格站在中央，是第二矮的那个，手里握着一个铜绿色有尖刺的十字架。他左右两边分别是约书亚和海因姆，他们随时准备着接过那“无暗十字”，以免戴里克的非凡特性析出。"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "一本特殊的书，克莱恩计划利用其中的“奇迹之城”来破坏心灵领域的影响，以对付乔治三世相关势力。",
+      "identInfos": [
+        "一本特殊的书",
+        "内部有世界",
+        "与“空想之龙”有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1094,
+          "extractReason": "UPDATE",
+          "evidenceText": "希望《格罗塞尔游记》内的‘奇迹之城’可以有效破坏心灵领域的影响……”"
+        }
+      ]
+    },
+    {
+      "name": "暴君牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "亵渎之牌，蕴藏“暴君”途径序列0配方。克莱恩用它增强实力，准备对付灵界掠夺者。",
+      "identInfos": [
+        "亵渎之牌",
+        "蕴藏“暴君”途径成神配方"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1097,
+          "extractReason": "UPDATE",
+          "evidenceText": "他扩大制造恐怖传说的范围，时而在苏尼亚海，时而在迷雾海，时而去伦堡，时而到费内波特，时而出现于东西拜朗、高原河谷等地方，并且不遵守任何规律，全凭一时的灵感，有的城市会反复去两三次，有的一次就不再涉足。"
+        },
+        {
+          "chapterSeq": 1090,
+          "extractReason": "UPDATE",
+          "evidenceText": "当然，袭击者克莱恩的主要目的是制造诡异的场景惊吓一位半神，帮助自己消化魔药，没有一定要狩猎成功的想法。"
+        }
+      ]
+    }
+  ]
+}

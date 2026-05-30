@@ -1,0 +1,204 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 150,
+      "toChapterSeq": 160,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾因",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "为追查幕后黑手正式结盟，阿兹克应克莱恩请求在莫尔斯小镇制造灵异事件，以利克莱恩携带封印物。"
+    },
+    {
+      "fromChapterSeq": 141,
+      "toChapterSeq": 146,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "达斯特·古德里安",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩将达斯特发展为线人，以扮演法为饵获取读心者配方，并借此掌握心理炼金会动向。"
+    },
+    {
+      "fromChapterSeq": 141,
+      "toChapterSeq": 160,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩向邓恩隐晦传授扮演法，并强调幕后黑手存在，邓恩予以重视并批准小丑特别申请。"
+    },
+    {
+      "fromChapterSeq": 143,
+      "toChapterSeq": 148,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "克莱恩在塔罗会上促成太阳加入，并给予歌颂者配方，太阳提供读心者配方作为交换。"
+    },
+    {
+      "fromChapterSeq": 148,
+      "toChapterSeq": 160,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "正义委托倒吊人调查齐林格斯，倒吊人提供潜入贝克兰德及目的情报。"
+    },
+    {
+      "fromChapterSeq": 153,
+      "toChapterSeq": 153,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "奥黛丽委托休寻找齐林格斯，提供肖像和建议。"
+    },
+    {
+      "fromChapterSeq": 153,
+      "toChapterSeq": 153,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思·沃尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "休与佛尔思共同执行奥黛丽委托，并请埃辛格分析齐林格斯资料。"
+    },
+    {
+      "fromChapterSeq": 145,
+      "toChapterSeq": 145,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "戴莉主动告知克莱恩教会高层掌握扮演法并要求保密，建议他清晰告知邓恩。"
+    }
+  ]
+}

@@ -1,0 +1,1557 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在“黑夜女神”隐秘世界中开始容纳“愚者”唯一性，遭遇阿蒙干预。在容纳过程中受到“天尊”意志和安提哥努斯精神烙印冲击，借助“永暗之河”河水进入永眠状态找到初步平衡。阿蒙分身潜入仪式现场干扰，克莱恩危急关头启动预案，让“天尊”意志初步复活，转为晋升真正的“愚者”。在多位真神和阿蒙真身参与的神战中，他依靠死亡后复活扭转状态，成功晋升序列0“愚者”，获得“愚弄”权柄。随后阿蒙真身闯入“源堡”，克莱恩与阿蒙展开第二轮神战，通过揭示阿蒙的欺诈，以牺牲自我的决心逼迫阿蒙放弃，击溃阿蒙主体，使其陨落。战后，克莱恩体内的“天尊”意志加速复苏，他不得不进入永眠与“天尊”对抗，在沉睡之前召集塔罗会成员布置长期任务，释放“源堡”内的穿越者灵魂，并携“魔镜”阿罗德斯进入“源堡”光门后沉睡。",
+      "identInfos": [
+        "穿越者，原为周明瑞",
+        "源堡主人",
+        "晋升序列0“愚者”",
+        "塔罗会首领“愚者”先生",
+        "掌握“愚弄”权柄",
+        "曾扮演格尔曼·斯帕罗、道恩·唐泰斯等身份"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "梅林·赫尔墨斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "周明瑞",
+          "type": "原名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1379,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩从历史迷雾中回归了。刚才已属于他的“愚者”唯一性、三份序列9至序列1非凡特性都急速往他的体内返回。……依靠死亡一次后的复活，克莱恩彻底扭转了自身状态！"
+        },
+        {
+          "chapterSeq": 1380,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩快速检视了下自己获得的权柄：它叫“愚弄”！"
+        },
+        {
+          "chapterSeq": 1385,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我只是遵照你们的安排放弃了而已，只不过，比你想象的更彻底一点。”……克莱恩看着阿蒙笑道：“对我来说，与其你成为‘诡秘之主’，不如让过去的那位复活。”"
+        },
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩转头看向了另外一边，对“太阳”戴里克道：“你的任务是保护好新白银城和新月城，保护好罗思德群岛。……你的报酬是成为我的眷者。”"
+        }
+      ],
+      "lifeStatus": "沉睡中",
+      "appearanceChapterSeqs": [1374, 1375, 1376, 1377, 1378, 1379, 1380, 1381, 1382, 1383, 1384, 1385, 1386, 1387, 1388, 1389, 1390, 1391, 1392, 1393]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿蒙成为双途径真神“错误”与“门”，利用权柄关闭全球门窗加强封印，闯入“源堡”与克莱恩展开神战。祂故意让“诡秘之主”部分复活以获得“源堡”权限，与克莱恩轮番斗法，但最终被克莱恩识破欺诈，在勇气对决中落败，主体陨落，残余意识选择前往星空。",
+      "identInfos": [
+        "“偷盗者”途径真神",
+        "远古太阳神之子",
+        "戴单片眼镜",
+        "欺诈之神",
+        "掌握“错误”与“门”权柄"
+      ],
+      "aliases": [
+        {
+          "alias": "错误先生",
+          "type": "称号"
+        },
+        {
+          "alias": "欺诈之神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1374,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位“错误”先生刚才毫不掩饰地展现了自己新获得的非凡能力，向所有注视着自己的存在表明了一个事实：祂已经容纳了“门”的唯一性，取得了相应的权柄！"
+        },
+        {
+          "chapterSeq": 1380,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙！这位“错误先生”的眼中染着少许幽黑，笑容显得有点疯狂。祂悠然环顾一圈，推了下单片眼镜，笑着说道：“惊喜吗？”"
+        },
+        {
+          "chapterSeq": 1386,
+          "extractReason": "UPDATE",
+          "evidenceText": "“对他来说，有比生命更加重要的事物。”“于你而言，除了自己，几乎没有什么值得太过在意。”“当事情发展到必须以生命为赌注的时候，就意味着你输了。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1374, 1375, 1376, 1377, 1378, 1379, 1380, 1381, 1382, 1383, 1384, 1385, 1386]
+    },
+    {
+      "name": "安提哥努斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "安提哥努斯在克莱恩晋升仪式的过程中，其精神烙印和失控命运被克莱恩窃取。克莱恩在关键时刻将安提哥努斯的身份、命运和自我认知归还，使其在“预言”下保持存活但未晋升序列0，最终在战后于半坍塌宫殿内苏醒，处于迷茫状态。",
+      "identInfos": [
+        "半个“愚者”",
+        "容纳了“愚者”唯一性",
+        "被“黑夜女神”送入永眠",
+        "天使之王",
+        "安提哥努斯家族先祖"
+      ],
+      "aliases": [
+        {
+          "alias": "半个愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1379,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩当即解除了部分“窃取”效果，将安提哥努斯的身份、命运和自我认知还给了原本的主人，让坐在巨大石椅上，缓缓睁开眼睛，一脸茫然的安提哥努斯逐渐变得清醒。"
+        },
+        {
+          "chapterSeq": 1380,
+          "extractReason": "UPDATE",
+          "evidenceText": "安提哥努斯坐在半坍塌的宫殿内，坐在巨大的石椅上，有种自己做了很长很长一个梦的感觉。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1374, 1377, 1379, 1380]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "亚当以“空想家”为基石短暂成为半个旧日，压制“永恒烈阳”、“风暴之主”、“知识与智慧之神”三位真神。他在神战中两次写下预言影响局势，但在克莱恩成功晋升后，与“真实造物主”融合的进度放缓，战争平息后经阴影帷幕返回。",
+      "identInfos": [
+        "远古太阳神部分意识",
+        "“空想家”天使之王后晋升真神",
+        "拥有“混沌海”",
+        "与“真实造物主”融合中",
+        "黄昏隐士会首领"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1374,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚当抬头望向权柄与象征扭曲成的星界，笑容平和地对背后阴影道：“祂们看来还不知道我这一次为什么要以‘空想家’为基石。”“这个研究成果我从来没告诉过别人。”"
+        },
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "以“混沌海”为源泉，以自身和“真实造物主”为支柱，“空想”出三个唯一性……亚当似乎超越了序列的限制，成为了半个旧日，仅凭一己之力就强行压制住了“永恒烈阳”、“风暴之主”和“知识与智慧之神”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1374, 1375, 1379, 1380]
+    },
+    {
+      "name": "黑夜女神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神在克莱恩容纳“愚者”唯一性时提供隐秘世界并祝福，在神战中对抗阿蒙真身，用“永暗之河”河水、黄昏巨剑等帮助克莱恩。在紧急时刻默契杀死克莱恩使其复活扭转状态，战后建议克莱恩先彻底掌控“源堡”并在永眠中对抗“天尊”。",
+      "identInfos": [
+        "序列0真神",
+        "执掌隐秘和梦境权柄",
+        "七大正神之一",
+        "黑夜教会信仰之主",
+        "形象为黑色长裙、多条手臂"
+      ],
+      "aliases": [
+        {
+          "alias": "女神",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "“黑夜女神”！下一秒，右眼戴着单片眼镜的阿蒙像素描一样被橡皮擦快速擦掉了。"
+        },
+        {
+          "chapterSeq": 1379,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，本无力再劈下那把黄昏巨剑的“黑夜女神”突然放弃了对阿蒙真身的控制。……噗的一声，他被黄昏的象征之剑斩中，碎成了一摊腐朽的“烂肉”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1374, 1375, 1378, 1379, 1380, 1386]
+    },
+    {
+      "name": "永恒烈阳",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "永恒烈阳在神战中被亚当压制的三位真神之一，在神国中尝试突破厚棱镜般的光斑未果，战争后期反击激烈程度降低，最终安静下来继续堵着世界屏障裂缝。",
+      "identInfos": [
+        "序列0真神",
+        "太阳途径",
+        "永恒烈阳教会信仰之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "天空一直明亮的地方，所有花朵都发出了光芒，仿佛变成了一个又一个微缩的，炽烈的太阳。……它都无法突破厚棱镜般的光之斑块。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1375, 1379, 1380]
+    },
+    {
+      "name": "风暴之主",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "风暴之主在神战中被亚当压制的三位真神之一，在神国中尝试突破光之斑块，战争后期反击激烈程度降低，最终安静下来继续堵着世界屏障裂缝。",
+      "identInfos": [
+        "序列0真神",
+        "水手途径",
+        "风暴教会信仰之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "那片被闪电、狂风、暴雨笼罩的无垠大海深处，一点光芒骤然亮起。……这样的“波浪”连同那点光芒，接连不断地拍打着厚棱镜般的光之斑块。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1375, 1379, 1380]
+    },
+    {
+      "name": "知识与智慧之神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "知识与智慧之神在神战中被亚当压制的三位真神之一，在神国中尝试破解光之斑块，战争后期反击激烈程度降低，最终安静下来继续堵着世界屏障裂缝。",
+      "identInfos": [
+        "序列0真神",
+        "阅读者途径",
+        "知识与智慧之神教会信仰之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "各种图书组成的奇妙国度表层，同样的光之斑块上，一点点黄铜色的微光飞快游走……而光之斑块内部，同样有类似的微光在游走……这让双方看起来似乎是在比拼计算能力。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1375, 1379, 1380]
+    },
+    {
+      "name": "原初魔女",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "原初魔女奇克在神战中袭击克莱恩，被大地母神挡住，之后见克莱恩晋升“愚者”无望便不再激烈攻击，最终脱离战场。",
+      "identInfos": [
+        "序列0真神",
+        "魔女途径",
+        "名为奇克",
+        "原初魔女"
+      ],
+      "aliases": [
+        {
+          "alias": "奇克",
+          "type": "本名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "“原初魔女”，奇克！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1375, 1376, 1379, 1380]
+    },
+    {
+      "name": "大地母神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "大地母神在神战中挡住原初魔女，构建自然屏障保护克莱恩，并分出余力影响阿蒙分身，战后淡化返回。",
+      "identInfos": [
+        "序列0真神",
+        "月亮途径？",
+        "大地母神教会信仰之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "执掌着“月亮”途径唯一性的“大地母神”挡住了“原初魔女”奇克。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1376, 1377, 1378, 1379, 1380]
+    },
+    {
+      "name": "隐匿贤者",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "隐匿贤者在神战中攻击克莱恩，被蒸汽与机械之神挡住，战后借信息洪流融入象征消失。",
+      "identInfos": [
+        "序列0真神？",
+        "隐者途径",
+        "摩斯苦修会信仰对象"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐匿贤者”！就在这个时候，濛濛光芒自虚无中蹿升……庞杂到恐怖的信息洪流撞入了那一幅幅虚幻的画卷中。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1376, 1377, 1379, 1380]
+    },
+    {
+      "name": "蒸汽与机械之神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蒸汽与机械之神在神战中挡住隐匿贤者，用文明画卷承载信息洪流，分余力对付阿蒙分身，战后淡化返回。",
+      "identInfos": [
+        "序列0真神",
+        "工匠途径",
+        "蒸汽教会信仰之主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "庞杂到恐怖的信息洪流撞入了那一幅幅虚幻的画卷中……几千上万年的文明是那样的厚重和广博……用来承载“隐匿贤者”的信息洪流完全足够。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1376, 1377, 1379, 1380]
+    },
+    {
+      "name": "灯神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "灯神在克莱恩晋升过程中提供帮助，用“特伦索斯特黄铜书”制定规则，多次对抗阿蒙，战后回归“许愿神灯”内。",
+      "identInfos": [
+        "外神？",
+        "被封印于“许愿神灯”中",
+        "淡金模糊身影",
+        "知晓众多隐秘"
+      ],
+      "aliases": [
+        {
+          "alias": "灯神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的衣兜内，一点光芒亮了起来。那光芒呈淡金色，如同粘稠的糖浆，瞬间将周围区域笼罩于内。"
+        }
+      ],
+      "lifeStatus": "被封印",
+      "appearanceChapterSeqs": [1376, 1378, 1379, 1380, 1382, 1385]
+    },
+    {
+      "name": "卢卡·布鲁斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "卢卡·布鲁斯特在门窗突然紧闭时察觉异常，发现地底封印物“0-01”所在区域变得寂静，后因阿蒙的“盲目痴愚”效果短暂迷茫。",
+      "identInfos": [
+        "知识教会高层",
+        "“预言家”",
+        "曾经濒临失控"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1374,
+          "extractReason": "UPDATE",
+          "evidenceText": "轮值地底区域的卢卡感受到这不同寻常的动静，猛地站了起来。作为一名“预言家”，他敏锐地察觉到了有什么事情正在发生。"
+        },
+        {
+          "chapterSeq": 1380,
+          "extractReason": "UPDATE",
+          "evidenceText": "卢卡突然愣住，停下了脚步。他的表情变得颇为迷茫，不知道自己接下来是该先迈左脚，还是右脚。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1374, 1380]
+    },
+    {
+      "name": "伦纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在南大陆察觉门窗紧闭，后参加临时塔罗会，接受传播“愚者”信仰和“世界”事迹的委托，决定购买诗集以诗歌创作形式完成任务，并参与围剿玫瑰学派。",
+      "identInfos": [
+        "塔罗会成员“星星”",
+        "黑夜教会高级执事",
+        "序列4“守夜人”",
+        "克莱恩的朋友",
+        "体内寄生天使帕列斯"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你的任务和‘月亮’类似，在围剿玫瑰学派时，从他们成员的身上搜集‘欲望母树’给予的祝福、气息和物品，这同样很危险。”"
+        },
+        {
+          "chapterSeq": 1391,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德默然几秒，端起面前已变凉不少的咖啡，轻轻抿了一口。苦涩的味道旋即充盈了他的口腔，让他的头脑逐渐清醒过来。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1380, 1387, 1388, 1391]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯·索罗亚斯德在神战期间沉默，战后告知伦纳德阿蒙主体陨落和“愚者”等于半个“诡秘之主”的信息，并对伦纳德写诗任务提供建议。",
+      "identInfos": [
+        "“偷盗者”途径天使",
+        "寄生在伦纳德体内",
+        "曾为阿蒙祖父?",
+        "索罗亚斯德家族先祖"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1391,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德一阵沉默后，满是感慨地回答道：“‘错误’陨落了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1380, 1391]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹在拜亚姆尝试发电报时因阿蒙权柄影响出现思绪混乱，后知悉“愚者”和格尔曼·斯帕罗沉眠，接受任务配合戴里克管理海神教会。",
+      "identInfos": [
+        "海神教会神使",
+        "格尔曼·斯帕罗原手下",
+        "十项全能人才"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1380,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹对环境的变化毫无察觉，认真地摆弄着接到了自己房间里的有线电报机。"
+        },
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹太过震惊，以至于说不出话来。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1380, 1392]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽参加临时塔罗会，得知“世界”沉眠和“愚者”将沉睡，接受任务提升序列以唤醒“世界”，并协助调查“红祭司”途径情报。她晋升为“织梦人”，分割虚拟人格陪伴家人，本体带着苏茜离开家庭，进入集体潜意识大海。",
+      "identInfos": [
+        "塔罗会成员“正义”",
+        "霍尔家族千金",
+        "“观众”途径非凡者",
+        "心理炼金会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "那次临时的塔罗聚会后，她终于下定了决心，晋升为了“织梦人”，准备分割一个身份出来陪伴家人，自己则远离他们……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1388, 1389, 1392]
+    },
+    {
+      "name": "阿尔杰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰参加临时塔罗会，接受未知任务，后来从风暴教会处获得《天灾之书》和幽灵船“幽蓝复仇者号”，辞去教皇职务，将海神教会事务交于戴里克，踏上新旅程。",
+      "identInfos": [
+        "塔罗会成员“倒吊人”",
+        "海神教会教皇",
+        "原风暴教会枢机主教",
+        "“水手”途径非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        },
+        {
+          "alias": "威尔逊",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰耐心地等待起“愚者”先生口中的任务来临。……他打开这个容器，看见里面摆放着一卷由黄褐色羊皮纸装订成的书籍。书籍的表面，用精灵语写着一行单词：“天灾之书”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1388, 1392]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克参加临时塔罗会，接受保护新白银城和罗思德群岛、传播信仰的任务，成为“愚者”眷者。后接管海神教会事务，接替阿尔杰。",
+      "identInfos": [
+        "塔罗会成员“太阳”",
+        "白银城新任首席？（原文为长老）",
+        "序列5“光之祭司”",
+        "“愚者”眷者"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你的报酬是成为我的眷者。”"
+        },
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克下意识又想抬手挠一挠后脑，但最终还是忍了下来……“倒，威尔逊冕下，您什么时候能够回来？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1389, 1392]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思参加临时塔罗会，接受保护亚伯拉罕家族和搜集第四纪资料的任务，同时为“世界”写传记。她担心好友休的任务危险，主动为休编写剧本以帮助其获得军情九处承认。",
+      "identInfos": [
+        "塔罗会成员“魔术师”",
+        "“学徒”途径半神",
+        "亚伯拉罕家族成员",
+        "作家"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1390,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思决定忘记刚才的指责，将重点转回任务本身：“涉及序列1和唯一性的任务真的太危险了。”……她随即补充道：“记得请我帮忙。至少，至少能带着你逃掉。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1389, 1390]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "休参加临时塔罗会，接受调查“红祭司”途径唯一性和序列1非凡特性下落，以及确认“原初魔女”状态的任务。她计划借助军情九处情报网络，并请“正义”小姐协助，同时决心勇敢面对风险。",
+      "identInfos": [
+        "塔罗会成员“审判”",
+        "序列4“律令法师”",
+        "军情九处成员",
+        "休·迪尔查"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1390,
+          "extractReason": "UPDATE",
+          "evidenceText": "“只是寻找线索，调查真相，又不需要直面祂们。”休顿了一秒又道：“末日将近，总得做点什么。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1389, 1390]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林参加临时塔罗会，接受搜集“原始月亮”相关物品和组建药品公司传播“愚者”信仰的任务，之后参与围剿玫瑰学派，召集血族讨论药品公司，感叹自己已承担救世主宿命。",
+      "identInfos": [
+        "塔罗会成员“月亮”",
+        "血族伯爵",
+        "丰收教堂执事"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1391,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林微微抬起下巴，笑着摇了摇脑袋：“这就是救世主的宿命啊……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1389, 1391]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "嘉德丽雅参加临时塔罗会，接受调查“隐匿贤者”状态的任务，决心直面危险融入摩斯苦修会核心以搜集资料。她随后展现半神实力，将“未来号”舰队带入灵界。",
+      "identInfos": [
+        "塔罗会成员“隐者”",
+        "“星之上将”",
+        "摩斯苦修会十支柱之一",
+        "“神秘女王”贝尔纳黛的学生"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1390,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅微微叹了口气，明白自己永远也回不到小女孩阶段的无忧无虑了。……“那就去面对吧。”去真正地融入摩斯苦修会，搜集相应的资料。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387, 1388, 1389, 1390]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛在克莱恩归还“许愿神灯”后，接受铁制卷烟盒作为报酬，并预言到什么。",
+      "identInfos": [
+        "“神秘女王”",
+        "罗塞尔·古斯塔夫之女",
+        "序列2“贤者”",
+        "摩斯苦修会成员?"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝尔纳黛轻启嘴唇，仿佛想说点什么，但这个刹那，她眸光一闪，似乎又看见了点什么，预言到了点什么，于是沉默地伸手接住了“许愿神灯”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀预感到容纳“概率之骰”的契机到来，但为免加重克莱恩负担，决定等待下次契机，并给予克莱恩祝福。",
+      "identInfos": [
+        "“命运之蛇”",
+        "生命学派议长",
+        "序列1“水银之蛇”",
+        "以婴儿形象出现"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "威尔·昂赛汀抬起脑袋，看着眼前的道恩·唐泰斯，突然流下了眼泪，抽噎得很是厉害：“我终于感觉到了那个契机。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1387]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克从沉睡中苏醒，阅读克莱恩来信后恢复记忆，决定开始一段旅行追寻过去，并承诺写信给克莱恩。",
+      "identInfos": [
+        "克莱恩的朋友",
+        "死神后裔",
+        "多次沉睡与苏醒",
+        "原为历史教师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1393,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克·艾格斯坐了起来，表情颇为茫然。……他已经醒来，收到了你所有的信，它们让我记起了自己是谁，记起了你是谁，也记起了过去的很多往事。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1393]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎带领侄女举行仪式向“愚者”祈祷，引导她与触手打招呼。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "信仰“愚者”",
+        "住在贝克兰德"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1393,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎牵着一个明显不到十岁的小女孩，走了进来。……她随即指着前方已布置好的祭台和还未点燃的蜡烛道：“你可以开始了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1393]
+    },
+    {
+      "name": "乌特拉夫斯基神父",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基神父准备与埃姆林一同出发前往南大陆参与围剿玫瑰学派。",
+      "identInfos": [
+        "丰收教堂主教",
+        "巨人族",
+        "埃姆林的搭档"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1391,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林回过头去，看见穿着褐色教士袍的神父背上了一把巨剑。那巨剑的长度超过了埃姆林的身高，宽度接近他的腰部。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1391]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗兰克·李在“未来号”上酿造啤酒，嘉德丽雅决定看住他避免其因“愚者”沉眠而出问题。",
+      "identInfos": [
+        "“未来号”大副",
+        "“大地”途径非凡者",
+        "热爱发明和酿造"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1390,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗兰克·李正热情地请船员们品尝他新酿造的“啤酒”，但没有一个海盗敢于尝试。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1390]
+    },
+    {
+      "name": "真实造物主",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "真实造物主作为亚当的支柱之一，在神战后与亚当的融合进度放缓。",
+      "identInfos": [
+        "远古太阳神负面人格",
+        "极光会信仰对象",
+        "与亚当融合中"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "以“混沌海”为源泉，以自身和“真实造物主”为支柱，“空想”出三个唯一性……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1375]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "苏茜作为奥黛丽的伙伴，选择跟随本体奥黛丽离开进入集体潜意识大海。",
+      "identInfos": [
+        "金毛大狗",
+        "奥黛丽的非凡伙伴",
+        "“观众”途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗苏茜早已等待在那里。……“嗯，我们是永远的朋友。”金毛大狗苏茜认真回答道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1392]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会举行临时聚会，愚者宣布将进入沉眠，向成员发布长期委托：传播信仰、书写“世界”事迹、调查“隐匿贤者”和“红祭司”途径情报等，并确立每月第一个周一下午仍可聚会但不再有召集者。成员们接受任务并开始各自行动。",
+      "identInfos": [
+        "由“愚者”克莱恩创立",
+        "成员包括奥黛丽、阿尔杰等",
+        "在灰雾之上聚会",
+        "以塔罗牌为代号"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "这突如其来的召集明显出乎了“正义”奥黛丽等人的预料，让他们一时都有些错愕和惊讶。"
+        },
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是一个对所有成员发布的长期委托：‘更广泛地宣扬我的名，但不要和正神教会冲突……’”"
+        }
+      ]
+    },
+    {
+      "name": "黑夜教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神在神战中对抗阿蒙，帮助克莱恩；教会成员伦纳德接受任务传播信仰；后续对教会发展有影响。",
+      "identInfos": [
+        "信仰黑夜女神",
+        "七大正神教会之一",
+        "掌握隐秘、梦境权柄",
+        "值夜者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1379,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，本无力再劈下那把黄昏巨剑的“黑夜女神”突然放弃了对阿蒙真身的控制。……噗的一声，他被黄昏的象征之剑斩中。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "风暴之主在神战中被亚当压制；战后风暴教会向海神教会教皇阿尔杰赠送《天灾之书》和幽灵船，似有承认或试探之意。",
+      "identInfos": [
+        "信仰风暴之主",
+        "七大正神教会之一",
+        "成员多为水手途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "风暴教会派使者送来了两份礼物，祝贺您担任神的代行者。"
+        }
+      ]
+    },
+    {
+      "name": "知识与智慧之神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "知识与智慧之神在神战中被亚当压制；教会总部地底封印物“0-01”出现异常，高层卢卡受影响。",
+      "identInfos": [
+        "信仰知识与智慧之神",
+        "七大正神教会之一",
+        "总部为白色高塔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1374,
+          "extractReason": "UPDATE",
+          "evidenceText": "“知识与智慧之神”教会的总部，一座白色的高塔内。轮值地底区域的卢卡感受到这不同寻常的动静，猛地站了起来。"
+        }
+      ]
+    },
+    {
+      "name": "永恒烈阳教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "永恒烈阳在神战中被亚当压制，教会暂无直接描写。",
+      "identInfos": [
+        "信仰永恒烈阳",
+        "七大正神教会之一"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "天空一直明亮的地方，所有花朵都发出了光芒，仿佛变成了一个又一个微缩的，炽烈的太阳。……它都无法突破厚棱镜般的光之斑块。"
+        }
+      ]
+    },
+    {
+      "name": "大地母神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "大地母神在神战中挡住原初魔女，保护克莱恩；教会成员暂无直接描写。",
+      "identInfos": [
+        "信仰大地母神",
+        "七大正神教会之一"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "执掌着“月亮”途径唯一性的“大地母神”挡住了“原初魔女”奇克。"
+        }
+      ]
+    },
+    {
+      "name": "蒸汽教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "蒸汽与机械之神在神战中挡住隐匿贤者；教会成员暂无直接描写。",
+      "identInfos": [
+        "信仰蒸汽与机械之神",
+        "七大正神教会之一",
+        "较晚成立的教会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "当初，那位“工匠之神”并没有很好地消化掉序列1“文明启蒙者”……等到罗塞尔以“蒸汽之子”和教会成员的身份掀起工业革命……“工匠之神”才抓住机会改名为“蒸汽与机械之神”。"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅决心真正融入摩斯苦修会核心以调查“隐匿贤者”状态，该组织信仰隐匿贤者，十支柱中有危险存在。",
+      "identInfos": [
+        "信仰隐匿贤者",
+        "成员多为窥秘人途径",
+        "十支柱为高层"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1390,
+          "extractReason": "UPDATE",
+          "evidenceText": "“以我现在的身份，参与摩斯苦修会内部事务的决策是完全没有问题的。只有真正地参与这些，才能接触到更多的资料，提高本身的地位……”"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "休计划借助军情九处的情报网络调查“红祭司”途径信息，并打算暴露自身半神实力以获得更多资源。",
+      "identInfos": [
+        "鲁恩王国情报机构",
+        "负责处理超凡事件",
+        "休为其成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1390,
+          "extractReason": "UPDATE",
+          "evidenceText": "“仅靠我自己调查，肯定很难，必然得借助军情九处的情报网络。我打算找个合适的机会，让他们知道我已经成为序列4的半神。”"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会成员将参与围剿玫瑰学派的行动，埃姆林和伦纳德的任务中涉及从玫瑰学派成员身上搜集外神相关物品。",
+      "identInfos": [
+        "信奉“欲望母树”或“被缚之神”",
+        "分为节制派和放纵派",
+        "活动于南大陆"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "“围剿玫瑰学派的事情涉及末日的准备，相当危险，即使有天使的参与，也要注意自身的安全。”"
+        }
+      ]
+    },
+    {
+      "name": "生命学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀提及让生命学派的半神将“概率之骰”送来，显示其为威尔所属势力。",
+      "identInfos": [
+        "信奉命运",
+        "议长为威尔·昂赛汀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "你现在就让生命学派的半神将‘概率之骰’送过来吧。"
+        }
+      ]
+    },
+    {
+      "name": "海神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "海神教会教皇阿尔杰辞职，将事务交给戴里克，并确立海神为“愚者”从神的教义，教会重心转为传播“愚者”信仰。",
+      "identInfos": [
+        "信仰海神卡维图瓦，后转为“愚者”",
+        "以拜亚姆为总部",
+        "神使达尼兹",
+        "信徒众多"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "“等我离开，教会的事务将移交给新白银城的戴里克·伯格长老，你需要配合他，将海神是‘愚者’先生从神这件事情写入典籍，让所有信徒都接受。”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "真实造物主作为极光会信仰对象，其与亚当的融合会影响该组织，但本chunk未直接描写。",
+      "identInfos": [
+        "信仰真实造物主",
+        "较为极端的隐秘组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "以“混沌海”为源泉，以自身和“真实造物主”为支柱……"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "赫密斯重新建立的心理炼金会是奥黛丽提升序列的途径之一，但需要小心提防。",
+      "identInfos": [
+        "研究心灵领域",
+        "与黄昏隐士会有关联？"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "“在这方面，你可以借助外部力量的帮助，赫密斯重新建立的心理炼金会是选择之一，但需要小心和提防。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "特伦索斯特黄铜书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "又名“0-02”，在神战中多次被用来制定有利于克莱恩的规则，如“此地禁言”、“此地禁止偷盗”等，对抗阿蒙。战后被克莱恩愚弄进入封印状态。",
+      "identInfos": [
+        "编号“0-02”",
+        "能制定规则",
+        "可被“灯神”影响",
+        "外形为黄铜书册"
+      ],
+      "aliases": [
+        {
+          "alias": "0-02",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1376,
+          "extractReason": "UPDATE",
+          "evidenceText": "“0-02”，“特伦索斯特黄铜书”！这件封印物在半空舒展开了“身姿”，一边沐浴着淡金的光芒，一边让空白页上突兀出现了一条规则……“此地禁言！”"
+        }
+      ]
+    },
+    {
+      "name": "许愿神灯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印着“灯神”的神奇物品，在神战中为克莱恩提供帮助，战后被归还给贝尔纳黛。",
+      "identInfos": [
+        "内封印“灯神”",
+        "淡金光芒",
+        "可实现愿望但有代价",
+        "原属贝尔纳黛"
+      ],
+      "aliases": [
+        {
+          "alias": "神灯",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抬手从杂物堆里取出“许愿神灯”，依靠它和贝尔纳黛间的权属关系，又是一个“漫游”，出现在了一座相当隐蔽的岛屿上。"
+        }
+      ]
+    },
+    {
+      "name": "永暗之河河水",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神使用永暗之河河水滴在克莱恩本体上，使“诡秘之主”意志进入永眠，后克莱恩也借助它进入永眠以对抗“天尊”。",
+      "identInfos": [
+        "源自永暗之河",
+        "无颜色",
+        "带有强烈永寂气息",
+        "可用于封印和沉睡"
+      ],
+      "aliases": [
+        {
+          "alias": "河水",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1378,
+          "extractReason": "UPDATE",
+          "evidenceText": "这鸟型黄金饰品的青铜眼珠内部，虚幻层叠的门涌了出来，让一滴没有颜色的，带着强烈永寂气息的水液落往古老宫殿内的克莱恩“本体”处。这是一滴“永暗之河”的河水！"
+        }
+      ]
+    },
+    {
+      "name": "黄昏巨剑",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神使用的黄昏象征之剑，斩杀克莱恩使其复活扭转局面，后可能用于其他。",
+      "identInfos": [
+        "黄昏巨人象征",
+        "橘红光芒",
+        "能带来衰败和死亡",
+        "黑夜女神武器"
+      ],
+      "aliases": [
+        {
+          "alias": "黄昏的象征之剑",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1379,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，本无力再劈下那把黄昏巨剑的“黑夜女神”……噗的一声，他被黄昏的象征之剑斩中，碎成了一摊腐朽的“烂肉”。"
+        }
+      ]
+    },
+    {
+      "name": "第一块亵渎石板",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙将第一块亵渎石板放置于迷雾海深渊入口附近，以阻止外神渗透。",
+      "identInfos": [
+        "古老斑驳石板",
+        "记录途径配方",
+        "与混沌海有关"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎石板",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙随即随手一扔，让这块古老斑驳的石板从星界落下，落到了迷雾海某个地方。……第一块“亵渎石板”落下后，准确地插在了山峰的顶端。"
+        }
+      ]
+    },
+    {
+      "name": "源堡",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "源堡在神战中多次出现，是克莱恩与阿蒙争夺掌控权的核心。克莱恩利用源堡制造诡秘之境、进行嫁接、使用历史迷雾等，战后克莱恩进入源堡沉睡。",
+      "identInfos": [
+        "灰雾之上的神秘空间",
+        "诡秘之主源质",
+        "有奇异光门",
+        "克莱恩和阿蒙皆可影响"
+      ],
+      "aliases": [
+        {
+          "alias": "灰雾",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1377,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩……调动了“源堡”的力量，让整座古老宫殿蒙上了一层阴影般的幕布。"
+        }
+      ]
+    },
+    {
+      "name": "愚者唯一性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从容纳愚者唯一性开始，到最终成功容纳。愚者唯一性内部有强烈的“天尊”意志，最终与克莱恩融合。",
+      "identInfos": [
+        "愚者途径唯一性",
+        "半透明面具形态",
+        "铭刻愚者符号"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1374,
+          "extractReason": "UPDATE",
+          "evidenceText": "一张铭刻着“愚者”符号的半透明面具从安提哥努斯体内飞了出来！"
+        }
+      ]
+    },
+    {
+      "name": "愚者魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "由愚者唯一性和两份序列9-1非凡特性聚合而成，克莱恩服食后晋升愚者。",
+      "identInfos": [
+        "序列0魔药",
+        "幽暗液体形态",
+        "聚合形成"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1378,
+          "extractReason": "UPDATE",
+          "evidenceText": "这团液体拉伸变化着，仿佛要形成一件半透明的带兜帽的古怪斗篷……“愚者”魔药！"
+        }
+      ]
+    },
+    {
+      "name": "愚者牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "亵渎之牌中的愚者牌，被克莱恩用作纸人替身欺诈阿蒙。",
+      "identInfos": [
+        "亵渎之牌之一",
+        "罗塞尔制作",
+        "对应愚者途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1381,
+          "extractReason": "UPDATE",
+          "evidenceText": "那个有着“愚者”气息的克莱恩飞快变薄，化成了一张纸牌。纸牌之上，罗塞尔·古斯塔夫戴着华丽的头饰……“亵渎之牌”里的“愚者”牌。"
+        }
+      ]
+    },
+    {
+      "name": "星之杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在神战中使用星之杖，但具体效果未详细展示。",
+      "identInfos": [
+        "格尔曼·斯帕罗曾用武器",
+        "能释放星光"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1382,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩漂浮于半空，一手拿着“许愿神灯”，一手提着“星之杖”。"
+        }
+      ]
+    },
+    {
+      "name": "魔镜阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩携魔镜阿罗德斯进入源堡光门后沉睡，魔镜表白“不怕”。",
+      "identInfos": [
+        "古老银镜",
+        "可占卜和回答问题",
+        "有活着的特性"
+      ],
+      "aliases": [
+        {
+          "alias": "阿罗德斯",
+          "type": "本名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩低下脑袋，看着掌中的“魔镜”道：“害怕吗？”古老银镜的表面，水光一阵晃荡，惨白的单词勾勒了出来：“不怕。”"
+        }
+      ]
+    },
+    {
+      "name": "鸟型黄金饰品",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神使用的神器，可用于释放永暗之河河水、制造黄昏光芒等。",
+      "identInfos": [
+        "黑夜女神所有",
+        "鸟型黄金饰物",
+        "有青铜眼珠"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1375,
+          "extractReason": "UPDATE",
+          "evidenceText": "祂其中两只手拖着一把长长的巨镰，另外一只拿着鸟型黄金饰品，剩余则空着……"
+        }
+      ]
+    },
+    {
+      "name": "旧日之盒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在杂物堆中拥有旧日之盒，但未直接使用。",
+      "identInfos": [
+        "“0”级封印物",
+        "源自星空",
+        "极度危险"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1381,
+          "extractReason": "UPDATE",
+          "evidenceText": "“源堡”虽然没法再利用，但这里毕竟是克莱恩的主场，有他的杂物堆，有他搜集的各种物品，有刚收获的“特伦索斯特黄铜书”和借来的“许愿神灯”。"
+        }
+      ]
+    },
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀需要容纳的唯一性，但因克莱恩状态不佳，威尔决定等待下次契机，未在本chunk实际出现。",
+      "identInfos": [
+        "命运途径唯一性",
+        "骰子形态"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "你现在就让生命学派的半神将‘概率之骰’送过来吧。"
+        }
+      ]
+    },
+    {
+      "name": "天灾之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会赠予阿尔杰的礼物，是一本由黄褐色羊皮纸装订成籍的书籍，表面用精灵语写着“天灾之书”。",
+      "identInfos": [
+        "极端邪异",
+        "与天灾有关",
+        "风暴教会所有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "书籍的表面，用精灵语写着一行单词：“天灾之书”。"
+        }
+      ]
+    },
+    {
+      "name": "幽蓝复仇者号",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会赠予阿尔杰的幽灵船，曾是阿尔杰做海盗时的船只。",
+      "identInfos": [
+        "幽灵船",
+        "三桅帆船形式",
+        "阿尔杰旧船"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1392,
+          "extractReason": "UPDATE",
+          "evidenceText": "“是一艘叫做‘幽蓝复仇者’的幽灵船，已经停在了港口。”那名主教不觉有任何异常地回答道。"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔杰可带上“海神权杖”执行任务，但海神信徒的祈祷将转移至戴里克那里。",
+      "identInfos": [
+        "海神卡维图瓦遗留",
+        "可用于回应信徒祈祷",
+        "现为海神教会圣物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你可以带上‘海神权杖’，但在此期间，所有海神信徒的祈祷都将转移到‘太阳’那里，直接指向我。”"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩吹响阿兹克铜哨召唤白骨信使寄信。",
+      "identInfos": [
+        "阿兹克·艾格斯的物品",
+        "可召唤信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1389,
+          "extractReason": "UPDATE",
+          "evidenceText": "他又闭了闭眼睛，招来阿兹克铜哨，吹了一下。"
+        }
+      ]
+    },
+    {
+      "name": "铁制卷烟盒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩赠予贝尔纳黛的报酬，表面有腐蚀痕迹。",
+      "identInfos": [
+        "被污染的容器?",
+        "可能装过非凡物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1387,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩旋即拿出一个表面有腐蚀痕迹的铁制卷烟盒：“这是报酬。”"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "未直接出现，但克莱恩提及曾借助它占卜获得“奇迹师”配方。",
+      "identInfos": [
+        "安提哥努斯家族遗留",
+        "与占卜家途径有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1380,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩通过安提哥努斯笔记占卜获得“奇迹师”配方。"
+        }
+      ]
+    }
+  ]
+}

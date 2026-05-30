@@ -1,0 +1,154 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 583,
+      "toChapterSeq": 589,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩刺杀特雷茜失败后向阿兹克求助。阿兹克带其重返黑死号面对卡特琳娜，并以拓印死神文献为条件使卡特琳娜未加阻拦。两人关系延续师生般的信任与合作，阿兹克凭吊女儿墓后继续旅程。"
+    },
+    {
+      "fromChapterSeq": 587,
+      "toChapterSeq": 589,
+      "characterA": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡特琳娜·佩莱",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿兹克与卡特琳娜是千年前的旧识，曾在“苍白之灾”中合作对抗黑夜教会。此次因克莱恩之事重新接触，双方立场不同但未发生冲突，卡特琳娜认出阿兹克为死亡执政官并同意拓印文献。"
+    },
+    {
+      "fromChapterSeq": 583,
+      "toChapterSeq": 589,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "攻击者"
+        }
+      },
+      "characterB": {
+        "name": "特雷茜",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被攻击者"
+        }
+      },
+      "relationSummary": "克莱恩为获取死神文献和伊莲下落而刺杀特雷茜，失败后跳海逃脱。特雷茜猜测袭击者为格尔曼且持有“蠕动的饥饿”，但因忌惮阿兹克不敢泄露消息，仅决定留意其行踪。"
+    },
+    {
+      "fromChapterSeq": 590,
+      "toChapterSeq": 591,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "达克威尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "达克威尔委托克莱恩寻找老师罗伊·金，克莱恩通过魔镜和千纸鹤获知其被军方关押，并确认威尔·昂赛汀为生命学派议长，转告达克威尔后获100镑酬。"
+    },
+    {
+      "fromChapterSeq": 598,
+      "toChapterSeq": 600,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "攻击者"
+        }
+      },
+      "characterB": {
+        "name": "米索尔·金",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被攻击者"
+        }
+      },
+      "relationSummary": "米索尔在酒吧观察克莱恩并怀疑其为袭击者，克莱恩遵循疯狂人设直接攻击，利用多种能力将其击杀并放牧灵魂。"
+    },
+    {
+      "fromChapterSeq": 598,
+      "toChapterSeq": 600,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "攻击者"
+        }
+      },
+      "characterB": {
+        "name": "奥兹尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被攻击者"
+        }
+      },
+      "relationSummary": "奥兹尔作为米索尔的手下参与观察克莱恩，在冲突中被克莱恩击杀并放牧。"
+    }
+  ]
+}

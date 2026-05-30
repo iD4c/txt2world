@@ -1,0 +1,204 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 723,
+      "toChapterSeq": 724,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "图兰尼·冯·赫尔莫修因",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "赫尔莫修因（橘光希拉里昂）主动提醒周明瑞小心“欲望母树”，并点明其灰雾特质会被高位灵界生物和某些神灵感知，提供了关键情报。"
+    },
+    {
+      "fromChapterSeq": 724,
+      "toChapterSeq": 728,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "周明瑞为应对“欲望母树”的危险，召唤信使蕾妮特并约定分期付款1万金币雇佣其保护自己。蕾妮特在后续与杰克斯的战斗中现身相助。"
+    },
+    {
+      "fromChapterSeq": 726,
+      "toChapterSeq": 728,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "杰克斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "杰克斯作为玫瑰学派半神，受命袭击周明瑞，双方展开激战，周明瑞在蕾妮特帮助下抵抗并逃脱。"
+    },
+    {
+      "fromChapterSeq": 726,
+      "toChapterSeq": 730,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "塞尼奥尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "塞尼奥尔参与袭击周明瑞，战斗中周明瑞逐步控制其灵体之线，最终将其转化为自己的长期秘偶。"
+    },
+    {
+      "fromChapterSeq": 730,
+      "toChapterSeq": 730,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "主人",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "塞尼奥尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "奴仆",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "周明瑞将塞尼奥尔转化为永久秘偶，成为其主人，完全控制其行动。"
+    },
+    {
+      "fromChapterSeq": 728,
+      "toChapterSeq": 728,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "relationSummary": "周明瑞逃脱后，阿兹克出现带他穿梭灵界脱离危险，并清除其身上的白色羽毛，体现了长期的盟友关系。"
+    },
+    {
+      "fromChapterSeq": 731,
+      "toChapterSeq": 731,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "戴维·雷蒙",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞完成戴维·雷蒙的遗愿，向其女儿妮露转达遗言，并捐赠其非凡特性。这是对已故者的帮助，体现人物后续处理。"
+    },
+    {
+      "fromChapterSeq": 731,
+      "toChapterSeq": 731,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "妮露·雷蒙",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "周明瑞向妮露转达其父戴维的遗言，并告知凶手已惩戒，完成了对雷蒙家庭的帮助。"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 913,
+      "toChapterSeq": 925,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "阿兹克帮助克莱恩登船，迫使路德维尔成为克莱恩秘偶，并带克莱恩进入死神陵寝，揭示自身灵魂分割的秘密，最终在女神介入下沉睡前将铜哨托付给克莱恩，嘱其可向灵界七光求助。"
+    },
+    {
+      "fromChapterSeq": 913,
+      "toChapterSeq": 913,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "“地狱上将”路德维尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "路德维尔因恐惧阿兹克而投降，被阿兹克强迫成为克莱恩的秘偶一年，克莱恩将其转化为秘偶，获得其“看门人”能力。"
+    },
+    {
+      "fromChapterSeq": 914,
+      "toChapterSeq": 914,
+      "characterA": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "“地狱上将”路德维尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "阿兹克以“死亡执政官”身份命令路德维尔献出死神戒指并成为克莱恩秘偶，路德维尔服从。"
+    },
+    {
+      "fromChapterSeq": 925,
+      "toChapterSeq": 925,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "伦纳德来信告知因斯·赞格威尔在东拜朗与灵教团半神会面，克莱恩回信分享通过祈求获得的神谕情报，并提议合作对付因斯。"
+    },
+    {
+      "fromChapterSeq": 925,
+      "toChapterSeq": 925,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "黑夜女神",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩向“人造死神”祈求实为向女神祈求，获得关于因斯·赞格威尔的神谕；克莱恩推测女神已标记自身，并接受黑夜眷者身份。"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 669,
+      "toChapterSeq": 669,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "贝尔纳黛揭示克莱恩多个身份，并提出交易高序列配方或亵渎之牌线索；克莱恩告知其“黑皇帝”牌开启咒文是“贝尔纳黛”，暗示其身份，双方达成有限合作与信息交换。"
+    },
+    {
+      "fromChapterSeq": 677,
+      "toChapterSeq": 677,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "塔罗会上克莱恩点明嘉德丽雅向贝尔纳黛透露信息，利用‘火种’手套惩戒其窥视行为，确立‘不可窥视神’规则，强化了愚者对隐者的支配地位。"
+    },
+    {
+      "fromChapterSeq": 663,
+      "toChapterSeq": 682,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "安德森·胡德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "安德森因厄运诅咒多次遇险，克莱恩以报酬交换帮助其寻求转运方法，并通过千纸鹤咨询威尔·昂赛汀，形成临时互助关系。"
+    },
+    {
+      "fromChapterSeq": 675,
+      "toChapterSeq": 675,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩通过千纸鹤梦中联系威尔·昂赛汀，咨询安德森的厄运诅咒和‘占卜家’序列4配方，威尔提供答案，双方保持友好联络。"
+    },
+    {
+      "fromChapterSeq": 667,
+      "toChapterSeq": 668,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "戴里克在下午镇遭遇诡异黑暗，向愚者祈祷；克莱恩将其拉入灰雾解救，展现愚者对信徒的庇护。"
+    },
+    {
+      "fromChapterSeq": 666,
+      "toChapterSeq": 670,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴里克向科林汇报遭遇，科林虽怀疑但不追究，共同应对下午镇异变，上下级关系延续。"
+    }
+  ]
+}

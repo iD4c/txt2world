@@ -1,0 +1,796 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以夏洛克·莫里亚蒂之名在贝克兰德活动，接受捉奸委托，在保镖小姐协助下拍照取证；参加非凡聚会，得知“黑蛇”死于下水道野兽，劝药师放弃草药并报警；从“智慧之眼”处了解封印物分级和神奇物品，得知“2-081”等物品信息。归途目睹疑似拜血教连环杀人案现场。他接下米勒·卡特委托，探索威廉姆斯街地下建筑，发现其为第四纪图铎王朝遗迹，中有大厅、倒立烛台、两张王座及疑似的图铎家族徽章和未知徽章，并遭遇恶灵袭击险死还生，决定暂不深入并计划搜集庞德家族资料。保镖小姐雇佣期满离开后，克莱恩在灰雾之上利用罗萨戈遗留的“全黑之眼”成功制造出虚假成员“世界”，并为其定名。周一塔罗会上，“世界”首次登场，向“正义”委托搜集鲁恩所有破落贵族资料以换取魔女途径知识，并向“太阳”求购非凡材料，承诺以非凡武器交换；“正义”报告贝克朗大使已被A先生刺杀，极光会宣称负责，愚者承诺报酬（5000镑）；克莱恩阅读罗塞尔日记，得知序列0即真神、亵渎之牌、二十二条神之途径等惊天秘密，并了解到古老组织的信息。“正义”委托休和佛尔思寻找兰尔乌斯。克莱恩为实验阿兹克铜哨影响范围，先后至墓园和医院停尸房测试，确认铜哨无法影响接受过安魂仪式的尸体，只对未安魂的新鲜尸体有作用。他接受记者迈克·约瑟夫委托前往妓院“金玫瑰”调查连环杀人案遇害者希贝尔，期间发现老板洛佩兹与富豪卡平涉嫌贩卖人口，并结识协助警方的侦探艾辛格·斯坦顿。在勇敢者酒吧察觉有人监视马里奇，推测其与保镖小姐处境不佳。克莱恩再度参加非凡聚会，售出“歌颂者”和“祈光人”魔药配方获600镑，得知“智慧之眼”拥有能模拟“公证人”能力的戒指（疑似封印物“2-081”）。",
+      "identInfos": [
+        "穿越者，原地球中国人",
+        "现伪装身份夏洛克·莫里亚蒂，私家侦探",
+        "塔罗会首领“愚者”",
+        "前值夜者，序列8“小丑”",
+        "持有阿兹克铜哨、阳炎符咒等物品",
+        "与阿兹克、保镖小姐等有交往",
+        "在灰雾之上创造虚假成员“世界”"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩以夏洛克·莫里亚蒂之名在贝克兰德活动，接委托赚取报酬并融入非凡者圈子。他接受捉奸委托，在保镖小姐协助下拍照取证；参加A先生组织的非凡聚会，得知“黑蛇”死于下水道野兽，劝药师放弃草药并报警；从“智慧之眼”处了解封印物分级和神奇物品，得知“2-081”等物品信息。"
+        },
+        {
+          "chapterSeq": 255,
+          "extractReason": "UPDATE",
+          "evidenceText": "喀嚓的声音并不明显，强烈的闪光和其他异象被局限在了很小的范围内，没有惊动那对男女。"
+        },
+        {
+          "chapterSeq": 259,
+          "extractReason": "UPDATE",
+          "evidenceText": "米勒·卡特揉了揉两眼之间的位置：“我不希望太多人知晓这件事情，尤其是政府部门。”"
+        },
+        {
+          "chapterSeq": 260,
+          "extractReason": "UPDATE",
+          "evidenceText": "“第四纪的建筑？”作为历史系的大学生，作为这个领域勉强能被称为精英的人物，克莱恩通过这独特的布置做出了初步的判断。"
+        },
+        {
+          "chapterSeq": 261,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，克莱恩依据本能，猛地合身前扑，旋即接一个翻滚，越过了石门。火光陡然明亮，他心头的不安感瞬间消散，掌心的阿兹克铜哨也恢复了柔和冰冷的触感。"
+        },
+        {
+          "chapterSeq": 262,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩吓了一跳，霍然从梦里惊醒，睁眼看见了穿透窗帘的绯红月华。"
+        },
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "借助这聚集的非凡特性，他看见对面那个假人身上同样有根根黑色细线往外飘荡。紧接着，克莱恩小心翼翼地让灵性通过“全黑之眼”蔓延出去，触碰向其中几根虚幻之线。"
+        },
+        {
+          "chapterSeq": 266,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列0？序列1之上还有个序列0？序列0等于真神？每条途径只能有一个序列0？这就是神之途径的真实含义？"
+        },
+        {
+          "chapterSeq": 268,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩则在胸口顺时针点了四下，画出绯红之月，然后戴上手套，一按一撑就翻过铁栅栏，进入了墓园。"
+        },
+        {
+          "chapterSeq": 270,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我是代表西维拉斯场在问你，这和保密约定无关。”艾辛格用拇指摩挲着烟斗道，“1镑，嗯……2镑怎么样？”"
+        },
+        {
+          "chapterSeq": 272,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩再度参加非凡聚会，售出“歌颂者”和“祈光人”魔药配方获600镑，得知“智慧之眼”拥有能模拟“公证人”能力的戒指（疑似封印物“2-081”）。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在早餐时从父亲霍尔伯爵处得知极光会刺杀了因蒂斯大使贝克朗，确认A先生完成任务。她欣喜之余对极光会实力感到畏惧，决定通过休和佛尔思支付尾款并暂时避开A先生聚会。塔罗会上，她报告贝克朗已死，愚者承诺报酬5000镑；她接受“世界”委托搜集鲁恩破落贵族资料，换取魔女途径序列7“女巫”和序列6“欢愉魔女”知识。她还委托休和佛尔思寻找兰尔乌斯，并得知心理炼金会线索。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会成员“正义”",
+        "序列8“读心者”（观众途径）",
+        "贵族少女，金发碧眼",
+        "曾委托刺杀贝克朗大使",
+        "宠物狗苏茜误食观众魔药后能说话"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽怔怔听着父亲和哥哥讨论这个问题，好一会儿才反应过来：贝克朗被刺杀了？A先生成功了？他果然是极光会的？"
+        },
+        {
+          "chapterSeq": 266,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽转了下眼珠，斟酌了几秒。做人要诚实，不能贪心，奥黛丽，你要坚持自己的原则！她勾勒浅笑道：“不，应该是我还欠您，不，欠您的眷者报酬。”"
+        },
+        {
+          "chapterSeq": 267,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”低哑道：“是的，但只能让男性变成女性，女性会相应地提高本身的魅力，无论长相容貌，还是皮肤状态，都会在原本的基础上显著地变得更好，这就是魔女教派的高层都是女性的原因。”"
+        },
+        {
+          "chapterSeq": 269,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔牵着一匹枣红色的小母马，故意凑到角落，假装和格莱林特子爵商量事情。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254, 264, 265, 266, 267, 269]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会上对新成员“世界”有所排斥，未能参与刺杀贝克朗任务，向愚者表示抱歉。他提供六页罗塞尔日记，并说明“水手途径”序列6“风眷者”魔药配方比“世界”要求的非凡材料总价值高，若能找到会有额外补偿。",
+      "identInfos": [
+        "塔罗会成员“倒吊人”",
+        "疑似风暴教会非凡者",
+        "序列7“航海家”（水手途径）",
+        "在海上活动，居罗思德群岛首府拜亚姆"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 264,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰·威尔逊因为新来了一位成员，没盲目开口，保持着沉默，暗中进行观察。"
+        },
+        {
+          "chapterSeq": 266,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”收敛住种种想法，望向浓郁灰雾里的“愚者”先生，恭敬里隐含谦卑地说道：“很抱歉，我才联络好人手，没能帮上忙。”"
+        },
+        {
+          "chapterSeq": 266,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰沉吟道：“‘水手途径’序列6‘风眷者’的魔药配方，这比你需要的非凡材料加起来都贵。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [264, 265, 266, 267]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在塔罗会上表示知晓迷雾树人所在并可帮助获取材料，但需等自己晋升并有足够实力后；他请求“世界”提供一件适合提升战力的武器作为交换。“正义”和“倒吊人”提醒他材料价值，戴里克感谢。“太阳”星灵体颜色更纯粹，消化了“歌颂者”魔药。",
+      "identInfos": [
+        "塔罗会成员“太阳”",
+        "白银城少年",
+        "序列9“歌颂者”（太阳途径）",
+        "父母死亡，渴望改变命运",
+        "身处神弃之地"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 264,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克毫不犹豫就回答道：“一件适合我，能提升我战斗能力的武器。”"
+        },
+        {
+          "chapterSeq": 264,
+          "extractReason": "UPDATE",
+          "evidenceText": "等待的时候，克莱恩把玩起那只“全黑之眼”，给它“装”了一条银链，然后缠绕于右手手腕，用衣物袖口进行遮掩。下午三点，一道道光芒腾起于巨人居所般的宫殿内，“正义”、“倒吊人”和“太阳”分别投影出了染着微赤的模糊身影。"
+        },
+        {
+          "chapterSeq": 266,
+          "extractReason": "UPDATE",
+          "evidenceText": "一直沉默的“太阳”开口道：“我知道哪里有迷雾树人，也可以帮你获取材料，不过，必须等我完成晋升，有了足够的实力，并加入到相应的巡逻小队。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [264, 266, 267]
+    },
+    {
+      "name": "世界",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“世界”是克莱恩借助“全黑之眼”在灰雾之上制造的虚假塔罗会成员，首次登场便向“正义”委托搜集鲁恩破落贵族资料以换取魔女途径知识，并向“太阳”求购非凡材料，承诺以非凡武器交换；他代替“愚者”处理不便亲自出面的事务，降低愚者形象坍塌风险。",
+      "identInfos": [
+        "塔罗会虚假成员",
+        "由克莱恩操纵的假人",
+        "代表愚者处理事务",
+        "代号“世界”",
+        "性格表现为阴沉内敛"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 263,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "说完，他闭上了嘴巴，对面那假人则抬手摸了摸下巴，嘶哑笑道：“世界！”“我选‘世界’这张牌。”"
+        },
+        {
+          "chapterSeq": 264,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是新的成员，‘世界’先生。”与此同时，他通过灰雾加成的灵视，发现“太阳”同学的星灵体表层颜色更加纯粹了一点，但又没达到序列8的水平，初步判断对方应该是彻底消化了“歌颂者”魔药。"
+        },
+        {
+          "chapterSeq": 267,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”环顾一圈道：“我希望得到鲁恩王国所有破落贵族的资料，包括他们目前的住址，越详细越好。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [263, 264, 265, 266, 267]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "A先生确认完成刺杀因蒂斯大使贝克朗的任务，通过隐秘渠道通知休和佛尔思将尾款存入不记名账户。在地下室向倒吊的巨人雕像祈祷，宣称这是迎接主回归的关键时期，并咳出活物般的血色碎片后舔食回去。",
+      "identInfos": [
+        "极光会成员",
+        "代号A先生",
+        "虔诚信仰真实造物主",
+        "身体异常，咳出活物碎片",
+        "曾接受刺杀贝克朗委托"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "“A先生，我已经将消息传递过去了。”“很好。”A先生没有侧头地说道。"
+        },
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们要让大陆混乱，我们要尽量吸引别人的目光，以此迎接主的回归！”"
+        },
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "他咳出了一团团血色的碎片，而这些碎片落地之后还在蠕动，仿佛活物。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "休和佛尔思看到报纸后震惊于A先生完成了刺杀，担心尾款问题，后收到A先生通知将尾款存入不记名账户而松口气。奥黛丽委托她们寻找兰尔乌斯，休认出兰尔乌斯是通缉犯，赏金100镑，加上委托报酬共200镑，欣然接受。她们还向奥黛丽提供心理炼金会线索。",
+      "identInfos": [
+        "奥黛丽的朋友",
+        "与佛尔思搭档",
+        "擅长战斗和行动",
+        "曾在A先生聚会购买“治安官”配方"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们昨天才给了他2000镑，应该没别的人想刺杀那个贝克朗大使了吧……”休不太确定地说道。"
+        },
+        {
+          "chapterSeq": 269,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥黛丽小姐，你这次找我们来有什么事情？”休收回目光，主动问道。她最近的大笔收入都来自于奥黛丽，对方诚实守信，慷慨大方，是少见的好雇主。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254, 269]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思和休看到报纸后震惊于A先生完成了刺杀，担心尾款问题，后收到A先生通知将尾款存入不记名账户而松口气。奥黛丽委托她们寻找兰尔乌斯，佛尔思欣然接受。她们还向奥黛丽提供心理炼金会线索，佛尔思表示加入新非凡聚会并愿带奥黛丽参加。",
+      "identInfos": [
+        "奥黛丽的朋友",
+        "与休搭档",
+        "作家，非凡者",
+        "曾接触过“门”先生",
+        "持有腕部手链神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思默然几秒，忽然哀叹道：“不管是不是A先生做的，我们都得将剩下的8000镑给他，目前没谁能证明不是他做的，如果我们还想混这个圈子，就不能赖账！”"
+        },
+        {
+          "chapterSeq": 269,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思理了下自己的长卷发，望了旁听的格莱林特子爵一眼道：“我最近加入了一个新的非凡者聚会，据说里面曾经出现过‘观众’和‘读心者’的魔药配方，我怀疑那个聚会的成员中有心理炼金会的人。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254, 269]
+    },
+    {
+      "name": "保镖小姐",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "保镖小姐在捉奸任务中融入相机镜头帮助拍照。探索地下建筑时，她以寒风驱散蛇群，认出图铎家族徽章，察觉恶灵危险。雇佣期满离开，克莱恩通过马里奇转告后续。她在非凡聚会中感知到“智慧之眼”察觉其存在，并观察到拜血教杀人案现场。",
+      "identInfos": [
+        "神秘序列5强者",
+        "灵体状态，穿黑色哥特式宫廷长裙",
+        "受克莱恩雇佣3天",
+        "与马里奇相识",
+        "处境不佳，可能被追捕"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "她依旧穿着那身黑色哥特式宫廷长裙，头戴同色小巧软帽，头发淡金，脸庞苍白，容貌精致。"
+        },
+        {
+          "chapterSeq": 255,
+          "extractReason": "UPDATE",
+          "evidenceText": "她俯下身体，靠了过去，就那样一点一点融入了相机的镜头里！"
+        },
+        {
+          "chapterSeq": 259,
+          "extractReason": "UPDATE",
+          "evidenceText": "呜！风声激荡，吹入大厅，这里的温度飞快下降，靠近外界。"
+        },
+        {
+          "chapterSeq": 261,
+          "extractReason": "UPDATE",
+          "evidenceText": "保镖小姐闭住眼睛，过了几秒才回答道：“很危险。”“但这危险被约束着。”"
+        },
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "“雇佣结束了。”我知道，满三天了……克莱恩想了想道：“如果我能在庞德家族的事情上收获什么线索，你是否愿意知道？”"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [254, 255, 256, 258, 259, 260, 261, 262, 263]
+    },
+    {
+      "name": "米勒·卡特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "米勒·卡特委托克莱恩探索新购别墅地下的秘密建筑，支付50镑报酬。他告知房屋原属庞德子爵，家族因不知名原因败落。克莱恩探索后隐瞒部分真相，要求搜集资料再做二次探索。",
+      "identInfos": [
+        "来自间海郡的商人",
+        "在威廉姆斯街买下前庞德子爵别墅",
+        "委托克莱恩探索地下建筑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 258,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“米勒·卡特。”老绅士语言简洁地回答道。"
+        },
+        {
+          "chapterSeq": 258,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那栋房屋据说原本是一位破产子爵的，这大概是二三十年前的事情，经过几次转手，最终被我买了下来。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [258, 259, 262]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "艾辛格·斯坦顿以协助警察部门处理连环杀人案的侦探身份接触克莱恩，询问跟踪洛佩兹所得，支付2镑获知卡平信息。他佩戴黄铜饰品（疑似非凡物品），表现出非凡者特质。",
+      "identInfos": [
+        "知名侦探",
+        "协助警察部门处理连环杀人案",
+        "可能为非凡者",
+        "持有黄铜饰品（书与眼符号）"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 271,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你好，我是协助警察部门处理这起案件的侦探艾辛格·斯坦顿，我们能聊一聊吗？”那位中老年男士指着马车道。"
+        },
+        {
+          "chapterSeq": 272,
+          "extractReason": "UPDATE",
+          "evidenceText": "那件黄铜饰品是一本袖珍的摊开的书，中央还有只竖着的眼睛。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [271, 272]
+    },
+    {
+      "name": "迈克·约瑟夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "迈克·约瑟夫委托克莱恩保护其调查妓院“金玫瑰”遇害者希贝尔，支付1-5镑报酬。他发现遇害者多为前站街女郎，希贝尔例外，试图找老板洛佩兹询问，后与克莱恩潜入听到洛佩兹提及卡平。",
+      "identInfos": [
+        "《每日观察报》记者",
+        "调查连环杀人案遇害者共同点",
+        "委托克莱恩短暂保护"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 270,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“莫里亚蒂侦探，你有听说最近的连环杀人案吗？”“取走内脏的？”克莱恩心中一动，简略反问。"
+        },
+        {
+          "chapterSeq": 271,
+          "extractReason": "UPDATE",
+          "evidenceText": "“遇害者希贝尔只有16岁，理论上来说，年龄相仿的女孩和她更有可能是朋友，知道的更多。”这时，迈克压低嗓音，解释了一句。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [270, 271]
+    },
+    {
+      "name": "洛佩兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "洛佩兹是妓院“金玫瑰”老板，遇害者希贝尔的抚养者。她禁止女孩们谈论希贝尔，对记者迈克·约瑟夫撒谎称希贝尔死于清晨归途。克莱恩和迈克潜入听到她让手下通知卡平最近不要送人，显示与人口贩卖有关。",
+      "identInfos": [
+        "“金玫瑰”妓院老板",
+        "与富豪卡平涉嫌贩卖人口",
+        "遇害者希贝尔的抚养者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 271,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“下午好，两位先生，我就是洛佩兹，你们有看中的女孩吗？”迈克·约瑟夫吞咽完虾肉，解释了一句。"
+        },
+        {
+          "chapterSeq": 271,
+          "extractReason": "UPDATE",
+          "evidenceText": "“告诉卡平，最近不要送人过来！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [271]
+    },
+    {
+      "name": "卡斯帕斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "卡斯帕斯是黑市武器商人和非凡聚会中间人。克莱恩向他询问非凡聚会，支付1镑报酬后获知当晚有聚会。他好赌，脸上有巨大伤疤。",
+      "identInfos": [
+        "黑市武器商人",
+        "勇敢者酒吧常客，脸上有巨大伤疤",
+        "组织非凡聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 256,
+          "extractReason": "UPDATE",
+          "evidenceText": "“今晚就有一个聚会，组织者还是上次那位，但你需要等待半个小时以上，我先过去通知他们，你上次展现了信誉，我想问题不大。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [256, 272]
+    },
+    {
+      "name": "艾伦·克瑞斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "艾伦·克瑞斯是外科医生，推荐克莱恩加入克拉格俱乐部。他与克莱恩共进早餐，谈论贝克朗大使被刺杀等新闻，并提及希望身为克莱恩雇主的玛丽能让丈夫或自己成为“王国大气污染调查委员会”委员。",
+      "identInfos": [
+        "外科医生",
+        "克拉格俱乐部成员",
+        "推荐克莱恩入会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 255,
+          "extractReason": "UPDATE",
+          "evidenceText": "“叫我艾伦就可以了，莫里亚蒂侦探。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [255]
+    },
+    {
+      "name": "塔利姆·杜蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "塔利姆·杜蒙特是马术教师，推荐克莱恩入会，并介绍记者迈克·约瑟夫委托。他与克莱恩切磋格斗被轻松摔出。",
+      "identInfos": [
+        "马术教师",
+        "克拉格俱乐部成员",
+        "介绍迈克·约瑟夫给克莱恩"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 269,
+          "extractReason": "UPDATE",
+          "evidenceText": "“上午好，玛丽和多拉古正在协议离婚。”“这是怀疑我加入俱乐部的目的？”克莱恩依靠“小丑”的能力，轻松做出了惊讶的表情。"
+        },
+        {
+          "chapterSeq": 270,
+          "extractReason": "UPDATE",
+          "evidenceText": "“莫里亚蒂侦探，这就是我说的那位朋友，迈克·约瑟夫，迈克，这位是知名大侦探，夏洛克·莫里亚蒂先生。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [269, 270]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森看到《政府雇员统一考试法案》通过，决定辞职专心备考。他鼓励妹妹梅丽莎报考贝克兰德技术大学，并透露自己目标是在贝克兰德任职，希望兄妹能一同前往。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "政府雇员，周薪1镑10苏勒",
+        "准备参加统一考试",
+        "照顾妹妹梅丽莎"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森反复默读着报纸上的那条新闻，完全忘记了餐盘里的面包。"
+        },
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我打算明天就辞职，专心准备考试，这次的职位据说大多数都在贝克兰德，这正是我的目标，希望我们能一起去那里。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [263]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎得知统一考试法案通过，班森鼓励她报考贝克兰德技术大学，她犹豫后同意，但担心女仆贝拉的去留。她仍沉浸在克莱恩去世的悲伤中。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "喜欢机械和蒸汽",
+        "与哥哥班森相依为命",
+        "曾收到克莱恩留给的年金"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "“可是……”梅丽莎下意识反驳道。班森打断了她的话语，含笑说道：“……梅丽莎，你不是喜欢机械，喜欢蒸汽，喜欢这方面的内容吗？这是你接触更先进更深入知识的最好机会。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [263]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "格莱林特子爵在赛马场与奥黛丽交谈，提供掩护。他嘟囔自己仍未获得“药师”配方。",
+      "identInfos": [
+        "子爵",
+        "奥黛丽的朋友",
+        "寻求“药师”魔药配方"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 269,
+          "extractReason": "UPDATE",
+          "evidenceText": "格莱林特子爵则嘟囔道：“奥黛丽的事情快要成功了，我的‘药师’配方呢？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [269]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "霍尔伯爵早餐时看报纸提及极光会刺杀了因蒂斯大使贝克朗，认为极光会疯狂，与儿子希伯特讨论政治影响。",
+      "identInfos": [
+        "奥黛丽的父亲",
+        "王国上院议员",
+        "大银行家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，她听见她的父亲，王国上院议员，大银行家霍尔伯爵对着手里的报纸嘟囔道：“极光会真是疯狂啊。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254]
+    },
+    {
+      "name": "希伯特·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "希伯特·霍尔是奥黛丽的大哥，伯爵长子，英俊金发，与父亲讨论极光会刺杀事件，猜测可能为了破坏鲁恩和因蒂斯关系。",
+      "identInfos": [
+        "奥黛丽的大哥",
+        "霍尔伯爵长子",
+        "英俊金发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "奥黛丽的大哥，伯爵的长子，希伯特·霍尔吞咽下口中的烤蘑菇，发表着自己的意见：“或许他们想破坏王国和因蒂斯的关系，让战争从殖民地蔓延到北大陆。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [254]
+    }
+  ],
+  "factions": [
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "极光会成员A先生完成刺杀因蒂斯大使贝克朗任务，并宣称负责。A先生在聚会中提及要让大陆混乱，吸引目光以迎接主的回归，显示该组织正在积极活动。",
+      "identInfos": [
+        "信仰真实造物主",
+        "恐怖组织",
+        "在鲁恩制造混乱",
+        "成员A先生为序列5以上强者",
+        "掌握“秘祈人”途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "“极光会真是疯狂啊。”"
+        },
+        {
+          "chapterSeq": 254,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们要让大陆混乱，我们要尽量吸引别人的目光，以此迎接主的回归！”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会新增成员“世界”，由克莱恩操纵的假人。本次聚会上，“世界”委托“正义”搜集鲁恩破落贵族资料，向“太阳”求购非凡材料；“正义”报告贝克朗大使被刺，愚者承诺报酬；“倒吊人”提供罗塞尔日记；克莱恩阅读日记得知序列0成神奥秘和古老组织信息。“正义”委托休和佛尔思寻找兰尔乌斯。",
+      "identInfos": [
+        "由“愚者”克莱恩创建",
+        "成员包括“正义”奥黛丽、“倒吊人”阿尔杰、“太阳”戴里克、“世界”",
+        "每周一在灰雾之上聚会",
+        "以塔罗牌为代号"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "说完，他闭上了嘴巴，对面那假人则抬手摸了摸下巴，嘶哑笑道：“世界！”“我选‘世界’这张牌。”"
+        },
+        {
+          "chapterSeq": 264,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是新的成员，‘世界’先生。”"
+        },
+        {
+          "chapterSeq": 266,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列0？序列1之上还有个序列0？序列0等于真神？每条途径只能有一个序列0？这就是神之途径的真实含义？"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩利用罗萨戈遗留的“全黑之眼”在灰雾之上制造出虚假成员“世界”，并能操纵其说话和动作。该物品能让人看到黑色细线并操控他人，但会带来疯狂影响。克莱恩将其留在灰雾之上以避风险。",
+      "identInfos": [
+        "取自“秘偶大师”罗萨戈",
+        "能赋予操控他人能力",
+        "残留真实造物主污染",
+        "被克莱恩用于创造“世界”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "借助这聚集的非凡特性，他看见对面那个假人身上同样有根根黑色细线往外飘荡。紧接着，克莱恩小心翼翼地让灵性通过“全黑之眼”蔓延出去，触碰向其中几根虚幻之线。"
+        },
+        {
+          "chapterSeq": 263,
+          "extractReason": "UPDATE",
+          "evidenceText": "他将罗萨戈那枚“全黑之眼”留在了灰雾之上，反正他平时也没法使用这件“物品”，还得时刻担忧着被人发现或者丢失。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在探索地下建筑时，铜哨对恶灵产生反应，变得刺骨而死寂，同时引发右小臂异变，出现黑色细虫。在墓园和医院实验中，克莱恩确认铜哨只能影响未接受安魂仪式的刚死尸体，并能用灵性包裹屏蔽效果。",
+      "identInfos": [
+        "阿兹克赠予",
+        "可召唤信使",
+        "对不死生物有反应",
+        "能引发活尸现象"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 261,
+          "extractReason": "UPDATE",
+          "evidenceText": "原本冰冷柔和的触感一下刺骨，深沉而死寂！"
+        },
+        {
+          "chapterSeq": 268,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，长条桌上的一具尸体突然坐了起来！砰！砰！砰！周围那一个个铁柜里随即传出密集的拍击声，似乎有什么东西将要孵化！"
+        }
+      ]
+    },
+    {
+      "name": "2-081",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "“智慧之眼”展示其最好藏品封印物“2-081”，一枚能模拟“公证人”能力的戒指，可辨识非凡能力并有一定模仿几率，缺陷是让大脑高速运转，过时会变白痴。价值6800镑，属知识与智慧之神教会流出。",
+      "identInfos": [
+        "知识与智慧之神教会封印物",
+        "危险等级2",
+        "可模拟“公证人”能力",
+        "价值6800镑",
+        "缺陷是大脑超载风险"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 257,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我有一件物品非常适合你的要求，它曾经的代号是‘2-081’。”"
+        },
+        {
+          "chapterSeq": 257,
+          "extractReason": "UPDATE",
+          "evidenceText": "“它会让你的脑袋始终处于高速运转的状态，一旦超过限定的时间，你就会变成白痴。”"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 643,
+      "toChapterSeq": 662,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "安德森·胡德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "relationSummary": "安德森以美人鱼线索作为交换条件获救登船，克莱恩为消化魔药与其合作；安德森遭遇壁画厄运，克莱恩通过其得知“命运天使”乌洛琉斯及朝圣之路信息，构成关键线索交换。"
+    },
+    {
+      "fromChapterSeq": 643,
+      "toChapterSeq": 662,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩搭乘嘉德丽雅的“未来号”前往寻找美人鱼，双方基于塔罗会关系保持稳定合作与相互信任；嘉德丽雅提供航行支持与保护，克莱恩则作为重要乘客共同应对危机。"
+    },
+    {
+      "fromChapterSeq": 652,
+      "toChapterSeq": 659,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "“地狱上将”路德维尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "路德维尔趁机袭击“未来号”，克莱恩与其激战，利用铜哨和火种手套对抗其通灵能力与地狱之门，最终路德维尔逃入黑暗世界；战斗促使克莱恩无面人魔药彻底消化。"
+    },
+    {
+      "fromChapterSeq": 643,
+      "toChapterSeq": 662,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "relationSummary": "贝尔纳黛在梦境图书馆揭露克莱恩多个身份，提出以罗塞尔文字解读方式交易高序列配方或亵渎之牌线索，并预言其命运在霍纳奇斯山脉，构成关键信息交换。"
+    }
+  ]
+}

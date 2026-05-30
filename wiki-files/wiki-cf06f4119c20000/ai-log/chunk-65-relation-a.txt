@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "科林·伊利亚特与周明瑞（克莱恩/愚者）在巨人王居所并肩对抗“暗天使”恶灵。科林信任克莱恩的判断，二人合作切断亵渎石板的连接。科林最终以生命掩护戴里克净化恶灵，临终嘱托周明瑞照顾白银城，并允许改信“愚者”。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "戴里克·伯格视周明瑞（愚者）为信仰对象和导师，在巨人王居所依赖其指引。战斗中戴里克使用“阳炎”与“无暗之枪”配合周明瑞行动，信任其决策。战后周明瑞将白银城未来托付给戴里克，戴里克在幻觉中与逝者一同推开通往外界的大门。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "洛薇雅作为白银城长老与周明瑞临时合作对抗“暗天使”恶灵。虽对周明瑞无深刻情感，但在战斗中牺牲自己以血肉束缚恶灵，表明对团队的忠诚。周明瑞对其牺牲感到惋惜。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "科林·伊利亚特作为白银城首席，长久以来庇护和指导戴里克·伯格。在巨人王居所决战中，科林以命相搏保护戴里克，最终与其同归于尽净化恶灵，临终告知诅咒真相并嘱托戴里克带领白银城走向光明。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "恩尤尼",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "恩尤尼是周明瑞的秘偶，被“暗天使”污染后反叛，在巨人王居所阻拦周明瑞一行。周明瑞需摧毁恩尤尼以继续前进。恩尤尼展现多种非凡能力，周明瑞利用虚拟人格和“真实造物主”侵蚀作为底牌，最终将其击杀。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "阿蒙在巨人王居所恶灵消散后窃取第一块“亵渎石板”，阻挠周明瑞获取完整知识。双方处于长期博弈，阿蒙意图窃取“源堡”，周明瑞竭力抵抗。此次阿蒙利用事先窃取的“混沌海”特殊，抢在“真实造物主”前夺走石板。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "characterB": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "relationSummary": "科林·伊利亚特以生命保护戴里克·伯格，临终告知白银城诅咒真相，嘱托其继承使命带领族人走向外界。戴里克含泪执行科林的命令，用“阳炎”将科林与恶灵一同净化。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "characterB": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "relationSummary": "洛薇雅在巨人王居所决战中牺牲自己，用血肉束缚恶灵，呼喊自己没有背叛白银城。戴里克目睹其死亡，内心悲痛。洛薇雅的牺牲为团队创造了攻击机会。"
+    },
+    {
+      "fromChapterSeq": 1251,
+      "toChapterSeq": 1266,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "洛薇雅在巨人王居所为掩护团队牺牲自己，科林痛惜其死亡。洛薇雅以血肉束缚恶灵时呼喊“我没有背叛白银城”，表明其对科林和白银城的忠诚。"
+    }
+  ]
+}

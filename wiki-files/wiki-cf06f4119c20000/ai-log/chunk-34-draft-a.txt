@@ -1,0 +1,678 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在梦境中应对‘神秘女王’贝尔纳黛，平衡被揭穿身份带来的压力，确认对方未深挖自身穿越秘密。梦醒后，他利用美人鱼歌声辅助，服食‘秘偶大师’魔药，在抵抗异化中成功晋升序列5‘秘偶大师’，获得操纵‘灵体之线’的能力。晋升后他探索灰雾之上光之阶梯，发现阶梯增至五层，隐约看到灰雾中透明外壳与深绿近黑事物。在‘未来号’上，他处理弗兰克发现的求救血肉，认出其来自‘黑之圣者’利奥马斯特。离开危险海域后，他见证‘告死号’因‘神秘女王’存在而逃逸，推断‘不死之王’可能为序列4‘魔鬼’。他利用千纸鹤咨询威尔·昂赛汀，得知‘占卜家’序列4名为‘诡法师’，并了解厄运诅咒找瑞乔德解决。塔罗会上，他敲打‘隐者’，确立‘不可窥视神’规则，回应‘魔术师’杀人请求，求购序列4配方未果。为给‘蠕动的饥饿’更换灵魂，他前往橡树酒吧，准备狩猎黑帮头目莫索纳。",
+      "identInfos": [
+        "塔罗会‘愚者’，原名周明瑞",
+        "化名格尔曼·斯帕罗",
+        "序列5‘秘偶大师’",
+        "持有‘蠕动的饥饿’手套",
+        "灰雾之主，可召唤信使"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "化名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "侠盗黑皇帝",
+          "type": "称号"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 664,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩心中一喜，涌现出了久违的激动。离开贝克兰德近四月，经历了不少事情后，他终于抵达了这次“旅行”的目的地，满足了晋升序列5“秘偶大师”需要的最后一个条件！"
+        },
+        {
+          "chapterSeq": 665,
+          "extractReason": "UPDATE",
+          "evidenceText": "这就是“秘偶大师”非凡能力的源泉！从魔药里得到的知识告诉克莱恩，这些虚幻的黑色细线叫“灵体之线”，可以通过操纵它们直接影响目标的精神体、星灵体、心智体和以太体，然后借助“以太体”这座桥梁，控制对方的身躯。"
+        },
+        {
+          "chapterSeq": 675,
+          "extractReason": "UPDATE",
+          "evidenceText": "他琢磨了下千纸鹤摊开后的面积和自己想要请教的问题们，先在心里打了遍草稿，然后才提起铅笔道：“‘命运天使’壁画带来的厄运诅咒该怎么消除？‘占卜家’对应的序列4魔药叫什么？可于哪里得到它的配方和主材料？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        663,
+        664,
+        665,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682
+      ]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在梦境中，贝尔纳黛以‘神秘女王’身份与克莱恩交流，指出自信可能是缺点，并解释希斯·道尔的封印物无法真正隔绝‘真实造物主’呓语。她透露梦境世界包含‘巨人王庭’投影和黑色修道院，引导克莱恩观看底层房间内疑似支撑梦境的大海，并告知克莱恩自身的猜测。克莱恩告知‘黑皇帝’牌开启咒文‘贝尔纳黛’，暗示她就是罗塞尔长女，她短暂失神后恢复。苏醒前，她提及前往‘神弃之地’的道路可能藏在‘巨人王庭’投影里。",
+      "identInfos": [
+        "‘黎明号’主人，纵横五海的‘神秘女王’",
+        "罗塞尔大帝长女",
+        "要素黎明首领",
+        "窥秘人途径半神，可能序列4‘神秘学家’以上",
+        "曾参观罗塞尔纪念展，怀疑克莱恩为侠盗黑皇帝"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 668,
+          "extractReason": "UPDATE",
+          "evidenceText": "“自信有的时候是缺点。你太相信那个铜哨和那个纸鹤了，也许有一天，你的危险会因此而来。”"
+        },
+        {
+          "chapterSeq": 669,
+          "extractReason": "UPDATE",
+          "evidenceText": "“神秘女王”右手摩挲着扶梯，缓步下行道：“自信有的时候是缺点。”“嘉德丽雅就太相信她给希斯·道尔的那件封印物了……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        663,
+        668,
+        669,
+        674
+      ]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "安德森与克莱恩一同离开‘未来号’，在托斯卡特岛因厄运诅咒遭遇喝水呛死危机，依靠替身娃娃幸存。他向克莱恩求助解除厄运，并分享报酬线索。安德森狩猎海盗筹集1600镑，却引来‘心理炼金会’半神‘操纵师’的警告，被迫答应为其做事。他告知克莱恩一把特殊左轮手枪的线索，并帮忙介绍黑帮头目莫索纳。",
+      "identInfos": [
+        "‘最强猎人’，序列5‘收割者’",
+        "因蒂斯与塞加尔混血",
+        "厄运缠身，源自‘命运天使’壁画",
+        "曾是画家，后成为冒险家"
+      ],
+      "aliases": [
+        {
+          "alias": "最强猎人",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 675,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森·胡德……只要进了这片海域，就厄运缠身了……"
+        },
+        {
+          "chapterSeq": 676,
+          "extractReason": "UPDATE",
+          "evidenceText": "壁画带来的厄运诅咒找瑞乔德就可以解决。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        663,
+        674,
+        675,
+        676,
+        677,
+        682
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "嘉德丽雅在梦境外与克莱恩交谈，承认主动展现星桥是为了传递信息，并透露自己是被‘神秘女王’放逐之人。她观察克莱恩晋升后状态，询问梦中是否说了什么，并在返航途中高调返航。在塔罗会中，她被‘愚者’敲打，因窥视‘愚者’被‘真实造物主’呓语惩罚，后积极提供情报与材料，展现融入塔罗会姿态。",
+      "identInfos": [
+        "‘星之上将’，‘未来号’船长",
+        "塔罗会代号‘隐者’",
+        "曾是‘神秘女王’养女与弟子",
+        "窥秘人途径，拥有‘窥秘之眼’"
+      ],
+      "aliases": [
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        },
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 663,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你想借助这种方式，将我值得关注这个信息告诉某位？”嘉德丽雅呼了一口气，抱膝而坐的姿态未有改变：“差不多。主要是告诉别人，如果我出了较严重的问题或是表现出明显的异常，你是一条线索。”"
+        },
+        {
+          "chapterSeq": 678,
+          "extractReason": "UPDATE",
+          "evidenceText": "你告诉贝尔纳黛，她可以用一定的事物换取一些答案。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        663,
+        664,
+        665,
+        671,
+        672,
+        673,
+        674,
+        678,
+        680
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴里克随白银城探索小队进入下午镇，在地下室祭坛发现‘命运天使’乌洛琉斯、‘红天使’梅迪奇、‘暗天使’萨斯利尔之名及‘救赎蔷薇’，触发异变被拉入另一重下午镇，向愚者祈祷后获救。异变渗透现实，出现影子怪物与忏悔圣职人员，圣职人员透露王们密谋、萨斯利尔被诱惑、下午镇堕落，预言巨大灾难将至，在即将说出第四个天使之王名字时自燃毁灭。戴里克在战斗中表现英勇，事后得知‘首席’目标为巨人王庭，但需长期准备。",
+      "identInfos": [
+        "白银城居民，塔罗会‘太阳’",
+        "序列‘太阳神官’",
+        "持有‘飓风之斧’"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 666,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克环顾一圈，觉得这里似乎举行过祭祀仪式。经过仔细辨认，戴里克从中找出了三个名字：“乌洛琉斯；梅迪奇；萨斯利尔。”"
+        },
+        {
+          "chapterSeq": 667,
+          "extractReason": "UPDATE",
+          "evidenceText": "他愕然看见石桌上的文字和符号比之前清晰完整了不少……它们都在重复着那三个名字和对应的称号：“命运天使”，乌洛琉斯；“红天使”，梅迪奇；“暗天使”，萨斯利尔。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        666,
+        667,
+        668,
+        670,
+        672,
+        681
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "科林率领探索小队进入下午镇，处理戴里克失踪事件，并判断祭坛力量泄露导致异变入侵现实。他指挥队员躲避影子怪物，前往教堂发现忏悔圣职人员，得知其提供的历史秘辛。他试图询问诱惑萨斯利尔者与第四个天使之王之名，在圣职人员自毁后，率领队员击杀被腐蚀的怪物，减员严重后决定暂缓探索巨人王庭，建立营地准备长期规划。",
+      "identInfos": [
+        "白银城六人议事团‘首席’",
+        "序列4‘猎魔者’",
+        "花白头发，法令纹深刻"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 666,
+          "extractReason": "UPDATE",
+          "evidenceText": "背负双剑的“猎魔者”科林·伊利亚特指着对面道：“那就是下午镇。”"
+        },
+        {
+          "chapterSeq": 670,
+          "extractReason": "UPDATE",
+          "evidenceText": "“猎魔者”科林见圣职人员完全没有回应，遂伸出右手，让涂着浅灰油膏的银色直剑一寸一寸临近对方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        666,
+        667,
+        668,
+        670,
+        672
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗兰克发现一条肚子里长有‘蔷薇主教’手指的青黑色怪鱼，并激动于可使用该血肉进行杂交实验，但被克莱恩劝阻。他再次展现对奇异生物的狂热研究倾向，并向克莱恩索要联络方式以分享研究成果。",
+      "identInfos": [
+        "‘未来号’大副，‘毒素专家’",
+        "擅长杂交和植物培育"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 671,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗兰克蹬蹬蹬冲出了餐厅，没用多久，他又飞快跑了回来，手里多了条青黑色的怪鱼。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        671,
+        672,
+        675
+      ]
+    },
+    {
+      "name": "利奥马斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "利奥马斯特的善良人格在梦境中冲破束缚，试图逃向‘巨人王庭’投影，并诵念造物主尊名试图开启通道，但未成功。其主人格紧追而至，两者在‘星之上将’嘉德丽雅召唤的豌豆藤中消失，被‘神秘女王’控制局面。",
+      "identInfos": [
+        "极光会‘黑之圣者’，半神",
+        "在神战遗迹中人格分裂，有善良与主人格"
+      ],
+      "aliases": [
+        {
+          "alias": "黑之圣者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 672,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿亚麻短袍的利奥马斯特看见前方有两个人，原本想开口呼救，可眨眼间，却发现那两个人各自闪到了大厅侧缘……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        672
+      ]
+    },
+    {
+      "name": "莫索纳",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "莫索纳是托斯卡特岛黑帮‘新鲁恩党’头目，控制高成瘾性药物和部分政府人员，非非凡者但有多名非凡者保镖。他喜欢观看允许死人的拳击赛，常坐镇橡树酒吧二楼。克莱恩将其选为狩猎目标，以更换‘蠕动的饥饿’灵魂。",
+      "identInfos": [
+        "‘新鲁恩党’头目",
+        "酒糟鼻，稀疏眉毛",
+        "托斯卡特岛黑帮人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 682,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "最该杀的是‘新鲁恩党’的莫索纳，他是海盗们最好的朋友之一，掌握着一种基于大麻或者别的什么植物的高成瘾性药物……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        682
+      ]
+    },
+    {
+      "name": "希斯·道尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "希斯·道尔确认弗兰克发现的怪鱼腹中手指属于一位‘蔷薇主教’，并演示血肉拼出‘救命’单词。他愿意帮助消除血肉精神烙印，对弗兰克未用自身血肉做实验表示感谢。",
+      "identInfos": [
+        "‘未来号’二副，‘无血者’"
+      ],
+      "aliases": [
+        {
+          "alias": "无血者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 671,
+          "extractReason": "UPDATE",
+          "evidenceText": "希斯·道尔伸出双手，按住鱼身……希斯·道尔停止俯下身体的动作，认真审视了几秒道：“它们属于一位‘蔷薇主教’，至少是一位‘蔷薇主教’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        671
+      ]
+    },
+    {
+      "name": "瑞乔德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "瑞乔德是生命学派的‘命运议员’，威尔·昂赛汀提及他可解除‘命运天使’壁画带来的厄运诅咒。",
+      "identInfos": [
+        "生命学派命运议员",
+        "可解除厄运诅咒的半神"
+      ],
+      "aliases": [
+        {
+          "alias": "命运议员",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 676,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "壁画带来的厄运诅咒找瑞乔德就可以解决。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        676
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "威尔通过千纸鹤回复克莱恩，告知‘占卜家’序列4名为‘诡法师’，配方需找查拉图或霍纳奇斯山脉，并提醒纸鹤即将破损。他指出厄运诅咒找瑞乔德解决。",
+      "identInfos": [
+        "‘命运之蛇’，水银之蛇",
+        "生命学派议长",
+        "当前转生中"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 676,
+          "extractReason": "UPDATE",
+          "evidenceText": "友情提醒：那只纸鹤快破了！壁画带来的厄运诅咒找瑞乔德就可以解决。‘占卜家’的高序列配方只能找疯掉的查拉图，或者去霍纳奇斯山脉……‘占卜家’对应的序列4叫：‘诡法师’！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        676
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城探索小队在‘首席’科林率领下进入下午镇，遭遇祭坛力量导致的异变，出现影子怪物和忏悔圣职人员，减员严重。科林决定暂缓探索巨人王庭，建立营地做长期准备。",
+      "identInfos": [
+        "位于神弃之地，信奉创造一切的主",
+        "以‘战士’途径为主要力量",
+        "六人议事团领导"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 666,
+          "extractReason": "UPDATE",
+          "evidenceText": "他旋即释然，认为这在情理之中，因为巨人王庭本身就处于白银城附近区域，下午镇更是连接双方的节点之一。"
+        }
+      ]
+    },
+    {
+      "name": "救赎蔷薇",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "在下午镇地下室祭坛发现‘救赎蔷薇’词组，其创立者为‘命运天使’乌洛琉斯、‘红天使’梅迪奇、‘暗天使’萨斯利尔。该组织可能与第三纪下午镇堕落及大灾变有关。",
+      "identInfos": [
+        "由三位天使之王创立的神秘组织",
+        "名称为‘救赎蔷薇’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 667,
+          "extractReason": "UPDATE",
+          "evidenceText": "巨人语和巨龙语表达的内容非常一致，它们都在重复着那三个名字和对应的称号：“命运天使”，乌洛琉斯；“红天使”，梅迪奇；“暗天使”，萨斯利尔。紧随称号与名字的则是一个戴里克很熟悉的词组：“救赎蔷薇”！"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "极光会神使路易斯·维恩在贝克兰德活动，被佛尔思锁定为复仇目标。克莱恩考虑接手委托，但‘倒吊人’建议举报给教会。",
+      "identInfos": [
+        "信仰‘真实造物主’的邪教组织",
+        "拥有多位神使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 679,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是极光会的神使，在贝克兰德，以前是序列6，现在可能是序列5，但不确定。"
+        }
+      ]
+    },
+    {
+      "name": "要素黎明",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "贝尔纳黛创建的组织，对抗‘摩斯苦修会’。在对话中提及。",
+      "identInfos": [
+        "由‘神秘女王’贝尔纳黛创建",
+        "对抗摩斯苦修会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 669,
+          "extractReason": "UPDATE",
+          "evidenceText": "大帝的长女贝尔纳黛创建了‘要素黎明’，对抗‘摩斯苦修会’……"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "秘偶大师魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩利用‘全黑之眼’、龙纹树皮、六翼石像鬼眼珠等材料调配出‘秘偶大师’魔药，并在美人鱼歌声辅助下服食，成功晋升序列5，获得操纵‘灵体之线’的能力。",
+      "identInfos": [
+        "‘占卜家’途径序列5魔药",
+        "主材料为‘秘偶大师’非凡特性",
+        "辅助材料包括苏尼亚金色泉泉水等"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 664,
+          "extractReason": "UPDATE",
+          "evidenceText": "他按照预定的流程拿出了阿兹克铜哨、威尔·昂赛汀纸鹤……将古老怨灵的残余灵性、六翼石像鬼的眼珠、龙纹树的树皮、装苏尼亚金色泉泉水的金属瓶从行李箱内取出……"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在灰雾之上使用‘火种’手套抽离‘全黑之眼’中‘真实造物主’的精神污染，使其成为安全材料，用于调配‘秘偶大师’魔药。晋升后，该特性被消耗。",
+      "identInfos": [
+        "‘秘偶大师’遗留的非凡特性",
+        "原本含有‘真实造物主’精神污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 664,
+          "extractReason": "UPDATE",
+          "evidenceText": "啪的一声，他打开盖子，看见那个没有瞳孔的“全黑之眼”依旧安静地躺在里面……"
+        }
+      ]
+    },
+    {
+      "name": "火种手套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用‘火种’手套抽离‘全黑之眼’污染，导致手套被‘真实造物主’呓语污染扭曲，暂时废弃。后在灰雾之上被放入铁制卷烟盒。",
+      "identInfos": [
+        "神奇物品，可窃取非凡能力",
+        "原本购自伦纳德·米切尔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 664,
+          "extractReason": "UPDATE",
+          "evidenceText": "这摧毁着他的思绪，磨灭着他的精神，带来了脑袋即将炸裂的痛苦，但很快就被灰雾的力量压制，彻底平静。克莱恩没能力多想，依循预定的方案和演练过多次的动作，左掌抓住“火种”手套，将它褪了下来，丢到了宏伟宫殿的石质地砖上。"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在晋升后因缺乏食物而将其放回灰雾之上。后计划狩猎莫索纳为其更换灵魂。",
+      "identInfos": [
+        "克莱恩持有的神奇手套",
+        "可放牧灵魂并使用其能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 665,
+          "extractReason": "UPDATE",
+          "evidenceText": "做完这件事情，他没急于离开，将手一招，让地上扭曲变形的铁黑色“火种”手套飞起……紧接着，他慢悠悠褪掉已经安静的“蠕动的饥饿”，同样将它放入了杂物堆。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在晋升仪式中使用铜哨进行干扰，并在事后用于寄信。",
+      "identInfos": [
+        "阿兹克·艾格斯赠予克莱恩的物品",
+        "可召唤白骨信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 664,
+          "extractReason": "UPDATE",
+          "evidenceText": "他按照预定的流程拿出了阿兹克铜哨、威尔·昂赛汀纸鹤，用它们干扰可能存在的“神秘女王”窥视。"
+        }
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀纸鹤",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用纸鹤干扰窥视，并在事后通过其梦中联系威尔，得知序列4名称和解咒方法。威尔提醒纸鹤即将破损。",
+      "identInfos": [
+        "威尔·昂赛汀赠予的千纸鹤",
+        "用于梦中通讯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 675,
+          "extractReason": "UPDATE",
+          "evidenceText": "他琢磨了下千纸鹤摊开后的面积和自己想要请教的问题们……然后才提起铅笔道……"
+        }
+      ]
+    },
+    {
+      "name": "飓风之斧",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴里克在下午镇探索中持握‘飓风之斧’作战，对抗影子怪物和变异巨人。",
+      "identInfos": [
+        "戴里克的神奇物品斧头"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 666,
+          "extractReason": "UPDATE",
+          "evidenceText": "手提“飓风之斧”的戴里克颇觉意外地感慨了一句。"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在离开‘未来号’前佩戴‘太阳胸针’，作为防护手段。",
+      "identInfos": [
+        "克莱恩所有的神奇物品",
+        "具有净化驱邪能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 666,
+          "extractReason": "UPDATE",
+          "evidenceText": "处理好手尾，他一步步走至行李箱前，将“太阳胸针”翻了出来，佩戴于双排扣长礼服上。"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩告知贝尔纳黛开启咒文‘贝尔纳黛’，暗示其身份。",
+      "identInfos": [
+        "‘黑皇帝’途径亵渎之牌",
+        "克莱恩持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 669,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看着她的眼睛道：“贝尔纳黛。”"
+        }
+      ]
+    },
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "未直接出现，但在威尔回复中提及之前事情，非本章内容。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    }
+  ]
+}

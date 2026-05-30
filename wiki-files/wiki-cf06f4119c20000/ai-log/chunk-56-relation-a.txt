@@ -1,0 +1,354 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1087,
+      "toChapterSeq": 1106,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "乔治三世",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩得知乔治三世的改革实为“黑皇帝”成神仪式，决心阻止其成神。乔治三世则利用战争和改革秘密进行仪式。"
+    },
+    {
+      "fromChapterSeq": 1092,
+      "toChapterSeq": 1106,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩与贝尔纳黛会面，双方决定合作阻止乔治三世成神。贝尔纳黛委托克莱恩协助，克莱恩接受。"
+    },
+    {
+      "fromChapterSeq": 1094,
+      "toChapterSeq": 1095,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "安德森·胡德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托安德森与达尼兹追查疾病中将特雷茜的下落。"
+    },
+    {
+      "fromChapterSeq": 1094,
+      "toChapterSeq": 1095,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托达尼兹与安德森追查疾病中将特雷茜的下落。"
+    },
+    {
+      "fromChapterSeq": 1096,
+      "toChapterSeq": 1096,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩请奥黛丽催眠情报贩子巴兹以消除记忆，避免打草惊蛇。"
+    },
+    {
+      "fromChapterSeq": 1098,
+      "toChapterSeq": 1099,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "卢卡·布鲁斯特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩帮助失控边缘的知识教会半神卢卡·布鲁斯特恢复，卢卡预言克莱恩将助其脱困。克莱恩请奥黛丽为其心理治疗。"
+    },
+    {
+      "fromChapterSeq": 1098,
+      "toChapterSeq": 1099,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "卢卡·布鲁斯特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "奥黛丽应克莱恩请求为卢卡·布鲁斯特进行心理治疗，成功使其恢复人形。"
+    },
+    {
+      "fromChapterSeq": 1105,
+      "toChapterSeq": 1105,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩命佛尔思写信给老师询问班杰明·亚伯拉罕的线索，并将她丢到海盗酒馆记录风土人情。"
+    },
+    {
+      "fromChapterSeq": 1100,
+      "toChapterSeq": 1102,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "塔罗会上，嘉德丽雅代“神秘女王”提问，克莱恩解答关于亚当成神仪式和罗塞尔陵寝的问题。克莱恩分享相近途径知识。"
+    },
+    {
+      "fromChapterSeq": 1100,
+      "toChapterSeq": 1102,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "克莱恩在塔罗会上透露相近途径知识，奥黛丽借此推断可转途径。克莱恩暗示戴里克可透过祈祷让“愚者”观看探索。"
+    },
+    {
+      "fromChapterSeq": 1087,
+      "toChapterSeq": 1087,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "红天使恶灵告知克莱恩乔治三世的改革实为“黑皇帝”成神仪式，克莱恩从中获取关键情报。"
+    },
+    {
+      "fromChapterSeq": 1101,
+      "toChapterSeq": 1101,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "克莱恩在塔罗会上透露查拉图在贝克兰德，并说明相近途径聚合定律。查拉图正追索克莱恩。"
+    },
+    {
+      "fromChapterSeq": 1098,
+      "toChapterSeq": 1099,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩请奥黛丽为卢卡·布鲁斯特心理治疗，奥黛丽成功完成任务。"
+    },
+    {
+      "fromChapterSeq": 1093,
+      "toChapterSeq": 1093,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "白银城探索队出发时，洛薇雅长老注视戴里克持有的“无暗十字”表现异常，称其为真实造物主的物品，令戴里克不安。"
+    }
+  ]
+}

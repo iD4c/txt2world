@@ -1,0 +1,179 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 523,
+      "toChapterSeq": 542,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩与阿尔杰合作狩猎麦维提，阿尔杰主动向愚者祈祷确认克莱恩身份后，通过告密与自陷软禁配合克莱恩完成伏杀，并分享赏金。"
+    },
+    {
+      "fromChapterSeq": 523,
+      "toChapterSeq": 530,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩以实力逼迫达尼兹充当诱饵和助手，在击杀麦维提的过程中利用其海盗身份吸引注意力；达尼兹被迫服从并参与战斗，战后获得飞毯作为报酬。"
+    },
+    {
+      "fromChapterSeq": 530,
+      "toChapterSeq": 542,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩释放达尼兹自由，但达尼兹选择留下协助，两人初步建立信任；达尼兹担任与冰山中将的联络人，并陪同克莱恩参与军方排查，双方合作深化。"
+    },
+    {
+      "fromChapterSeq": 531,
+      "toChapterSeq": 531,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "蕊妮",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩假扮温特向蕊妮表白并投递死亡通知，以此完成无面人的初次扮演，蕊妮被蒙蔽并斥责其迟到三年的表白。"
+    },
+    {
+      "fromChapterSeq": 532,
+      "toChapterSeq": 533,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "艾德雯娜·爱德华兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "克莱恩与冰山中将艾德雯娜在梦中会面，交换情报并就狩猎血之上将达成合作约定；艾德雯娜指定达尼兹为联络人。"
+    },
+    {
+      "fromChapterSeq": 534,
+      "toChapterSeq": 535,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被诅咒者"
+        }
+      },
+      "characterB": {
+        "name": "亚恩·考特曼",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在反抗军据点触碰骨剑时遭受海神诅咒，他以灰雾力量驱散，导致卡维图瓦崩溃；此过程中枢机主教考特曼以海王能力平复海啸，但二人并无直接互动。"
+    },
+    {
+      "fromChapterSeq": 524,
+      "toChapterSeq": 528,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿尔杰向教会告密时将达尼兹作为诱饵，故意泄露其行踪以吸引麦维提团伙；达尼兹对此不知情。"
+    }
+  ]
+}

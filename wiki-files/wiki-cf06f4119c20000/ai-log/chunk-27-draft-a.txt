@@ -1,0 +1,1139 @@
+{
+  "characters": [
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "以格尔曼·斯帕罗身份与‘倒吊人’阿尔杰会面，策划利用风暴教会狩猎‘钢铁’麦维提；扮演温特向西弥姆岛女孩蕊妮表白，完成‘无面人’初次扮演；联手阿尔杰在香树大道设伏，速杀麦维提、斯考尔、亨特利，分得战利品‘飞毯’给达尼兹；释放手套内‘梦魇’戴维·雷蒙的灵魂，得知死神文献线索及遗留心愿；通过达尼兹梦中与‘冰山中将’艾德雯娜会面，交换情报并约定合作狩猎‘血之上将’；拜访反抗军时触碰‘海神’骨剑遭诅咒，凭借灰雾驱散并导致骨剑碎裂；匿名向风暴教会举报‘海神’濒临崩溃及反抗军情报；协助军方排查拉蒂西亚等人，发现其同伴疑似内讧身亡。",
+      "identInfos": [
+        "疯狂冒险家、赏金猎人",
+        "拥有神奇物品‘蠕动的饥饿’",
+        "塔罗会‘世界’，愚者眷者",
+        "真实身份克莱恩·莫雷蒂"
+      ],
+      "aliases": [
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "克莱恩·莫雷蒂",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 523,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩已经弄清楚了温特的基本情况。这是他变化长相，伪装成警察，从附近邻居口中打听到的。"
+        },
+        {
+          "chapterSeq": 524,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的视线随之下移，看见了摆在最上方的那张‘倒吊人’牌。无需言语，他直接走了过去，摘掉帽子，坐到阿尔杰对面"
+        },
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩自然地从半空落下，左掌手套绽放出太阳直射般的灿烂光华。他张开了双臂，后仰起身体，仿佛在拥抱什么。他的脚跟刚刚踩到寒意袭人的地面，上方就落下了一道纯净的，炽烈的，粗大的光柱。"
+        },
+        {
+          "chapterSeq": 530,
+          "extractReason": "UPDATE",
+          "evidenceText": "他以通灵的方式直接问道：‘你为什么会死在齐林格斯手上？’那‘梦魇’嘴角微勾，露出苦笑：‘我是值夜者里面的红手套，正追查一批来源于拜朗皇室陵墓的古老文献，它们疑似与陨落的死神有关。’"
+        },
+        {
+          "chapterSeq": 531,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩露出一抹笑容道：‘我是来和你告别的。’他用的是本地方言，并带上了几分不伦不类的拜亚姆腔调。"
+        },
+        {
+          "chapterSeq": 535,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩直视那个女子，近乎肯定地反问道：‘艾德雯娜·爱德华兹？’艾德雯娜轻轻点头，同样反问道：‘格尔曼·斯帕罗？’"
+        },
+        {
+          "chapterSeq": 537,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩伸出右手，试图拿起那把前端尖锐的骨剑，仔细检查一下。他手指刚碰到那把骨剑，脑海内就突然回荡起一声声绝望而痛苦的喊叫，鼻端隐约浮现出一股股浓郁的血腥恶臭……"
+        },
+        {
+          "chapterSeq": 538,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩出现在了古老的宫殿内，出现在了斑驳长桌的最上首。下方安静不动的灰雾里，呈现出了一条虚幻的，巨大的青蓝色海蛇。……这画面飞快破碎，飞快黯淡……克莱恩坐在属于‘愚者’的高背椅上，静静注视着这一切……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [523, 524, 525, 526, 527, 528, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "代号‘烈焰’，与格尔曼·斯帕罗合作狩猎‘钢铁’麦维提一伙，负责辅助战斗并击杀‘血色荆棘’亨特利，获得战利品‘飞毯’；在梦中遇见‘冰山中将’艾德雯娜，学习‘降灵仪式’；带领格尔曼拜访反抗军，卷入‘海神’诅咒事件；悬赏金提升至4200镑；协助克莱恩张贴布告举报反抗军及‘海神’情报；后跟随克莱恩和艾尔兰参与排查拉蒂西亚等人。",
+      "identInfos": [
+        "‘黄金梦想’号水手长",
+        "代号‘烈焰’",
+        "悬赏金额4200镑",
+        "征服者‘冰山中将’艾德雯娜手下"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 523,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹觉得自己受到了侮辱。被格尔曼·斯帕罗冷冷扫了一眼后，他又堆起笑容，将上午和下午各去了什么地方，遇到了什么人，听到了什么消息，大致谈了点什么，捡重点简单回顾了一遍。"
+        },
+        {
+          "chapterSeq": 526,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘血色荆棘’亨特利略显苍白的脸上露出了笑容：‘好！’……达尼兹则趁这个机会，扭头就跑，毫不犹豫。"
+        },
+        {
+          "chapterSeq": 530,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹愣了一下，强行笑道：‘卡拉特，你的眼力真不错。’"
+        },
+        {
+          "chapterSeq": 534,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹松了口气道：‘祝贺你，4200镑先生。’克莱恩一点点咧开了嘴角：‘祝贺你，4200镑先生。’"
+        },
+        {
+          "chapterSeq": 536,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹迟疑了一下，赶紧跟上。臂有海蛇纹身的埃德蒙顿沉默看着，似乎随时会伸手阻止，但最终还是没采取任何行动。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [523, 525, 526, 527, 529, 530, 531, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会‘倒吊人’，幽灵船船长，风暴教会船长。与格尔曼·斯帕罗会面，通过塔罗牌占卜暗示合作计划；向教区主教乔戈里汇报‘烈焰’达尼兹和‘钢铁’麦维提情报，策划利用教会力量围捕；主动成为诱饵被斯考尔拘禁；在围捕行动中利用血族麻醉气体脱困，并获得教会6000镑赏金。",
+      "identInfos": [
+        "塔罗会‘倒吊人’",
+        "幽灵船船长",
+        "风暴教会内部人士",
+        "深蓝头发，混血"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 524,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊推开上方有一格格玻璃的茶色木门，进入了这家神秘学主题的咖啡馆。"
+        },
+        {
+          "chapterSeq": 524,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔戈里露出了赞赏的表情：‘很好，你的办事能力比我预想得好很多。’阿尔杰一脸虔诚地回应道：‘这都源于主的指引，也得益于您的教诲。’"
+        },
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "他掏出一个金属小瓶，将里面薄荷味的纯露抹在了鼻端。强烈的刺激性气味钻入脑袋，阿尔杰瞬间变得异常清醒。……他动作沉稳地从衣物内侧取出了个密封的金属罐，扭动机械开关，抽出了一根管子。"
+        },
+        {
+          "chapterSeq": 529,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔戈里赞赏点头：‘为了信仰，敢于深入敌窟，承受生命威胁，这样的行为值得褒奖，你是真正的风暴侍者。……你将获得大部分，也就是6000镑。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [524, 528, 529]
+    },
+    {
+      "name": "钢铁麦维提",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘血之上将’二副，悬赏金6000镑，序列‘活尸’。在香树大道设伏企图抓住‘烈焰’达尼兹，反落入圈套，被格尔曼·斯帕罗利用‘精神刺穿’、‘神圣之光’、太阳圣水等速杀，尸体被弃。其灵魂被‘蠕动的饥饿’放牧。",
+      "identInfos": [
+        "‘血之上将’塞尼奥尔二副",
+        "悬赏金额6000镑",
+        "序列‘活尸’",
+        "‘钢铁’称号"
+      ],
+      "aliases": [
+        {
+          "alias": "钢铁",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘钢铁’麦维提感受了一种难以言喻的强烈饥饿感，只觉它就像潜藏于黑暗中的恐怖怪物，正静静地注视着自己。不，不是‘烈焰’！他心中刚闪过这样的念头，一个压缩到极点的炽白火球就从某个屋顶飞了过来，砸向他的身体。"
+        },
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘钢铁’麦维提只是衣服破碎，皮肤略有白痕，未受任何伤害。可就在这个时候，他突然看见半空翻滚的火浪里走出了一道充满疯狂意味的人影……"
+        },
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "麦维提灵体的表情异常痛苦，竭力抗拒着‘蠕动的饥饿’的吸引，而灰白和黑绿交杂的一点点光芒如同涌动的银河，迅速从血肉之躯里飞出，融入了那透明的身影。‘不！’麦维提发出无声的惨叫，试图求饶已来之不及，只能绝望地钻入人皮手套里面……"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [526, 527, 528]
+    },
+    {
+      "name": "冷静的斯考尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘钢铁’麦维提主要帮手，悬赏金额1500镑。在香树大道设伏时负责拘禁阿尔杰并传递情报；战斗中被格尔曼·斯帕罗用‘精神刺穿’和空气子弹击杀，尸体被‘蠕动的饥饿’吞噬。",
+      "identInfos": [
+        "‘钢铁’麦维提的帮手",
+        "悬赏金额1500镑",
+        "冷静的性格"
+      ],
+      "aliases": [
+        {
+          "alias": "冷静的斯考尔",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 525,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘冷静的斯考尔？’这是‘钢铁’麦维提的主要帮手，一个擅于控制情绪，冷静思考，但又毫无人性的非凡者，悬赏金额1500镑。"
+        },
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯考尔没有惊慌，就像一条失去了这方面情绪的冷血毒蛇，平静抬臂，猛然下压双掌。……克莱恩从另一个位置凸显出来，右手拇指和中指连续搓动，边往前冲，边打出了三次响指。……斯考尔则趁这个机会，扭头就跑，毫不犹豫。……克莱恩几步赶了上去，探出左掌，让欢欣雀跃的‘蠕动的饥饿’开始享受大餐。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [525, 526, 527]
+    },
+    {
+      "name": "血色荆棘亨特利",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘血之上将’第六舰长，悬赏金额3800镑。在香树大道设伏时驾驭‘飞毯’辅助，被达尼兹用火球炸死，非凡特性未被捡取。",
+      "identInfos": [
+        "‘血之上将’第六舰长",
+        "悬赏金额3800镑",
+        "称号‘血色荆棘’"
+      ],
+      "aliases": [
+        {
+          "alias": "血色荆棘",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 525,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘血色荆棘’亨特利，悬赏金额3800镑。"
+        },
+        {
+          "chapterSeq": 526,
+          "extractReason": "UPDATE",
+          "evidenceText": "飞毯上的亨特利则配合良好地丢下了早就握在掌心的事物，那是片片绿叶、朵朵鲜花和根根荆棘。"
+        },
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "那火球落在毫无反抗的亨特利身上，轰隆一声爆开。血肉猛地往外飞溅，手指、小腿、脑袋等东西缠绕着烈焰，落向了下方，‘飞毯’随之失去控制，缓缓沉降。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [525, 526, 527]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "‘冰山中将’，‘黄金梦想’号船长，序列‘秘术导师’。通过‘罗塞尔托梦术’在梦境中与达尼兹及格尔曼·斯帕罗会面，回答了关于非凡生物、去除非凡特性污染方法、古老怨灵、工匠、死神钥匙等问题，并接受格尔曼合作狩猎‘血之上将’的提议。",
+      "identInfos": [
+        "七大海盗将军之一‘冰山中将’",
+        "‘黄金梦想’号船长",
+        "序列‘秘术导师’",
+        "爱德华兹家族后裔，疑似罗塞尔大帝时期‘天启四骑士’之一后裔",
+        "喜好传授知识"
+      ],
+      "aliases": [
+        {
+          "alias": "冰山中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 534,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是位美丽的女士，脸型如同鹅蛋，鼻梁高挺，嘴唇较薄，有一双仿佛清澈泉水的浅蓝色眼眸。……达尼兹惊呼出声：“船长！”……艾德雯娜轻轻点头，同样反问道：“格尔曼·斯帕罗？”"
+        },
+        {
+          "chapterSeq": 535,
+          "extractReason": "UPDATE",
+          "evidenceText": "“冰山中将”艾德雯娜想了想，随手擦掉黑板上的“降灵仪式”，连画带写道：“从苏尼亚岛出发，往这里航行1200海里，会深入人类未正式探索过的海域。……”"
+        },
+        {
+          "chapterSeq": 536,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩脸上的笑容越来越盛，几有疯狂的味道：“狩猎，‘血之上将’。”……“冰山中将”艾德雯娜说道：“和‘黄昏中将’的海盗团爆发大战后，塞尼奥尔的舰队就失去了踪迹，目前没人知道他们在哪里，必须耐心等待。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [534, 535, 536]
+    },
+    {
+      "name": "戴维·雷蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "前值夜者‘红手套’，序列‘梦魇’，被齐林格斯杀死后灵魂被‘蠕动的饥饿’放牧。克莱恩遵守承诺释放其灵魂，他透露因追查死神文献而死，心愿是希望女儿妮露能幸福，并告知死神文献可能落于富翁吉米·内克之手。",
+      "identInfos": [
+        "前值夜者‘红手套’",
+        "序列‘梦魇’",
+        "女儿妮露住在迪西郡康纳特市红梧桐街67号",
+        "遗愿是女儿幸福"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 530,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我叫戴维·雷蒙，我在一场黑魔法事件里失去了父母、妻子和兄弟姐妹，只剩下一个女儿，她叫妮露，出生于1330年，是个很可爱的女孩……我加入了值夜者，后来更是成为红手套……"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [530]
+    },
+    {
+      "name": "蕊妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "西弥姆岛女孩，温特的心上人。克莱恩扮演温特向她表白，引起她情绪激动，之后被克莱恩用沉眠符咒伪装成梦境，以为只是梦。克莱恩后续寄出温特死讯，试图减轻对她伤害。",
+      "identInfos": [
+        "西弥姆岛居民",
+        "温特无法忘怀的女孩"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 531,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "蕊妮板起脸孔道：‘你怎么突然跑回来了？’……她压抑着嗓音道：‘三年前，三年前，我已经准备好和你一起去拜亚姆，结果，结果你什么都没说！你这个懦夫！你这个胆小鬼！’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [531]
+    },
+    {
+      "name": "科尔多瓦·罗耶",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会执事，负责指挥围捕‘钢铁’麦维提一伙的行动，启用了封印物‘2-37’和‘2-166’。行动结束后对现场进行调查，怀疑有‘太阳’领域和‘秘祈人’领域的神奇物品出现，并判断格尔曼·斯帕罗是强者帮手。",
+      "identInfos": [
+        "风暴教会执事",
+        "负责围捕‘钢铁’麦维提的行动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 526,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "执事科尔多瓦·罗耶愉快接受命令，带领两支“代罚者”小队，启用了封印物“2-37”和“2-166”，埋伏于距离香树大道15号较远的地方，务求万无一失。"
+        },
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "失去目标踪迹的科尔多瓦等人带着‘钢铁’的尸体，沉默地返回了之前发生战斗的区域。……科尔多瓦沉声问道：‘太阳’的信徒？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [526, 527, 528]
+    },
+    {
+      "name": "乔戈里",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会教区主教，听阿尔杰汇报‘烈焰’达尼兹和‘钢铁’麦维提情报，同意计划并承诺给予阿尔杰赏金。",
+      "identInfos": [
+        "风暴教会教区主教",
+        "拜亚姆海浪教堂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 524,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "乔戈里露出了赞赏的表情：‘很好，你的办事能力比我预想得好很多。’阿尔杰一脸虔诚地回应道：‘这都源于主的指引，也得益于您的教诲。’"
+        },
+        {
+          "chapterSeq": 529,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔戈里赞赏点头：‘为了信仰，敢于深入敌窟，承受生命威胁，这样的行为值得褒奖，你是真正的风暴侍者。……你将获得大部分，也就是6000镑。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [524, 529]
+    },
+    {
+      "name": "老奎因",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "‘血之上将’的情报官，负责看守被拘禁的阿尔杰，被阿尔杰使用血族麻醉气体迷倒。",
+      "identInfos": [
+        "‘血之上将’的情报官",
+        "被阿尔杰迷倒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 525,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘老奎因，你真是‘血之上将’的情报官……’阿尔杰故作诧异地开口。老奎因嘿嘿一笑道：‘传闻总是有真有假，你以为是假的，也许是真的。’"
+        },
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "他将这根管子塞入石门的缝隙里，延伸了出去。无声无息间，金属罐内的气体飞快往外弥漫。这是‘月亮’埃姆林提供的血族麻醉气体！……罐内气体发散出接近三分之一时，他将管子收回，合拢了开关。他转过身体，侧耳倾听起外面的动静，收获了满意的答案。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [525, 528]
+    },
+    {
+      "name": "卡拉特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "反抗军联络人，光头，坐轮椅。接待克莱恩和达尼兹，展示非凡物品并推销‘海神’骨剑，试图引诱克莱恩触碰以引发诅咒。骨剑碎裂后与埃德蒙顿决定返回丛林找大祭司。",
+      "identInfos": [
+        "反抗军联络人",
+        "光头，坐轮椅",
+        "信仰‘海神’卡维图瓦"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 537,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "刚才问话的人是个坐在铁轮椅上的男子，四十来岁，膝铺毛毯，身着夹克。他剃了个光头，脸颊两侧留着发青的胡须，深棕色的眼眸情绪内敛，似无波动。他瞄了眼访客，缓缓露出了笑容：‘烈焰。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [537]
+    },
+    {
+      "name": "埃德蒙顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "反抗军成员，胳膊上纹有青蓝色海蛇，与卡拉特一同接待克莱恩和达尼兹，在骨剑碎裂后决定返回丛林找大祭司。",
+      "identInfos": [
+        "反抗军成员",
+        "胳膊上有海蛇纹身"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 537,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩看见了一只赤裸的胳膊。那胳膊上纹着条青蓝色的，狰狞的海蛇。……‘埃德蒙顿，谁来了？’一道醇和的嗓音从靠窗的位置传来。纹身男子边关门边说道：‘他们做了伪装。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [537]
+    },
+    {
+      "name": "拉蒂西亚·多瑞拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "考古学家兼冒险家，疑似‘摩斯苦修会’或‘要素黎明’成员。与同伴进入西弥姆岛‘海神’遗迹取走重要物品，导致‘海神’卡维图瓦即将崩溃。被反抗军和风暴教会追捕，其同伴在戒严排查中疑似内讧身亡，她本人下落不明。",
+      "identInfos": [
+        "考古学家、冒险家",
+        "青灰色眼眸",
+        "疑似‘摩斯苦修会’或‘要素黎明’成员",
+        "引致‘海神’卡维图瓦崩溃的关键人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 535,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "拉蒂西亚·多瑞拉，一位考古学家兼冒险家。传闻她是‘摩斯苦修会’或者‘要素黎明’的成员。"
+        },
+        {
+          "chapterSeq": 542,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，房屋内突然传出一阵女性的笑声，时高时低，时疯狂时诡异：‘哈哈哈……咯咯咯……哈哈哈……咯咯咯……’……克莱恩仅是瞄了一眼，就依靠灵性直觉辨认出这是跟随拉蒂西亚的三位男性冒险家之一。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [535, 542]
+    },
+    {
+      "name": "艾尔兰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "‘白玛瑙’号船长，公正的艾尔兰。找到克莱恩和达尼兹，邀请他们协助军方排查拉蒂西亚等人，提供铁黑色面具给达尼兹作为伪装。",
+      "identInfos": [
+        "‘白玛瑙’号船长",
+        "‘仲裁人’途径序列8‘治安官’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 541,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "来访者正是‘白玛瑙’号的船长，公正的艾尔兰。眼角有些皱纹的艾尔兰望了眼房间里面，轻笑道：‘你们住进这间旅馆的时候，是用格尔曼·斯帕罗的身份登记的，一查就能查到。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [541, 542]
+    },
+    {
+      "name": "亚恩·考特曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "风暴教会枢机主教，罗思德海域大主教，‘代罚者’高级执事，序列3‘海王’。压制‘海神’卡维图瓦制造的暴雨和海啸，改变天气，守护拜亚姆。",
+      "identInfos": [
+        "风暴教会枢机主教",
+        "序列3‘海王’",
+        "罗思德群岛超凡世界统治者"
+      ],
+      "aliases": [
+        {
+          "alias": "海王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 540,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "半空忽然响起了一道极有爆炸力的雷声，铅色的云层飞快裂开，掉落的雨水失去了后援，码头方向，一切恢复了正常。高空晨曦洒落，拜亚姆就仿佛沐浴在了圣光里。达尼兹嘶了一声，自言自语般道：‘亚恩·考特曼改变了天气……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [540]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "血族成员，塔罗会‘月亮’。因向‘愚者’祈求冒险，获血族尼拜斯大人奖励7000镑，计划购买男爵遗物晋升。",
+      "identInfos": [
+        "血族成员",
+        "塔罗会‘月亮’",
+        "希望成为血族男爵"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 540,
+          "extractReason": "UPDATE",
+          "evidenceText": "直到离开奥德拉家地下区域，埃姆林·怀特还有些迷幻，不敢相信这么轻松就拿到了7000镑奖励。……有了它，我就能从‘倒吊人’那里买下男爵的遗物，调配成魔药……我就快成为男爵了，血族男爵埃姆林·怀特大人！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [540]
+    },
+    {
+      "name": "戴里克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城居民，塔罗会‘太阳’。等待首席外出时，向‘愚者’献祭食灵者胃袋等材料给‘魔术师’和‘倒吊人’。阅读《巨人王庭黑岩之书手抄集》。",
+      "identInfos": [
+        "白银城居民",
+        "塔罗会‘太阳’"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 523,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克已准备好食灵者的胃袋和‘倒吊人’先生指定的几种材料，但没急着向‘愚者’先生献祭。他打算再等一等，等‘首席’领导探索小队外出或主持某些祭礼时，才做相应尝试。"
+        },
+        {
+          "chapterSeq": 540,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克点亮蜡烛，准备起献祭仪式。闪电频率多寡交替了好几次后，他终于等到了机会。……他非常熟练地，有条不紊地将‘魔术师’小姐需要的食灵者胃袋，‘倒吊人’先生指定的非凡材料，献祭给了灰雾之上的主宰。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [523, 540]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会‘魔术师’，作家。收到科学幻想小说家阿维勒关于无线电收报机的信息，准备为‘世界’购买。后晋升序列‘戏法大师’，获得多种类法术能力。",
+      "identInfos": [
+        "塔罗会‘魔术师’",
+        "作家",
+        "序列‘戏法大师’"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 523,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思拆开了休带回来的信。这来自于科学幻想类小说家阿维勒，对方很高兴地在信里与沃尔女士分享起无线电技术的发展历程和应用前景。"
+        },
+        {
+          "chapterSeq": 542,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思端起桌上的陶瓷水杯，感受到些许的滚烫。她凝聚精神，安静地等待起变化。……‘我是‘戏法大师’了……’佛尔思欣喜地闭了闭眼睛。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [523, 542]
+    },
+    {
+      "name": "卡西米",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "血族奥德拉家族成员，引导埃姆林·怀特觐见尼拜斯大人，并传达奖励。",
+      "identInfos": [
+        "血族奥德拉家族成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 540,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "主动暴露了一定问题的埃姆林·怀特有些紧张地跟随卡西米进入地下区域，再次来到那个停放着黑铁色棺柩的灰石大厅内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [540]
+    },
+    {
+      "name": "尼拜斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族侯爵，居于黑铁棺柩中。因埃姆林向‘愚者’祈求冒险，褒奖其7000镑。",
+      "identInfos": [
+        "血族侯爵",
+        "居于奥德拉家地下区域黑铁棺柩中"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 540,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "沉厚苍老的声音从布满象征符号和魔法标识的棺柩内传出：‘为了褒奖你。为了始祖，你冒险向‘愚者’祈求，虽然未获得回应，但依旧承担了很大的风险，这是必须褒奖的行为。这里有一张7000镑的承兑汇票，是给予你的奖励……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [540]
+    },
+    {
+      "name": "威曼迪",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "吸血鬼男爵，年龄超200岁。向埃姆林讲述白银之国信息，提及巨人王后欧弥贝拉。",
+      "identInfos": [
+        "吸血鬼男爵",
+        "年龄超过200岁"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 523,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "威曼迪是位吸血鬼男爵，年龄已超过200岁，但外表却一点也不苍老，反倒像一个刚三十出头的成熟男士。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [523]
+    }
+  ],
+  "factions": [
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "风暴教会在拜亚姆的‘代罚者’小队在执事科尔多瓦·罗耶带领下，启用封印物‘2-37’和‘2-166’，成功围捕‘钢铁’麦维提一伙海盗及冒险家，并击毙部分。枢机主教亚恩·考特曼压制‘海神’卡维图瓦制造的灾难，改变天气。教区主教乔戈里批准阿尔杰的计划并给予赏金。教会继续追查反抗军及相关邪教徒。",
+      "identInfos": [
+        "信奉风暴之主的教会",
+        "在罗思德群岛拥有强大势力",
+        "枢机主教亚恩·考特曼坐镇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 526,
+          "extractReason": "UPDATE",
+          "evidenceText": "执事科尔多瓦·罗耶愉快接受命令，带领两支“代罚者”小队，启用了封印物“2-37”和“2-166”，埋伏于距离香树大道15号较远的地方，务求万无一失。"
+        },
+        {
+          "chapterSeq": 540,
+          "extractReason": "UPDATE",
+          "evidenceText": "半空忽然响起了一道极有爆炸力的雷声，铅色的云层飞快裂开，掉落的雨水失去了后援，码头方向，一切恢复了正常。高空晨曦洒落，拜亚姆就仿佛沐浴在了圣光里。达尼兹嘶了一声，自言自语般道：‘亚恩·考特曼改变了天气……’"
+        }
+      ]
+    },
+    {
+      "name": "血之上将海盗团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "海盗将军‘血之上将’塞尼奥尔麾下海盗团，成员包括二副‘钢铁’麦维提、第六舰长‘血色荆棘’亨特利、冷静的斯考尔、情报官老奎因等。在香树大道伏击‘烈焰’达尼兹时，遭遇格尔曼·斯帕罗和风暴教会联手打击，麦维提、亨特利、斯考尔等核心成员死亡，海盗团势力受创。",
+      "identInfos": [
+        "七大海盗将军之一‘血之上将’塞尼奥尔的舰队",
+        "成员以活尸、狼人等异种途径为主",
+        "与‘玫瑰学派’有关"
+      ],
+      "aliases": [
+        {
+          "alias": "血之海盗团",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 525,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是麦维提本次行动的副手，在之前和‘黄昏中将’的战斗里失去了自己船只的第六舰长，‘血色荆棘’亨特利，悬赏金额3800镑。"
+        },
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘钢铁’麦维提已缓了过来，手掌一撑，重新站起，直奔敌人而去，要发挥最擅长的近身肉搏能力和身体奇异，不怕击打的特殊。"
+        }
+      ]
+    },
+    {
+      "name": "反抗军",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "以‘海神’卡维图瓦为信仰的本地反抗势力，活跃于丛林和海上，与海盗、冒险家有合作，背后受弗萨克、因蒂斯支持。在拜亚姆的联络人卡拉特和埃德蒙顿试图利用‘海神’骨剑引诱格尔曼·斯帕罗，骨剑碎裂后两人决定返回丛林找大祭司。反抗军因拉蒂西亚取走重要物品而追捕她。",
+      "identInfos": [
+        "罗思德群岛本地独立势力",
+        "信仰‘海神’卡维图瓦",
+        "与弗萨克、因蒂斯有联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 536,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘反抗军……’达尼兹尴尬笑道：‘就是喊着独立啊，本地人管理本地事务的那帮人，他们大本营在丛林深处，在大海之上，和许多海盗、冒险家有合作，当然，背后支持他们的主要是弗萨克人、因蒂斯人……’"
+        },
+        {
+          "chapterSeq": 537,
+          "extractReason": "UPDATE",
+          "evidenceText": "卡拉特和埃德蒙顿对视了一眼，感受到某种异样的氛围。两人同时直起身体，看向了桌子。那把乳白色的圣剑喀嚓一声裂开了，碎成了无数小块。"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "古老神秘组织，信仰‘隐匿贤者’。考古学家拉蒂西亚·多瑞拉疑为其成员，在西弥姆岛‘海神’遗迹取走重要物品，导致‘海神’卡维图瓦行将崩溃。",
+      "identInfos": [
+        "古老神秘组织",
+        "信仰‘隐匿贤者’",
+        "与‘要素黎明’对抗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 535,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘摩斯苦修会’……信仰‘隐匿贤者’的那个古老组织……"
+        }
+      ]
+    },
+    {
+      "name": "要素黎明",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "神秘组织，糅合神秘学各流派要素，成员擅长施法，掌握古老巫术，首领为贝尔纳黛·古斯塔夫。长期对抗‘摩斯苦修会’，拉蒂西亚·多瑞拉也可能为其成员。",
+      "identInfos": [
+        "神秘组织",
+        "首领是罗塞尔大帝长女贝尔纳黛·古斯塔夫",
+        "对抗‘摩斯苦修会’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 535,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他们对‘要素黎明’有什么了解？这个神秘组织和‘心理炼金会’类似，诞生也就一两百年，糅合了神秘学各个流派的要素，有一套属于自己的理论，成员都擅长施法，掌握着诸多古老的巫术。……‘要素黎明’的首领是贝尔纳黛？查拉图的预言挺准嘛，这真的算是超凡世界的大人物了……"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩军方",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在拜亚姆戒严期间，出动军队和飞空艇全城搜捕拉蒂西亚等考古学家，并邀请格尔曼·斯帕罗协助排查。军方在街头设置街垒，击毙多名反抗者。",
+      "identInfos": [
+        "鲁恩王国在罗思德群岛的军事力量",
+        "拥有飞空艇等装备"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 541,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他们相信，你虽然来历不明，但对我们的态度很友善，希望你能帮忙排查，预防意外，事后会支付相应报酬的。"
+        },
+        {
+          "chapterSeq": 542,
+          "extractReason": "UPDATE",
+          "evidenceText": "几艘炮口外露，机枪伸出的深蓝涂装飞空艇驶过眼前，飞向不同的区域。而大街上，红外套、白裤子、黑皮靴的鲁恩士兵扛着步枪，拖着火炮，排着整齐的队伍，一列又一列经过。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "人皮手套形状的神奇物品，可放牧或吞噬灵魂以使用其能力。主人格尔曼·斯帕罗利用它使用‘审讯者’的‘精神刺穿’、‘光之祭司’的‘神圣之光’等能力速杀‘钢铁’麦维提；吞噬斯考尔；放牧麦维提的灵魂获得‘活尸’部分能力；遵守承诺释放了‘梦魇’灵魂。",
+      "identInfos": [
+        "人皮手套，掌心有两只血眼",
+        "原属‘飓风中将’齐林格斯",
+        "可放牧灵魂，使用其非凡能力",
+        "会发出强烈饥饿感"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩眼中就有两点光芒由小变大，由暗变亮，仿佛突然划破天际的闪电。在用‘纸人替身’吸引到‘钢铁’麦维提一伙的注意后，他就已然开启‘蠕动的饥饿’，并切换至‘审讯者’那个灵魂，预备着使用‘精神刺穿’这个非凡能力。"
+        },
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "麦维提发出无声的惨叫，试图求饶已来之不及，只能绝望地钻入人皮手套里面，被固定在空白的那根手指上，并张扬出非凡特性，与所处环境发生一定的关联。"
+        },
+        {
+          "chapterSeq": 530,
+          "extractReason": "UPDATE",
+          "evidenceText": "没有犹豫，他释放了‘梦魇’。"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "暗金色太阳鸟形状胸针，能附加净化力量。克莱恩在战斗中使用它净化‘钢铁’麦维提，并配合空气子弹使用。",
+      "identInfos": [
+        "太阳鸟形状暗金色胸针",
+        "附加净化力量",
+        "属太阳领域神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "啪！啪！啪！他身前太阳鸟形状的暗金色胸针表面有光芒连续闪动，为空气子弹附加上了净化的力量。"
+        }
+      ]
+    },
+    {
+      "name": "飞毯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "原属‘血色荆棘’亨特利的神奇物品，孔雀蓝底色，具有飞行能力。亨特利用它载着海盗团潜入香树大道。亨特利死后，格尔曼将其作为战利品分给达尼兹。",
+      "identInfos": [
+        "孔雀蓝底色的地毯",
+        "能载人飞行",
+        "原属‘血色荆棘’亨特利"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 525,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "‘血色荆棘’亨特利提过皮制行李箱，从里面取出了一张孔雀蓝地毯，将它缓慢铺到了面前，其上有诸多神秘奇异的图案，带着些许不属于人类般的风味。"
+        },
+        {
+          "chapterSeq": 529,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没有回答他，指了指地上的‘飞毯’：‘你是合作者，你有两个选择。一是3000镑现金，二是这个‘飞毯’。给你5秒钟时间考虑，超时视为放弃。’……克莱恩点了下头：‘好。’"
+        }
+      ]
+    },
+    {
+      "name": "永恒之梦",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "封印物编号2-37，外形如黑色心脏，布满空洞，发出风笛声。能使接触者陷入漫长梦境，影响周围人群。风暴教会执事科尔多瓦在围捕行动中启用它，使冒险家们陷入梦境。",
+      "identInfos": [
+        "封印物编号2-37",
+        "外形如同黑色心脏",
+        "使人陷入永恒梦境",
+        "需放置在沸水中封印"
+      ],
+      "aliases": [
+        {
+          "alias": "2-37",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 526,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "执事科尔多瓦·罗耶愉快接受命令，带领两支“代罚者”小队，启用了封印物“2-37”和“2-166”。……编号：37。名称：永恒之梦。危险等级：‘2’，危险，谨慎且节制利用……描述：外形如同一颗心脏，颜色深黑，触感冰冷，布满空洞，时常发出风笛般的声音。……只要接触过这件物品，就会进入一场漫长的梦境……"
+        }
+      ]
+    },
+    {
+      "name": "2-166",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会封印物，一个金黄色的方盒，能让内部物品保持温度，并一定程度上改变天气，下一场‘太阳圣水’雨。负面效果是使物品染上活着的特性并信仰‘永恒烈阳’。在围捕行动中使用。",
+      "identInfos": [
+        "封印物编号2-166",
+        "金黄色方盒",
+        "能改变天气，下太阳圣水雨"
+      ],
+      "aliases": [
+        {
+          "alias": "2-166",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 526,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这黄金铸就般的盒子则是另一件封印物，“2-166”。它能让内部物品保持原本的温度，并一定程度上改变天气，下一场“太阳圣水”雨。"
+        }
+      ]
+    },
+    {
+      "name": "海神骨剑",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "反抗军持有的乳白色骨剑，源于‘海神’卡维图瓦的半神之躯，可吸干敌人血液，蕴含邪异力量。克莱恩触碰后遭‘海神’诅咒，后用灰雾驱散，导致骨剑碎裂。",
+      "identInfos": [
+        "乳白色骨剑，比小臂略长",
+        "有暗红色斑纹",
+        "源于‘海神’卡维图瓦",
+        "触碰会遭诅咒"
+      ],
+      "aliases": [
+        {
+          "alias": "圣剑",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 537,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那里有一把细长骨头打造成的短剑，比小臂略长，通体乳白，有几个暗红色的深沉斑纹。……他手指刚碰到那把骨剑，脑海内就突然回荡起一声声绝望而痛苦的喊叫……"
+        },
+        {
+          "chapterSeq": 538,
+          "extractReason": "UPDATE",
+          "evidenceText": "那把乳白色的圣剑喀嚓一声裂开了，碎成了无数小块。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩吹响铜哨召唤出信使，向阿兹克先生寄信询问从灵界定位‘海神’遗迹的方法。",
+      "identInfos": [
+        "铜哨",
+        "可召唤阿兹克先生的信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 541,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩念头一闪，掏出古老精致的铜哨，凑到嘴边，吹了一口。……他看见一根根白骨从地板上喷出，往上抛飞，组成了一个脑袋虚幻穿透天花板的巨大骷髅。"
+        }
+      ]
+    },
+    {
+      "name": "太阳圣水",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提前准备好的‘太阳圣水’，装在玻璃瓶中，在战斗时塞入‘钢铁’麦维提伤口内引爆，对其造成严重净化伤害。",
+      "identInfos": [
+        "太阳领域的圣水",
+        "可净化污秽"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 527,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是绑着几枚黄铜色普通子弹的玻璃瓶，里面装着克莱恩提前准备好的大量‘太阳圣水’！"
+        }
+      ]
+    },
+    {
+      "name": "梦魇非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩释放‘梦魇’戴维·雷蒙的灵魂后，在手套表面留下的幽黑深邃宝石状胶质物，为‘梦魇’非凡特性。克莱恩尚未决定售卖或制作神奇物品。",
+      "identInfos": [
+        "幽黑深邃宝石状胶质物",
+        "‘梦魇’途径非凡特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 530,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩收起戴维·雷蒙的非凡特性，揉了揉额角……"
+        }
+      ]
+    },
+    {
+      "name": "活尸非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘钢铁’麦维提死亡后遗留的非凡特性，克莱恩将其保留，未当场捡取斯考尔和亨特利的特性。",
+      "identInfos": [
+        "‘活尸’途径非凡特性",
+        "源自‘钢铁’麦维提"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 528,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩闭目感应了几秒，有些放松又有些喟叹地吐了口气。这一次，他的运气不算差，但也不算太好。他成功获得了‘钢铁’麦维提三种非凡能力，但其中没有他最想要的不怕枪击……"
+        }
+      ]
+    },
+    {
+      "name": "食灵者胃袋",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴里克向‘愚者’献祭的非凡材料，是佛尔思晋升‘戏法大师’所需。",
+      "identInfos": [
+        "‘食灵者’的胃袋",
+        "非凡材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 523,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克已准备好食灵者的胃袋和‘倒吊人’先生指定的几种材料，但没急着向‘愚者’先生献祭。"
+        }
+      ]
+    },
+    {
+      "name": "深红月冕",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "莎伦拥有的神奇物品，在之前围杀‘怨魂’时使用，本章中克莱恩回忆提及。",
+      "identInfos": [
+        "神奇物品",
+        "莎伦持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "也是，神奇物品数量稀少，许多又有明显的缺陷和负面效果，不是谁都想拥有，谁都能拥有的，之前‘怨魂’、‘活尸’、‘狼人’的组合，也才两件神奇物品，‘深红月冕’和‘生物毒素瓶’……"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在之前围杀‘怨魂’后获得的神奇物品，能随机放毒和致病，本章中克莱恩回忆提及。",
+      "identInfos": [
+        "神奇物品",
+        "能随机放毒和致病",
+        "有负面效果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 528,
+          "extractReason": "UPDATE",
+          "evidenceText": "也是，神奇物品数量稀少，许多又有明显的缺陷和负面效果，不是谁都想拥有，谁都能拥有的，之前‘怨魂’、‘活尸’、‘狼人’的组合，也才两件神奇物品，‘深红月冕’和‘生物毒素瓶’……"
+        }
+      ]
+    },
+    {
+      "name": "阴影斗篷",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹的神奇物品，可融入阴影，被克莱恩持有。达尼兹因担心克莱恩用其占卜追踪而未逃跑。",
+      "identInfos": [
+        "神奇物品",
+        "可融入阴影"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 529,
+          "extractReason": "UPDATE",
+          "evidenceText": "格尔曼·斯帕罗会占卜，而且对这方面的能力相当自信，我的‘阴影斗篷’又在他的手上，逃跑不仅难以成功，而且还会激怒他……"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩持有的‘亵渎之牌’，代表‘黑皇帝’途径。在驱散‘海神’诅咒时提及，但未实际使用。",
+      "identInfos": [
+        "亵渎之牌之一",
+        "代表‘黑皇帝’途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 538,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩出现在古老的宫殿内……他原本的打算是，用招待阿蒙分身的那一套来对付试图侵蚀自己灵魂……结果还没融入‘黑皇帝’牌……对方就直接被灰雾给驱散了……"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "作为道恩·唐泰斯参加塔罗会，清仓出售低阶神奇物品。谋划惩戒血族欧内斯·博雅尔，并在圣希尔兰广场暗中保障行动。在牌局中利用‘赢家’恩尤尼的能力与丘纳斯·科尔格建立联系。察觉阿蒙以老鼠半神身份进入伯克伦德街，联合伦纳德、帕列斯·索罗亚斯德、威尔·昂赛汀，在隐秘庇护下清除阿蒙在贝克兰德的所有分身。战斗中遭阿蒙窃取多种能力，并被‘命运木马’能力衰老，后因帕列斯逆转时间恢复。",
+      "identInfos": [
+        "道恩·唐泰斯",
+        "格尔曼·斯帕罗",
+        "愚者",
+        "塔罗会之主",
+        "诡法师",
+        "黑夜女神眷者",
+        "曾用名夏洛克·莫里亚蒂",
+        "持有灰雾之上神秘空间",
+        "复仇杀死因斯·赞格威尔"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 987,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”格尔曼·斯帕罗瞄了“倒吊人”一眼才缓缓说道：“能对瞄准的目标释放闪电……”他将“海之言”拥有的非凡能力和负面效果大致描述了一遍，听得伦纳德又是心动又是皱眉。"
+        },
+        {
+          "chapterSeq": 997,
+          "extractReason": "UPDATE",
+          "evidenceText": "不看底牌，当然就是全凭运气！在把金属筹码压到底牌上时，克莱恩已然和“赢家”恩尤尼对换了位置，互相变成了对方的样子！"
+        },
+        {
+          "chapterSeq": 1004,
+          "extractReason": "UPDATE",
+          "evidenceText": "“找到你了。”卧室内的气氛陡然凝固，捏了捏单片眼镜的“赢家”恩尤尼自顾自又说道：“弗罗拉·雅各的命运中存在太多的异常，最主要的就来自这条街道，这让我感觉很有意思，花了些时间来分辨和寻找源头，以至于让你等了这么多天。”"
+        },
+        {
+          "chapterSeq": 1005,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个刹那，他被窃取走了足足六种非凡能力，包括相当重要的四种！如果阿蒙还能再做几次窃取，克莱恩说不定会直接变成普通人。这就是天使层面的“偷盗”！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘星星’参与惩戒血族的行动，负责将欧内斯·博雅尔拖入梦境。得知克莱恩计划清除阿蒙分身后，与帕列斯·索罗亚斯德共同参加战斗。利用‘海之言’手杖飞行，在帕列斯帮助下施展时之虫能力，吸收阿蒙分身，逆转克莱恩的衰老。",
+      "identInfos": [
+        "塔罗会星星",
+        "红手套值夜者",
+        "体内寄生帕列斯·索罗亚斯德",
+        "克莱恩前同事",
+        "廷根市前值夜者",
+        "安魂师"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 989,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”伦纳德笑了一声：“这个简单，但我只负责让那个血族‘昏迷’。当然，前提是，必须有足够准确的情报，主要是行动轨迹上的。”"
+        },
+        {
+          "chapterSeq": 1006,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看见自己的皮肤飞快恢复了光泽，斑纹相继淡化和消失。也就是几秒钟的工夫，他恢复了原本的模样，生命似乎从未流逝。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [987, 988, 989, 990, 994, 1002, 1004, 1005, 1006]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘正义’，参与惩戒血族行动，催眠欧内斯·博雅尔使其前往丰收教堂。行动中利用‘恐惧之手’的‘贿赂-魅惑’能力与催眠配合，消化部分魔药。行动后自我反思，协助克莱恩处理被阿蒙寄生者的后续。",
+      "identInfos": [
+        "塔罗会正义",
+        "霍尔伯爵之女",
+        "心理医生途径",
+        "鲁恩慈善助学基金理事",
+        "金发碧眼贵族少女"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 989,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽斟酌着说道：“我也许可以催眠那位血族，让他自己去大地母神的教堂。不过，要想不暴露自己，并且成功率较高，我催眠那位血族时，他最好处于失神或半昏迷状态。”"
+        },
+        {
+          "chapterSeq": 1003,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过这次的事情，她发现自己的“催眠师”魔药又消化了不少，而且，也确定了一件事情，那就是“恐惧之手”这件神奇物品自带的“贿赂-魅惑”能力，与她的“催眠”完美搭配！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [987, 988, 989, 1001, 1003, 1006]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘月亮’，主导惩戒血族欧内斯·博雅尔的行动，在圣希尔兰广场引其进入丰收教堂做义工。行动中自愿作为被憎恶对象，承担引导任务。",
+      "identInfos": [
+        "塔罗会月亮",
+        "血族男爵",
+        "丰收教堂神父",
+        "大地母神教会成员",
+        "红眼睛"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        },
+        {
+          "alias": "埃姆林·怀特",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 989,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林略作沉吟就答应了下来。在奥尔默公爵已经清除掉序列5人造吸血鬼非凡特性内精神污染的情况下，埃姆林只需要等待一次满月，就能成为子爵，和欧内斯·博雅尔站在一个水平线上，而下周就有这样的机会。"
+        },
+        {
+          "chapterSeq": 1002,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林走了过去，从怀里拿出钱夹，抽了100镑现金，递给车夫道：“这是给你的赔偿。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [988, 989, 994, 1001, 1002, 1003]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘魔术师’，在惩戒行动中提供‘莱曼诺旅行笔记’借出，并因血族‘满月’能力选择不直接参与。",
+      "identInfos": [
+        "塔罗会魔术师",
+        "亚伯拉罕家族学徒",
+        "作家",
+        "休的朋友",
+        "租住于乔伍德区"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 989,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思“呃”了一声道：“我可以将‘莱曼诺的旅行笔记’借出，上面有，‘天使之拥’，我，我也拿一份战利品吧。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [988, 989, 994]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘审判’，参与惩戒血族行动，负责跟踪调查欧内斯·博雅尔。行动中伪装报童，递送报纸并完成催眠辅助。",
+      "identInfos": [
+        "塔罗会审判",
+        "赏金猎人",
+        "佛尔思的朋友",
+        "身高较矮",
+        "曾为贵族"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 988,
+          "extractReason": "UPDATE",
+          "evidenceText": "“审判”休主动开口道：“我可以参与，只要相应的战利品分我一份。”"
+        },
+        {
+          "chapterSeq": 1001,
+          "extractReason": "UPDATE",
+          "evidenceText": "斜背挎包拿着报纸的报童迅速转过了身体，动作敏捷地从几辆自行车中穿过，混入了来往的人群里。“他”有着清秀的脸庞，头发凌乱垂下，遮住了眉毛，边走边将左手不知什么时候戴上的黑色薄纱手套取了下来，折叠塞入装报纸的挎包里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [988, 994, 998, 999]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘倒吊人’，为惩戒行动制定详细策略，包括利用赏金猎人误导、靠近正神教堂、安德森式诱导等。解答奥黛丽关于正神教会控制贵族的担忧，展现经验与转型意图。",
+      "identInfos": [
+        "塔罗会倒吊人",
+        "风暴教会水手",
+        "海洋歌者",
+        "前海盗",
+        "塔罗会最年长成员"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 989,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰低笑了一声道：“不需要放弃，多几个误导的行为就可以了。”他随即看向“月亮”埃姆林道：“第一，你将调查那个血族的任务直接发布给贝克兰德的赏金猎人们，以他们的存在掩盖‘审判’小姐的行动……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [987, 989, 990, 991]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘隐者’，在塔罗会上为戴里克提供晋升仪式新思路。前往拜亚姆处理‘工匠’夏尔夫异常，发现其灵体变异为‘连体人’，决定先带其回船。",
+      "identInfos": [
+        "塔罗会隐者",
+        "星之上将",
+        "未来号船长",
+        "海盗将军",
+        "曾为神秘女王手下"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 991,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅斟酌了一下，望着“太阳”戴里克道：“或许可以换一个角度来考虑这个问题，你的晋升仪式并不会维持太久，完全可以从增加在纯粹黑暗中生存的时间来解决这件事情。”"
+        },
+        {
+          "chapterSeq": 995,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅脸上的凝重才逐渐明显。夏尔夫开门之后，她已经用自己的眼睛看出了对方的异常：如果说过去的夏尔夫，灵体是一个正常的人类，那现在就是一个连体人！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [987, 988, 991, 995]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为塔罗会‘太阳’，在塔罗会上询问晋升‘光之祭司’的仪式难题。向白银城首席科林·伊利亚特请教，得知圆塔底部黑暗非纯粹黑暗，需进一步确认。",
+      "identInfos": [
+        "塔罗会太阳",
+        "白银城居民",
+        "光之祭司途径",
+        "曾被阿蒙寄生",
+        "神弃之地幸存者"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 991,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克终于找到机会，开口询问道：“大家……”他分别瞄了“倒吊人”先生和“世界”先生一眼后，继续说道：“我晋升‘光之祭司’的仪式是在纯粹的黑暗中，将全身埋入正常不会融化的冰块里，嗯，在白银城，类似的冰块不难得到，可该怎么制造纯粹又安全的黑暗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [991, 998]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为黑夜教会‘隐秘之仆’，回应克莱恩的仪式，赐予黑夜纹章，承诺在清除阿蒙分身时提供隐秘庇护。",
+      "identInfos": [
+        "隐秘之仆",
+        "黑夜修道院院长",
+        "苦修士",
+        "黑夜女神教会天使",
+        "大主教之首"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 992,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那身穿简陋长袍的女士轻轻颔首道：“阿里安娜，隐秘之仆。”克莱恩眸光微凝，已是知晓眼前女士的身份。作为一名值夜者出身的非凡者，阿里安娜这个名字，他怎么可能陌生？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [992]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "以老鼠半神身份潜入伯克伦德街，寄生恩尤尼并揭穿克莱恩身份。在贝克兰德散布分身，寄生马赫特一家，最终被克莱恩联合伦纳德、帕列斯·索罗亚斯德、威尔·昂赛汀清除所有分身。",
+      "identInfos": [
+        "渎神者",
+        "时天使",
+        "造物主之子",
+        "偷盗者途径天使之王",
+        "戴单片眼镜",
+        "喜欢寄生和欺诈",
+        "分身众多"
+      ],
+      "aliases": [
+        {
+          "alias": "渎神者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 991,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩当即笑眯眯说道：“阿蒙的分身能窃取别人的命运，顶替别人的身份出现，我想知道要怎么才能识破这种可怕的事情。”"
+        },
+        {
+          "chapterSeq": 1004,
+          "extractReason": "UPDATE",
+          "evidenceText": "“找到你了。”卧室内的气氛陡然凝固，捏了捏单片眼镜的“赢家”恩尤尼自顾自又说道：“弗罗拉·雅各的命运中存在太多的异常，最主要的就来自这条街道……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [991, 1003, 1004, 1005, 1006]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "寄生在伦纳德体内的天使，告知伦纳德阿蒙分身情报。在清除阿蒙行动中，通过伦纳德施展能力，吸收所有阿蒙分身，逆转克莱恩衰老，回收‘时之虫’非凡特性。",
+      "identInfos": [
+        "偷盗者途径序列1天使",
+        "寄生伦纳德",
+        "索罗亚斯德家族",
+        "伦纳德的老爷爷",
+        "时之虫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1006,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德微侧脑袋，仿佛在倾听什么，过了一会才道：“他们体内‘时之虫’的非凡特性部分已全都被吸了出来，剩下的部分有的被吸出，有的还残留，但不会造成太大的影响...”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [994, 1002, 1004, 1006]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为‘水银之蛇’，回应克莱恩的求助，通过千纸鹤降下‘重启’力量，使阿蒙状态回归几分钟前，为清除行动创造关键时机，事后索取报酬。",
+      "identInfos": [
+        "水银之蛇",
+        "命运之蛇",
+        "怪物途径天使",
+        "生命学派议长",
+        "婴儿形态"
+      ],
+      "aliases": [
+        {
+          "alias": "水银之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1006,
+          "extractReason": "UPDATE",
+          "evidenceText": "已烧得残缺不全多有焦黑的千纸鹤突然凝固在了半空，一个又一个水银色的复杂符号相继从它之上跳出，瞬间就连成了一条巨大虚幻的无鳞之蛇。这银白的巨蛇表面，密密麻麻的花纹和符号构成了一个又一个彼此相连的转轮...霍然之间，伯克伦德街39号起居室内的马赫特议员、莉亚娜夫人和数位男仆女佣，收起笑意，同时抬手，摘下了戴在脸上的单片眼镜..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [991, 1006]
+    },
+    {
+      "name": "丘纳斯·科尔格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "军情九处副处长，黑皇帝途径半神。在牌局中使用‘贿赂’能力，与克莱恩建立联系，对克莱恩表现出兴趣，答应帮忙留意庄园。",
+      "identInfos": [
+        "军情九处副处长",
+        "黑皇帝途径半神",
+        "爱好雪茄和狩猎",
+        "丘纳斯·科尔格少将"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 997,
+          "extractReason": "UPDATE",
+          "evidenceText": "道恩·唐泰斯又看了这位少将副处长一眼，保持着温和的笑容道：“跟注。”他到现在为止，都未看过自己的底牌...丘纳斯·科尔格深深看了道恩·唐泰斯一眼，叹息笑道：“没想到最后的赢家是你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [996, 997]
+    },
+    {
+      "name": "欧内斯·博雅尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族子爵，被惩戒的目标。在圣希尔兰广场遭伦纳德拖入梦境，被奥黛丽催眠，最终自行进入丰收教堂成为义工，并交出所有物品。",
+      "identInfos": [
+        "血族子爵",
+        "红眼睛",
+        "西维拉斯风味餐厅常客",
+        "投资家具工厂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 994,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "埃姆林取下帽子，嘟囔道：“一件小事，帮我发布一个委托给赏金猎人们，内容是，跟踪一个叫做欧内斯·博雅尔的人，弄清楚他的日常行动轨迹，赏金，100镑。”"
+        },
+        {
+          "chapterSeq": 1003,
+          "extractReason": "UPDATE",
+          "evidenceText": "欧内斯·博雅尔未做抵抗，直接脱口喊道：“我会来这里做一个月义工！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [994, 999, 1001, 1002, 1003]
+    },
+    {
+      "name": "米斯特拉尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族伯爵，淡银头发猩红眼睛。在圣希尔兰广场暗中观察惩戒行动，试图通过‘玫瑰之誓’戒指共享视觉，但被‘天使之拥’威慑，未直接出手阻拦。",
+      "identInfos": [
+        "血族伯爵",
+        "淡银头发",
+        "猩红眼睛",
+        "佩戴幽蓝宝石戒指"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1001,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他身材瘦高，穿着参加宴会的晚礼服，偏银的淡色头发与鲜红的眼睛搭配出了略显妖异的俊美，嘴角始终噙着不太明显的笑容。“伯爵阁下，真不会出什么问题吗？埃姆林和以前已经不一样了...”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1001, 1002, 1003]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "马赫特议员之女，被阿蒙寄生老师欺骗。在伯克伦德街39号目睹家人被阿蒙寄生戴单片眼镜后崩溃尖叫。后被奥黛丽催眠遗忘恐怖记忆。",
+      "identInfos": [
+        "马赫特议员之女",
+        "墨绿长发",
+        "深棕眼眸",
+        "解密学者",
+        "盗火人神奇物品持有者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1000,
+          "extractReason": "UPDATE",
+          "evidenceText": "一位有墨绿色波浪长发和深棕色明亮眼眸的少女从马车上走了下来，正是外出归家的海柔尔。她穿着一身不露肩膀的深绿色衣裙，嘴唇微微抿着，神情舒展中带着点愉悦。"
+        },
+        {
+          "chapterSeq": 1005,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔一下崩溃，发出了凄厉的叫声。这尖叫声传出了房屋，穿透了花园，引来了街上行人的注视..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1000, 1003, 1004, 1005, 1006]
+    },
+    {
+      "name": "艾弥留斯·利维特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "海军上将，黑发蓝眼，气质古板严肃。在牌局中利用‘仲裁人’途径气势威压，但最终输给克莱恩的‘运气’。重新被启用，主导国防部。",
+      "identInfos": [
+        "海军上将",
+        "仲裁人途径半神",
+        "黑发蓝眼",
+        "气质古板严肃",
+        "曾被克莱恩假扮"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 996,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“艾弥留斯上将，他重新被启用，目前主导着国防部。”艾弥留斯上将...黑发整齐后梳，蓝眸幽暗深沉，嘴角略微下垂，脸上没留胡须，气质古板严肃...克莱恩一眼望去，就看见了坐在最上首的艾弥留斯·利维特..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [996, 997]
+    },
+    {
+      "name": "马赫特议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "下院议员，海柔尔的父亲。在牌局中陪玩输钱，被阿蒙寄生后戴单片眼镜，后因威尔‘重启’恢复。",
+      "identInfos": [
+        "下院议员",
+        "海柔尔的父亲",
+        "伯克伦德街39号"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 996,
+          "extractReason": "UPDATE",
+          "evidenceText": "马赫特议员同样用鲁恩式的含蓄接受了上校先生的赞美：“所有和道恩相处过的人，都能轻易得出他是这方面专家的结论。”"
+        },
+        {
+          "chapterSeq": 1005,
+          "extractReason": "UPDATE",
+          "evidenceText": "马赫特议员随即将这单片眼镜戴到了右眼。这...海柔尔已明显察觉到了不对..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [996, 997, 998, 1004, 1005, 1006]
+    },
+    {
+      "name": "谢尔曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "休的线人，自认女性的年轻男子，被魔女特莉丝教唆进行刺杀、教唆犯罪等‘仪式’，以获得魔药彻底转变为女性。内心挣扎但仍继续任务。",
+      "identInfos": [
+        "休的线人",
+        "自认女性",
+        "魔女特莉丝的刺客",
+        "谢尔曼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 999,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "谢尔曼抱着装了多根长条面包的纸袋和一叠报纸，穿过巷子和街道...进入一栋公寓内...特莉丝笑容缓慢绽放，让采光不佳的房间都仿佛明亮了不少，然后，她以略带戏谑的口吻问道：“为什么不敢看我？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [999]
+    },
+    {
+      "name": "特莉丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "魔女教派成员，教唆谢尔曼犯罪以完成‘仪式’，意在报复王室相关人士，调查大雾霾真相。与克莱恩形成有限合作。",
+      "identInfos": [
+        "魔女",
+        "特莉丝",
+        "原初魔女信徒",
+        "与克莱恩有限合作",
+        "调查大雾霾真相"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 999,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝笑容缓慢绽放...她顿了一下又道：“我今天来，是有一个任务交给你。你最初的进度很快，我很满意，可最近似乎停滞了下来。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [999]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘未来号’大副，对‘工匠’夏尔夫的繁殖欲望感兴趣，希望其成为实验助手，展现出怪异的研究热情。",
+      "identInfos": [
+        "未来号大副",
+        "弗兰克·李",
+        "怪物途径",
+        "热衷生物实验"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 995,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "弗兰克·李目光炯炯地看着这一幕，相当激动地表达着自己的想法...弗兰克随即看向“星之上将”嘉德丽雅，略显兴奋地问道：“船长，这就是给我的实验助手？我太喜欢他这个特点了！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [995]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城首席，脸上有陈旧疤痕。回答戴里克关于黑暗的疑问，指出圆塔底部黑暗非纯粹黑暗，提示戴里克确认仪式要求。",
+      "identInfos": [
+        "白银城六人议事团首席",
+        "科林·伊利亚特",
+        "戴里克的上司"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 998,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "戴里克·伯格经过通传，见到了“六人议事团”首席科林·伊利亚特。...“你需要确认一点，是纯粹的黑暗，还是无光的黑暗？这两个概念有很大的区别。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [998]
+    },
+    {
+      "name": "莉亚娜夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "海柔尔的母亲，墨绿色头发。被阿蒙寄生后戴上单片眼镜，后因威尔‘重启’恢复。",
+      "identInfos": [
+        "马赫特议员之妻",
+        "海柔尔的母亲",
+        "墨绿色头发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1004,
+          "extractReason": "UPDATE",
+          "evidenceText": "她的母亲莉亚娜夫人，取下了鼻梁上架着的装饰品，戴上了不知从哪里拿出的单片眼镜..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1004, 1005, 1006]
+    }
+  ],
+  "factions": [],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的人皮手套封印物，在清除阿蒙行动中用于施展能力，但被阿蒙窃取走。最终战斗中用于凝聚透明书册。",
+      "identInfos": [
+        "人皮手套",
+        "放牧灵魂",
+        "克莱恩的封印物",
+        "可成长",
+        "原属血之上将"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 987,
+          "extractReason": "UPDATE",
+          "evidenceText": "“蠕动的饥饿”可以留着，就算为了“旅行”，也得留着，另外，它还可以放牧一位序列4的圣者，有成长的潜力，而且本身多种非凡能力的搭配也相当不错..."
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的左轮手枪，价值尚可。在清除阿蒙行动时使用‘控灵子弹’命中阿蒙虚影使其僵硬。计划制作‘阳炎子弹’以提升威力。",
+      "identInfos": [
+        "克莱恩的左轮手枪",
+        "丧钟",
+        "可加载不同子弹",
+        "原属安德森"
+      ],
+      "aliases": [
+        {
+          "alias": "丧钟",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 993,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩从腋下枪袋里拿出“丧钟”手枪，抖甩出转轮，将两枚银黑色的“控灵子弹”塞了进去。"
+        },
+        {
+          "chapterSeq": 1006,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！他沉稳果断地扣动了“丧钟”左轮的扳机，射出了早就准备好的“控灵子弹”。一道银黑色的流光电闪而出，准确命中了那头戴尖顶软帽身穿古典黑袍的阿蒙虚影..."
+        }
+      ]
+    },
+    {
+      "name": "海之言权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩拟出售给伦纳德的神奇物品，可释放闪电、飞行，但负面效果包括高歌、绊倒和易遭雷劈。伦纳德在清除阿蒙行动中使用其飞行。",
+      "identInfos": [
+        "海之言权杖",
+        "能释放闪电",
+        "会高歌",
+        "绊倒持有者",
+        "易遭雷劈"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 987,
+          "extractReason": "UPDATE",
+          "evidenceText": "他将“海之言”拥有的非凡能力和负面效果大致描述了一遍，听得伦纳德又是心动又是皱眉。竟然可以作为魔杖，带着我飞行...而且攻击力真的不弱..."
+        },
+        {
+          "chapterSeq": 1005,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿黑色风衣的伦纳德被一根镶嵌银白金属的手杖拉着，高速飞到了伯克伦德街！"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思的神奇物品，可记录非凡能力。在惩戒行动中借给伦纳德，用于激发‘天使之拥’。亚伯拉罕家族之物。",
+      "identInfos": [
+        "莱曼诺旅行笔记",
+        "亚伯拉罕家族",
+        "记录非凡能力",
+        "佛尔思的所有物",
+        "封皮铜绿色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 989,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思“呃”了一声道：“我可以将‘莱曼诺的旅行笔记’借出，上面有，‘天使之拥’，我，我也拿一份战利品吧。”"
+        }
+      ]
+    },
+    {
+      "name": "控灵子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩利用‘灵之虫’和灰雾力量制作的银黑色子弹，命中目标可使其陷入麻痹状态。在清除阿蒙行动中射中阿蒙虚影造成僵硬。",
+      "identInfos": [
+        "银黑色子弹",
+        "由灵之虫制成",
+        "命中导致麻痹",
+        "克莱恩自制"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 993,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩利用两条“灵之虫”的残留身躯、两个银制的薄片和之前抄录的部分立体复杂符号...制造出了两枚银黑色的子弹。...一旦被它们命中，目标会立刻陷入麻痹状态！"
+        }
+      ]
+    },
+    {
+      "name": "黑夜纹章",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿里安娜赐予克莱恩的黑色宝石勋章，激发可获得隐秘庇护，若念出‘阿里安娜’之名还可召唤天使。在清除阿蒙行动前被激发。",
+      "identInfos": [
+        "黑色宝石勋章",
+        "隐秘之仆赐予",
+        "提供隐秘庇护",
+        "可召唤阿里安娜"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 992,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一点点光芒随之亮起，深沉而璀璨，快速在那掌心勾勒出了一枚勋章。这勋章通体晶莹剔透，仿佛由黑色的宝石铸成...这是属于我的黑夜纹章...一旦激发，会与我产生联系..."
+        }
+      ]
+    },
+    {
+      "name": "恐惧之手",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的神奇物品，自带的‘贿赂-魅惑’能力与催眠完美搭配，帮助奥黛丽消化部分魔药。",
+      "identInfos": [
+        "恐惧之手",
+        "贿赂-魅惑能力",
+        "奥黛丽的神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1003,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过这次的事情，她发现自己的“催眠师”魔药又消化了不少，而且，也确定了一件事情，那就是“恐惧之手”这件神奇物品自带的“贿赂-魅惑”能力，与她的“催眠”完美搭配！"
+        }
+      ]
+    },
+    {
+      "name": "鱼人袖钉",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩出售的低阶神奇物品，提供幻鳞保护和游泳能力，炎热干燥时易疲惫，被奥黛丽以500镑购得。",
+      "identInfos": [
+        "提供幻鳞",
+        "使人会游泳",
+        "炎热干燥时疲惫",
+        "售价500镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 987,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩轻轻点了下头，将“鱼人袖钉”和“绿华”戒指的作用和缺点都讲了一遍，末了道：“‘鱼人袖钉’500镑，‘绿华’戒指1000镑。”...“正义”奥黛丽就微举了下手臂道：“我想买下‘鱼人袖钉’。”"
+        }
+      ]
+    },
+    {
+      "name": "绿华戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩出售的低阶神奇物品，提供治疗能力，但招惹蚊虫。被阿尔杰以1000镑购得。",
+      "identInfos": [
+        "治疗能力",
+        "招惹蚊虫",
+        "售价1000镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 987,
+          "extractReason": "UPDATE",
+          "evidenceText": "紧接着，“倒吊人”阿尔杰买下了“绿华”戒指，对他来说，虽然水领域有一定的治疗法术，但都不如这专业的物品...而所谓的招惹蚊虫，阿尔杰完全不在意，因为他皮肤底下有幻鳞，不怕叮咬。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰之誓戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "一对幽蓝宝石戒指，佩戴者可共享视觉听觉嗅觉，连续佩戴一周可能相爱。米斯特拉尔和欧内斯各持一枚。",
+      "identInfos": [
+        "幽蓝宝石戒指",
+        "共享感官",
+        "可能相爱"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1001,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "欧内斯·博雅尔右手搭在左手上，自然地转了转自己无名指戴着的那枚镶嵌幽蓝宝石的戒指。...“玫瑰之誓”戒指会时不时让他的想法出现在米斯特拉尔伯爵的脑海中..."
+        }
+      ]
+    },
+    {
+      "name": "幸运天平",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "原属‘血之上将’塞尼奥尔的神奇物品，可提升幸运但有厄运反噬，克莱恩计划出售。",
+      "identInfos": [
+        "提升幸运",
+        "厄运反噬",
+        "原属血之上将",
+        "克莱恩卖出"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 987,
+          "extractReason": "UPDATE",
+          "evidenceText": "至于“海神权杖”、“格罗塞尔游记”、“巨人王庭的钥匙”这类最少半神层次的物品，他目前根本不考虑卖掉。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 853,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "在梦境对峙中，伦纳德揭穿克莱恩的多重身份并质问其目的，克莱恩默认身份但否认潜入目的，透露为复仇加入愚者组织。关系从敌对转为相互怀疑与潜在合作。"
+    },
+    {
+      "fromChapterSeq": 853,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "帕列斯·索罗亚斯德",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "伦纳德与体内寄生天使帕列斯讨论克莱恩身份，帕列斯猜测愚者可能是其老朋友，并建议伦纳德暂不泄露克莱恩身份，考虑合作。"
+    },
+    {
+      "fromChapterSeq": 853,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过灰雾让达尼兹提供西拜朗情报并小心黑夜教会，达尼兹向艾德雯娜询问时被识破，但仍完成任务。"
+    },
+    {
+      "fromChapterSeq": 854,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "埃莱克特拉主教",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩以道恩·唐泰斯身份向主教忏悔即将走私军火，试探女神态度，后捐赠股份建立基金，获得主教赞赏并计划举办慈善晚会。"
+    },
+    {
+      "fromChapterSeq": 855,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "辛德拉斯男爵",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "辛德拉斯男爵威胁克莱恩转让股份，随后卡隆自杀诬陷克莱恩，克莱恩发现背后有非凡力量操控，双方陷入政治漩涡。"
+    },
+    {
+      "fromChapterSeq": 855,
+      "toChapterSeq": 860,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "休接受管家委托成为道恩·唐泰斯的暗中保镖，后与佛尔思一同保护，发现管家、男仆、邻居的非凡秘密并留言提醒。"
+    },
+    {
+      "fromChapterSeq": 855,
+      "toChapterSeq": 860,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "佛尔思加入休的保镖任务，两人共同保护道恩·唐泰斯，期间发现多处非凡秘密并留言警告。"
+    },
+    {
+      "fromChapterSeq": 855,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "于尔根·库珀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩通过马赫特议员告知军方合作意向，避免与海柔尔身边的半神接触，议员安排餐厅会面，克莱恩同意接受军火生意。"
+    },
+    {
+      "fromChapterSeq": 859,
+      "toChapterSeq": 859,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "于尔根·库珀",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "餐厅外中年男子持枪袭击马赫特议员，克莱恩与保镖制止袭击，议员沉默后安排记者采访。"
+    },
+    {
+      "fromChapterSeq": 859,
+      "toChapterSeq": 860,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "海柔尔察觉保镖藏在橱柜时，佛尔思带休离开；后与休发现管家研究黑魔法等秘密并留言提醒克莱恩。"
+    },
+    {
+      "fromChapterSeq": 862,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "奥黛丽在慈善晚会察觉道恩·唐泰斯认出“谎言”项链，怀疑其为非凡者，派苏茜观察并决定调查。后塔罗会上得知其为愚者眷者共用身份，关系转为好奇但保持距离。"
+    },
+    {
+      "fromChapterSeq": 863,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "塔罗会上“世界”公开道恩·唐泰斯为眷者共用身份，消除成员疑惑。奥黛丽接受并加入基金。"
+    },
+    {
+      "fromChapterSeq": 864,
+      "toChapterSeq": 864,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "偷盗者途径半神",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩通过魔镜警告半神离开伯克伦德街，谎称附近有偷盗者天使和阿蒙，半神被雷劈后转移至庄园。"
+    },
+    {
+      "fromChapterSeq": 866,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "戴莉在停尸房通灵发现卡隆死前看见辛德拉斯男爵，证实有非凡力量陷害。伦纳德与戴莉讨论，戴莉察觉伦纳德关注道恩·唐泰斯。"
+    },
+    {
+      "fromChapterSeq": 866,
+      "toChapterSeq": 866,
+      "characterA": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "戴莉通灵发现卡隆死前看见辛德拉斯男爵，克莱恩得知后意识到男爵被陷害，决定旁观。"
+    },
+    {
+      "fromChapterSeq": 867,
+      "toChapterSeq": 867,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "霍尔伯爵",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "喜欢",
+          "bond": "父",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "霍尔伯爵提议奥黛丽加入助学基金，奥黛丽因克莱恩神秘而犹豫，最终决定加入基金。"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 631,
+      "toChapterSeq": 631,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "艾弥留斯·利维特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "周明瑞以格尔曼·斯帕罗身份代替艾弥留斯·利维特担任海军上将，完成临时契约，向其汇报期间发生的所有事件，艾弥留斯冷静听取并肯定其选择。"
+    },
+    {
+      "fromChapterSeq": 628,
+      "toChapterSeq": 629,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "敌对者"
+        }
+      },
+      "characterB": {
+        "name": "辛西娅",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "爱慕",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "辛西娅变异成怪物后攻击周明瑞，周明瑞最终用太阳能力将其净化，辛西娅临死前说出欲望母树和天体教派。"
+    },
+    {
+      "fromChapterSeq": 636,
+      "toChapterSeq": 642,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "周明瑞雇佣嘉德丽雅的未来号协助寻找美人鱼，嘉德丽雅认出其为塔罗会世界，为其提供住宿并组织探索海底遗迹。"
+    },
+    {
+      "fromChapterSeq": 641,
+      "toChapterSeq": 642,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "奥黛丽通过魔镜占卜仪式向愚者祈求帮助，周明瑞同意担当第三方力量，协助其占卜巨龙笔记线索。"
+    },
+    {
+      "fromChapterSeq": 631,
+      "toChapterSeq": 631,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "吕尔安",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "周明瑞扮演艾弥留斯期间，吕尔安作为秘书协助处理事务，并听从其命令调查天体教派。"
+    },
+    {
+      "fromChapterSeq": 627,
+      "toChapterSeq": 627,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥斯顿·利维特",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥斯顿试图拉拢艾弥留斯参与密谋，周明瑞代入艾弥留斯性格拒绝见面，奥斯顿离开前指责其冷酷。"
+    },
+    {
+      "fromChapterSeq": 630,
+      "toChapterSeq": 630,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "福莱特·肯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "下级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "周明瑞以冒充的审讯者能力暗中压迫并审问福莱特·肯，获知辛西娅变异真相后将其喂食给蠕动的饥饿。"
+    },
+    {
+      "fromChapterSeq": 638,
+      "toChapterSeq": 638,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "乌特拉夫斯基主教",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "丰收教堂信徒增多，乌特拉夫斯基赞扬埃姆林贡献，埃姆林虽否认信仰但继续在教堂扮演。"
+    },
+    {
+      "fromChapterSeq": 638,
+      "toChapterSeq": 638,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被委托者"
+        }
+      },
+      "characterB": {
+        "name": "卡西米·奥德拉",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "卡西米召集血族年轻一代，发布猎杀原始月亮信徒的考验，埃姆林好胜心起接受考验。"
+    },
+    {
+      "fromChapterSeq": 640,
+      "toChapterSeq": 640,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "米歇尔·德伊特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "奥黛丽拜访米歇尔副教授参观收藏，通过提议建立古物保护基金成功获得二十年战争笔记。"
+    }
+  ]
+}

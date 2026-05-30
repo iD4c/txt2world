@@ -1,0 +1,1299 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在莫尔斯小镇执行任务时，借看守封印物“3-0782”的机会，利用从“永恒烈阳”处获得的仪式知识，窃取其神血力量成功制作了两枚“阳炎符咒”作为底牌。他占卜闹鬼事件起因时看到一座倒立的金字塔陵寝，推测与死神相关，并怀疑阿兹克是死神后裔。返回廷根后，他通过占卜和罗珊的证词发现老尼尔状态不对，与队长邓恩、洛耀携带封印物“3-0611”赶往老尼尔家，目睹老尼尔已半失控，最终邓恩使用“安静发丝”使其失去欲望，并与洛耀开枪将其击杀。老尼尔死亡让克莱恩深受触动。随后，他接受圣堂高级执事克雷斯泰·塞西玛的考查，隐瞒“扮演法”全貌，通过测试，获得“小丑”魔药配方和材料，成功晋升序列8“小丑”。他获得新能力：超强身体协调性、直觉预感对手行动、精准控制面部表情和肢体语言，并能以纸张为武器。他参加梅纳德议员猝死案的“尸检”，通灵得知议员死于与交际花雪伦夫人的性事，随后尸体受阿兹克铜哨影响诈尸，被克莱恩制服并净化。他从心理炼金会线人达斯特处得知，疯掉的胡德·欧根曾与诈骗犯兰尔乌斯有联系，兰尔乌斯可能是“诈骗师”非凡者。他计划写信给戴莉求助，尝试通灵胡德·欧根以获取线索。他向班森和梅丽莎宣布周薪涨至6镑（实为10镑）。他尝试召唤戴莉的信使寄信，注意到阿兹克的信使极其强大。阿兹克为引开可能存在的幕后黑手，决定暂时离开廷根前往贝克兰德，并将召唤信使的铜哨留给克莱恩。在塔罗会上，他从“太阳”戴里克处了解白银城的献祭仪式，为后续自己的献祭尝试做准备。",
+      "identInfos": [
+        "穿越者，原周明瑞",
+        "序列8“小丑”",
+        "值夜者正式成员，警察部门督察",
+        "塔罗会“愚者”",
+        "持有阳炎符咒和阿兹克铜哨"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 161,
+          "extractReason": "UPDATE",
+          "evidenceText": "在封印物‘3-0782’的净化下，我们还能支撑两个小时三十五分钟。"
+        },
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩取下戴在黑色燕尾服内侧的封印物“3-0782”，弯腰将这枚暗金色泽的古朴徽章放到了地上。"
+        },
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "随着咒文接近尾声，克莱恩突然感觉眼前有什么东西亮了起来。那枚暗金色的古朴徽章绽放出了炽烈的光芒，就像降临于大地之上的太阳。"
+        },
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的刻刀正落下最后一笔。随着那个象征“光”的魔法标识完成，金片正反面的灵性霍然连成了一个整体，并内敛至金属的最里面。"
+        },
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩被罗珊的问题弄得呆了一下，略显茫然地回忆道：“我之前去老尼尔家的时候，就是上个月，发现客厅内有一台钢琴，他告诉我，他过世的妻子很喜欢音乐……”"
+        },
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩握住硬币，霍然想起了自己刚晋升那会，很快掌握住灵视，看见老尼尔背后有一双近乎透明的、异常冷漠的、没长睫毛的、诡异虚幻的眼睛。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看见那张异常熟悉的脸庞露出绝望的神情，看见他的头盖骨被掀了开来，看见血红与乳白向着四面八方飞溅出去。"
+        },
+        {
+          "chapterSeq": 165,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩穿着纯黑的正装和衬衣，拿着镶银的手杖，安静地立在墓园的一角。他的胸前口袋位置，塞了一条叠得整整齐齐的白色手帕，掌中则握着把肃穆清幽的深眠花。"
+        },
+        {
+          "chapterSeq": 166,
+          "extractReason": "UPDATE",
+          "evidenceText": "克雷斯泰·塞西玛右腿架在左腿之上，悠闲地后靠住椅背，微微一笑道：“你好，克莱恩，你可以坐到那里。”"
+        },
+        {
+          "chapterSeq": 167,
+          "extractReason": "UPDATE",
+          "evidenceText": "克雷斯泰将箱子放到了膝上，墨绿的眼眸瞬间转为深黑。他右手抬起，往下一按，琴盒般的银白箱子表面顿时有什么东西破碎瓦解，潮水般消退。"
+        },
+        {
+          "chapterSeq": 168,
+          "extractReason": "UPDATE",
+          "evidenceText": "值夜者克莱恩·莫雷蒂，我以女神的名义郑重告知你，你通过了圣堂的考查。祝贺你，以你的功勋，你现在就能获得晋升，成为序列8的非凡者！"
+        },
+        {
+          "chapterSeq": 168,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩不再犹豫，上抬杯子，微扬脑袋，咕噜喝下了魔药。紧接着，他耳畔嗡嗡作响，听到四周又一次回荡起许久未曾出现的呓语和呐喊：“霍纳奇斯……弗雷格拉……霍纳奇斯……弗雷格拉……”"
+        },
+        {
+          "chapterSeq": 169,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩忽地有了一种直觉，近乎预感的直觉，那就是塞西玛高级执事接下来会迈左脚！然后，他看见克雷斯泰提着银白箱子，往炼金室门口迈出了左脚！"
+        },
+        {
+          "chapterSeq": 170,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克将铜哨凑到嘴边，做起了示范。他猛地鼓起两侧腮帮，狠狠吹了一下。房间内没有任何声音响起，但克莱恩瞬间就感觉到了阴冷与冰凉。"
+        },
+        {
+          "chapterSeq": 171,
+          "extractReason": "UPDATE",
+          "evidenceText": "你占卜一下事件的起因。诺阿家闹鬼事件的起因。"
+        },
+        {
+          "chapterSeq": 172,
+          "extractReason": "UPDATE",
+          "evidenceText": "市议员梅纳德先生今早被发现死于家中，廷根市警察局承受了很大的压力，希望我们用通灵的方式帮助他们尽快锁定凶手，嗯，目前小队里只有你能通灵。"
+        },
+        {
+          "chapterSeq": 172,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅纳德议员死亡的原因。梅纳德议员死亡的原因。……他眼眸转黑，往后一靠，飞快进入了沉眠。虚幻、迷离而朦胧的世界里，他突然看见了刚才那位先生。"
+        },
+        {
+          "chapterSeq": 173,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩还没来得及转过新的想法，就看见浑身僵硬的梅纳德议员双手一撑，夹着沉重的风声，直挺挺扑向了自己，扑向了自己的左边！"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯？那个骗财又骗色的罪犯？他竟然和“心理炼金会”的胡德·欧根有一定联系……克莱恩听得怔了一下。"
+        },
+        {
+          "chapterSeq": 176,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩往后退了一步，用古赫密斯语低声诵念道：“我！”然后，他换成了赫密斯语：“我以我的名义召唤；徘徊于虚妄之中的灵，被人驱使的上界生物，独属于戴莉·西蒙妮的信使。”"
+        },
+        {
+          "chapterSeq": 180,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩后靠得更加悠闲，半闭上眼眸道：“详细描述一下你们献祭的过程。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克为引开可能存在的幕后黑手，决定暂时离开廷根前往贝克兰德，并将召唤信使的铜哨留给克莱恩。他提到自己最近会在贝克兰德寻找失去记忆前的痕迹，并让目标放松警惕。",
+      "identInfos": [
+        "霍伊大学历史教员",
+        "疑似死神后裔，长生者",
+        "失去记忆，拥有特殊能力",
+        "与克莱恩合作追查幕后黑手"
+      ],
+      "aliases": [
+        {
+          "alias": "阿兹克先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 170,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克拿着雪茄，叹息解释道：“目标或许察觉到了我的关注和追查，这段时间一直没有什么动静，让我毫无线索，所以，我打算先暂时离开廷根，前往贝克兰德，一方面，趁机寻找我失去记忆前留下的痕迹，另一方面，则让目标放松警惕。”"
+        },
+        {
+          "chapterSeq": 170,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是我在贝克兰德醒来时，随身携带的一件物品，你只要吹动它，就能召唤出一个独属于我的信使。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [170]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "老尼尔因长期受隐匿贤者诱惑，试图用生命炼成等方式复活已故未婚妻莎莉丝特，逐渐接近失控。他生病请假后，克莱恩通过占卜和罗珊证词发现其状态不对，与邓恩、洛耀前往查看。老尼尔已半失控，身体异变，布满血色黏液，长出额外眼睛。他在失控边缘时而清醒时而疯狂，最终邓恩使用封印物“3-0611”安静发丝使其失去欲望，并与洛耀开枪将其击杀。老尼尔死亡后，其遗体被埋葬，墓志铭为“如果不能拯救她，那就去陪伴她”。",
+      "identInfos": [
+        "廷根市值夜者小队成员",
+        "序列9“窥秘人”",
+        "擅长仪式魔法，曾教导克莱恩",
+        "因复活未婚妻莎莉丝特而失控死亡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩握住硬币，霍然想起了自己刚晋升那会，很快掌握住灵视，看见老尼尔背后有一双近乎透明的、异常冷漠的、没长睫毛的、诡异虚幻的眼睛。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔花白的头部吊在半空，通过粗壮的黏液与天花板相连，额头和脸颊则分别长出了一对眼睛，冷漠的、没有睫毛的眼睛。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩、克莱恩、洛耀齐齐拔枪，瞄准了对方的头部。……砰！砰！两枚银色的猎魔子弹飞了出去，一前一后地扎入了老尼尔的头部。"
+        },
+        {
+          "chapterSeq": 165,
+          "extractReason": "UPDATE",
+          "evidenceText": "照片的下方铭刻着一行墓志铭，这来自于老尼尔在最近日记里写下的内容：“如果不能拯救她，那就去陪伴她。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [163, 164, 165]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "邓恩在得知老尼尔状态不对后，带领克莱恩和洛耀前往老尼尔家，目睹其半失控，使用封印物“3-0611”安静发丝控制住老尼尔，并与洛耀开枪将其击杀。他事后说出“我们是守护者，也是一群时刻对抗着危险和疯狂的可怜虫”。他安排克莱恩接受圣堂高级执事克雷斯泰·塞西玛的考查，并负责后续事宜。",
+      "identInfos": [
+        "廷根市值夜者小队队长",
+        "序列7“梦魇”",
+        "灰眸，身穿黑色风衣",
+        "说出“我们是守护者，也是一群时刻对抗着危险和疯狂的可怜虫”"
+      ],
+      "aliases": [
+        {
+          "alias": "队长",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯正在喝咖啡，被突如其来的闯入者吓了一跳，险些呛到自己。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "不知什么时候，邓恩已经将封印物“3-0611”丢了出去，丢进了那堆血色的黏稠液体里。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿黑色风衣的邓恩望着前方老尼尔的“尸体”，自言自语般沉声说道：“我们是守护者，也是一群时刻对抗着危险和疯狂的可怜虫。”"
+        },
+        {
+          "chapterSeq": 166,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯理了下衬衣领口，嗓音低沉地说道：“负责这次考查的是值夜者九位高级执事之一的克雷斯泰·塞西玛，圣堂对你很重视。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [163, 164, 165, 166, 167, 170]
+    },
+    {
+      "name": "洛耀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "洛耀随克莱恩和邓恩前往老尼尔家，目睹老尼尔失控，并与邓恩一起开枪击杀老尼尔。",
+      "identInfos": [
+        "廷根市值夜者成员",
+        "序列9“不眠者”",
+        "黑发，少有表情"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没有耽搁，当即来到值夜者娱乐室，将很少有表情的“不眠者”洛耀喊了出来。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩、克莱恩、洛耀齐齐拔枪，瞄准了对方的头部。……砰！砰！两枚银色的猎魔子弹飞了出去，一前一后地扎入了老尼尔的头部。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [163, 164]
+    },
+    {
+      "name": "罗珊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "罗珊告知克莱恩老尼尔生病，并透露老尼尔上半年尚未结婚，与克莱恩的认知矛盾，引发克莱恩对老尼尔状态的怀疑。她在老尼尔葬礼上哭泣质问。",
+      "identInfos": [
+        "黑荆棘安保公司前台文职人员",
+        "值夜者小队文职",
+        "与老尼尔关系良好"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "“上午好。”罗珊左右看了一眼道，“老尼尔生病了，我们中午去探望他怎么样？”"
+        },
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "罗珊睁大了眼睛，愕然反问道：“老尼尔什么时候结过婚？”"
+        },
+        {
+          "chapterSeq": 165,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿黑色长裙，头戴白色小花的罗珊小声抽泣了起来：“谁能告诉我，这都是真的吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [162, 163, 165]
+    },
+    {
+      "name": "科恩黎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "科恩黎与克莱恩、伦纳德一起在莫尔斯小镇执行任务，处理闹鬼事件。他与邓恩、弗莱、伦纳德一起抬老尼尔棺材。后来接受圣堂高级执事克雷斯泰·塞西玛的谈话。",
+      "identInfos": [
+        "廷根市值夜者成员",
+        "身穿燕尾服正装",
+        "序列9“收尸人”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 161,
+          "extractReason": "UPDATE",
+          "evidenceText": "科恩黎站在教堂门口，从燕尾服正装的内侧口袋里掏出金壳怀表，按开看了一眼道。"
+        },
+        {
+          "chapterSeq": 165,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩、弗莱、伦纳德和科恩黎抬着装有老尼尔“尸体”的黑色棺材一步一步走到了墓碑前方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [161, 165, 167]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德与克莱恩、科恩黎在莫尔斯小镇执行任务，处理闹鬼事件，并提出轮换看守方案。他后来与邓恩等人一起抬老尼尔棺材。",
+      "identInfos": [
+        "廷根市值夜者成员",
+        "序列8“午夜诗人”",
+        "碧绿眼眸，诗人气质",
+        "与克莱恩常搭档"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 161,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩和伦纳德同时开口道。"
+        },
+        {
+          "chapterSeq": 161,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德收起吊儿郎当的姿态道：“独居老者听见房屋内有沉重脚步声回荡的那起。”"
+        },
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "进入教堂的伦纳德开口问道：“你的状态不是太好？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [161, 162, 165]
+    },
+    {
+      "name": "克雷斯泰·塞西玛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "圣堂高级执事克雷斯泰·塞西玛来到廷根，对克莱恩进行晋升考查。他测试克莱恩的魔药掌握程度、身心灵隐患，并向克莱恩详细解释“扮演法”并让其发誓保密。他现场授予克莱恩“小丑”魔药配方和材料，并处理克莱恩晋升后的意外。他带走老尼尔遗留的红色眼珠，并提醒克莱恩注意失控的诱惑。",
+      "identInfos": [
+        "值夜者九位高级执事之一",
+        "称号“女神之剑”",
+        "序列5，持有一件圣物——纯白骨剑",
+        "金棕短发，墨绿眼眸，领子高高竖起"
+      ],
+      "aliases": [
+        {
+          "alias": "女神之剑",
+          "type": "称号"
+        },
+        {
+          "alias": "塞西玛阁下",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 166,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "负责这次考查的是值夜者九位高级执事之一的克雷斯泰·塞西玛，圣堂对你很重视。"
+        },
+        {
+          "chapterSeq": 167,
+          "extractReason": "UPDATE",
+          "evidenceText": "克雷斯泰将箱子放到了膝上，墨绿的眼眸瞬间转为深黑。他右手抬起，往下一按，琴盒般的银白箱子表面顿时有什么东西破碎瓦解，潮水般消退。"
+        },
+        {
+          "chapterSeq": 168,
+          "extractReason": "UPDATE",
+          "evidenceText": "他弯下腰，将银白箱子提到了长条桌上，然后转过身体，挪动几步，挡住了克莱恩的视线。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [166, 167, 168, 169, 170]
+    },
+    {
+      "name": "雪伦夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "雪伦夫人是廷根市有名的交际花，与梅纳德议员偷情时致其猝死。她接受警察询问时假装慌乱，但情绪冷静。克莱恩通过灵视发现其情绪颜色异常。",
+      "identInfos": [
+        "廷根市著名寡妇，社交名媛",
+        "与多位贵族和政府雇员有暧昧关系",
+        "梅纳德议员死亡时在场的女性"
+      ],
+      "aliases": [
+        {
+          "alias": "雪伦夫人",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 172,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅纳德睁着蔚蓝的眼眸，正趴在一位身材出众皮肤白皙的女士身上竭力冲刺。"
+        },
+        {
+          "chapterSeq": 173,
+          "extractReason": "UPDATE",
+          "evidenceText": "雪伦夫人是廷根市最有名最漂亮的寡妇，也是社交场合最受人追捧的女士，她是霍伊男爵的第二任妻子，但不幸成为了遗孀。"
+        },
+        {
+          "chapterSeq": 174,
+          "extractReason": "UPDATE",
+          "evidenceText": "雪伦夫人的情绪颜色是代表理性思考和冷静状态的蓝色……这和她外表的慌乱紧张，楚楚可怜完全相反。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [172, 173, 174]
+    },
+    {
+      "name": "达斯特·古德里安",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达斯特告知克莱恩，疯掉的胡德·欧根曾与诈骗犯兰尔乌斯有联系，兰尔乌斯可能是“诈骗师”非凡者。他透露兰尔乌斯用假名埃尔三次探望胡德·欧根。他答应尽力治疗胡德·欧根，并继续与心理炼金会保持联系。",
+      "identInfos": [
+        "心理炼金会成员，序列7“心理医生”",
+        "格林赫尔疯人院医生",
+        "克莱恩发展的线人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "“但我听胡德·欧根提起过，埃尔是假名。” “他的真名是兰尔乌斯。”"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "达斯特·古德里安沉吟了几秒回答：“七月初，具体是哪一天，我得回疯人院翻看相应的登记表才能知道。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [175]
+    },
+    {
+      "name": "胡德·欧根",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "胡德·欧根已疯，达斯特确认其真疯，并透露他曾与兰尔乌斯有联系。克莱恩计划通过通灵胡德·欧根获取兰尔乌斯线索。",
+      "identInfos": [
+        "心理炼金会成员，序列7“心理医生”",
+        "格林赫尔疯人院病人，已疯",
+        "与诈骗犯兰尔乌斯有过联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "“……他真的疯了。”达斯特默然一秒道，“我用各种办法试探过他，他确实疯了，我在考虑开对症的药物给他，看能否治好他。”"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "“但我听胡德·欧根提起过，埃尔是假名。” “他的真名是兰尔乌斯。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [175]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "休与佛尔思在调查齐林格斯时，发现黑帮头目达克霍姆被残忍杀害，怀疑是齐林格斯所为。她们险些遭遇齐林格斯，借助佛尔思的神奇物品逃脱。休决定报警以制造全城追捕齐林格斯的局面。",
+      "identInfos": [
+        "奥黛丽委托调查齐林格斯的非凡者伙伴",
+        "金发凌乱，身高刚过1米5",
+        "序列9“仲裁人”",
+        "与佛尔思搭档"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "休·迪尔查与气质慵懒的佛尔思·沃尔傻傻看着面前的接洽者，一时竟不知该用什么语言来问候。"
+        },
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "休定了定心灵和精神，郑重点头道：“先通知奥黛丽小姐，然后，然后报警！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [177, 178]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思与休在调查齐林格斯时，发现黑帮头目达克霍姆被杀，险些遇袭，使用神奇物品手链带休克服传送逃脱。她决定与休一起报警。",
+      "identInfos": [
+        "奥黛丽委托调查齐林格斯的非凡者伙伴",
+        "气质慵懒，褐发微卷",
+        "序列9“学徒”，曾是诊所医生",
+        "持有可传送的神奇物品手链"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思·沃尔傻傻看着面前的接洽者，一时竟不知该用什么语言来问候。"
+        },
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思念头一转，忙拉着休跑到另外一边，躲开了正对房门的区域。紧接着，她一咬洁白的牙齿，取下了袖口荷叶边掩盖住的一串手链。"
+        },
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "三个呼吸后，她们脱离了透明虚幻的状态，回到了现实，回到了贝克兰德。然而，她们所在的地方已不是达克霍姆的家，而是一个无人的墓园。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [177, 178]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽通过休和佛尔思的报告得知齐林格斯杀害达克霍姆，险些发现休和佛尔思。她在塔罗会上汇报此事，并与“倒吊人”阿尔杰商议继续追查。她获得愚者允许可通过仪式汇报重要情报。她渴望获得七彩蜥龙脑垂体以晋升“读心者”，并与阿尔杰讨论交易可能。她给哥哥阿尔弗雷德回信，谎称兴趣转向生物学以获取七彩蜥龙信息。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "霍尔伯爵之女，贵族少女",
+        "序列9“观众”，已消化魔药",
+        "金毛大狗苏茜的主人"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "奥黛丽小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽拿着休和佛尔思传递进来的最新情报，皱起了好看的眉头。"
+        },
+        {
+          "chapterSeq": 178,
+          "extractReason": "UPDATE",
+          "evidenceText": "“尊敬的愚者先生，如果弄清楚了齐林格斯的真实目的和他试图得到的那件非常重要非常神奇的物品是什么，请允许我诵念您的名，用仪式告知您。”"
+        },
+        {
+          "chapterSeq": 179,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔忙开口问道：“尊敬的‘愚者’先生，如果我得到了非常有用且具备明显时效性的情报，是否也能诵念您的名，用仪式告知您？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [177, 178, 179]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰抵达贝克兰德，在塔罗会上与奥黛丽商议齐林格斯事宜，表示即将获得一批罗塞尔日记。他请求愚者允许通过仪式汇报重要情报。他透露自己可能获得七彩蜥龙脑垂体，并与奥黛丽讨论交易。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会主教，序列7“航海家”",
+        "正在追查齐林格斯"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 170,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊身穿风暴教会的牧师长袍，缓步走下了客轮。他看见码头上人来人往，数不清的搬运工正在挥洒汗水，景象热烈而喧嚣。"
+        },
+        {
+          "chapterSeq": 178,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰悄然松了口气，低下脑袋，谦卑说道：“请允许我提前赞美您的垂听。”"
+        },
+        {
+          "chapterSeq": 179,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰望了“愚者”一眼，再次开口道：“我即将获得一批罗塞尔大帝的日记，相信下次，或者下下次聚会，就能呈现给您。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [170, 178, 179]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在塔罗会上回答愚者关于白银城信仰和献祭仪式的问题。他详细描述白银城的献祭过程，使用巨人语诵念祈祷咒文。他渴望获得摆脱诅咒的提示。",
+      "identInfos": [
+        "塔罗会“太阳”",
+        "白银城少年",
+        "渴望成为“太阳”非凡者",
+        "白银城位于神弃之地"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 179,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克用尊崇的语气回答道：“我们依旧信仰创造一切的主，全知全能的神。”"
+        },
+        {
+          "chapterSeq": 180,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克却没觉得有任何不对，老老实实回答道：“我们修建有恢弘的祭台，上面刻满了主的象征，每当‘黑面草’获得丰收，我们就举行一次献祭仪式。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [179, 180]
+    },
+    {
+      "name": "达克霍姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "达克霍姆是贝克兰德东区黑帮头目，帮助休和佛尔思调查流浪汉失踪事件。他被齐林格斯残忍杀害，尸体被肢解，现场诡异。",
+      "identInfos": [
+        "贝克兰德东区黑帮头目",
+        "控制乞讨者和小偷",
+        "被齐林格斯杀害"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "达克霍姆是贝克兰德东区一个黑帮的头目，控制着许多乞讨者和小偷。"
+        },
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "她们看见了搭在煤气灯上的苍白断臂，看见了茶几上的心肝脾肺肾，看见了一条又一条的血肉洒在地板上，挂在衣帽架上！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [177]
+    },
+    {
+      "name": "齐林格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "齐林格斯是“飓风中将”，序列6“风眷者”，持有神奇物品“蠕动饥饿”。他潜入贝克兰德，为完成涉及高序列物品的委托。他杀害调查其行踪的黑帮头目达克霍姆，并险些发现休和佛尔思。",
+      "identInfos": [
+        "七位海盗将军之一，“飓风中将”",
+        "序列6“风眷者”",
+        "持有神奇物品“蠕动饥饿”",
+        "潜入贝克兰德，杀害达克霍姆"
+      ],
+      "aliases": [
+        {
+          "alias": "飓风中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思·沃尔傻傻看着面前的接洽者，一时竟不知该用什么语言来问候。达克霍姆家对面的房屋内，一位有着独特宽下巴和墨绿色眼眸的三十来岁男子站在窗户边，冰冷地注视着休和佛尔思推开大门，缓步入内。这正是“飓风中将”齐林格斯！"
+        },
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "齐林格斯露出残忍愉悦的表情，墨绿的眼珠随之变成淡金色的、无情的竖瞳。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [177]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "苏茜作为奥黛丽的信使，为休和佛尔思传递信件。它表现出人性化的表情和动作，能够理解人类语言，但避免直接说话。",
+      "identInfos": [
+        "奥黛丽·霍尔的宠物金毛大狗",
+        "误食“观众”魔药后能说话",
+        "担任奥黛丽的信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜一下坐好，闭上了嘴巴，并用爪子指了指自己的腹部。长而浓密的金毛里，绑着一个皮制小包。"
+        },
+        {
+          "chapterSeq": 177,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜回头望了眼门口，震荡空气，小声说道：“你的朋友很严肃，看到她，我就想起了以前，那时候，会有专门的猎人来训练我们。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [177]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉是“死灵导师”，克莱恩写信给她请教通灵活人的方法，以便通灵疯掉的胡德·欧根。克莱恩召唤了她的信使寄信。",
+      "identInfos": [
+        "值夜者执事，“死灵导师”",
+        "擅长通灵术",
+        "克莱恩曾向她请教通灵技巧"
+      ],
+      "aliases": [
+        {
+          "alias": "戴莉女士",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 176,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩往后退了一步，用古赫密斯语低声诵念道：“我！”然后，他换成了赫密斯语：“我以我的名义召唤；徘徊于虚妄之中的灵，被人驱使的上界生物，独属于戴莉·西蒙妮的信使。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [176]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森对克莱恩周薪涨至6镑感到惊讶，表示需要换工作。他与梅丽莎选择雇佣贝拉做杂活女仆。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "关注家庭财政，渴望高薪工作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森放低报纸，望向弟弟，微笑开口道：“不让雇员准时下班的公司总是让人厌恶。”"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我真的需要换一份工作了。”班森摸了下自己的发际线道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [162, 175]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎对克莱恩周薪翻倍感到惊喜，关心克莱恩的结婚储蓄。她因贝拉的黑暗料理而怀疑人生。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "对机械和零件感兴趣",
+        "关心家庭财务和克莱恩的未来"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这样一来，除去正常的开支，你两三年内就能积攒到足够的财富，满足一位绅士结婚的最低标准了，嗯，标准是伊丽莎白告诉我的。”梅丽莎欣喜说道。"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎收回目光，抿了下嘴唇，望了眼有声音传出的厨房，茫然开口道：“贝拉一直在推荐她家特有的早餐做法，说是非常美味，我答应今早让她尝试一下。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [175]
+    },
+    {
+      "name": "贝拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "贝拉是莫雷蒂家新雇佣的杂活女仆，信仰黑夜女神。她为莫雷蒂家提供早餐时推荐黑暗料理，导致梅丽莎怀疑人生。",
+      "identInfos": [
+        "莫雷蒂家的杂活女仆",
+        "黑发棕瞳，不到二十岁",
+        "信仰黑夜女神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 162,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是位明显不到二十的少女，穿着灰白色的陈旧衣裙，正在努力地擦拭餐厅。她黑发棕瞳，眼睛较小，鼻子不够挺，五官非常普通。"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝拉一直在推荐她家特有的早餐做法，说是非常美味，我答应今早让她尝试一下。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [162, 175]
+    },
+    {
+      "name": "高文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "高文是克莱恩的格斗老师，在克莱恩情绪低落时用自己失去战友的经历安慰他。他注意到克莱恩格斗技能快速提升。",
+      "identInfos": [
+        "克莱恩的格斗老师",
+        "金色短发斑驳，曾是军人",
+        "在战争中失去许多战友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 165,
+          "extractReason": "UPDATE",
+          "evidenceText": "高文沉默了几秒，抬手摸了下开始斑驳的金色鬓角，语气飘忽地说道：“我曾经在五分钟内失去了325位朋友，其中，至少有10位是可以将后背交给对方的那种。”"
+        },
+        {
+          "chapterSeq": 171,
+          "extractReason": "UPDATE",
+          "evidenceText": "金色短发斑驳的高文皱眉看着克莱恩的动作一点点从生涩变得熟稔，从熟稔变得像是接受了大半年训练的见习骑士。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [165, 171]
+    },
+    {
+      "name": "托勒督察",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "托勒督察与克莱恩合作调查梅纳德议员死亡案，负责现场协调和询问雪伦夫人。他对克莱恩的晋升速度表示羡慕。",
+      "identInfos": [
+        "廷根市警察局督察",
+        "身材高大圆润，像棕熊",
+        "与克莱恩合作处理梅纳德案"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 172,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看见坐在沙发区域的托勒督察。一段时间不见，这位高大的警官愈发得圆润，肚子愈发得出众，配上浓密的胡须和头发，就像刚从马戏团逃出来的棕熊一样。"
+        },
+        {
+          "chapterSeq": 174,
+          "extractReason": "UPDATE",
+          "evidenceText": "托勒督察立于门外，扯了扯领口，神情间透着明显的烦乱与无奈。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [172, 173, 174]
+    },
+    {
+      "name": "阿尔弗雷德·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "阿尔弗雷德是奥黛丽的二哥，在南大陆拜朗帝国殖民区域。他给奥黛丽写信描述当地生活，并寄来礼物。",
+      "identInfos": [
+        "奥黛丽·霍尔的二哥",
+        "在南大陆拜朗帝国",
+        "与大哥存在继承矛盾"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她拆开哥哥寄来的信件，嘴角含笑地开始阅读：“亲爱的妹妹：我认为你也应该到南大陆来，到拜朗帝国的殖民区域来……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [177]
+    },
+    {
+      "name": "兰尔乌斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "兰尔乌斯是诈骗犯，卷走超过1万金镑财富。他使用假名埃尔三次探望胡德·欧根，可能是“诈骗师”非凡者。他与胡德·欧根的关系引起克莱恩怀疑。",
+      "identInfos": [
+        "诈骗犯，卷走巨款",
+        "可能为序列8“诈骗师”",
+        "曾用假名埃尔接触胡德·欧根"
+      ],
+      "aliases": [
+        {
+          "alias": "埃尔",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯？那个骗财又骗色的罪犯？他竟然和“心理炼金会”的胡德·欧根有一定联系……克莱恩听得怔了一下，旋即想起了兰尔乌斯这个名字代表的意义。"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "“但我听胡德·欧根提起过，埃尔是假名。” “他的真名是兰尔乌斯。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [175]
+    },
+    {
+      "name": "诺阿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "诺阿是莫尔斯小镇的独居老者，家中发生闹鬼事件。克莱恩等人前往处理。",
+      "identInfos": [
+        "莫尔斯小镇独居老者",
+        "头发斑白稀疏，失去左手",
+        "家中发生闹鬼事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 161,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "诺阿就是那位独居老者的名字。诺阿是位头发斑白而稀疏的老者，他年轻那会在一场战争里永远地失去了自己的左手。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [161]
+    },
+    {
+      "name": "梅纳德议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "梅纳德议员是廷根市议员，新党成员，计划竞选市长。他在与交际花雪伦夫人偷情时猝死。克莱恩对其尸体进行通灵，得知死因。尸体因阿兹克铜哨影响活尸化，被克莱恩制服。",
+      "identInfos": [
+        "廷根市议员，新党党员",
+        "与雪伦夫人偷情时猝死",
+        "尸体活尸化被克莱恩净化"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 172,
+          "extractReason": "UPDATE",
+          "evidenceText": "市议员梅纳德先生今早被发现死于家中，廷根市警察局承受了很大的压力，希望我们用通灵的方式帮助他们尽快锁定凶手。"
+        },
+        {
+          "chapterSeq": 172,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅纳德睁着蔚蓝的眼眸，正趴在一位身材出众皮肤白皙的女士身上竭力冲刺。他先是露出极端满足极端愉悦的神色，接着猛地收回右手，按住胸口，表情随之扭曲到狰狞。"
+        },
+        {
+          "chapterSeq": 173,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩还没来得及转过新的想法，就看见浑身僵硬的梅纳德议员双手一撑，夹着沉重的风声，直挺挺扑向了自己。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [172, 173, 174]
+    },
+    {
+      "name": "斯艾尔教士",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "斯艾尔是莫尔斯教堂的见习牧师，协助克莱恩等人处理闹鬼事件，并告知诺阿家位置。",
+      "identInfos": [
+        "莫尔斯教堂见习牧师",
+        "协助值夜者处理闹鬼事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 161,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "用餐途中，我不是去了盥洗室吗？回来的路上遇见了一位见习牧师，随口聊了几句，他告诉我诺阿的家就在教堂附近，嗯，诺阿就是那位独居老者的名字。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [161]
+    }
+  ],
+  "factions": [
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城位于神弃之地，信仰创造一切的主、全知全能的神，但被神遗弃后再未得到回应。他们由六人议事团统治，掌握巨人途径和残缺的秘祈人途径。戴里克详细描述了白银城的献祭仪式：修建恢弘祭台，刻满主的象征，在黑面草丰收时举行，用黑暗深处的怪物或罪者作为祭品，用巨人语诵念祈祷咒文，祈求神收下奉献并打开国度的大门。",
+      "identInfos": [
+        "位于神弃之地",
+        "信仰创造一切的主、全知全能的神",
+        "由六人议事团统治",
+        "掌握巨人途径和残缺秘祈人途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 180,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克却没觉得有任何不对，老老实实回答道：“我们修建有恢弘的祭台，上面刻满了主的象征，每当‘黑面草’获得丰收，我们就举行一次献祭仪式。我们会抓捕黑暗深处的怪物作为祭品，等到诵念完主的尊名和相应的祈祷语句，跳完取悦祂的舞蹈，就杀死那几头怪物，让它们的灵性或污血染满整个祭台，如果没能抓到怪物，那就用白银城监牢最底层的‘罪者’代替。接着我们将收割的第一丛黑面草做成食物，奉献到主的面前。最后，在我们的齐声歌颂里，仪式结束。”"
+        },
+        {
+          "chapterSeq": 180,
+          "extractReason": "UPDATE",
+          "evidenceText": "“是的，我们都相信我们最终能重新得到主的眷顾，或许就是太阳再次升起的那天。”戴里克·伯格语气不是太坚定地回答。"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本周聚会上，奥黛丽汇报了齐林格斯杀害达克霍姆并险些发现休和佛尔思的情况，与阿尔杰商议继续追查。阿尔杰请求愚者允许通过仪式汇报重要情报，并透露即将获得一批罗塞尔日记。奥黛丽也申请了同样的权利。愚者向太阳戴里克询问白银城的献祭仪式细节，为自身尝试献祭做准备。奥黛丽与阿尔杰讨论了七彩蜥龙脑垂体的交易。",
+      "identInfos": [
+        "由愚者召集的秘密组织",
+        "成员代号：正义、倒吊人、太阳",
+        "每周一在灰雾之上聚会",
+        "涉及隐秘知识和物资交换"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 178,
+          "extractReason": "UPDATE",
+          "evidenceText": "下午三点。视线从深红与朦胧状态恢复的奥黛丽又一次看见了不属于现实般的无垠灰雾，看见了仿佛巨人居所的宫殿，看见了古老而斑驳的青铜长桌，看见了永远蒙着一层浓郁雾气的愚者，看见了“倒吊人”和“太阳”。"
+        },
+        {
+          "chapterSeq": 178,
+          "extractReason": "UPDATE",
+          "evidenceText": "“尊敬的愚者先生，如果弄清楚了齐林格斯的真实目的和他试图得到的那件非常重要非常神奇的物品是什么，请允许我诵念您的名，用仪式告知您。”"
+        },
+        {
+          "chapterSeq": 179,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰望了“愚者”一眼，再次开口道：“我即将获得一批罗塞尔大帝的日记，相信下次，或者下下次聚会，就能呈现给您。”"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者小队处理了老尼尔失控事件，邓恩、克莱恩和洛耀将其击杀。圣堂高级执事克雷斯泰·塞西玛对克莱恩进行晋升考查，并强调“扮演法”为教会隐秘。克莱恩晋升序列8，成为正式“小丑”。值夜者继续追查兰尔乌斯线索，克莱恩计划通灵胡德·欧根。",
+      "identInfos": [
+        "黑夜女神教会下属非凡者组织",
+        "负责处理超凡事件和封印物",
+        "成员包括邓恩、克莱恩等"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没有耽搁，当即来到值夜者娱乐室，将很少有表情的“不眠者”洛耀喊了出来。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩、克莱恩、洛耀齐齐拔枪，瞄准了对方的头部。……砰！砰！两枚银色的猎魔子弹飞了出去，一前一后地扎入了老尼尔的头部。"
+        },
+        {
+          "chapterSeq": 166,
+          "extractReason": "UPDATE",
+          "evidenceText": "“负责这次考查的是值夜者九位高级执事之一的克雷斯泰·塞西玛，圣堂对你很重视。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "心理炼金会成员达斯特透露胡德·欧根与兰尔乌斯有联系。达斯特向高层汇报后无回应，推测高层可能知情。心理炼金会掌握原始岛屿坐标或与相关势力合作，提供七彩蜥龙脑垂体等非凡材料。",
+      "identInfos": [
+        "隐秘组织，成员多为“观众”途径",
+        "掌握读心者配方和七彩蜥龙材料来源",
+        "与胡德·欧根、兰尔乌斯有关联"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "达斯特·古德里安沉吟了几秒回答：“七月初，具体是哪一天，我得回疯人院翻看相应的登记表才能知道。”"
+        },
+        {
+          "chapterSeq": 175,
+          "extractReason": "UPDATE",
+          "evidenceText": "现实的情况也是有点问题，我将胡德·欧根疯掉的事情通报上去后，确实有联络员过来，等我详细地讲述完每一个细节，包括兰尔乌斯的名字，高层再没有回应，就像石头丢进了大海。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "变异的太阳圣徽",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物“3-0782”，外形为暗金色泽的古朴徽章，上有抽象太阳符号。它能持续散发温暖和纯净的气息，净化不洁生物。克莱恩在莫尔斯教堂看守它时，窃取其神血力量制作了两枚阳炎符咒。",
+      "identInfos": [
+        "封印物编号3-0782",
+        "暗金色古朴徽章，太阳符号",
+        "能持续净化死灵气息",
+        "内含永恒烈阳的神血力量"
+      ],
+      "aliases": [
+        {
+          "alias": "3-0782",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 161,
+          "extractReason": "UPDATE",
+          "evidenceText": "在封印物‘3-0782’的净化下，我们还能支撑两个小时三十五分钟。"
+        },
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩取下戴在黑色燕尾服内侧的封印物“3-0782”，弯腰将这枚暗金色泽的古朴徽章放到了地上。"
+        }
+      ]
+    },
+    {
+      "name": "阳炎符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩利用“变异的太阳圣徽”中的永恒烈阳神血力量，通过仪式制作的两枚金片符咒。符咒表面花纹复杂，黄金色泽暗淡，温暖润泽。开启咒文为古赫密斯语“光”，威能可保存一年以上。它们是克莱恩的底牌。",
+      "identInfos": [
+        "克莱恩制作的强大攻击符咒",
+        "由永恒烈阳神血力量制成",
+        "外形为金片，开启咒文“光”",
+        "威能强大，可保存一年以上"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的刻刀正落下最后一笔。随着那个象征“光”的魔法标识完成，金片正反面的灵性霍然连成了一个整体，并内敛至金属的最里面。"
+        },
+        {
+          "chapterSeq": 162,
+          "extractReason": "UPDATE",
+          "evidenceText": "他为“阳炎符咒”设置的开启咒文是古赫密斯语里的“光”。"
+        }
+      ]
+    },
+    {
+      "name": "安静发丝",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物“3-0611”，由许多深黑色长发缠绕成的简单饰品。无保护接触它的生物会失去全部欲望和情绪，安静待在原地直至生命尽头，但接触时间不超过两小时可恢复。邓恩使用它使半失控的老尼尔失去欲望，从而给克莱恩和洛耀创造开枪机会。",
+      "identInfos": [
+        "封印物编号3-0611",
+        "由深黑色长发缠绕成的饰品",
+        "接触后剥夺所有欲望和情绪",
+        "危险等级3，需小心使用"
+      ],
+      "aliases": [
+        {
+          "alias": "3-0611",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 163,
+          "extractReason": "UPDATE",
+          "evidenceText": "编号：0611。名称：安静发丝。危险等级：‘3’，有一定危险，需小心使用，只有三人及以上的行动才能申请。描述：这是由许多根深黑色长发缠绕成的简单饰品。只要无保护接触到它，所有活着的生物都会失去全部的欲望和情绪。"
+        },
+        {
+          "chapterSeq": 164,
+          "extractReason": "UPDATE",
+          "evidenceText": "不知什么时候，邓恩已经将封印物“3-0611”丢了出去，丢进了那堆血色的黏稠液体里。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克的铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克留给克莱恩的古旧铜哨，布满神秘花纹。吹动它可以召唤阿兹克的专属信使——一只由白骨构成、眼窝燃烧漆黑火焰、身高近四米的虚幻怪物。克莱恩发现铜哨会导致尸体活尸化，需要避免携带至墓园等地。",
+      "identInfos": [
+        "阿兹克·艾格斯的随身物品",
+        "古旧铜哨，布满神秘花纹",
+        "可召唤强大的白骨信使",
+        "会导致尸体活尸化"
+      ],
+      "aliases": [
+        {
+          "alias": "铜哨",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 170,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是我在贝克兰德醒来时，随身携带的一件物品，你只要吹动它，就能召唤出一个独属于我的信使。"
+        },
+        {
+          "chapterSeq": 170,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克先生，您的‘信使’会不会太夸张了？它通体由白骨构成，眼窝内闪烁着漆黑的火焰，身高接近四米，正低头俯视着一米七五不到的克莱恩。"
+        },
+        {
+          "chapterSeq": 173,
+          "extractReason": "UPDATE",
+          "evidenceText": "“活尸”梅纳德一直在试图攻击他警察制服的左侧口袋！左侧口袋？克莱恩将镶银黑杖交到右掌，让左手伸入口袋，拿出了安放于里面的一个古旧铜哨。"
+        }
+      ]
+    },
+    {
+      "name": "纯白骨剑",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "圣物，属于值夜者高级执事克雷斯泰·塞西玛，通称“女神之剑”。它是一把不到一米的短剑，主体为纯白骨头，表面有层层叠叠的神秘符号。它散发纯白辉芒，能吸引周围光芒，具有影响精神的特性。克莱恩起誓时将手按在其上。",
+      "identInfos": [
+        "值夜者圣物，“女神之剑”",
+        "不到一米的纯白骨剑",
+        "表面有层层叠叠的神秘符号",
+        "属于高级执事克雷斯泰·塞西玛"
+      ],
+      "aliases": [
+        {
+          "alias": "女神之剑",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 167,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克雷斯泰·塞西玛打开了箱子，露出安放于里面的一把纯白色骨剑。它的表面看似纯净无暇，但若仔细观察，会发现深处密布着层层叠叠的符号和标识，而这些神秘的花纹与剑身构成了不可分割的整体。"
+        },
+        {
+          "chapterSeq": 167,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩顿住脚步，立在原地，用眼角余光快速瞄了眼那把纯白骨剑，然后又畏惧地移开。循着那短短一秒的记忆，他弯下腰背，伸出右手，准确地按在了圣剑之上。"
+        }
+      ]
+    },
+    {
+      "name": "苏茜的鳄鱼皮小包",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽·霍尔使用的一个鳄鱼皮制小包，有著名时尚设计师赛德斯先生的风格，绑在宠物犬苏茜身上，用于传递信件和物品。休和佛尔思通过它接收和发送调查报告。",
+      "identInfos": [
+        "奥黛丽·霍尔的信使专用包",
+        "鳄鱼皮制，可能昂贵",
+        "绑在金毛大狗苏茜身上传递物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 177,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "长而浓密的金毛里，绑着一个皮制小包。鳄鱼皮的，而且有时尚设计师赛德斯先生的风格……她竟然用这种包来做交易……"
+        }
+      ]
+    }
+  ]
+}

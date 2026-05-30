@@ -1,0 +1,1359 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在非凡聚会上为‘太阳’戴里克购置了‘飓风之斧’，并通过献祭仪式转交。委托休和佛尔思寻找兰尔乌斯，后亲自前往码头工会采访，确认兰尔乌斯身份并感应到‘真实造物主’神性，指示‘正义’奥黛丽向值夜者举报。旁观值夜者围捕兰尔乌斯，在下水道拦截并击杀兰尔乌斯，彻底消化‘小丑’魔药。在塔罗会上操纵‘世界’与‘倒吊人’交易序列0秘密换取非凡材料，提示‘正义’推动社会变革，解释‘堕落造物主’概念。从兰尔乌斯处获得一枚神秘徽章，获知明年巴布尔河谷聚会信息。",
+      "identInfos": [
+        "穿越者，原值夜者成员，现化名夏洛克·莫里亚蒂私家侦探",
+        "塔罗会首领‘愚者’",
+        "序列8‘小丑’，占卜家途径",
+        "黑发褐瞳，中等身材，容貌普通",
+        "擅长占卜、格斗和用纸牌做飞刀"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 276,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩沉哑着嗓音，开口问道：“这种无形的束缚能影响灵体类生物吗？比如，怨魂。”"
+        },
+        {
+          "chapterSeq": 278,
+          "extractReason": "UPDATE",
+          "evidenceText": "他决定今晚去旁观围捕兰尔乌斯的行动！他要亲眼看着对方为之前的疯狂付出代价！"
+        },
+        {
+          "chapterSeq": 279,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩猛然上前一步，紧绷右腿，用尽全身力气地踢出一脚，踢在了兰尔乌斯的脑袋上。"
+        },
+        {
+          "chapterSeq": 279,
+          "extractReason": "UPDATE",
+          "evidenceText": "这一刻，他感觉到自己的“小丑”魔药彻底消化了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        276,
+        277,
+        278,
+        279,
+        280,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上报告‘飓风之斧’超乎预料得好，他已晋升序列8‘祈光人’，即将获取迷雾树人根茎和汁液。对‘倒吊人’透露的‘堕落造物主’信息和洛薇雅长老是‘牧羊人’感到震惊和担忧。提供了连环杀人案仪式知识。",
+      "identInfos": [
+        "白银城少年，塔罗会成员‘太阳’",
+        "序列8‘祈光人’",
+        "渴望成为‘太阳’非凡者，改变白银城命运",
+        "性格老实，有些沉默寡言"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "“尊敬的‘愚者’先生，请转告‘世界’先生，我会尽快为他搜集到‘迷雾树人’的真实根茎和汁液。”"
+        },
+        {
+          "chapterSeq": 288,
+          "extractReason": "UPDATE",
+          "evidenceText": "太阳”戴里克学着“正义”小姐，举了下手道：“‘世界’先生，你给予的那件非凡武器超乎我预料得好，我已经攒够功勋，兑换到材料，晋升序列8了"
+        },
+        {
+          "chapterSeq": 292,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克则很想问一句究竟有哪七位，但最终还是谨慎地忍住了。"
+        },
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "“牧羊人”？沉默的“太阳”戴里克霍然坐直，眼睛里满是惊骇的色彩。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        280,
+        288,
+        291,
+        292,
+        293
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "委托休和佛尔思寻找兰尔乌斯，得到‘愚者’提供的凶手线索后继续调查。确认兰尔乌斯后按指示向值夜者举报。在塔罗会上报告任务完成，对东区惨状感到震撼，决心推动社会变革。对‘愚者’和‘世界’先生表达感谢，并对序列0秘密、海盗将军等消息感兴趣。收到兄长送来的七彩蜥龙。",
+      "identInfos": [
+        "贵族少女，霍尔伯爵之女，塔罗会成员‘正义’",
+        "序列8‘读心者’",
+        "金发碧眼，容貌精致",
+        "好奇心重，善良，逐渐成熟"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽趁独自伪装的机会，诵念尊名，小声祷告，将事情的经过原原本本汇报了上去。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽同时难以遏制地想象起了格莱林特子爵描述的那副场景：兰尔乌斯倒在黑暗中，泥泞里，身上覆盖着一张又一张的塔罗牌"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽顿时陷入了深深的震撼和迷茫中。我怎么一点都不知道有这样的事情……我看的报纸和杂志只是提过东区的居民过得很辛苦……"
+        },
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "亲爱的妹妹，你要的七彩蜥龙已于昨晚到达普利兹港，我给他们的吩咐是，送到你位于郊外的庄园里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        281,
+        282,
+        285,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上提供了最后一页罗塞尔日记，并接受‘世界’用序列0成神秘密换取邪纹黑豹脊髓液和精灵之泉髓质结晶的交易。介绍了海盗四王和将军的情报，对新晋‘疾病中将’特雷茜做出说明。对‘愚者’感叹邪神温床感到惊讶，对东区惨状已有认知。透露风暴教会内部情报。",
+      "identInfos": [
+        "风暴教会非凡者，塔罗会成员‘倒吊人’",
+        "序列7‘航海家’或更高",
+        "经验丰富，城府极深",
+        "活跃于苏尼亚海"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 288,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰努力回忆着上次聚会时发生的事情，愈发不能理解这和邪神降临的温床有什么关系。"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰对东区、工厂区和码头区的状况并不陌生，更多是诧异“正义”小姐口中的描述。"
+        },
+        {
+          "chapterSeq": 290,
+          "extractReason": "UPDATE",
+          "evidenceText": "“是的，我确实还没有‘风眷者’的魔药配方，短时间内也找不到获得的办法。”“不过我手上有一份序列4魔药的残缺配方。”"
+        },
+        {
+          "chapterSeq": 292,
+          "extractReason": "UPDATE",
+          "evidenceText": "他目前就缺邪纹黑豹的脊髓液，所以不介意对方赊账，反正不用担心会出现跑路这种事情。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        288,
+        289,
+        290,
+        291,
+        292,
+        293
+      ]
+    },
+    {
+      "name": "兰尔乌斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "化名凯文藏身于码头工会，因极光会成员‘巨人’的过激行为导致休的调查暴露。被值夜者围捕时，揭露自己被‘真实造物主’种下‘树苗’作为降临容器，并感谢值夜者破坏神性。趁机逃脱后，在下水道被克莱恩拦截并击杀。死亡时身上被撒满塔罗牌，形成仪式性场景。",
+      "identInfos": [
+        "诈骗犯，在廷根市策划‘神子降临’事件",
+        "被‘真实造物主’种下‘树苗’，作为降临容器",
+        "狡猾、疯狂，脸上常带嘲讽笑容",
+        "序列9‘偷盗者’，速度快敏捷高"
+      ],
+      "aliases": [
+        {
+          "alias": "凯文",
+          "type": "化名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 284,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯？休猛然回头，不敢再看。刚才那位男子肤色古铜头发短粗，脸庞棱角分明，与肖像画上的模样区别很大，唯有那双眼睛和嘴角给她熟悉的感觉。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯以嘲讽的笑容和标志性的表现声称：“我现在更是，‘真实造物主’！”"
+        },
+        {
+          "chapterSeq": 286,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯非常困难地动了一下，突然大声笑道，疯狂笑道：“哈哈，哈哈，感谢你们！”“如果不是你们及时发现并赶到，再有几个月，我就真正成为‘真实造物主’降临的载体了”"
+        },
+        {
+          "chapterSeq": 287,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着小丑面具的克莱恩注视着眼前的仇敌，相当淡漠地回答道：“不为什么。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        284,
+        285,
+        286,
+        287
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "受奥黛丽委托寻找兰尔乌斯，在东区散播悬赏，导致线人威廉姆斯和盖文被极光会成员‘巨人’杀害。乔装调查，在码头区工人联盟酒馆发现‘巨人’，后跟踪至码头工会，发现疑似兰尔乌斯的人。向奥黛丽汇报后，按指示向值夜者举报，成功完成委托。为威廉姆斯的死感到自责，决心变强。",
+      "identInfos": [
+        "矮个子女赏金猎人，佛尔思的朋友",
+        "序列9‘仲裁人’",
+        "奥黛丽的下线，为其寻找‘药师’配方等",
+        "身手敏捷，正义感强"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "休皱了皱眉头道：“威廉姆斯，你就不能戒酒吗？好好攒钱，娶个不错的姑娘……”"
+        },
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "休在赏金猎人这行已经混了很长一段时间，许多事情不需要过脑子，直接就能做出下意识的应对。一看见进来的那位顾客身高接近两米，她本能就低下了脑袋。"
+        },
+        {
+          "chapterSeq": 284,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯？休猛然回头，不敢再看。刚才那位男子肤色古铜头发短粗，脸庞棱角分明，与肖像画上的模样区别很大，唯有那双眼睛和嘴角给她熟悉的感觉。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "她有些期待，有些激动，也有些惆怅和无力。"
+        },
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "休又盯着镜子，拨了下头发。“我太弱了……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        281,
+        282,
+        283,
+        284,
+        285,
+        293
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "陪同奥黛丽参加医学院深夜聚会，与休合作完成寻找兰尔乌斯的委托。对任务涉及邪神神性感到震惊和害怕。在备用躲藏处照顾休，准备分文不取让出悬赏金。",
+      "identInfos": [
+        "畅销小说作者，休的朋友",
+        "奥黛丽的下线，帮助其参加非凡聚会",
+        "性格有点散漫，关心朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思总觉得自己有种特别的气质，似乎比奥黛丽更适合这样的装束。额……就是那种随时能拿起手术刀剖开病人肚子的气质……"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思听着听着，忽然感觉怎么有点不对，忙劈手拿过纸张，飞快阅读。“这……这是在开玩笑吧？”"
+        },
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思盯着镜子，拨了下头发。“还好我又额外准备了这么一个地方，否则都不知道该躲去哪里了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        281,
+        282,
+        285,
+        293
+      ]
+    },
+    {
+      "name": "克雷斯泰·塞西玛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "率领值夜者‘红手套’小队围捕兰尔乌斯，使用封印物‘1-63’构建镜中世界，击杀极光会‘巨人’等成员。被兰尔乌斯释放的邪神气息所伤，但最终破坏其神性凭依。下令调查东区等区域社会问题，并计划推动变革。",
+      "identInfos": [
+        "值夜者高级执事，‘红手套’三巨头之一",
+        "称号‘女神之剑’",
+        "墨绿眼眸深邃，金棕色短发",
+        "擅长使用圣物骨剑和封印物‘1-63’"
+      ],
+      "aliases": [
+        {
+          "alias": "女神之剑",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "为首之人没戴帽子，有一头剃得很短的金棕色头发，墨绿眼眸深沉得仿佛无风无光的湖泊。这正是黑夜女神教会值夜者队伍九位高级执事之一的克雷斯泰·塞西玛"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "塞西玛顺势单膝跪地，将手中的圣物骨剑插入了地面。“不！”浓郁的黑暗里，一道蕴含着疼痛与恐惧感觉的怒吼刹那爆发。"
+        },
+        {
+          "chapterSeq": 286,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯非常困难地动了一下，突然大声笑道……“如果不是你们及时发现并赶到，再有几个月，我就真正成为‘真实造物主’降临的载体了……”"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "如果确实和兰尔乌斯描述的一样，我会在枢机会议上提出这件事情，正式对王国和政府施加压力，推动相应的变革尽快实现。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        285,
+        286,
+        287,
+        289
+      ]
+    },
+    {
+      "name": "巨人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "极光会成员，负责看管兰尔乌斯。因休的悬赏调查而杀害线人威廉姆斯和盖文，后导致兰尔乌斯暴露。在值夜者围捕中被克雷斯泰·塞西玛使用圣物骨剑击杀。",
+      "identInfos": [
+        "极光会成员，绰号‘巨人’",
+        "身高接近两米，淡黄微卷发，深棕眼眸",
+        "凶狠疯狂，不讲道理"
+      ],
+      "aliases": [
+        {
+          "alias": "巨人",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "“就是他，他最近两三个月经常到这边酒馆来……他很凶，根本不讲道理，打架非常厉害……我们自己给他取了个绰号，叫做‘巨人’。”"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道高大但瘦削的身影浮现于角落的阴影里，他穿着一身黑色的教士服，有淡黄微卷的头发和野兽般的深棕色眼眸。“你就是女神之剑？”接近两米的“巨人”低沉开口。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "塞西玛站直身体，抽出骨剑，看见它的尖端有一滴暗红的血液缓缓下坠，而地板之上，血肉沁出，凝固成了一张绝望的脸孔，正是嘴角微微下垂的“巨人”。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        283,
+        285
+      ]
+    },
+    {
+      "name": "威廉姆斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "东区消息人士，与多个黑帮有联系。接受休的委托寻找兰尔乌斯，因极光会‘巨人’的追查被杀害，公寓发生煤气爆炸。",
+      "identInfos": [
+        "东区消息人士，酒鬼",
+        "休的朋友，曾帮助她在东区立足",
+        "脸型瘦长如马，眉毛杂乱凶恶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是位二十来岁的青年，脸型瘦长如马，眉毛杂乱凶恶，五官却相对柔和。他正大口地喝着酒……“威廉姆斯，我有事找你。”休重重地敲了敲吧台。"
+        },
+        {
+          "chapterSeq": 284,
+          "extractReason": "UPDATE",
+          "evidenceText": "“她是谁？”……“休，休·迪尔查，我不知道她住哪里。”……威廉姆斯的思绪凝固了，他的身体瞬间四分五裂……"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        281,
+        284
+      ]
+    },
+    {
+      "name": "盖文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "东区消息人士，接受威廉姆斯委托寻找兰尔乌斯，在码头区东拜朗船坞工人联盟酒馆散播消息后，被极光会‘巨人’杀害，尸体在塔索克河被发现。",
+      "identInfos": [
+        "东区消息人士",
+        "威廉姆斯的朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 283,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“盖文！盖文今早被发现淹死在塔索克河里了！”“他应该昨晚就掉下去了，这可怜的家伙完全不懂游泳，还喜欢在喝醉以后，去河边吹风。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        283
+      ]
+    },
+    {
+      "name": "拉夫特·庞德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "从男爵，庞德家族末裔，疑似图铎家族后裔。被克莱恩伪装成小丑入室调查，表面上酗酒堕落，实则隐藏秘密，可能具备‘律师’途径非凡能力，能规避‘入梦’和‘通灵’。克莱恩占卜其未来将佩戴图铎徽章。",
+      "identInfos": [
+        "从男爵，庞德家族末裔",
+        "疑似图铎家族后裔，掌握‘律师’途径能力",
+        "两鬓斑白，眼袋浮肿，嗜酒"
+      ],
+      "aliases": [
+        {
+          "alias": "庞德从男爵",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 276,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩停下思绪，望向了最后那段，看见了想要的内容：“庞德从男爵，现租住于皇后区西维拉斯街29号。”"
+        },
+        {
+          "chapterSeq": 276,
+          "extractReason": "UPDATE",
+          "evidenceText": "拉夫特·庞德的脸色变幻了几下，非常老实地关上了卧室的门，然后半举起双手，坐到床边。"
+        },
+        {
+          "chapterSeq": 277,
+          "extractReason": "UPDATE",
+          "evidenceText": "拉夫特·庞德的未来……克莱恩握着那位从男爵的头发，闭上眼睛……看见了一枚黑铁徽章，上面雕刻着一根权杖，以及一只紧握着权杖的手！“图铎！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        276,
+        277
+      ]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "保镖小姐，序列5的非凡者，马里奇的朋友。帮助克莱恩爆破威廉姆斯街地下遗迹入口，自称爆破专家，免费服务以排除竞争者。",
+      "identInfos": [
+        "序列5非凡者，马里奇的同伴",
+        "穿黑色哥特式宫廷长裙，淡金发，苍白脸",
+        "擅长爆破，有指挥活尸的能力"
+      ],
+      "aliases": [
+        {
+          "alias": "保镖小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 278,
+          "extractReason": "UPDATE",
+          "evidenceText": "“晚上好，莎伦女士。”卡斯帕斯做出同样的动作。原来她的名字是莎伦……克莱恩若有所思地等待着对方开口。"
+        },
+        {
+          "chapterSeq": 278,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不需要。”……“我就是。”你就是？你就是爆破专家？等等，你不是能力特殊，大概有序列5的非凡者吗？"
+        },
+        {
+          "chapterSeq": 279,
+          "extractReason": "UPDATE",
+          "evidenceText": "炸垮入口后，能够进出那里的只剩下我。这本身就是我希望做的事情。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        278,
+        279
+      ]
+    },
+    {
+      "name": "米勒·卡特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "委托克莱恩探索威廉姆斯街地下建筑的雇主，关注驱蛇问题。在得知探索中发生坍塌后，满意地支付了剩余的报酬，包括5枚金币。",
+      "identInfos": [
+        "克莱恩的雇主，委托探索地下建筑",
+        "有点老派，支付金币"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 279,
+          "extractReason": "UPDATE",
+          "evidenceText": "米勒·卡特的目光扫过那三位一看就很能打的助手，满意地点了下头：“你的准备工作比我预计得快，他们里面有驱蛇专家？”"
+        },
+        {
+          "chapterSeq": 279,
+          "extractReason": "UPDATE",
+          "evidenceText": "啪，他打开盒子，拿出五枚金币，和先前数出的钞票一块，递给了面前的侦探先生。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        279
+      ]
+    },
+    {
+      "name": "卡斯帕斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "黑市武器商人，‘勇敢者’酒吧常客。对克莱恩购买炸药表示警惕，在莎伦命令下同意准备炸药。",
+      "identInfos": [
+        "黑市武器商人，酒糟鼻，瘸腿",
+        "为莎伦和马里奇服务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 278,
+          "extractReason": "UPDATE",
+          "evidenceText": "“马里奇不在。”“除了武器，我什么都没有。”……卡斯帕斯停下动作，直起身体，瞄了他一眼。"
+        },
+        {
+          "chapterSeq": 278,
+          "extractReason": "UPDATE",
+          "evidenceText": "“是，莎伦女士。”卡斯帕斯扫了克莱恩一眼，一瘸一拐地离开了桌球室。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        278
+      ]
+    },
+    {
+      "name": "迈克·约瑟夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "《每日观察报》记者，克莱恩的朋友。邀请玛丽专访，谈论连环杀人案调查进展。",
+      "identInfos": [
+        "记者，皮肤粗糙，眼睛迷人",
+        "克莱恩的朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "“噢，莫里亚蒂侦探，真是巧啊。”有着双迷人眼睛但皮肤相当粗糙的迈克主动打招呼道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        283
+      ]
+    },
+    {
+      "name": "玛丽·盖尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩前雇主，准备进入‘王国大气污染调查委员会’，在克拉格俱乐部偶遇克莱恩，被迈克邀请专访。",
+      "identInfos": [
+        "克莱恩前雇主，关注大气污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我和玛丽约一个专访吧，关于贝克兰德大气污染情况和解决方案的……”玛丽顿时眼睛一亮道：“好的。太感谢了！迈克，我怎么没想到这个好办法！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        283
+      ]
+    },
+    {
+      "name": "于尔根·库珀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的律师，在克莱恩因携带手枪被警察临检时，保释他并建立正式合作关系。性格严肃，不苟言笑。",
+      "identInfos": [
+        "克莱恩的律师",
+        "总是严肃，不爱笑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你去签个字就可以走了。”于尔根用一贯的严肃正经表情说道。"
+        },
+        {
+          "chapterSeq": 280,
+          "extractReason": "UPDATE",
+          "evidenceText": "于尔根微皱眉头，疑惑地看着他道：“为什么要笑？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        280,
+        283
+      ]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "大侦探，协助警方调查希贝尔被杀案。在克莱恩假扮记者调查码头工会时相遇，为其打掩护。",
+      "identInfos": [
+        "大侦探，两鬓斑白，气质儒雅",
+        "协助警方查案"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 284,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们又见面了。”坐在马车里的是位消瘦但儒雅的中老年绅士，他两鬓斑白得很有气质，正是能协助警方查案的大侦探，艾辛格·斯坦顿。"
+        },
+        {
+          "chapterSeq": 284,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我本来就准备说出来。”艾辛格一下领悟，笑着岔开了话题。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        284
+      ]
+    },
+    {
+      "name": "斯塔琳·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的邻居，邀请克莱恩参加周日午宴。炫耀家庭年收入430镑。",
+      "identInfos": [
+        "克莱恩邻居，萨默尔太太",
+        "喜欢炫耀的中产阶级女性"
+      ],
+      "aliases": [
+        {
+          "alias": "萨默尔太太",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "“莫里亚蒂先生，萨默尔太太想邀请您周日去参加午宴，到时候会有不少邻居。”"
+        },
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯塔琳顿时微扬下巴，努力让笑容显得浅淡：“430镑，得有430镑。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        281,
+        283
+      ]
+    },
+    {
+      "name": "雷帕德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "发明家，克莱恩投资其改良脚踏车。现已制作出粗糙原型，克莱恩试骑并提供改进意见。",
+      "identInfos": [
+        "发明家，克莱恩的投资对象"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 282,
+          "extractReason": "UPDATE",
+          "evidenceText": "有了他上次的提点和罗塞尔手稿的启示，雷帕德在自行车项目上的进度非常快，已经制作出了一辆粗糙的原型。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        282
+      ]
+    },
+    {
+      "name": "兰德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "码头工人协会负责宣传的委员。接受假扮记者的克莱恩采访。",
+      "identInfos": [
+        "码头工人协会委员",
+        "毛发稀疏"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 284,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你去找兰德先生，他是我们负责宣传的委员，右拐，右手边第二个办公室。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        284
+      ]
+    },
+    {
+      "name": "智慧之眼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "非凡聚会组织者，一位老先生，具有鉴定能力。主持了本次非凡武器和材料的交易。",
+      "identInfos": [
+        "非凡聚会组织者，老先生",
+        "具有鉴定能力，值得信赖"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "UPDATE",
+          "evidenceText": "“智慧之眼”老先生宣布这次的聚会到此结束。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        280
+      ]
+    },
+    {
+      "name": "药师",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "非凡聚会常客，带来各种古怪药剂售卖，性格有点欠揍。",
+      "identInfos": [
+        "非凡者，制作药剂",
+        "常参加‘智慧之眼’聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "UPDATE",
+          "evidenceText": "药师轻咳一声道：“我带了不少药剂来，你们看看有什么想要的，价格都不贵，也就几镑，甚至几苏勒。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        280
+      ]
+    },
+    {
+      "name": "戴莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者执事，被排除在兰尔乌斯抓捕行动外，因个人情感因素。对兰尔乌斯痛恨至极，遗憾其未被自己亲手折磨而死。",
+      "identInfos": [
+        "值夜者执事，涂蓝色眼影和腮红",
+        "与廷根小队有关联，痛恨兰尔乌斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉随意找了个位置坐下，拿起了桌上的文件。她一眼扫过，目光突然凝固：“兰尔乌斯？”“为什么我不知道这件事情？”"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "如果我抓住了兰尔乌斯，我会让他明白男人也很脆弱！我会让他的屁股后面有一具冰冷腐烂但浑身僵硬的尸体……该死！你们就这样让他死掉了！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        289
+      ]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽的朋友，带来兰尔乌斯死亡现场的消息，并对此感到兴奋，催促寻找‘药师’配方。",
+      "identInfos": [
+        "子爵，奥黛丽的朋友",
+        "对非凡事件充满兴趣"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 288,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你应该听说过极光会吧？……他们被逮住了，死了好几个重要成员，一个非常大的图谋因此而失败。”"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "不管怎么样，我喜欢这种风格！你催促一下休和佛尔思，问她们我的‘药师’配方什么时候才能找到？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        288,
+        289
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的金毛大狗，误食‘观众’魔药后能说话和思考。参与送信等任务，对自己的身份感到迷茫。收到奥黛丽为其准备的礼物（七彩蜥龙）。",
+      "identInfos": [
+        "奥黛丽的宠物金毛大狗",
+        "服用‘观众’魔药后获得智能",
+        "经常帮助奥黛丽传递消息"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜只能用无辜的眼神来表达我只是一条狗，我也不知道这是怎么回事的意思。"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗苏茜不自觉改变了下坐姿。"
+        },
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "“苏茜，我给你准备的礼物快到了。”“汪？”苏茜迷茫地看向女主人。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        285,
+        289,
+        293
+      ]
+    },
+    {
+      "name": "阿尔弗雷德·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽的兄长，在拜朗东海岸服役。为奥黛丽送来她需要的七彩蜥龙。",
+      "identInfos": [
+        "奥黛丽的兄长",
+        "在拜朗东海岸服役"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "亲爱的妹妹，你要的七彩蜥龙已于昨晚到达普利兹港，我给他们的吩咐是，送到你位于郊外的庄园里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        293
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩（愚者）、奥黛丽（正义）、阿尔杰（倒吊人）、戴里克（太阳）和虚拟的‘世界’组成的隐秘组织。在本次聚会中交易了序列0秘密和非凡材料，交换了海盗、白银城等情报，并由‘愚者’推动社会变革意识。兰尔乌斯的死亡现场布满塔罗牌，可能成为该组织的象征。",
+      "identInfos": [
+        "由‘愚者’克莱恩创建并领导的隐秘组织",
+        "成员包括正义、倒吊人、太阳、世界",
+        "互相交易知识、材料和委托任务"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者的聚会",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 288,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是我们‘塔罗会’做的！这是‘愚者’先生的眷者做的！"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯倒在黑暗中……身上覆盖着一张又一张的塔罗牌，有“愚者”，有“正义”，有“倒吊人”，有“太阳”，有“世界”……"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "信仰‘真实造物主’的隐秘组织，成员包括‘巨人’、‘蔷薇主教’、‘隐修士’等。在兰尔乌斯被种下‘树苗’后，根据神性感应找到并控制他，试图助其成为‘真实造物主’降临容器。在值夜者围捕中损失数名成员。其神使或圣者可能仍在贝克兰德谋划报复。",
+      "identInfos": [
+        "信仰‘真实造物主’的邪教组织",
+        "掌握‘秘祈人’、‘倾听者’、‘隐修士’等途径",
+        "成员多疯狂、偏激"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘蔷薇主教’，‘隐修士’……极光会的人。”塞西玛皱了皱眉头，没转向同伴地低沉开口道。"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "根据常识，极光会在贝克兰德这种大都市肯定不会只有‘蔷薇主教’‘隐修士’层次的非凡者，至少会有一位神使，甚至可能是圣者。"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神教会的非凡者队伍。在克雷斯泰·塞西玛带领下，使用封印物‘1-63’围捕兰尔乌斯和极光会成员，成功破坏‘真实造物主’降临计划。事后调查东区社会问题，计划推动变革。",
+      "identInfos": [
+        "黑夜女神教会下属非凡者组织",
+        "包括‘红手套’等精英小队",
+        "负责处理超凡事件，维护秩序"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "克雷斯泰·塞西玛的肌肉都非常紧绷，似乎在对抗着什么。左侧的值夜者无声吸了口气，猛地往下一按，让那银白箱子的表面有虚幻的波纹裂开。"
+        },
+        {
+          "chapterSeq": 286,
+          "extractReason": "UPDATE",
+          "evidenceText": "塞西玛挣扎起身，下令后续调查。“艾尔，对举报者的调查有什么发现？”"
+        },
+        {
+          "chapterSeq": 289,
+          "extractReason": "UPDATE",
+          "evidenceText": "你们分派人员进行调查，搜集最真实的状况。如果确实和兰尔乌斯描述的一样，我会在枢机会议上提出这件事情，正式对王国和政府施加压力，推动相应的变革尽快实现。"
+        }
+      ]
+    },
+    {
+      "name": "码头工人协会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "位于东拜朗船坞的工人组织，兰尔乌斯化名凯文藏身于此。成员对协会不满，认为其未能改善工人处境。在值夜者行动后被医疗组织以传染病为由进行净化处理。",
+      "identInfos": [
+        "码头区工人组织",
+        "兰尔乌斯曾藏身于此"
+      ],
+      "aliases": [
+        {
+          "alias": "码头工会",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 284,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我出生在东区，我知道工人们的生活有多么悲惨……”克莱恩以记者身份采访码头工人协会。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯以嘲讽的笑容和标志性的表现声称：“我现在更是，‘真实造物主’！”"
+        },
+        {
+          "chapterSeq": 288,
+          "extractReason": "UPDATE",
+          "evidenceText": "一名医生宣布：“你们这栋房屋发现了传染性疾病……我们会提供免费的治疗。”"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘倒吊人’阿尔杰提及的隐秘组织，‘星之上将’嘉德丽雅可能加入，导致与‘神秘女王’决裂。该组织涉及‘窥秘人’途径和隐匿贤者。",
+      "identInfos": [
+        "隐秘组织，可能与‘隐匿贤者’有关",
+        "‘星之上将’嘉德丽雅疑似加入"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 292,
+          "extractReason": "UPDATE",
+          "evidenceText": "“而根据我收到的消息，这个隐秘组织是‘摩斯苦修会’。”"
+        }
+      ]
+    },
+    {
+      "name": "庞德家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "鲁恩王国贵族，因三十二年前继承人频死而没落。克莱恩发现其可能与第四纪图铎家族有关，老子爵曾探索地下遗迹并隐瞒恶灵事件。拉夫特·庞德为现任家主。",
+      "identInfos": [
+        "鲁恩贵族，原为子爵，后降为从男爵",
+        "疑似图铎家族后裔",
+        "与威廉姆斯街地下建筑有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 275,
+          "extractReason": "UPDATE",
+          "evidenceText": "庞德家的子爵爵位确实来自于“背誓之战”……老子爵肯定是有意隐瞒了这件事情，没让王室、军方和教会调查……"
+        },
+        {
+          "chapterSeq": 277,
+          "extractReason": "UPDATE",
+          "evidenceText": "整个庞德家族是改名换姓逃避追杀的图铎家族的一支？"
+        }
+      ]
+    },
+    {
+      "name": "拜血教",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "疑似与连环杀人案有关的组织，崇拜恶魔。塔罗会上讨论其序列6升序列5的晋升仪式，需杀害13至49名特定女性。",
+      "identInfos": [
+        "崇拜恶魔的组织",
+        "涉及‘深渊’途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 292,
+          "extractReason": "UPDATE",
+          "evidenceText": "这听起来与崇拜恶魔有关，拜血教的人做的？“倒吊人”阿尔杰瞬间就做出了猜测。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "飓风之斧",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在非凡聚会上以560镑购得的非凡武器，可提高攻击速度和移动速度，有几率产生麻痹和闪电效果。通过献祭仪式转交给‘太阳’戴里克，助其提升战力。",
+      "identInfos": [
+        "非凡武器，铁黑色斧头",
+        "能制造闪电，提升速度",
+        "克莱恩购买给‘太阳’戴里克"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“第二件武器叫‘飓风之斧’，它能提高使用者的动作频率和奔跑速度，并有百分之十五的几率对敌人产生一定的麻痹效果，有百分之五的几率制造出一道闪电……”"
+        },
+        {
+          "chapterSeq": 280,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩基本确定了要买下“飓风之斧”。"
+        },
+        {
+          "chapterSeq": 281,
+          "extractReason": "UPDATE",
+          "evidenceText": "“尊敬的‘愚者’先生，请转告‘世界’先生，我会尽快为他搜集到‘迷雾树人’的真实根茎和汁液。”收到“太阳”的回应后，克莱恩微不可见地点了下头。"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "原属于‘秘偶大师’罗萨戈的非凡特性，具有‘真实造物主’的精神污染。克莱恩使用它观察黑色细线，以寻找兰尔乌斯和凶手线索。",
+      "identInfos": [
+        "‘秘偶大师’罗萨戈遗留的非凡特性",
+        "带‘真实造物主’精神污染",
+        "可观察灵魂连接和生命细线"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的目光望向了青铜长桌上那只全黑之眼，这是“秘偶大师”罗萨戈遗留的非凡特性。"
+        },
+        {
+          "chapterSeq": 283,
+          "extractReason": "UPDATE",
+          "evidenceText": "如果只是短暂使用，通过丝线找到隐藏的人，我还是可以承受的……克莱恩眯了眯眼睛，取下灵摆，做了个此行危险的占卜。"
+        }
+      ]
+    },
+    {
+      "name": "缓解之鞭",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "非凡聚会上出售的非凡武器之一，能制造无形束缚，让敌人动作迟缓。可用两年，售价450镑或‘野蛮人’配方。",
+      "identInfos": [
+        "非凡武器，鞭子",
+        "制造迟缓效果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一件是‘缓慢之鞭’，它仿制于某件神奇物品，能不断制造无形的束缚……"
+        }
+      ]
+    },
+    {
+      "name": "羽人之心",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "非凡聚会上出售的序列6非凡材料，要价1600镑，无人问津。",
+      "identInfos": [
+        "序列6非凡材料",
+        "售价1600镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一件叫做“羽人之心”的非凡材料由于要价高达1600镑，无人问津，交易失败。根据掌握的神秘学知识，克莱恩知道这件非凡材料是被划分在序列6那个档次里的。"
+        }
+      ]
+    },
+    {
+      "name": "收尸人魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "序列9‘收尸人’配方，在聚会上以230镑售出。克莱恩怀疑卖方可能是值夜者或灵教团成员。",
+      "identInfos": [
+        "序列9‘收尸人’魔药配方",
+        "价值230镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 280,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我要卖魔药配方，序列9，‘收尸人’，230镑。”……克莱恩若有所思地看着前方，发现那份“收尸人”的魔药配方很快就卖了出去。"
+        }
+      ]
+    },
+    {
+      "name": "封印物1-63",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者使用的‘1’级封印物，一面古朴的镀银镜子，能构建镜中世界，将非凡者与现实隔离。在围捕兰尔乌斯行动中发挥了关键作用。被邪神气息破坏后正在恢复。",
+      "identInfos": [
+        "‘1’级封印物，古朴镀银镜子",
+        "能构建镜中世界",
+        "由值夜者高级执事塞西玛持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "“使用封印物‘1-63’。”……一口不到一米的骨剑散发着润泽的、纯白的光芒，徐徐漂浮了起来。它的剑身托着一面古朴的镀银镜子。镜子之内映照出的景象，一层又一层，不断叠加，没有尽头。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是镜中的世界，只针对非凡者的镜中世界……塞西玛将那口圣物骨剑交于右手，扬了起来，四周彻底没有了光芒。"
+        }
+      ]
+    },
+    {
+      "name": "圣物骨剑",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克雷斯泰·塞西玛使用的神圣武器，纯白色骨剑，能释放净化和黑暗力量。在围捕中刺入兰尔乌斯胸口，破坏‘真实造物主’的神性凭依。",
+      "identInfos": [
+        "圣物骨剑，纯白润泽",
+        "克雷斯泰·塞西玛的武器"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "一口不到一米的骨剑散发着润泽的、纯白的光芒，徐徐漂浮了起来。"
+        },
+        {
+          "chapterSeq": 285,
+          "extractReason": "UPDATE",
+          "evidenceText": "塞西玛顺势单膝跪地，将手中的圣物骨剑插入了地面。“不！”……"
+        },
+        {
+          "chapterSeq": 286,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯直挺挺地立在那里，胸腹之间插着那口纯白的、润泽的圣物骨剑。那些没有皮肤的血肉……此时全部消失不见"
+        }
+      ]
+    },
+    {
+      "name": "神秘徽章",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从兰尔乌斯尸体上获得的徽章，背面刻有‘持有此物，即可加入’，注入灵性后显示聚会时间为1350年1月4日傍晚八点，地点巴布尔河谷。属于某个神秘组织的信物。",
+      "identInfos": [
+        "神秘组织信物，眼珠大小",
+        "显示聚会时间和地点",
+        "原属兰尔乌斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 287,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩从兰尔乌斯身上摸出一个眼珠大小的徽章，上面有轻而薄的灵性光辉。"
+        },
+        {
+          "chapterSeq": 293,
+          "extractReason": "UPDATE",
+          "evidenceText": "“持有此物，即可加入。”克莱恩诵念出了徽章背后的单词……注入灵性后，浮现羊皮纸：“1350年1月4日傍晚八点，巴布尔河谷。”"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克先生留给克莱恩的铜哨，具有高位格，能干扰占卜和调查。克莱恩在处理拉夫特·庞德和兰尔乌斯事件后，常用其清除痕迹。",
+      "identInfos": [
+        "阿兹克先生赠予的铜哨",
+        "能干扰占卜和追踪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 276,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩边站直身体，边将徽章放入衣兜……然后拿出阿兹克铜哨抛了几下，利用它的位格来干扰后续可能存在的占卜调查。"
+        },
+        {
+          "chapterSeq": 287,
+          "extractReason": "UPDATE",
+          "evidenceText": "做完这一切，克莱恩又拿出阿兹克铜哨抛了几下，然后才头也不回地向着下水道深处跑去。"
+        }
+      ]
+    },
+    {
+      "name": "塔罗牌（克莱恩）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用的普通塔罗牌，作为飞刀武器。在击杀兰尔乌斯后，部分插在墙上和尸体上，营造仪式性场景，可能成为塔罗会象征。",
+      "identInfos": [
+        "克莱恩的武器，普通无灵性",
+        "用于纸牌飞刀和仪式象征"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 287,
+          "extractReason": "UPDATE",
+          "evidenceText": "当！一张纸牌深深插入了他的右胸，边缘迅速有血液下滴。随后更多纸牌射出。"
+        },
+        {
+          "chapterSeq": 287,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩伸直左臂，让手掌处于兰尔乌斯尸体的正上方。霍然之间，他松开了手掌，任由那一张张塔罗牌哗啦啦掉落，叶子般覆盖到了那具无头的尸身上。"
+        }
+      ]
+    }
+  ]
+}

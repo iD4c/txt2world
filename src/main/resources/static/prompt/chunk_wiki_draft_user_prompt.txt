@@ -1,0 +1,61 @@
+【阶段和角色】
+阶段2，角色ChunkWikiDraftWorker
+
+【本次目标】
+基于当前chunk生成局部Wiki草稿，抽取WorldObj列表，只提取人物characters、势力factions、物品items。
+你需要抽取当前chunk中所有符合标准的WorldObj，不用考虑前面的chunk是否已经抽取过。本任务不是只抽取“首次出现的新对象”，也要抽取“已出现对象在当前chunk中产生的新事实、新经历、新关系、新状态变化、新别名”。
+只要某个对象在当前chunk中有明确出场、行动、被重要提及，或产生了对剧情/Wiki 有价值的增量信息，就应该输出该对象。尤其是主角、核心人物、核心势力、核心物品，即使前文已经抽取过，只要当前 chunk 中有新的剧情参与或状态变化，也必须继续抽取。
+本阶段输出的是“当前chunk的WorldObj增量草稿”，后续系统会再进行全局合并，因此不要因为某对象可能已经在前文被抽取过就省略它。
+
+【概念和字段介绍】
+一. WorldObj的字段介绍：
+1. wikiSectionType：该WorldObj属于什么Wiki栏目，当前只提取人物、势力、物品栏目。物品是指小说中具有明确实体形态、可被持有/使用/消耗等，并对人物行动、剧情推进、能力体系或世界设定产生影响的对象，不应抽取普通生活用品、一次性背景道具、没有名称或特征的泛称物品、对剧情和设定没有持续影响的临时物品。
+2. importanceLevel：该WorldObj的重要等级，CORE=核心对象，主角级；HIGH=高重要，主要人物、势力、物品；MEDIUM=中等，常驻角色或稳定反复出现的对象；LOW=低重要，边缘角色或偶发对象；TEMP=临时对象、路人角色、背景角色。
+3. summary：该WorldObj在当前chunk经历了什么的摘要。
+4. identInfos：如何识别这个WorldObj是谁，identInfos是字符串数组，用于存放若干条短识别信息；整个identInfos数组所有文本合计最多120个中文字符，宁少勿滥。每条应是一个稳定识别点，不要写完整句式剧情摘要。
+5. aliases是WorldObj的别名/称号/绰号/昵称/代号/简称/称呼/另一个身份名称。
+6. 关于summary和identInfos的详细解释和区分：
+summary用于记录该WorldObj在当前chunk中发生了什么，重点是当前剧情里的新增经历、行动、状态变化、关系变化、获得/失去的物品、参与的事件等，它是“当前chunk增量摘要”，不需要重复前文已有信息；
+identInfos用于后续全局合并同一WorldObj，重点是帮助识别“这个对象是谁/是什么”，应写稳定、可区分、适合合并判断的身份特征，例如人物的身份、别名、称号、外貌特征、所属势力、与主角关系、标志性能力或代表事件，势力的性质、成员、立场、活动范围，物品的用途、归属、能力、来源等。
+简单说，summary回答“它在当前chunk做了什么/发生了什么变化”，identInfos回答“凭什么能认出它就是这个对象”。不要把identInfos写成剧情摘要。
+以三国演义的关羽在第一个chunk举例：
+summary，写“关羽在第一个chunk中发生了什么”。
+identInfos，写“如何识别这个对象就是关羽”。
+示例：
+{
+"summary": "关羽字云长，与刘备、张飞在桃园结义，成为异姓兄弟，共同立志匡扶汉室。他跟随刘备起兵讨伐黄巾，后随十八路诸侯讨伐董卓，在汜水关前温酒斩华雄，展现出极强武勇。虎牢关时，他与刘备、张飞共同迎战吕布，成为刘备集团早期最重要的武力核心之一。",
+"identInfos": ["刘备结义二弟","字云长","红脸长髯","使青龙偃月刀","与刘备、张飞并称桃园三兄弟","曾温酒斩华雄"]
+}
+7. appearanceChapterSeqs：该WorldObj的出场章节序号数组。只有人物characters需要填写；factions、items不要填写或填空数组。对characters而言，只记录该人物在当前chunk中明确出场、行动、被重要提及的章节序号；章节序号必须来自当前chunk范围内的真实章节号；去重后按升序排列。
+8. lifeStatus：该WorldObj的生命/存在状态。只有人物characters需要填写；factions、items不要填写或填空。对characters而言，可选值为：活着/已死亡/被封印/被囚禁/沉睡中/昏迷中/灵体状态。若当前chunk原文无法判断，默认填“活着”；只有当前chunk原文明示状态变化时，才填对应值。
+二. 上下文中的字段介绍：
+1. chunkReadingMemory：包含对前面chunk的剧情摘要，分为longTermMemory、midMemory、recentMemory，相当于人阅读时对之前剧情的远期记忆、中期记忆、近期记忆。
+2. chunkSummary：当前chunk的剧情摘要。
+3. nextChunkSummary：下一个chunk的剧情摘要，只能用于消歧、判断，比如判断某个名字后来是否指向某个已知对象；禁止把nextChunkSummary的内容输出进回答内容。
+
+【分步引导】
+1. 先阅读 chunkReadingMemory、chunkSummary、nextChunkSummary，理解当前 chunk 的剧情位置；这些上下文只用于理解和消歧，不能作为本次抽取新事实的来源。
+2. 再阅读“当前chunk原文”，识别候选WorldObj：有独立身份/行动的人物，有组织形态/阵营立场的势力，有明确实体形态且会被持有、使用、争夺、消耗、传承或影响剧情/设定的物品。
+3. 判断候选对象是否值得输出：只输出当前chunk中有明确出场、行动、重要提及，或产生新经历、新状态、新关系、新别名、新归属、新用途的对象。主角、核心人物、核心势力、核心物品只要在当前 chunk 有新增剧情参与或状态变化，即使前文已抽取过，也必须继续输出。普通名词、普通动作、无名路人、普通生活用品、一次性背景道具、无剧情价值的环境细节不要输出。
+4. 为每个输出对象填写字段：name取当前原文中最明确、稳定、适合做Wiki页标题的名称；wikiSectionType必须是人物/势力/物品之一；importanceLevel按当前chunk重要性并结合上下文判断；summary只写当前chunk的新增经历或状态变化；identInfos只写稳定、可区分、适合后续合并判断的身份识别信息，整个数组合计最多120个中文字符；aliases只写能确认指向同一对象的别名、称号、绰号、昵称、代号、简称或另一个身份名称；lifeStatus和appearanceChapterSeqs只为characters填写，factions和items不要填写这两个字段。
+5. 最后自检：删除没有当前chunk原文依据的对象和事实；删除普通名词、普通动作、临时环境细节；确保nextChunkSummary中未来才发生的内容没有写入输出；确保输出只包含characters、factions、items三个数组。
+
+【输出格式】
+{"characters":[],"factions":[],"items":[]}
+每个数组的对象为 WorldObj，基础格式：{"name":"","wikiSectionType":"人物/势力/物品","importanceLevel":"CORE/HIGH/MEDIUM/LOW/TEMP","summary":"","identInfos":[""],"aliases":[{"alias":"","type":"别名/称号/绰号/昵称/代号/简称/称呼/另一个身份名称"}]}
+characters 中的 WorldObj 还必须填写：{"lifeStatus":"活着/已死亡/被封印/被囚禁/沉睡中/昏迷中/灵体状态","appearanceChapterSeqs":[1]}
+factions、items 中的 WorldObj 不要填写 lifeStatus、appearanceChapterSeqs。
+
+【本次输入】
+当前chunk：chunk-${chunkIndex}，章节范围：第${startChapterSeq}章到第${endChapterSeq}章
+上下文：${context}
+当前chunk原文：
+${chunkContent}
+
+【最后的提醒】
+1. 抽取的信息必须来自“当前chunk原文”；不能从chunkReadingMemory、chunkSummary、nextChunkSummary中抽取新事实。
+2. nextChunkSummary只能用于消歧、判断，不能把未来chunk才出现的事实写入当前chunk的对象
+3. 只抽取人物、势力、物品；
+4. 普通名词、普通动作、无名路人、普通生活用品、一次性背景道具、无剧情价值的环境细节不能创建为WorldObj。
+5. 只要在“当前chunk原文”中有增量信息，满足标准的WorldObj必须全部抽出，不要因为某对象可能已经在前文被抽取过就省略它。
+6. lifeStatus和appearanceChapterSeqs只允许characters填写；factions、items不要填写这两个字段。

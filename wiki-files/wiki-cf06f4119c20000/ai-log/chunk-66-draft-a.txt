@@ -1,0 +1,604 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩晋升序列2“奇迹师”，成为天使。他融合非凡特性时遭遇原初精神烙印侵蚀与锚的对抗，最终达成平衡，成为“源堡”主角。他消化了晋升获得的神秘学知识，掌握了“愿望”能力，决定以流浪魔术师身份行走各地积累愿望。他与七光交流，获知外神、源质与末日隐秘，确认体内“福生玄黄天尊”精神烙印已初步苏醒。他召回魔镜阿罗德斯，写信给阿兹克，并以梅林·赫尔墨斯身份流浪，实现他人愿望。在贝尔丹城遭遇“0-02”封印物异变，与阿里安娜合作调查，通过与罗伊等非凡者交流，寻找规则漏洞，最终利用源质联系反向占卜定位并传送到“特伦索斯特黄铜书”所在图书馆，与拉里昂谈判失败。",
+      "identInfos": [
+        "塔罗会“愚者”",
+        "格尔曼·斯帕罗/道恩·唐泰斯/夏洛克·莫里亚蒂",
+        "源堡主人",
+        "占卜家途径序列2“奇迹师”",
+        "能使用“愿望”能力",
+        "灰雾之上神秘空间主宰"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "别名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "梅林·赫尔墨斯",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1267,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将那瓶“奇迹师”魔药倒入一个玻璃瓶，通过赐予仪式，将它弄到了现实世界。"
+        },
+        {
+          "chapterSeq": 1268,
+          "extractReason": "UPDATE",
+          "evidenceText": "他终于晋升到序列2层次，有了天使位格，是真正的“奇迹师”。"
+        },
+        {
+          "chapterSeq": 1269,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩原本以为“愿望”能力是自己随意发挥，只要不超过一个上限，谁知道它的效果并不仅仅来自于非凡特性。简单来说，“奇迹师”必须先搜集和满足各种各样的愿望，然后才有可能在战斗时通过向自己许愿的方式将相应的情况变为现实。"
+        },
+        {
+          "chapterSeq": 1271,
+          "extractReason": "UPDATE",
+          "evidenceText": "“福生玄黄天尊”是祂在西大陆的称号，祂别的称号是：“时空之王”、“命运道标”、“源堡化身”、“灵界支配者”以及……“诡秘之主”。"
+        },
+        {
+          "chapterSeq": 1280,
+          "extractReason": "UPDATE",
+          "evidenceText": "我是你们新任的执政官。现在，我颁布三条新的律令：第一条，没有我的允许，任何生灵都不能离开这里。第二条，律法面前众生平等，哪怕天使，也能被普通人杀死。"
+        },
+        {
+          "chapterSeq": 1286,
+          "extractReason": "UPDATE",
+          "evidenceText": "他利用短暂感应到的联系，做出了占卜，然后依靠源质间的吸引，让“传送”变得异常精准！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1267,
+        1268,
+        1269,
+        1270,
+        1271,
+        1272,
+        1273,
+        1274,
+        1275,
+        1276,
+        1277,
+        1278,
+        1279,
+        1280,
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克以白银城“六人议事团”长老和“无暗者”身份，率领探路小队走出巨人王居所，历经黑暗，最终在海上登上“海神”号，被达尼兹迎接，受到白银城居民信任。",
+      "identInfos": [
+        "白银城“六人议事团”长老",
+        "塔罗会“太阳”",
+        "序列5“光之祭司”/“无暗者”",
+        "身高两米，肩宽"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1267,
+          "extractReason": "UPDATE",
+          "evidenceText": "提着“雷神怒吼”巨锤的戴里克立在最前方，身高两米，肩膀宽厚，沉默未语。"
+        },
+        {
+          "chapterSeq": 1267,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克将领导二十位白银城非凡者做探路者，以摸索出安全的通道，确认外界的情况。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1267,
+        1270,
+        1277
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "达尼兹作为“愚者”神使，驾驶“海神”号迎接白银城探路小队，代表“愚者”欢迎他们来到光明世界，并安排他们的食宿。",
+      "identInfos": [
+        "“愚者”神使",
+        "原“黄金梦想号”海盗",
+        "眉毛焦黄，眼眸深蓝"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1267,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹本来想直接跳下船只，走到那些“愚者”先生的信徒面前，向他们宣布他们得到了拯救……他立于龙首，完全张开了双臂，笑容矜持地对戴里克等人道：“欢迎来到神许诺的光明世界！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1267,
+        1270
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德已成为值夜者高级执事，即将返回圣堂学习。他与克莱恩在圣赛缪尔教堂见面，谈及神战真相和克莱恩晋升天使，被提醒末日预言。",
+      "identInfos": [
+        "值夜者高级执事",
+        "塔罗会“星星”",
+        "序列4“守夜人”",
+        "体内有寄生天使帕列斯·索罗亚斯德"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1272,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我已经是‘值夜者’高级执事，过两天就要返回圣堂学习一段时间，并领取相应的圣物。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1272
+      ]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿里安娜在贝尔丹城出现，追踪战神教会大牧首拉里昂，告知克莱恩“0-02”封印物相关情报，并与克莱恩合作对付“特伦索斯特黄铜书”。",
+      "identInfos": [
+        "黑夜教会苦修士首领",
+        "地上天使，“隐秘之仆”",
+        "穿简朴亚麻长袍，系树皮腰带，留长长黑发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1280,
+          "extractReason": "UPDATE",
+          "evidenceText": "那里走过了一道穿简朴亚麻长袍，系树皮腰带，留长长黑发，未着鞋袜的女性身影。阿里安娜！黑夜教会的苦修士首领，地上天使阿里安娜！"
+        },
+        {
+          "chapterSeq": 1282,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜的眼眸微微转动，一下变得幽邃，让人发自内心地感觉到了安宁。祂语气平淡地说道：“战神教会的大牧首拉里昂出逃，我正在追踪祂。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1280,
+        1282,
+        1283,
+        1286
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙分身拦截魔女卡特琳娜与红天使恶灵，以单片眼镜示人，并与之谈判合作。",
+      "identInfos": [
+        "远古太阳神之子",
+        "时天使",
+        "“偷盗者”途径天使之王",
+        "戴单片眼镜"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1275,
+          "extractReason": "UPDATE",
+          "evidenceText": "这年轻男子掏出一个水晶磨成的单片眼镜，将它戴到了左眼。“呵……”卡特琳娜脑海内顿时回荡起了“红天使”恶灵的嗤笑声。下一秒钟，那年轻男子取下单片眼镜，把它移到了右眼，然后笑容明显地说道：“不好意思，刚才戴错了位置。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1275
+      ]
+    },
+    {
+      "name": "卡特琳娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "卡特琳娜与红天使恶灵附身的“看门人”一起，准备返回魔女教派总部，途中被阿蒙拦截。",
+      "identInfos": [
+        "魔女教派“白之圣女”",
+        "序列3“不老魔女”",
+        "与红天使恶灵合作"
+      ],
+      "aliases": [
+        {
+          "alias": "白之圣女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1275,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿着圣洁白袍，清灵秀美的“不老魔女”卡特琳娜放下手中的镜子……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1275
+      ]
+    },
+    {
+      "name": "索伦·艾因霍恩·梅迪奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "红天使恶灵索伦·艾因霍恩·梅迪奇附身“看门人”，与卡特琳娜合作，途中被阿蒙拦截并谈判。",
+      "identInfos": [
+        "“红天使”恶灵",
+        "由梅迪奇、索伦、艾因霍恩残魂融合",
+        "曾主掌“猎人”途径"
+      ],
+      "aliases": [
+        {
+          "alias": "红天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1275,
+          "extractReason": "UPDATE",
+          "evidenceText": "他穿着黑底红纹的长袍，有一张线条柔和，肤色偏棕，略显苍白的脸孔，正是被“红天使”恶灵附身的“看门人”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1275
+      ]
+    },
+    {
+      "name": "拉里昂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "战神教会大牧首拉里昂携带“0-02”出逃至贝尔丹，引发规则异变。他与阿里安娜、克莱恩周旋，试图逃走，但灵界通路被克莱恩用历史投影幕布封堵。",
+      "identInfos": [
+        "战神教会大牧首",
+        "地上天使",
+        "身高两米六以上，穿黑底白边长袍"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1285,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "战神教会大牧首拉里昂……他穿着黑底白边的长袍，肌肉将宽松的衣物撑得鼓鼓囊囊。这是位留着花白胡茬，戴着方形帽的老者，眸色淡蓝，皱纹稀少。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1285,
+        1286
+      ]
+    },
+    {
+      "name": "博诺瓦·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "蒸汽教会天使博诺瓦·古斯塔夫在转移封印物的列车上，识别出克莱恩的历史投影，并同意其带走魔镜。",
+      "identInfos": [
+        "蒸汽教会天使",
+        "栗色长发，身材高大，容貌俊美"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1274,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那年轻男子点了点头道：“博诺瓦·古斯塔夫。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1275
+      ]
+    },
+    {
+      "name": "罗伊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗伊是贝尔丹城的非凡者，与伙伴们遭遇“0-02”规则异变，向克莱恩寻求保护，并参与寻找封锁物。",
+      "identInfos": [
+        "贝尔丹城非凡者",
+        "参加过贝尔丹城阻击战",
+        "发际线高，有鲁恩特征"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1281,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "发际线有着典型鲁恩特征的罗伊举起杯子道：“为全新的未来干杯……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286
+      ]
+    },
+    {
+      "name": "帕莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "帕莎是贝尔丹城的非凡者“猎人”，与罗伊等人一起遭遇异常，向克莱恩寻求保护。",
+      "identInfos": [
+        "贝尔丹城非凡者",
+        "“猎人”途径，序列较低",
+        "暗金长发，深蓝眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1281,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "有着一头暗金长发和深蓝眼眸的帕莎跟着感慨道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286
+      ]
+    },
+    {
+      "name": "菲尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "菲尔是贝尔丹城非凡者，试图偷窃钱包时手被切断，后向克莱恩许愿恢复。",
+      "identInfos": [
+        "贝尔丹城非凡者",
+        "“偷盗者”途径",
+        "身形瘦削"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1281,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "身形瘦削的菲尔瞄了几眼后斟酌着说道：“我把它拿过来看一看？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286
+      ]
+    },
+    {
+      "name": "拜尔斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "拜尔斯是贝尔丹本地非凡者，同罗伊等人遭遇异常，向克莱恩许愿让倒塌的房屋恢复。",
+      "identInfos": [
+        "贝尔丹本地非凡者",
+        "前矿工",
+        "皮肤黝黑，肌肉结实"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1281,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位不到三十的男子年轻时也做过矿工……皮肤因此弄得很黑。他裸露在外的肌肉不是太夸张，却给人一种钢铁浇筑成的感觉。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在灰雾之上举行聚会，成员们分享了大地母神真实身份、神战真相、末日预言等重大情报。克莱恩宣布可用贡献换取“海神”身份等高位格事物，并提醒末日将至。",
+      "identInfos": [
+        "由“愚者”召集的隐秘组织",
+        "成员包括“正义”“倒吊人”“太阳”等",
+        "主要活动于灰雾之上",
+        "涉及高层次神秘交易与情报共享"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1277,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了“魔术师”和“审判”还只有序列5，塔罗会其余成员都已经是半神，是神秘世界不同势力的高层了。"
+        },
+        {
+          "chapterSeq": 1278,
+          "extractReason": "UPDATE",
+          "evidenceText": "“海神”的身份、位格和实力……听到“愚者”先生举的例子，“倒吊人”阿尔杰的脑海空白了近乎两秒。"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城探路小队在戴里克·伯格带领下走出神弃之地，抵达外界海域，被“海神”号迎接，开始融入光明世界。",
+      "identInfos": [
+        "被困于神弃之地的城邦",
+        "居民多为“巨人”途径非凡者",
+        "信仰“愚者”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1267,
+          "extractReason": "UPDATE",
+          "evidenceText": "敞开的灰蓝色大门、一路往下的石制阶梯、泛着片片金芒的大海和无处不在的光明又一次映入了利亚瓦尔和坎蒂丝等白银城居民的眼中。"
+        }
+      ]
+    },
+    {
+      "name": "黑夜教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜教会在神战后整合战神教会力量，阿里安娜追踪叛逃大牧首拉里昂，同时教会内部调整教义，不再使用“绯红之主”称号。",
+      "identInfos": [
+        "信仰“黑夜女神”的教会",
+        "鲁恩王国主要正神教会之一",
+        "在神战中获胜"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1274,
+          "extractReason": "UPDATE",
+          "evidenceText": "接纳战神教会和弗萨克军方愿意投诚的非凡者，只肃清那些信仰非常虔诚……这是女神的宽容与怜悯，也是应对之后时局的必然措施……"
+        }
+      ]
+    },
+    {
+      "name": "灵界七光",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "灵界七光与克莱恩会面，透露了大量关于外神、源质、旧日、末日等宇宙级隐秘。",
+      "identInfos": [
+        "灵界七种净光化身，象征不同领域",
+        "包括橘光希拉里昂、红光艾尔·莫瑞亚等",
+        "是知识、预言等化身"
+      ],
+      "aliases": [
+        {
+          "alias": "七光",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1270,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩停了下来……将目光投向了占据着灵界最高处的那七道不同颜色的净光。"
+        },
+        {
+          "chapterSeq": 1271,
+          "extractReason": "UPDATE",
+          "evidenceText": "“靛光”赫苏斯表情严肃地回答道：“殿下，目前窥视着我们世界的旧日有‘堕落母神’、‘欲望母树’、‘混沌之子’……"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "特伦索斯特黄铜书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“0-02”封印物，由战神教会大牧首拉里昂带至贝尔丹城，活化后制定并修改城市规则，造成全城异变。克莱恩通过反向占卜定位其藏于图书馆，但无法触碰或改变状态。",
+      "identInfos": [
+        "“0”级封印物",
+        "外形为薄黄铜书册",
+        "能够制定律法规则",
+        "被称为“规则书”",
+        "与源质关联"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1286,
+          "extractReason": "UPDATE",
+          "evidenceText": "所有执法行为必须且只能由‘特伦索斯特黄铜书’或者它授权的人群做出。"
+        },
+        {
+          "chapterSeq": 1286,
+          "extractReason": "UPDATE",
+          "evidenceText": "大厅靠落地窗那侧，有许多长方形的桌子，其中一张上，摆放着一本由薄薄黄铜组成的书册。"
+        }
+      ]
+    },
+    {
+      "name": "魔镜阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从蒸汽教会收回魔镜阿罗德斯，它成为克莱恩的随身物品，帮助监控布告牌和提供信息，并在贝尔丹异变中担任“执法者”角色。",
+      "identInfos": [
+        "古代魔镜，有活着的特性",
+        "能够回答问题和提问",
+        "喜好偷窥和八卦"
+      ],
+      "aliases": [
+        {
+          "alias": "阿罗德斯",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1273,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩低笑一声，挑了下眉毛，从衣物口袋内取出了一枚金币。"
+        },
+        {
+          "chapterSeq": 1275,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩手中突然多了一面镜子。它通体呈银色，背后花纹古老而神秘，正面两侧各有一只眼睛般的装饰。"
+        }
+      ]
+    }
+  ]
+}

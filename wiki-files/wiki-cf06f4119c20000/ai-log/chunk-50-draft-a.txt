@@ -1,0 +1,974 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗形象处理蒸汽列车献祭事件，追踪“巫王”卡拉曼失败，将“原始月亮”信徒据点暴露给风暴教会。返回贝克兰德后，他以道恩·唐泰斯身份派发礼物，拜访艾伦医生逗弄威尔·昂赛汀，在海上遭遇“黑皇帝号”，以秘偶形象拜见“五海之王”纳斯特，探听罗塞尔大帝往事。他接管灵教团人造死神派，命令停止唤醒仪式、推广识字教育。与魔女特莉丝联络合作对付宫廷侍卫长。参加马赫特议员舞会，得知海柔尔被发疯老鼠咬伤，判断其老师“偷盗者”半神接近失控。前往麋鹿庄园对付该半神，利用秘偶与幻术重创对方，遭遇阿蒙分身出现后立即逃离。为应对阿蒙威胁，在灰雾上与伦纳德商议，透露自己是“隐秘”眷者，并告知帕列斯·索罗亚斯德阿蒙已知伯克伦德街附近有“偷盗者”天使。帕列斯提出清除阿蒙分身的计划，克莱恩决定向黑夜教会举报阿蒙踪迹。",
+      "identInfos": [
+        "穿越者，塔罗会“世界”格尔曼·斯帕罗",
+        "愚者的眷者，序列4“诡法师”",
+        "道恩·唐泰斯，富翁军火商人",
+        "前值夜者克莱恩·莫雷蒂",
+        "拥有灰雾之上神秘空间",
+        "与阿兹克·艾格斯结盟"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 967,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩低沉开口道：\n“是谁让你们做献祭的？”\n晋升序列4，成为“诡法师”之后，他不再仅仅只能从秘偶的浅层意识里读出念头，还可以利用提升的“灵体之线”掌控，直接做到类似通灵的事情。"
+        },
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩已离开南大陆，以道恩·唐泰斯的模样往迪西海湾返回。\n……他的身后跟着一位明显是混血儿，身高1米75左右，提着两个行李箱的年轻男子，正是秘偶恩佐，当然，这位“赢家”现在已经改名，改成了更有南大陆特色的恩尤尼"
+        },
+        {
+          "chapterSeq": 971,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩薄薄一层的身体悠闲后靠道：\n“理由就是，当你将来需要和我交易的时候，不用听到类似的要求。”"
+        },
+        {
+          "chapterSeq": 976,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩半叹半笑地伸右手按至胸前，但什么额外动作都没附带：\n“神的谕令是什么？”\n布雷恩缓缓站直了身体，望着坐在安乐椅上鬓角斑白的绅士，隐有些狂热地回应道：\n“我们成功了，神终于苏醒了过来，祂让我从今天开始，听从您的命令，接受您的安排。”"
+        },
+        {
+          "chapterSeq": 981,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩环顾起四周，显露出黑发棕眸，脸庞消瘦，棱角分明的样子，俨然就是格尔曼·斯帕罗。\n——提前从舞会离开后，克莱恩回到道恩·唐泰斯府邸，进入卧室，带着“赢家”恩尤尼直接传送了过来。"
+        },
+        {
+          "chapterSeq": 983,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的目光陡然凝固，脑海内一个单词爆炸般回荡了起来：\n“阿蒙！”\n他眼前这个人是“渎神者”阿蒙，“时天使”阿蒙，天使之王阿蒙，造物主之子阿蒙！\n虽然知道对方来的只是一个分身，但克莱恩还是没有多想，直接遵从心的意志，借助“蠕动的饥饿”，让身体飞快透明。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        967,
+        968,
+        969,
+        970,
+        971,
+        972,
+        973,
+        974,
+        975,
+        976,
+        977,
+        978,
+        979,
+        980,
+        981,
+        982,
+        983,
+        984,
+        985,
+        986
+      ]
+    },
+    {
+      "name": "帕特里克·布雷恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "灵教团半神，序列4“不死者”，受“人造死神”神谕前来效忠克莱恩（道恩·唐泰斯），被克莱恩接管领导，命令停止唤醒仪式、推广识字教育。",
+      "identInfos": [
+        "灵教团人造死神派半神",
+        "序列4“不死者”",
+        "在贝克兰德拥有成衣工厂",
+        "表面信仰黑夜女神",
+        "人造死神计划副产物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 976,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那位半神走了两步，忽然让右手在身前直直下垂，带动腰背变得弯曲，就像一把拉到了极限的弓。\n他以奇特的姿势郑重行了一礼，态度极为尊敬，而与此同时，阴冷之风一拉，房门没发出任何声音地合拢了。\n克莱恩险些愣住，不知该作何反应，旋即思绪浮动，隐约有了点猜测。\n就在这个时候，那位半神保持着姿势不变，沉声开口道：\n“灵教团帕特里克·布雷恩受神谕前来拜见阁下。”"
+        },
+        {
+          "chapterSeq": 977,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕特里克·布雷恩没有隐瞒：\n“我是‘不死者’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        976,
+        977
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林受血族公爵奥尔默接见，获考验任务找出贝克兰德玫瑰学派成员，并趁机构建将欧内斯·博雅尔引入丰收教堂的惩罚计划。跟踪欧内斯后，他决定在塔罗会颁布任务寻求帮助。",
+      "identInfos": [
+        "塔罗会“月亮”",
+        "血族男爵",
+        "丰收教堂义工",
+        "持有“莉莉丝的指环”"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特取下帽子，脱掉外套，走入了起居室等待。\n……他正是之前向埃姆林提供德莱尔森林中央废弃古堡情报的血族，叫做欧内斯·博雅尔，是一位子爵。"
+        },
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "卡西米面朝那坟墓，毕恭毕敬地行礼道：\n“公爵大人，埃姆林·怀特来了。”"
+        },
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你接下来的任务是找出潜藏在贝克兰德的玫瑰学派重要成员，在这方面，线索很少，许多情况需要你自行调查。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        969,
+        970,
+        973
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽面见心理炼金会评议团委员赫温·兰比斯，被其潜入心灵世界催眠，因“愚者”天使祝福保持清醒，发现赫温操纵卡隆自杀旨在加剧新党与保守党撕裂，并受命监控父亲霍尔伯爵。她向“愚者”祈祷获得新的天使祝福。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "霍尔伯爵之女",
+        "序列6“催眠师”",
+        "心理炼金会成员",
+        "鲁恩慈善助学基金理事"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 970,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽没有隐瞒自己的目的。\n伊思兰特看了对面金发碧眼的美丽小姐一眼，斟酌着说道：\n“这不是我能决定的事情，我会汇报上去，尽快安排你和希尔伯特、斯蒂芬见面。”"
+        },
+        {
+          "chapterSeq": 973,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽眼前突然出现了一道绚烂的光柱。\n光柱里，一个沐浴着金光背生十二对翅膀的天使徐徐降临，用火焰组成的羽翼将她层层包裹，又层层消散。"
+        },
+        {
+          "chapterSeq": 974,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽认识他，这是王室顾问，赫温·兰比斯！\n当然，奥黛丽早就在塔罗会上知道了这位老先生暗中的身份：\n心理炼金会评议团委员！"
+        },
+        {
+          "chapterSeq": 974,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫温跷起右腿，微微笑道：\n“这并不值得在意，永远不要忘记，我们心理炼金会是以研究心灵领域知识为目的建立的组织，我们更偏学术而非事务，呵，既然是学术，你完全可以当所谓的委员是大学里的教授。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        970,
+        973,
+        974,
+        975,
+        978
+      ]
+    },
+    {
+      "name": "赫温·兰比斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "心理炼金会评议团委员，借奥黛丽晋升“催眠师”之机面见她，潜入其心灵世界催眠，被“愚者”天使祝福阻挡。他操纵卡隆自杀旨在加剧新党与保守党撕裂，并给奥黛丽任务监控其父霍尔伯爵。",
+      "identInfos": [
+        "心理炼金会评议团委员",
+        "王室顾问",
+        "高序列“观众”",
+        "头发全白但茂密",
+        "曾幕后操纵卡隆自杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 974,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "奥黛丽认识他，这是王室顾问，赫温·兰比斯！\n当然，奥黛丽早就在塔罗会上知道了这位老先生暗中的身份：\n心理炼金会评议团委员！"
+        },
+        {
+          "chapterSeq": 974,
+          "extractReason": "UPDATE",
+          "evidenceText": "他头发浓密却已全白，身穿标准三件套和有条纹的蓝灰色长裤，打着暗红色的领结，额头皱纹较重，正是赫温·兰比斯！\n这个兰比斯和坐在沙发上的相比，气质阴鸷，没有一点笑容，脑袋微微埋着，似乎在审视阶梯后方的奥黛丽潜层意识。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        974,
+        975
+      ]
+    },
+    {
+      "name": "纳斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“五海之王”，海盗王者，白枫伯爵。克莱恩在海上遭遇“黑皇帝号”，以秘偶形象拜见他，探听罗塞尔大帝往事，得知大帝晚年常凝望西边迷雾海。纳斯特委托克莱恩寻找“黑皇帝”牌。",
+      "identInfos": [
+        "五海之王",
+        "海盗王者",
+        "白枫伯爵",
+        "拥有“黑皇帝号”",
+        "罗塞尔大帝敕封"
+      ],
+      "aliases": [
+        {
+          "alias": "五海之王",
+          "type": "称号"
+        },
+        {
+          "alias": "白枫伯爵",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 971,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“黑皇帝号”，这是“五海之王”纳斯特的象征，“黑皇帝号”！"
+        },
+        {
+          "chapterSeq": 971,
+          "extractReason": "UPDATE",
+          "evidenceText": "“五海之王”纳斯特威严昭著的声音再次响起，没直接回答那红头海雕，而是吩咐自己的下属：\n“让他进来。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        971,
+        972
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩拜访艾伦医生，逗弄婴儿威尔·昂赛汀，告知乌洛琉斯被击伤，威尔暗示命运偏移是好事。威尔不喜黄金护身符礼物，更喜欢“瓜达尔”饮料。",
+      "identInfos": [
+        "命运之蛇",
+        "生命学派议长",
+        "转生为婴儿威尔·昂赛汀",
+        "序列1“水银之蛇”",
+        "艾伦·克瑞斯之子"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 979,
+          "extractReason": "UPDATE",
+          "evidenceText": "裹着银色丝绸的胖乎乎婴儿抬起手臂，甩了一下，啪地将黄金护身符打了出去。\n打了出去……"
+        },
+        {
+          "chapterSeq": 979,
+          "extractReason": "UPDATE",
+          "evidenceText": "威尔·昂赛汀安静了一会道：\n“我就说嘛，你命运的偏移从长期看是好事。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        979
+      ]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "海柔尔在郊外庄园被发疯老鼠咬伤，萎靡不振。老师（“偷盗者”半神）发疯后，她决定冒险前往庄园提醒老师，途中遇到阿蒙顶替其老师身份。",
+      "identInfos": [
+        "马赫特议员之女",
+        "持有“偷盗者”途径神奇物品",
+        "墨绿色长发",
+        "被“偷盗者”半神选为学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 980,
+          "extractReason": "UPDATE",
+          "evidenceText": "马赫特议员无奈笑道：\n“不是，她前几天去郊外庄园时，被一只发疯的老鼠咬伤了，伤口还没彻底愈合。”"
+        },
+        {
+          "chapterSeq": 981,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔深棕色的眼眸陡然睁大，口中无意识呢喃出了一个满含恐惧之情的单词。\n她腾地站起，仓促地左右张望，但什么都没有发现。"
+        },
+        {
+          "chapterSeq": 983,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，一道身影从灌木树林外经过，正是换上了猎装的海柔尔。\n她似乎有所察觉，下意识转头望向这边，看见了阿蒙。\n然后，她露出惊喜的笑容道：\n“老师，您好转了？\n“嗯，有人发现了您的问题，您最好去别的地方躲一躲！”\n阿蒙安静听完，嘴角一点点翘了起来：\n“好的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        980,
+        981,
+        983
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿蒙分身出现在麋鹿庄园，吞噬了雅各家族后裔的半神，并顶替其身份欺骗海柔尔。克莱恩逃离后，阿蒙透露曾折磨魔镜阿罗德斯。其分身可通过吸收“偷盗者”特性壮大。",
+      "identInfos": [
+        "渎神者",
+        "时天使",
+        "天使之王",
+        "造物主之子",
+        "戴单片水晶眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "渎神者",
+          "type": "称号"
+        },
+        {
+          "alias": "时天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 983,
+          "extractReason": "UPDATE",
+          "evidenceText": "这人影穿着长袍般的黑色风衣，搭配黑裤子和黑皮鞋，额头较宽，脸庞瘦削，戴着高高的礼帽和极有特色的单片水晶眼镜，显得极为斯文。\n克莱恩的目光陡然凝固，脑海内一个单词爆炸般回荡了起来：\n“阿蒙！”"
+        },
+        {
+          "chapterSeq": 983,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙将双手插入了风衣的口袋，悠然笑道：\n“听说你们家族分成了一个个互不联系的小家庭，害怕被我抓到一个就抓出一群？啊对，你们是不是和索罗亚斯德的后裔，还有其他‘偷盗者’途径的非凡者，建立了一个隐秘的组织，自称命运的隐士？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        983
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德接受大主教圣安东尼任务，调查闹鬼事件以消化“安魂师”魔药。在灰雾之上与克莱恩商议对付阿蒙，转达帕列斯·索罗亚斯德的建议，要求隐秘庇佑。",
+      "identInfos": [
+        "塔罗会“星星”",
+        "黑夜教会“红手套”",
+        "体内寄生帕列斯·索罗亚斯德",
+        "序列5“灵巫”",
+        "前同事克莱恩·莫雷蒂"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 980,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔透过车窗，望了那里一眼，似自言自语般说道：\n“道恩·唐泰斯也回来了。”"
+        },
+        {
+          "chapterSeq": 984,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德压低嗓音道：\n“老头，克莱恩通过‘愚者’先生转告了我一件事情，说他发现了阿蒙新的踪迹，让我去‘愚者’先生的国度讨论这方面的问题。\n“你，有什么建议？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        980,
+        984,
+        985,
+        986
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "帕列斯通过伦纳德与克莱恩商议对付阿蒙，提出以“偷盗者”半神特性设陷阱，需在隐秘庇佑下进行，并要求回收阿蒙分身的“时之虫”作为补充。",
+      "identInfos": [
+        "索罗亚斯德家族天使",
+        "“偷盗者”途径序列1",
+        "寄生在伦纳德体内",
+        "被阿蒙追杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 984,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德沉默了几秒，长叹一声道：\n“如果他想对付阿蒙在贝克兰德的分身，就告诉他，除非有隐秘的庇佑，否则，你知道后果的。”"
+        },
+        {
+          "chapterSeq": 986,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德继续说道：\n“和其他途径的相似能力不同，阿蒙的分身可以通过吸收‘偷盗者’途径的非凡特性迅速壮大自己，分裂出更多的‘时之虫’，寄生到不同的生物体内，只要非凡特性足够，这个过程就能一直延续下去……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        984,
+        986
+      ]
+    },
+    {
+      "name": "奥尔默",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族公爵，称号“圆月”，年龄超过三千岁，接见埃姆林并给予考验任务找出贝克兰德玫瑰学派成员，亲自为埃姆林净化人造吸血鬼非凡特性。",
+      "identInfos": [
+        "血族三大公爵之一",
+        "称号“圆月”",
+        "年龄超过三千岁",
+        "曾追随始祖莉莉丝"
+      ],
+      "aliases": [
+        {
+          "alias": "圆月",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 969,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是目前执掌着血族的三大公爵之一，是大灾难前就存在的古老强者，称号“圆月”，年龄超过三千岁，曾经追随过始祖莉莉丝！"
+        },
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "“很好，我会亲自为那件特性净化。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        969
+      ]
+    },
+    {
+      "name": "欧内斯·博雅尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族子爵，故意向埃姆林提供不完整情报致其陷入危险。埃姆林计划惩罚他，最终决定在塔罗会寻求帮助将其引入丰收教堂。",
+      "identInfos": [
+        "血族子爵",
+        "考古学家",
+        "向埃姆林提供危险情报"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 969,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这男子棕发红眼，脸庞线条深刻，手里拿着一本画册，漫无目的地翻看着。\n他正是之前向埃姆林提供德莱尔森林中央废弃古堡情报的血族，叫做欧内斯·博雅尔，是一位子爵。"
+        },
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是故意的！埃姆林在心里做出了最终的判断，猩红的眼睛略有眯起"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        969
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "丰收教堂神父，建议埃姆林将欧内斯·博雅尔带到教堂听布道劳作作为惩罚。",
+      "identInfos": [
+        "丰收教堂神父",
+        "身高体壮如山",
+        "信仰大地母神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 973,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基神父望向前方的生命圣徽道：\n“我并不提倡将问题诉诸暴力，你可以将他带到这里来，让他听我布道，阅读圣典，体悟生命的可贵，感受母神的慈和，为所犯下的罪行劳作。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        973
+      ]
+    },
+    {
+      "name": "特莉丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "魔女特莉丝调查宫廷侍卫长进展缓慢，克莱恩与之联络表达合作，并提供信使召唤方式。克莱恩后悔放走她，担忧她失控制造灾难。",
+      "identInfos": [
+        "魔女",
+        "欢愉魔女",
+        "原初魔女神眷者",
+        "为埃德萨克王子复仇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 978,
+          "extractReason": "UPDATE",
+          "evidenceText": "“格尔曼·斯帕罗先生，这就是最强冒险家的疯狂与冷酷？\n“或者，我其实认识的是一个小丑？”"
+        },
+        {
+          "chapterSeq": 978,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩未做争辩，操纵纸人状态的塞尼奥尔笑了笑，简单回应道：\n“为什么小丑就不能疯狂和冷酷？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        978
+      ]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩计划通过“星之上将”联络“神秘女王”贝尔纳黛，以进一步了解罗塞尔大帝。",
+      "identInfos": [
+        "神秘女王",
+        "海盗王者",
+        "罗塞尔大帝之女",
+        "持有“黑皇帝”牌开启咒文"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 972,
+          "extractReason": "UPDATE",
+          "evidenceText": "“神秘女王”贝尔纳黛！\n这和纳斯特同为海盗王者的女士最近常出没于贝克兰德！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        972
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“星之上将”嘉德丽雅收到贝尔纳黛回信，确认“工匠”夏尔夫为罗塞尔后裔，决定将其带到“未来号”作为弗兰克的实验助手。",
+      "identInfos": [
+        "星之上将",
+        "塔罗会“隐者”",
+        "摩斯苦修会成员",
+        "“未来号”船长"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 972,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星之上将”嘉德丽雅终于收到了“神秘女王”贝尔纳黛的回信。\n……\n“那确实是夏尔的后裔……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        972
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "嘉德丽雅告知弗兰克将给他一个实验助手（夏尔夫）。",
+      "identInfos": [
+        "“未来号”船员",
+        "擅长杂交育种",
+        "德鲁伊"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 972,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅郑重说道：\n“之后会给你一个实验助手。”\n弗兰克先是愣了一下，随即露出纯粹的笑容：\n“好的！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        972
+      ]
+    },
+    {
+      "name": "圣安东尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "贝克兰德大主教圣安东尼给伦纳德分派调查闹鬼事件的任务，以助其消化“安魂师”魔药。",
+      "identInfos": [
+        "黑夜教会贝克兰德大主教",
+        "穿黑中带红长袍"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 980,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德在一位牧师引领下，进入了贝克兰德大主教圣安东尼的书房。\n安东尼·史蒂文森穿着黑中带红的长袍，眼眸深邃，脸无胡须"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        980
+      ]
+    },
+    {
+      "name": "巫王卡拉曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“原始月亮”信徒圣者，通过布娃娃降临试图献祭，被克莱恩用“死神纸人”污染后逃脱。其活跃于千年前，《秘密之书》作者。",
+      "identInfos": [
+        "“巫王”",
+        "玫瑰学派成员",
+        "信仰“原始月亮”",
+        "《秘密之书》作者"
+      ],
+      "aliases": [
+        {
+          "alias": "巫王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 968,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“回禀神使，是‘巫王’卡拉曼。”\n“巫王”卡拉曼……这名字好熟悉……啊对，我那本《秘密之书》的作者……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        968
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "灵教团人造死神派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "灵教团分支，试图唤醒死神。帕特里克·布雷恩受神谕带领贝克兰德成员效忠克莱恩（道恩·唐泰斯），克莱恩命令停止唤醒仪式、推广识字教育。",
+      "identInfos": [
+        "灵教团分支，信仰人造死神",
+        "成员包括帕特里克·布雷恩等半神",
+        "在贝克兰德有据点",
+        "首领为天使海特尔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 977,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我加入灵教团的时候，神已经苏醒了一点，这全是以前那些圣者的功劳，他们在一次次仪式里献祭了自己。\n“目前，我们共有三位圣者和一位天使，他们都在东拜朗，我负责贝克兰德的所有事宜。”"
+        },
+        {
+          "chapterSeq": 977,
+          "extractReason": "UPDATE",
+          "evidenceText": "“第一点，停止各种仪式，不再搜集材料，神已初步苏醒，正在恢复阶段，不能让嘈杂的‘声音’打扰到祂。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽面见评议团委员赫温·兰比斯，被催眠并给予监控父亲的任务。心理炼金会内部存在分裂倾向。",
+      "identInfos": [
+        "隐秘组织",
+        "研究心灵领域",
+        "成员包括奥黛丽·霍尔",
+        "评议团委员赫温·兰比斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 974,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们心理炼金会是以研究心灵领域知识为目的建立的组织，我们更偏学术而非事务，呵，既然是学术，你完全可以当所谓的委员是大学里的教授。”"
+        }
+      ]
+    },
+    {
+      "name": "原始月亮信徒",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在蒸汽列车上试图献祭所有乘客，被克莱恩阻止，据点暴露给风暴教会。信徒崇拜“原始月亮”，圣者为“巫王”卡拉曼。",
+      "identInfos": [
+        "信仰“原始月亮”",
+        "包含玫瑰学派成员",
+        "圣者“巫王”卡拉曼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 967,
+          "extractReason": "UPDATE",
+          "evidenceText": "“神就是神，没有其他。”\n克莱恩放下杯子，转而问道：\n“祂是怎么降下神谕的？具体说了什么？”\n那位列车长一下变得毕恭毕敬：\n“祂通过神物给予谕令，让我们用一场大量生命组成的献祭取悦祂，而祂将让我们在祂的国度得到永生。”"
+        },
+        {
+          "chapterSeq": 968,
+          "extractReason": "UPDATE",
+          "evidenceText": "“回禀神使，是‘巫王’卡拉曼。”"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "血族公爵奥尔默接见埃姆林，给予考验任务找出贝克兰德玫瑰学派成员。血族内部存在试探。",
+      "identInfos": [
+        "远古种族",
+        "始祖莉莉丝",
+        "现存三大公爵",
+        "成员埃姆林·怀特"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是目前执掌着血族的三大公爵之一，是大灾难前就存在的古老强者，称号“圆月”，年龄超过三千岁，曾经追随过始祖莉莉丝！"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会“代罚者”小队接手蒸汽列车工作人员神秘死亡案，发现“原始月亮”信徒据点。",
+      "identInfos": [
+        "正神教会",
+        "信仰风暴之主",
+        "“代罚者”执行超凡事务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 968,
+          "extractReason": "UPDATE",
+          "evidenceText": "清晨时分，已接手蒸汽列车工作人员神秘死亡案的风暴教会“代罚者”小队收到了新的情报"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩以黑夜眷者身份计划向教会举报阿蒙踪迹。伦纳德在教会内接受任务。",
+      "identInfos": [
+        "正神教会",
+        "信仰黑夜女神",
+        "克莱恩为其眷者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 985,
+          "extractReason": "UPDATE",
+          "evidenceText": "“作为一名黑夜的眷者，我将阿蒙出现在贝克兰德的情况告知教会非常合理，阿蒙都挑不出毛病；"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "血族公爵奥尔默要求埃姆林找出贝克兰德玫瑰学派重要成员，因其占据血族圣物。",
+      "identInfos": [
+        "隐秘组织",
+        "占据血族圣物",
+        "接纳“原始月亮”信徒",
+        "以血腥祭祀闻名"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你接下来的任务是找出潜藏在贝克兰德的玫瑰学派重要成员，在这方面，线索很少，许多情况需要你自行调查。”"
+        },
+        {
+          "chapterSeq": 969,
+          "extractReason": "UPDATE",
+          "evidenceText": "“除了接纳‘原始月亮’信徒，他们还占据着一件我们血族的圣物，这是始祖当初的遗留，我们必须取回来。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "布娃娃",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "做工一般的布娃娃，有弯弯的眼睛和嘴巴。“巫王”卡拉曼通过它降临下达神谕，被克莱恩追踪。",
+      "identInfos": [
+        "原始月亮信徒用于神谕降临的媒介",
+        "做工一般，有弯弯的眼睛和嘴巴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 967,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是一个做工一般的布娃娃，有着弯弯的眼睛和嘴巴。\n“神会在特定的时候，通过它向我们下达命令。这是我在杂货市场买的。”"
+        }
+      ]
+    },
+    {
+      "name": "死神纸人",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "被人造死神气息污染变异的纸人，克莱恩用于污染附身布娃娃的“巫王”卡拉曼。",
+      "identInfos": [
+        "纸人替身变种",
+        "被人造死神气息污染",
+        "背面有羽毛状花纹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 968,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是被人造死神气息污染过的“变异纸人”！"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝号",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“五海之王”纳斯特的象征，覆盖纯粹黑色的巨大三桅帆船。克莱恩在海上遭遇并登船拜访。",
+      "identInfos": [
+        "纳斯特的旗舰",
+        "长近百米，三面漆黑帆布",
+        "海盗王者的象征"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 970,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“黑皇帝号”，这是“五海之王”纳斯特的象征，“黑皇帝号”！"
+        }
+      ]
+    },
+    {
+      "name": "红祭司牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩使用“红祭司”牌增强灰雾力量，赋予纸人天使更强的命运干扰能力，以应对阿蒙。",
+      "identInfos": [
+        "亵渎之牌",
+        "对应“红祭司”途径序列0"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 984,
+          "extractReason": "UPDATE",
+          "evidenceText": "紧接着，他拿起面前青铜长桌上摆放的其中一张“亵渎之牌”，将它容纳入了体内。\n霍然之间，克莱恩身上多了件深红色的长袍……这是“红祭司”牌带来的变化。"
+        }
+      ]
+    },
+    {
+      "name": "黄金护身符",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩从南大陆带回的礼物，送给威尔·昂赛汀，被婴儿打掉。",
+      "identInfos": [
+        "南大陆特色护身符",
+        "克莱恩送给威尔的礼物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 979,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我错过了艾伦医生孩子的出生，需要亲自上门表达歉意，呵呵，我下午会过去，将这枚南大陆特色的护身符送给那个孩子。”"
+        }
+      ]
+    },
+    {
+      "name": "羽毛帽饰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用被人造死神污染过的白色羽毛制成帽饰，送给奥黛丽，暗示关键时刻可联络“人造死神”。",
+      "identInfos": [
+        "由人造死神污染羽毛制成",
+        "可联系“人造死神”",
+        "克莱恩赠予奥黛丽的礼物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 979,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "而他找南大陆匠人制作帽饰的那根羽毛源自人造死神计划的副产物，能用做献祭。"
+        }
+      ]
+    }
+  ]
+}

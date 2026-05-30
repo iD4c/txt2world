@@ -1,0 +1,1440 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩晋升序列1「诡秘侍者」后，「天尊」意志加速复苏，精神状态不稳。他通过「正义」奥黛丽的治疗增强人性，与「黑夜女神」对话了解源质封印历史，决定容纳「愚者」唯一性以对抗阿蒙。他前往卡尔德隆取「永暗之河」河水，在支流遭遇自身死亡烙印、「死神」萨林格尔和不死鸟始祖格蕾嘉莉，利用「嫁接」成功取水。他向阿兹克写信，赠送金币给蕾妮特、马里奇、威尔·昂赛汀，将「海神权杖」交给阿尔杰，并借用「许愿神灯」作为后手。他制造分身窃取未消化的「诡秘侍者」非凡特性，晋升天使之王。最终，他进入霍纳奇斯山脉主峰面对安提哥努斯，成功窃取其身份、命运和自我认知，开始容纳「愚者」唯一性。",
+      "identInfos": [
+        "源堡主人",
+        "诡秘侍者",
+        "天使之王",
+        "周明瑞",
+        "格尔曼·斯帕罗",
+        "道恩·唐泰斯",
+        "愚者"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1359,
+        1360,
+        1361,
+        1362,
+        1363,
+        1364,
+        1365,
+        1366,
+        1367,
+        1368,
+        1369,
+        1370,
+        1371,
+        1372,
+        1373
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩晋升序列1“诡秘侍者”后，“天尊”意志的复苏比我预想得更快更强烈……稳定住锚、“天尊”意志、自身意识的脆弱平衡后，克莱恩靠住椅背，审视起“诡秘侍者”非凡特性带来的种种能力。"
+        },
+        {
+          "chapterSeq": 1356,
+          "extractReason": "UPDATE",
+          "evidenceText": "比星空更崇高，比永恒更久远的黑夜女神，您是隐秘之母，厄难与恐惧的女皇……"
+        },
+        {
+          "chapterSeq": 1365,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩利用“嫁接”能力和“源堡”的特殊，回到贝克兰德，出现在了轮休的“审判”休面前。"
+        },
+        {
+          "chapterSeq": 1366,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一步迈出，进入了曾经是远古死神——不死鸟始祖格蕾嘉莉神国的卡尔德隆城。"
+        },
+        {
+          "chapterSeq": 1373,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩再次开始窃取安提哥努斯的身份、命运和自我认知……克莱恩的脑海内浮现出了一副又一副支离的，片段的画面……我就是安提哥努斯，我就是半个“愚者”！"
+        }
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在霍尔家族庄园经历了门窗洞开异变，发现庄园有剥皮尸体。她与「世界」格尔曼·斯帕罗见面，接受心理炼金会「暴怒」先生赫密斯的提议，但最终在格尔曼帮助下，决定不分割身份，并获得了「织梦人」非凡特性。她为格尔曼进行了三次心理治疗，帮助稳定其精神状态。",
+      "identInfos": [
+        "正义小姐",
+        "霍尔伯爵之女",
+        "塔罗会成员",
+        "观众途径非凡者",
+        "心理炼金会评议团委员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354,
+        1362,
+        1363
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1362,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽戴着式样清新的度假草帽，坐在躺椅上，悠闲地翻看着一本讲述时尚的杂志。她随即站起身来，虚提裙摆，行了一礼。"
+        },
+        {
+          "chapterSeq": 1363,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽取下眼睛和鼻子处缠着的浅白丝巾，解除了自我催眠。她看着对面的“世界”先生，半是自语半是感叹般道：“这就是神性带来的精神问题吗？”"
+        }
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思在门窗洞开异变中做了噩梦，梦见老师多里安死亡和自己失控。她传送至老师处，发现老师险些因封印异常死亡。她与老师前往其他亚伯拉罕家族成员处，目睹了大量高序列非凡特性从天而降，得知「门」先生遗物出现，家族诅咒解除。",
+      "identInfos": [
+        "魔术师",
+        "塔罗会成员",
+        "亚伯拉罕家族学生",
+        "半神"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思听到了门窗哐当打开的声音，却没有立刻醒来，因为她陷入了一场怪诞的噩梦中……她梦见老师多里安·格雷·亚伯拉罕被家族封印物影响，血淋淋地死在了自己面前。"
+        }
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在拜亚姆海浪教堂处理封印异常后，向「愚者」祷告请求脱离风暴教会，得到准许前往海神教会。他换上便装，飞离教堂，随后接受神谕，戴上面具担任海神教会教皇，并从格尔曼·斯帕罗手中接过「海神权杖」。",
+      "identInfos": [
+        "倒吊人",
+        "塔罗会成员",
+        "前风暴教会枢机主教",
+        "海神教会教皇"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354,
+        1360,
+        1370
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰一步步从地底走了上来，对等在两侧的“代罚者”和牧师主教们点了点头道：“封印及时恢复了正常。”"
+        },
+        {
+          "chapterSeq": 1370,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩单手举起“海神权杖”，神情肃穆地说道：“这是‘愚者’先生的恩赐和信任，也是对你保护住大量信徒的嘉奖。”"
+        }
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在间海沿岸处理超凡案件后，得知「门」先生回归和阿蒙成神。他体内寄生天使帕列斯告知「愚者」与阿蒙必有一战。他接到圣堂命令前往南大陆参与围剿玫瑰学派，离开前在教堂遇见克莱恩投金币，受帕列斯指示获取那枚金币。",
+      "identInfos": [
+        "星星",
+        "塔罗会成员",
+        "黑夜教会高级执事",
+        "红手套"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1360,
+        1369
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德戴着红手套，漫步于间海沿岸，享受着刚处理完一起超凡案件后的清闲。"
+        },
+        {
+          "chapterSeq": 1369,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见了一道熟悉的身影，那是戴着礼帽，穿着正装，黑发褐瞳的克莱恩·莫雷蒂。"
+        }
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林在丰收教堂得知母神神谕，要求他联合玫瑰学派节制系前往南大陆对付信仰「原始月亮」和「欲望母树」的玫瑰学派成员。他回应乌特拉夫斯基神父，准备联络节制系并挑选自愿血族。",
+      "identInfos": [
+        "月亮",
+        "塔罗会成员",
+        "血族伯爵",
+        "丰收教堂信徒"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1360
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特刚进入大厅，还没来得及前往房间，更换衣物，就看见乌特拉夫斯基神父于最前排站了起来……“母神让我们前往南大陆，埋葬那些邪恶者。”"
+        }
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休在军情九处轮值时遭遇门窗洞开异变，之后在住处见到格尔曼·斯帕罗。格尔曼向她提供序列4「律令法师」配方和特性，代价是末日时按「愚者」遗留神谕行动。她考虑后接受。她还得知文德尔重返乌托邦的异常。",
+      "identInfos": [
+        "审判",
+        "塔罗会成员",
+        "军情九处上校",
+        "迪尔查家族"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1365
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1365,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩利用“嫁接”能力和“源堡”的特殊，回到贝克兰德，出现在了轮休的“审判”休面前。"
+        }
+      ]
+    },
+    {
+      "name": "多里安·格雷·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "多里安在门窗洞开异变中险些因封印异常死亡，后被佛尔思找到。他与家族成员目睹大量高序列非凡特性从天而降，得知是「门」先生遗物，家族诅咒彻底解除。他向「愚者」祷告确认。",
+      "identInfos": [
+        "佛尔思的老师",
+        "亚伯拉罕家族成员",
+        "改信愚者"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "多里安抬头望向洞开的窗户，表情凝重地说道：“你的梦没有错，我刚才险些死去，但最关键的时候，封印又产生了效果……”"
+        }
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿蒙窃取「门」先生成神仪式，成为序列0「错误」。祂与「红天使」恶灵会面，给予「红祭司」唯一性作为报酬。祂出现在拜亚姆愚者教会钟楼，试图利用「时天使」漏洞窃取克莱恩的锚，但因城市被隐秘而失败。",
+      "identInfos": [
+        "错误先生",
+        "时天使",
+        "欺诈之神",
+        "偷盗者途径序列0",
+        "远古太阳神之子"
+      ],
+      "aliases": [
+        {
+          "alias": "错误先生",
+          "type": "称号"
+        },
+        {
+          "alias": "时天使",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1358,
+        1373
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1358,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙正了下右眼戴着的单片眼镜，侧头看向大海的另外一边道：“西大陆的情况似乎很有意思。”说完，这位“错误”先生，曾经的“时天使”，就化成光芒，消散一空。"
+        },
+        {
+          "chapterSeq": 1373,
+          "extractReason": "UPDATE",
+          "evidenceText": "一个戴着尖顶软帽和单片眼镜的年轻男子突然出现于这里，立在栏杆后，俯视起整座城市。“错误”先生阿蒙！"
+        }
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "威尔在草坪玩耍时被克莱恩拜访，讨论愚弄命运和容纳唯一性仪式。克莱恩赠送生日礼物幸运金币。克莱恩询问「概率之骰」容纳契机，威尔预感即将到来。",
+      "identInfos": [
+        "命运之蛇",
+        "水银之蛇",
+        "婴儿形态",
+        "序列1非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1356,
+        1369
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1356,
+          "extractReason": "UPDATE",
+          "evidenceText": "已经两岁多的威尔·昂赛汀迈着小短腿，开心地追逐着一只皮毛水亮的金黄色大猫。"
+        },
+        {
+          "chapterSeq": 1369,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拿出一枚金币，推给了威尔·昂赛汀：“这是给你的幸运金币。”"
+        }
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蕾妮特被克莱恩召唤，讨论围剿玫瑰学派事宜。她接受克莱恩提供的占卜锁定帮助。克莱恩支付一枚金币作为邮费，她感知到异常并接受。",
+      "identInfos": [
+        "信使小姐",
+        "怨魂天使",
+        "前玫瑰学派节制派",
+        "四个金发红眼脑袋"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "绰号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1365
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1365,
+          "extractReason": "UPDATE",
+          "evidenceText": "提着四个金发红眼脑袋，穿着阴沉繁复长裙的蕾妮特·缇尼科尔当即从虚空内走了出来。"
+        }
+      ]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "莎伦和马里奇在贝克兰德住处，克莱恩到来，与他们打牌两小时，然后行礼离开。蕾妮特告知克莱恩他们的地址。",
+      "identInfos": [
+        "怨魂",
+        "节制派成员",
+        "蕾妮特的学生"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1365
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1365,
+          "extractReason": "UPDATE",
+          "evidenceText": "旁边的角落里，身穿黑色宫廷长裙，头戴小巧精致软帽的莎伦不知什么时候浮现了出来，单手托住脸庞，静静地旁观着牌局。"
+        }
+      ]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "马里奇和莎伦在贝克兰德住处，与克莱恩打牌。克莱恩输给他一枚金币。",
+      "identInfos": [
+        "活尸",
+        "节制派成员",
+        "与莎伦搭档"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1365
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1365,
+          "extractReason": "UPDATE",
+          "evidenceText": "马里奇坐在长桌旁，熟练地和自己的活尸们打着牌。突然，一张空着的椅子上出现了夏洛克·莫里亚蒂的身影。"
+        }
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹作为海神教会神使，安置叛逃的阿尔杰，对可能引发风暴教会报复感到恐惧。他接到神谕，宣布阿尔杰戴面具担任海神教会教皇。",
+      "identInfos": [
+        "海神教会神使",
+        "格尔曼·斯帕罗的下属"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1360
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿着华丽长袍的神使达尼兹坐在椅子上，沉默地看着对面的阿尔杰·威尔逊。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩给阿兹克写信，描述晋升「诡秘侍者」和回忆廷根同事，并提及在「永暗之河」看到多个阿兹克死亡烙印，提醒隐患。克莱恩寄出信和一枚金币。",
+      "identInfos": [
+        "死亡执政官",
+        "克莱恩的历史老师",
+        "死神之子",
+        "多次失忆的长生者"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1358,
+        1369
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1358,
+          "extractReason": "UPDATE",
+          "evidenceText": "尊敬的阿兹克先生：又有一个月没给你写信，因为我不得不沉睡了一段时间。"
+        }
+      ]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森在黑夜女神教堂与露丝·布鲁克举行婚礼，克莱恩暗中旁观。他回答牧师时非常激动。梅丽莎感动落泪。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "莫雷蒂家族成员",
+        "与露丝结婚"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1361
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1361,
+          "extractReason": "UPDATE",
+          "evidenceText": "他站在圣坛旁边，穿着笔挺的礼服，颇有些紧张。这是他的婚礼。"
+        }
+      ]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎在班森的婚礼上忙碌，与宾客交谈。她看到班森宣誓时视线模糊，内心酸楚又高兴。她下意识望向教堂角落空位。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "莫雷蒂家族成员"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1361
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1361,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎结束忙碌，坐到了自己的位置上。喜庆欢快的音乐声随之响起，渐渐变得有些神圣。"
+        }
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基神父在丰收教堂传达大地母神神谕，要求埃姆林联合血族和节制派前往南大陆对付玫瑰学派。他让埃姆林挑选自愿血族。",
+      "identInfos": [
+        "丰收教堂神父",
+        "大地母神神眷者",
+        "血族"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1360
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基神父于最前排站了起来，仿佛一座拔地而起的山峰。“母神让我们前往南大陆，埋葬那些邪恶者。”"
+        }
+      ]
+    },
+    {
+      "name": "索伦·艾因霍恩·梅迪奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "「红天使」恶灵梅迪奇与阿蒙会面，获得「红祭司」唯一性作为报酬。阿蒙期待祂成为「红祭司」并吞掉魔女。梅迪奇调侃融合后的形象。",
+      "identInfos": [
+        "红天使恶灵",
+        "战争之红首领",
+        "艾因霍恩家族",
+        "梅迪奇家族"
+      ],
+      "aliases": [
+        {
+          "alias": "红天使恶灵",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        1358
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1358,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵看着大海的边缘逐渐亮起，一轮橘黄的太阳缓慢脱离了地平线。不知什么时候，祂身边出现了一个戴尖顶软帽，穿古典黑袍的年轻男子。"
+        }
+      ]
+    },
+    {
+      "name": "阿尔弗雷德·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔弗雷德在霍尔家族庄园遭遇爆炸和门窗洞开，组织保护家人。他请求电报告知大主教，天亮后调查。",
+      "identInfos": [
+        "霍尔伯爵长子",
+        "奥黛丽的哥哥"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "刚弄清楚先前爆炸声和“敌袭”呼喊来源的阿尔弗雷德等人看见门与窗同时打开，哐当撞到了墙上。"
+        }
+      ]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "霍尔伯爵在庄园异常中保持沉稳，等待天亮调查。他安慰家人，后由阿尔弗雷德汇报情况。",
+      "identInfos": [
+        "奥黛丽的父亲",
+        "贵族",
+        "霍尔家族族长"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍尔伯爵沉稳点头道：“等天亮后再做进一步的调查。”"
+        }
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "金毛大狗苏茜在庄园异常中嗅到浓郁血腥味，发现一具被剥皮的尸体。她引导奥黛丽的虚拟人格查看。",
+      "identInfos": [
+        "奥黛丽的宠物狗",
+        "非凡生物"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜的心灵岛屿上，一个声音回荡了起来：“我嗅到了浓郁的血腥味，在庄园的边缘，在门窗打开之前一段时间……”"
+        }
+      ]
+    },
+    {
+      "name": "鲍利·德尔劳",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "鲍利·德尔劳是心理炼金会首领，真实身份是心灵巨龙。他在「伊甸园」被格尔曼·斯帕罗侵入，试图用「织梦人」能力反抗失败，被克莱恩失控神话生物形态震慑，最终被「星之杖」杀死，非凡特性析出。",
+      "identInfos": [
+        "心理炼金会首领",
+        "心灵巨龙",
+        "黑座之王巴洛斯·霍普金斯",
+        "隐士埃里克·德里克"
+      ],
+      "aliases": [
+        {
+          "alias": "黑座之王",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1364
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1364,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是心理炼金会的首领，鲍利·德尔劳。同时，他也是著名隐士埃里克·德里克和“黑座之王”巴洛斯·霍普金斯。"
+        },
+        {
+          "chapterSeq": 1364,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位“心灵炼金会”的首领连遗言都来不及交代就死去了。等待鲍利·德尔劳非凡特性析出的过程中，克莱恩环顾了一圈。"
+        }
+      ]
+    },
+    {
+      "name": "赫密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "赫密斯以巨型白兔形象（「暴怒」先生）出现，向奥黛丽道歉，并提出两种补偿方案：成为心理炼金会「傲慢」或分割身份。克莱恩推断祂的真实目的是借「正义」小姐背后势力摧毁「伊甸园」以摆脱亚当。",
+      "identInfos": [
+        "暴怒先生",
+        "巨型白兔",
+        "古代天使",
+        "心理炼金会高层"
+      ],
+      "aliases": [
+        {
+          "alias": "暴怒",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1362,
+        1364
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1362,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是一只毛发雪白的巨型兔子。“‘暴怒’先生。”这是之前追逐心灵巨龙艾瑞霍格的心理炼金会“暴怒”先生，疑似赫密斯某个身份的存在。"
+        },
+        {
+          "chapterSeq": 1364,
+          "extractReason": "UPDATE",
+          "evidenceText": "果然，赫密斯的真实目的是利用‘正义’小姐背后的势力摧毁‘伊甸园’，借此摆脱亚当。"
+        }
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "帕列斯寄生在伦纳德体内，告知伦纳德阿蒙成神和「愚者」与阿蒙必有一战。祂解释托庇于黑夜视线更安全。伦纳德在教堂遇见克莱恩时，帕列斯让他获取那枚金币。",
+      "identInfos": [
+        "偷盗者途径天使",
+        "寄生在伦纳德体内"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "绰号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1360,
+        1369
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德“呵”了一声：“天真。”"
+        }
+      ]
+    },
+    {
+      "name": "萨林格尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "「死神」萨林格尔的死亡烙印徘徊于「永暗之河」支流，看到克莱恩胸前的鸟型黄金饰品后发怒，引发河水高涨。祂无法脱离河流。克莱恩利用祂的注视创造机会取水。",
+      "identInfos": [
+        "冥皇",
+        "第四纪死神",
+        "阿兹克的父亲",
+        "南大陆人特征"
+      ],
+      "aliases": [
+        {
+          "alias": "死神",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1366,
+        1367
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1366,
+          "extractReason": "UPDATE",
+          "evidenceText": "它是那样的巨大，和周围的石柱差不多，它披着深沉的黑袍，侧面已经苍老。克莱恩认识祂，祂是阿兹克先生的父亲，第四纪那位“死神”：“冥皇”萨林格尔。"
+        }
+      ]
+    },
+    {
+      "name": "格蕾嘉莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "不死鸟始祖格蕾嘉莉沉于「永暗之河」支流水底，体表被河水消融。她袭击取水的克莱恩历史投影，但被克莱恩利用「嫁接」将攻击转向萨林格尔。",
+      "identInfos": [
+        "远古死神",
+        "不死鸟始祖",
+        "开辟冥界者"
+      ],
+      "aliases": [
+        {
+          "alias": "不死鸟始祖",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1367
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1367,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一只被“永暗之河”支流完全淹没，悬浮于水中的巨鸟。这巨鸟体表覆盖着苍白火焰和神秘花纹织成的羽毛，但已被“永暗之河”消融了很多……不死鸟始祖格蕾嘉莉！"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "安提哥努斯家族先祖，半个「愚者」。祂在霍纳奇斯山脉主峰宫殿内，因「永暗之河」河水进入永眠，恢复原本人类形态。克莱恩窃取其身份、命运和自我认知，看到祂的过去记忆：古神弗雷格拉幼子，魔狼形态，与姐姐建立夜之国，发明逝者之城，晋升「诡秘侍者」后容纳「愚者」唯一性失控。克莱恩承接其命运开始容纳唯一性。",
+      "identInfos": [
+        "半个愚者",
+        "魔狼弗雷格拉幼子",
+        "夜之国建立者",
+        "容纳愚者唯一性"
+      ],
+      "aliases": [
+        {
+          "alias": "半个愚者",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1372,
+        1373
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1372,
+          "extractReason": "UPDATE",
+          "evidenceText": "祂面容颇为年轻，长发却已是半白，一半藏匿一半明显；祂外形为男，眼眸比查拉图更加幽黑，且蕴藏着难以言喻的沧桑……这是安提哥努斯家族那位先祖，这一次，祂没再呈现神话生物形态，以原本的模样坐于巨大石椅上。"
+        },
+        {
+          "chapterSeq": 1373,
+          "extractReason": "UPDATE",
+          "evidenceText": "这幅幅画面闪现中，克莱恩迅速产生了一个认知：我就是安提哥努斯，我就是半个“愚者”！"
+        }
+      ]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "「神秘女王」贝尔纳黛在「黎明号」上将「许愿神灯」借给克莱恩一天。她信任「愚者」能解决愿望累积问题。",
+      "identInfos": [
+        "神秘女王",
+        "罗塞尔之女",
+        "黎明号船长"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1371
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1371,
+          "extractReason": "UPDATE",
+          "evidenceText": "“神秘女王”贝尔纳黛对于格尔曼·斯帕罗的到来，似乎已有一定的预感，毫不惊讶地放下手中的古卷，将目光投向了门口的访客。"
+        }
+      ]
+    },
+    {
+      "name": "文德尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "文德尔在军情九处总部醒来，发现从乌托邦返回贝克兰德，但口袋中仍有乌托邦法庭文书。他经历门窗洞开异变，疑惑自己是否做梦。休提及他重返乌托邦当晚又回来。",
+      "identInfos": [
+        "军情九处成员",
+        "乌托邦事件相关者"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "文德尔从沉睡中惊醒，警惕地翻身下床，环顾了一圈。究竟发生了什么事情？乌托邦遭遇了特大风暴？"
+        }
+      ]
+    },
+    {
+      "name": "莫妮卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "旅行专栏作家莫妮卡在旅馆醒来经历门窗洞开，发现旅馆客人远超预期，且旅馆名片显示她在贝克兰德而非乌托邦，产生时空错乱感。",
+      "identInfos": [
+        "旅行专栏作家",
+        "乌托邦旅行者"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "旅行专栏作家莫妮卡同样在窗户和大门砰当一声撞到墙上的动静里醒了过来。她一下坐起，拉高被子，挡在了胸前。"
+        }
+      ]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "亚当在神弃之地将「魔镜」阿罗德斯交给乌洛琉斯，自己持第二块「亵渎石板」走入阴影帷幕。祂曾与克莱恩敌对，被分析为可能支持阿蒙。克莱恩提及祂为远古太阳神一部分。",
+      "identInfos": [
+        "空想家",
+        "远古太阳神身份",
+        "黄昏隐士会首领"
+      ],
+      "aliases": [
+        {
+          "alias": "空想家",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1356
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1356,
+          "extractReason": "UPDATE",
+          "evidenceText": "半个脸庞被淡金胡须遮盖的亚当一步步走了过来，停在巨大的十字架前方，抬起脑袋，静静地与那倒吊的人影对视。"
+        }
+      ]
+    },
+    {
+      "name": "乌洛琉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "「命运天使」乌洛琉斯在神弃之地倒吊十字架下祈祷。亚当将「魔镜」交给他，他与「魔镜」对话，表示未想好问题。",
+      "identInfos": [
+        "命运天使",
+        "吞尾者",
+        "大蛇",
+        "救赎蔷薇成员"
+      ],
+      "aliases": [
+        {
+          "alias": "命运天使",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1356
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1356,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿着简朴亚麻长袍，留着银色及腰头发的“命运天使”乌洛琉斯跌坐在那里，神情柔和而虔诚地闭着眼睛，做着祈祷。"
+        }
+      ]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩思考查拉图未死透，因其缺少一份「奇迹师」非凡特性。查拉图通过遗留方式引导特定对象复活。克莱恩计划之后处理。",
+      "identInfos": [
+        "密修会首领",
+        "诡秘侍者",
+        "第四纪天使"
+      ],
+      "aliases": [],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1361
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1361,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收回目光，低声自语了一句：“查拉图还没有死透？”"
+        }
+      ]
+    },
+    {
+      "name": "文德尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "文德尔在军情九处总部醒来，发现从乌托邦返回贝克兰德，但口袋中仍有乌托邦法庭文书。他经历门窗洞开异变，疑惑自己是否做梦。休提及他重返乌托邦当晚又回来。",
+      "identInfos": [
+        "军情九处成员",
+        "乌托邦事件相关者"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1354
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "文德尔从沉睡中惊醒，警惕地翻身下床，环顾了一圈。究竟发生了什么事情？乌托邦遭遇了特大风暴？"
+        }
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本次chunk中，核心成员各自行动：奥黛丽接受治疗并获非凡特性；休获序列4配方；阿尔杰脱离风暴教会担任海神教会教皇；佛尔思见证家族诅咒解除；伦纳德参与围剿玫瑰学派；埃姆林准备南大陆行动。克莱恩向成员交代末日任务并赠送物品。",
+      "identInfos": [
+        "愚者建立的隐秘组织",
+        "成员以塔罗牌为代号",
+        "核心成员包括正义、倒吊人、太阳、魔术师等"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "拜亚姆，海浪教堂内。身穿绣风暴符号长袍的阿尔杰一步步从地底走了上来……向“愚者”先生祷告，表达了自己准备离开风暴教会的想法。"
+        },
+        {
+          "chapterSeq": 1365,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩利用“嫁接”能力和“源堡”的特殊，回到贝克兰德，出现在了轮休的“审判”休面前。"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "亚伯拉罕家族在门窗异变中遭遇封印异常，随后大量高序列非凡特性从天而降，包括序列1「星之匙」。多里安确认家族诅咒彻底解除，向「愚者」祷告感谢。家族成员对佛尔思警惕，但最终接受她。",
+      "identInfos": [
+        "掌握学徒途径的家族",
+        "受血脉诅咒影响",
+        "部分改信愚者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "虚空中冒出了数不清的璀璨星光。这些星光飞快凝聚在一起，化成一件又一件事物落到了地上。这里面有……序列1“星之匙”非凡特性……"
+        }
+      ]
+    },
+    {
+      "name": "海神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "海神教会接收叛逃的阿尔杰，达尼兹任神使。克莱恩降下神谕，任命阿尔杰戴面具担任教皇，并赐予「海神权杖」。教会密切监视风暴教会动静。",
+      "identInfos": [
+        "信仰愚者的教会",
+        "总部在拜亚姆",
+        "神使达尼兹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "从今天起，阿尔杰戴上面具，担任海神教会的教皇。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "心理炼金会本部「伊甸园」被克莱恩入侵，首领鲍利·德尔劳被杀，赫密斯疑似背叛。奥黛丽被提供选择，最终决定脱离。克莱恩摧毁「伊甸园」，推测新心理炼金会将由赫密斯掌控。",
+      "identInfos": [
+        "观众途径隐秘组织",
+        "评议团制度",
+        "受黄昏隐士会影响"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1364,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着“傲慢”面具的克莱恩有了种全城皆敌的感觉。对于“伊甸园”的情况，通过“正义”小姐旁观过评议团会议的他一点也不陌生。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会因阿尔杰叛逃受到影响，但对外称其调回总部。教会内部未公开真相，海神教会监视其动静。克莱恩与「风暴之主」达成默契。",
+      "identInfos": [
+        "信仰风暴之主的正神教会",
+        "代罚者执行机构"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "“原来的那位呢？”达尼兹略感愕然地追问道。“据说是调回总部了。”那名情报主管说着自己从海浪教堂某些仆役处打听到的消息。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "各大正神教会抽调半神围剿玫瑰学派。节制系与血族联合行动。克莱恩提供占卜锁定帮助。学派因「被缚之神」和「欲望母树」庇佑难以锁定。",
+      "identInfos": [
+        "南大陆隐秘组织",
+        "分放纵系与节制系",
+        "信仰被缚之神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "各大正神教会分别抽调三到四位半神前往南大陆，围剿全面战争以来非常活跃的玫瑰学派。"
+        }
+      ]
+    },
+    {
+      "name": "黑夜教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜教会派遣伦纳德等半神参与围剿玫瑰学派。教会处理门窗洞开事件，命令伦纳德不调查。教会与克莱恩合作，提供「永暗之河」河水媒介。",
+      "identInfos": [
+        "信仰黑夜女神的正神教会",
+        "值夜者执行机构",
+        "圣堂发布命令"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1360,
+          "extractReason": "UPDATE",
+          "evidenceText": "他迅速返回这座城市最大的那间教堂，利用一个大型仪式魔法，和圣堂建立起了联系，于梦中见到了教宗和阿里安娜女士等高位者。"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "军情九处成员文德尔经历乌托邦异变，休在轮值时遭遇门窗洞开。休作为上校处理事务，文德尔疑惑返回。休告知文德尔不用再担心乌托邦。",
+      "identInfos": [
+        "鲁恩王国情报机构",
+        "处理超凡事件",
+        "休所属组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1354,
+          "extractReason": "UPDATE",
+          "evidenceText": "军情九处通过我找到了乌托邦？要处理这里的异常？文德尔刚闪过这么一个念头，就下意识皱起了眉头。"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "密修会成员安托万在因蒂斯对外安全总局听见呓语变化，涉及「奥维尔」和「第兰」。克莱恩推测查拉图通过预留隐秘方式引导特定对象复活，可能涉及密修会成员。",
+      "identInfos": [
+        "占卜家途径隐秘组织",
+        "首领查拉图",
+        "部分成员在因蒂斯情报机构"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1361,
+          "extractReason": "UPDATE",
+          "evidenceText": "作为以密修会成员身份加入因蒂斯对外安全总局的非凡者，安托万并非第一次遭遇类似的事情。在过去某些场景下，在每次晋升时，他都会听见“霍纳奇斯……弗雷格拉……霍纳奇斯……弗雷格拉……”的呓语。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "永暗之河河水",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从卡尔德隆地底的「永暗之河」支流中，利用鸟型黄金饰品汲取少量河水，用于让安提哥努斯进入永眠状态的媒介。「黑夜女神」借此让安提哥努斯永眠。河水为抽象概念，具有死亡、永眠等象征。",
+      "identInfos": [
+        "源质永暗之河的支流河水",
+        "用于永眠安提哥努斯",
+        "黑夜女神所需的媒介"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1367,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "抢在彻底失去知觉前，克莱恩的脖子处，钻出了一条又一条透明扭曲的蠕虫，它们飞快爬到鸟型黄金饰品旁边，簇拥着它，将它抬了起来，准备汲取“永暗之河”的河水。"
+        }
+      ]
+    },
+    {
+      "name": "鸟型黄金饰品",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "「黑夜女神」赐予克莱恩的饰品，形似不死鸟始祖格蕾嘉莉，由黄金打造，环绕苍白火焰羽翼，青铜眼珠藏虚幻之门。用于承载「永暗之河」河水。克莱恩取水后献祭给女神。",
+      "identInfos": [
+        "黑夜女神赐予",
+        "不死鸟格蕾嘉莉形象",
+        "承载永暗之河河水"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1357,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这饰品似乎由黄金打造而成，形似体态修长的鸟，周围环绕着苍白火焰构成的羽翼，青铜色的眼珠内闪烁着层层叠叠的光芒，仿佛藏着一扇又一扇虚幻的门。"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩将「海神权杖」赐予阿尔杰，让他代掌海神权柄，提前扮演以降低晋升难度。权杖负面效果被封印降低，持有者会更暴躁，每月抽干周围生物血液。",
+      "identInfos": [
+        "海神身份象征",
+        "白骨短杖镶嵌青蓝宝石",
+        "可借取风暴领域力量"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1370,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩单手举起“海神权杖”，神情肃穆地说道：“这是‘愚者’先生的恩赐和信任，也是对你保护住大量信徒的嘉奖。”"
+        }
+      ]
+    },
+    {
+      "name": "许愿神灯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从贝尔纳黛处借用「许愿神灯」一天，作为应对神战的后手。他与「灯神」交涉，威胁利用神灯坚固特性作为盾牌，最终达成一致。克莱恩将其放入衣兜备用。",
+      "identInfos": [
+        "0级封印物",
+        "封印外神灯神",
+        "可实现愿望但累积反噬"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1371,
+          "extractReason": "UPDATE",
+          "evidenceText": "“神秘女王”贝尔纳黛对于格尔曼·斯帕罗的到来，似乎已有一定的预感，毫不惊讶地放下手中的古卷，将目光投向了门口的访客。克莱恩也不客气，直截了当地说道：“我想借‘许愿神灯’一天。”"
+        }
+      ]
+    },
+    {
+      "name": "星之杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在「伊甸园」战斗中使用「星之杖」历史投影，挥杖击杀鲍利·德尔劳。手杖镶嵌多种宝石，作为近战武器。",
+      "identInfos": [
+        "0级封印物",
+        "镶嵌宝石的手杖",
+        "克莱恩的近战武器"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1364,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩微勾嘴角，抽出“星之杖”，将丝绸礼帽戴到了头顶。"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从历史迷雾中拿出「蠕动的饥饿」的人皮手套投影，戴于左手，为可能的小范围战斗提供「闪现」能力。他开玩笑安抚手套的颤栗。",
+      "identInfos": [
+        "人皮手套封印物",
+        "可放牧灵魂",
+        "提供闪现能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1372,
+          "extractReason": "UPDATE",
+          "evidenceText": "完成这件事情后，克莱恩站了起来，从历史迷雾内拿出“蠕动的饥饿”，将它戴至左手。"
+        }
+      ]
+    },
+    {
+      "name": "特伦索斯特黄铜书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "「0-02」封印物，现被安提哥努斯以「愚弄」能力封印于巨大石椅旁。克莱恩在容纳仪式前让秘偶将其拿走，避免干扰。书本由薄黄铜组成，交替浮现三条水银色文字规则。",
+      "identInfos": [
+        "0-02封印物",
+        "特伦索斯特黄铜书",
+        "可制定规则强制执行"
+      ],
+      "aliases": [
+        {
+          "alias": "0-02",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1373,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩让“诡秘侍者”秘偶将起点和终点“嫁接”在一起，一步走至巨大石椅旁，拾取起了那本“特伦索斯特黄铜书”。"
+        }
+      ]
+    },
+    {
+      "name": "傲慢面具",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的人格面具之一，用于进入「伊甸园」。克莱恩从历史孔隙召唤其投影，通过「欺诈」规则戴上面具入侵「伊甸园」。面具与奥黛丽心灵意识相连。",
+      "identInfos": [
+        "灰白色面具",
+        "奥黛丽的人格面具",
+        "进入伊甸园的钥匙"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1363,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩伸出右手，往前方虚空里抓了几下，抓出了一张灰白色的，冰冷虚幻的人格面具。他依靠位格和奥黛丽对本身的信任，强行从历史孔隙里召唤来了“傲慢”面具的投影。"
+        }
+      ]
+    },
+    {
+      "name": "织梦人非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在击杀鲍利·德尔劳后获得其析出的「织梦人」非凡特性，连同魔药配方一起交给奥黛丽，作为她之后可能晋升的馈赠。特性外观为一团淡薄雾气组成的灰白大脑。",
+      "identInfos": [
+        "观众途径序列3非凡特性",
+        "鲍利·德尔劳析出",
+        "灰白大脑状"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1365,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩摄起那团“织梦人”非凡特性和可以作为辅助材料的事物，摘下脸上的“傲慢”面具，一步脱离了“伊甸园”。"
+        }
+      ]
+    },
+    {
+      "name": "红祭司唯一性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙给予「红天使」恶灵的报酬，一个满是铁锈和血污的奇特皇冠。梅迪奇获得后调侃其危险性，可能受班西影响长出胸部。",
+      "identInfos": [
+        "红祭司途径唯一性",
+        "奇特皇冠",
+        "铁锈和血污"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1358,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿蒙笑了笑，没做正面回答，转而拿出了一个满是铁锈和血污的奇特皇冠。“这是你的报酬。”祂将这物品扔给了索伦·艾因霍恩·梅迪奇。"
+        }
+      ]
+    },
+    {
+      "name": "幸运金币",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩赠送的生日礼物，一枚沾染「源堡」气息产生变异的金币。威尔·昂赛汀开心接受，并吐槽克莱恩的礼物缺乏创意。",
+      "identInfos": [
+        "源堡气息浸染的金币",
+        "威尔·昂赛汀的生日礼物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1369,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩拿出一枚金币，推给了威尔·昂赛汀：“这是给你的幸运金币。”"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩多次使用阿兹克铜哨召唤白骨信使送信。信使对克莱恩表现出畏惧，单膝跪地接信。",
+      "identInfos": [
+        "召唤白骨信使的物品",
+        "阿兹克给予克莱恩"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1359,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩探手从“源堡”内拿出阿兹克铜哨，凑至嘴边，吹了一下。廉价咖啡馆内，一根根白骨喷泉般涌出，组成了一个身形巨大的信使。"
+        }
+      ]
+    }
+  ]
+}

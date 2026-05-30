@@ -1,0 +1,1345 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以道恩·唐泰斯身份乘坐军方飞空艇前往西拜朗，途中遭遇戴莉·西蒙妮，被对方注意到眼睛与克莱恩相似。他收到阿兹克回信，得知灵界掠夺者情报。在狂暴海中，他发现因斯·赞格威尔踪迹，但因'0-08'特性无法直接举报，只能写信通知伦纳德。抵达古拉因后，他甩掉军方跟踪，为消化'秘偶大师'魔药，物色了两个秘偶：先控制了罪犯奥夫，后伏击并控制了玫瑰学派'赢家'恩佐，获得其'怪物'途径非凡能力。他利用恩佐的眼睛观察自身，看到灰雾、光门、蠕虫等异象，受到冲击但恢复。在灰雾之上响应白银城首席科林的祈求，制作'窃运者'符咒，并借小'太阳'描述得知科林等人探索前任首席陵寝的经过，推测灵教团人造死神计划已取得阶段性成功。他占卜阿兹克铜哨异常，发现与死神遗留陵寝有关，且画面与值夜者时期预言相符。阿兹克最终到来，准备带他探索危险陵寝。",
+      "identInfos": [
+        "道恩·唐泰斯",
+        "格尔曼·斯帕罗",
+        "塔罗会'愚者'",
+        "秘偶大师",
+        "无面人",
+        "蠕动的饥饿持有者",
+        "阿兹克友人"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩早就在脑内彩排好该怎么描述，没有一点犹豫就让假人“世界”道：“幕后的操纵者很可能是王室顾问，赫温·兰比斯，他大概率还有另外一个身份，心理炼金会评议团的委员。”"
+        },
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "他随即看见周围的色彩变得浓烈，鲜明地叠加在了一起，看见一根根白骨喷泉般从地面涌出，组成了高近四米的巨大骷髅。这骷髅眼窝内燃烧着漆黑的火焰，垂下的手里拿着一叠折好的信纸。阿兹克先生的信使……"
+        },
+        {
+          "chapterSeq": 895,
+          "extractReason": "UPDATE",
+          "evidenceText": "对于灵界掠夺者，阿兹克的描述是：“……这是一种相当狡诈数量稀少的生物，非常擅于伪装，不容易找到……可以利用的一点是，它具备很强的攻击性……"
+        },
+        {
+          "chapterSeq": 896,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉的目光没有移开，呵呵笑道：“不需要换，性别并不能改变这种行为的定义。如果其他时候，我这么对你说话，那就真的是想骗你上床，甚至一直骗进教堂。不过，我现在没这个想法，我走过来，只是因为你的眼睛确实让我想起了他。”"
+        },
+        {
+          "chapterSeq": 897,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩思绪电转间，觉得自己有必要大胆一点，说不定还能借此于白银城发展一两个下线，不，信众，让小“太阳”不再孤单奋斗。他迅速做出决定，将怎么制作“窃运者”符咒的流程化作光影，投入了象征“太阳”的深红星辰内。"
+        },
+        {
+          "chapterSeq": 898,
+          "extractReason": "UPDATE",
+          "evidenceText": "“猎魔者”科林怔了一下，收敛住目光，埋下脑袋，沉声说道：“感谢您的恩赐；赞美您的存在。”他没有耽搁，立刻就结束仪式，解除掉了封锁。"
+        },
+        {
+          "chapterSeq": 899,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩进入了灵界，要“旅行”去狂暴海的博多港，为“蠕动的饥饿”寻觅食物。"
+        },
+        {
+          "chapterSeq": 900,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩这次并没有直接将阿兹克铜哨带入灰雾之上，而是准备像最早占卜“变异的太阳圣徽”那次一样，通过物品的投影具现来完成……"
+        },
+        {
+          "chapterSeq": 901,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩刚回到现实世界，就听见外面浪潮声变得极为汹涌……他略感愕然地走至房间的窗口……看到博多港外，铅云层叠，波浪如峰……这让他觉得有必要阻止阿兹克先生，可又怀疑已然看见的占卜画面不能直接违背……"
+        },
+        {
+          "chapterSeq": 902,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩边听着小“太阳”的描述，边飞速运转起大脑……初步怀疑灵教团的尝试，在某种程度上或许已经取得阶段性的成功……"
+        },
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩听完“倒吊人”祷告的话语，脑海内下意识就反驳起对方的请求……他旋即冷静了下来，认为以“倒吊人”先生的谨慎小心，老辣干练，不可能犯这么简单的错误……"
+        },
+        {
+          "chapterSeq": 904,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩并未下船，就在上层餐厅要了个靠窗的位置，解决起晚餐……忽然，他发现一道可疑的人影正提着行李，准备登船。"
+        },
+        {
+          "chapterSeq": 905,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔！他为什么会出现在这里……克莱恩思绪翻滚间，突然掏出冒险家口琴，凑至嘴边吹了一下。"
+        },
+        {
+          "chapterSeq": 906,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔根据克莱恩的信件，提醒对方“你知道了它，它也就知道了你”，暗示“0-08”的特性。克莱恩收到回信，明白暂时不能将因斯行踪告知教会。"
+        },
+        {
+          "chapterSeq": 907,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩借助秘偶的翻译，在古拉因城繁华与落后交界的地带，随意找了家旅馆住下……他随手一抖，点燃了手中的纸张，让它们化为飞灰，飘落进焊接于地上的垃圾桶内。"
+        },
+        {
+          "chapterSeq": 908,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩十多秒前就发现有人沿阶梯快速下行，似乎在躲避着什么，遂怀疑这就是自己的新秘偶，于是抓紧时间，快速做了个“梦境占卜”，得到了对方与玫瑰学派有关，不是什么好人的启示。"
+        },
+        {
+          "chapterSeq": 909,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩忍住了用新秘偶看一看自己的冲动，让恩佐处理起现场残余的血肉和痕迹。做完这一切，他带着秘偶，步入了街道侧面的阴影里，很快消失不见。"
+        },
+        {
+          "chapterSeq": 910,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩迅速有了决断，并结合种种办法，初步弄清楚了新秘偶的位阶和拥有的非凡能力：这是“命运”途径的序列5“赢家”！"
+        },
+        {
+          "chapterSeq": 911,
+          "extractReason": "UPDATE",
+          "evidenceText": "借助“赢家”的眼睛，他首先看见了一层薄薄的，有点往外弥漫的灰白雾气。雾气之中，隐约有一道沾染了些许青黑的灿烂光门。"
+        },
+        {
+          "chapterSeq": 912,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克和上次相比，似乎沉默了一点，看了眼又是新面孔的克莱恩道：“做好准备了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克回信告知克莱恩灵界掠夺者情报，表示沉睡恢复记忆后可以帮忙。他最终抵达古拉因，准备带克莱恩去探索与死神遗留相关的危险陵寝，沉默寡言。",
+      "identInfos": [
+        "死神后裔",
+        "克莱恩的导师和朋友",
+        "铜哨信使",
+        "失忆长生者",
+        "曾为死亡执政官"
+      ],
+      "aliases": [
+        {
+          "alias": "死亡执政官",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 895,
+          "extractReason": "UPDATE",
+          "evidenceText": "这确实来自阿兹克·艾格斯，他表示之前的经历让他找回了更多的记忆，不得不通过沉睡来消化和恢复，没能及时回信。……对于灵界掠夺者，阿兹克的描述是：“……这是一种相当狡诈数量稀少的生物……"
+        },
+        {
+          "chapterSeq": 912,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克和上次相比，似乎沉默了一点，看了眼又是新面孔的克莱恩道：“做好准备了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [895, 912]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德随红手套小队前往南大陆，在飞空艇上与道恩·唐泰斯相遇，后参与围剿灵教团成员乌利卡。他收到克莱恩关于因斯·赞格威尔行踪的信，体内天使帕列斯告知'0-08'特性，他回信提醒克莱恩。",
+      "identInfos": [
+        "红手套成员",
+        "墨发绿瞳",
+        "克莱恩的同事",
+        "体内寄生索罗亚斯德家族天使",
+        "复仇者，目标因斯·赞格威尔"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德表情略微一滞，旋即恢复了正常。他已经记起，道恩·唐泰斯在和军方合作，准备贩卖一批枪支和火炮去西拜朗。"
+        },
+        {
+          "chapterSeq": 896,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔根据克莱恩的信件，提醒对方“你知道了它，它也就知道了你”，暗示“0-08”的特性。"
+        },
+        {
+          "chapterSeq": 906,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德张了张嘴巴，又闭了起来，拿出纸笔，飞快写道：……折起信纸，克莱恩将它连同一枚金币交给了信使小姐：“送到贝克兰德北区平斯特街7号的信报箱内。”"
+        },
+        {
+          "chapterSeq": 908,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔和戴莉·西蒙妮等人跟着“红手套”小队队长索斯特来到了一处街区附近。"
+        },
+        {
+          "chapterSeq": 909,
+          "extractReason": "UPDATE",
+          "evidenceText": "过了几分钟，连续出现判断错误的戴莉·西蒙妮和伦纳德·米切尔终于赶到了那座陡峭阶梯的顶端。"
+        },
+        {
+          "chapterSeq": 910,
+          "extractReason": "UPDATE",
+          "evidenceText": "他体内的帕列斯·索罗亚斯德隔了两三秒才回答道：“你们刚才应该有听见一声惨叫……那是恩佐发出的，他似乎看到了什么极端恐怖难以名状的东西……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [894, 895, 896, 906, 908, 909, 910]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴莉随红手套小队前往南大陆，在飞空艇上与道恩·唐泰斯交谈，感觉对方眼睛像克莱恩。参与围剿灵教团成员乌利卡，并追捕逃走的恩佐。",
+      "identInfos": [
+        "值夜者通灵者",
+        "涂蓝色眼影和腮红",
+        "喜欢克莱恩·莫雷蒂",
+        "红手套成员"
+      ],
+      "aliases": [
+        {
+          "alias": "通灵者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "这些人有男有女，基本都披着黑色的薄风衣，戴着红色的手套，提着大小不同的皮箱，唯有一位，套神秘的通灵师长袍，涂蓝色的眼影和腮红，正是戴莉·西蒙妮。"
+        },
+        {
+          "chapterSeq": 896,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉的目光没有移开，呵呵笑道：“不需要换，性别并不能改变这种行为的定义。如果其他时候，我这么对你说话，那就真的是想骗你上床，甚至一直骗进教堂。不过，我现在没这个想法，我走过来，只是因为你的眼睛确实让我想起了他。”"
+        },
+        {
+          "chapterSeq": 908,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉·西蒙妮不知从哪里走了出来，望着里面那只有一米二三高的漆黑乌利卡，直接开口道：“他融合的死灵很奇怪，如果没有活着的人类身体作为‘房屋’，很快就会枯萎消散。我们必须抓紧时间获取情报。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [894, 895, 896, 908, 909, 910]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹抵达西拜朗贝伦斯港，因不懂都坦语遇困，巧遇安德森。二人尝试点餐、寻翻译，后前往知识教会据点，在船长艾德雯娜安排下获得“通晓语言”符咒。他受拳套负面影响变得鲁莽，被安德森戏弄。",
+      "identInfos": [
+        "海盗'烈焰'",
+        "格尔曼·斯帕罗的线人",
+        "冰山中将属下",
+        "戴着铁黑色拳套",
+        "因蒂斯人"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "因为“黄金梦想号”正在迷雾海偏南航行，所以，达尼兹没用几天就抵达了西拜朗最北端的这个港口。……他披着深色的斗篷，提着一个行李箱，将“太阳胸针”戴在衣物内侧，怀揣着一个铁黑色拳套……"
+        },
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹张开嘴巴，下意识就吐出了一个因蒂斯语单词：“旅馆。”……他的斜前方，和煦阳光照耀的街口，一个金色短发梳成三七开的年轻男子正靠在墙上，吹着银白色的口琴。……正是迷雾海最强猎人，安德森·胡德！"
+        },
+        {
+          "chapterSeq": 895,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹和安德森找到了一家因蒂斯移民开设的旅馆，体验到了语言沟通的便利。……达尼兹脱口而出道：“行动变得鲁莽，总是先做再思考问题……”说着说着，他安静了下来。"
+        },
+        {
+          "chapterSeq": 896,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹指了指楼梯口道：“我打算找旅馆的老板，借一下他的词典，我想他不会不教他的孩子都坦语。”"
+        },
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹抹了把额头的汗水，不太放心地看着对面的安德森道：“真的是因为你和知识教会关系不好，所以才怂恿我来求‘通晓语言’符咒？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893, 894, 895, 896, 903]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安德森在贝伦斯港巧遇达尼兹，帮他解决语言不通等问题。他透露自己失忆，最后记忆停留在拜亚姆与格尔曼分别后。他提议找知识教会制作符咒，后带达尼兹前往知识教会据点，但自己被考了目录般的书单。",
+      "identInfos": [
+        "迷雾海最强猎人",
+        "宝藏猎人",
+        "金色短发碧眼",
+        "左掌戴黑色手套",
+        "格尔曼·斯帕罗的熟人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的斜前方，和煦阳光照耀的街口，一个金色短发梳成三七开的年轻男子正靠在墙上，吹着银白色的口琴。他有双碧绿的眼睛，穿着没系最上两颗扣子的白衬衣、完全敞开的黑马甲和深色的长裤，戴着一只孤零零的黑色手套，正是迷雾海最强猎人，安德森·胡德！"
+        },
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森收好那银白的口琴，弯腰将装有不少硬币的礼帽拿起，弹了弹灰尘道：“我最后的记忆停留在拜亚姆，和格尔曼·斯帕罗分别后，似乎要去预定的地方见什么人，结果一觉醒来，就在西拜朗了……”"
+        },
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹木然摇了摇头：“没有考试。”……“里面那位主教让我转告你，真正的猎人不会只靠本能，不会只专注于猎物信息，还要懂得把握它们的心理，懂得许许多多额外的知识。这是他给你的资料。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [894, 895, 896, 903]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "科林率两位长老探索前任首席陵寝，遭遇异变的前任首席。他提前向“愚者”祈求制作了“窃运者”符咒，在洛薇雅试图污染死神遗留时，利用符咒化解阴谋，最终击杀前任首席，回收封印物。事后向戴里克透露详情。",
+      "identInfos": [
+        "白银城首席",
+        "六人议事团成员",
+        "猎魔者",
+        "花白头发，法令纹重",
+        "向愚者祈求"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特有着以白银城标准也称得上高大的身材，留着凌乱疏于打理的花白头发，脸上法令纹很重，其余地方却没有皱纹，残存着一些或扭曲或深刻的陈旧伤疤。"
+        },
+        {
+          "chapterSeq": 897,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特目送他离去，转而走到书桌后方的椅子坐下，将目光投向了那两条半透明的环节小虫。"
+        },
+        {
+          "chapterSeq": 898,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特以书桌为祭坛，纯凭灵性，制造出了一个圣洁干净没人打扰的环境，点燃了那三根蜡烛。……他低下脑袋，将戴里克·伯格提到的植物粉末、怪物皮毛或洒入烛火，或点燃投进大釜……诵念道：“不属于这个时代的愚者；……”"
+        },
+        {
+          "chapterSeq": 902,
+          "extractReason": "UPDATE",
+          "evidenceText": "“猎魔者”科林回头看了洛薇雅一眼，什么也没说，什么表情也未呈现，似乎刚才没有任何事情发生。他迅速收回目光，将残余的辉芒导入了刺进前任首席体内的双剑。"
+        },
+        {
+          "chapterSeq": 904,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩透过小“太阳”的描述，依靠自身的推测，隐约把握到了白银城这次探索行动里潜藏的争斗。……同时，他觉得自己能初步描绘那位“牧羊人”长老的心理状态了……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [894, 897, 898, 899, 900, 901, 902, 904]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "小“太阳”在塔罗会上报告白银城陵寝长出头发般的植物，后向愚者祈祷获得制作“窃运者”符咒的方法，转交给首席。事后得知探索详情，并发现“变形者”疑似“诡术邪怪”，在图书馆找到科林的笔记。",
+      "identInfos": [
+        "塔罗会'太阳'",
+        "白银城少年",
+        "序列5光之祭司",
+        "向愚者祈祷",
+        "朋友瓦列尔"
+      ],
+      "aliases": [
+        {
+          "alias": "小太阳",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克不等“倒吊人”先生询问，主动开口道：“我又新交了一位朋友。”……他巡逻的区域就包括前任首席的陵寝……陵寝外层的石头缝隙里，长出了茂密而奇怪的植物，很像人类的头发。"
+        },
+        {
+          "chapterSeq": 896,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克坐在凳子上，一边啃着黑面草粉末烤成的面包，一边认真地在心里例举起自己最近有哪些该做而未做的事情……“六人议事团”刚才命令我们小队绕开前任首席陵寝所在的区域……"
+        },
+        {
+          "chapterSeq": 897,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克推门而入，行了一礼道：“首席阁下，我想起了一些模糊的细节。”……“我当时好像有在低念一段尊名：不属于这个时代的愚者。”"
+        },
+        {
+          "chapterSeq": 904,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩边听着小“太阳”的描述，边飞速运转起大脑，将所有能联想起来的东西放在一块，思考这究竟能得出怎样的结论。"
+        },
+        {
+          "chapterSeq": 905,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克在经常翻阅的古代神话区域，找到了一本之前并没有看过的笔记。……这笔记封面用的是某种怪物的皮革制成……记录有原本那位主人遭遇不同怪物时的经历。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893, 896, 897, 904, 905]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城“牧羊人”长老，陵寝探索中分离出阴影，试图通过前任首席身上的虚幻黑管污染死神遗留，被科林用“窃运者”符咒化解。",
+      "identInfos": [
+        "白银城六人议事团长老",
+        "牧羊人",
+        "银灰色卷发",
+        "真实造物主信徒",
+        "戴里克怀疑对象"
+      ],
+      "aliases": [
+        {
+          "alias": "牧羊人长老",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不只是她，‘首席’也在，另外两位长老也在。”“太阳”戴里克认真回答道，“其他暂时没什么异常。”"
+        },
+        {
+          "chapterSeq": 899,
+          "extractReason": "UPDATE",
+          "evidenceText": "银灰色头发卷曲披着的洛薇雅静静凝望了一阵后道：“应该可以了。”……这位“牧羊人”长老如今深沉平静，没有丝毫异常，一双淡灰色的眼眸内敛而幽邃。"
+        },
+        {
+          "chapterSeq": 902,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛薇雅分离出的那个阴影，在银色全身盔甲骑士的遮掩下，顺利抵达了祭坛……就在这时，一道低沉的嗓音回荡在了祭坛四周：“命运。”那阴影“眼前”顿时一暗，旋即发现自己扑到了巨人体型的科林·伊利亚特身上。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893, 899, 900, 901, 902]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“倒吊人”，发现“工匠”夏尔夫被“原始月亮”信徒控制，向“隐者”嘉德丽雅求助，并亲自调查。他观察夏尔夫家，发现南大陆植物，确认夏尔夫已自愿被控制。与嘉德丽雅会面商讨对策，透露夏尔夫可能是罗塞尔长子后裔。",
+      "identInfos": [
+        "塔罗会'倒吊人'",
+        "风暴教会成员",
+        "序列5海洋歌者",
+        "谨慎精明",
+        "与工匠夏尔夫合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰敏锐闻到了贝克兰德政坛潜藏的火药味……忽然又有了一个想法：涌现的未必是新神，也许还有从更遥远年代归来的古神……"
+        },
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰发现“工匠”莫名染病，且周围出现了奇怪的窥探者……他亲自过来查看，发现夏尔夫已痊愈，但屋内摆放有南大陆植物，怀疑其被控制。"
+        },
+        {
+          "chapterSeq": 904,
+          "extractReason": "UPDATE",
+          "evidenceText": "“工匠”都疑似被邪教或隐秘组织控制了，怎么还想着请“隐者”帮忙？直接找“世界”啊！……克莱恩一边听着，一边就飞速运转起大脑……"
+        },
+        {
+          "chapterSeq": 912,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊连续绕了几圈，摆脱了假想中的跟踪者和监视者，才来到那位“工匠”的房屋前，拉响了门铃。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893, 903, 904, 912]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“隐者”，接受“倒吊人”求助，调查“工匠”夏尔夫被控事件。她与倒吊人会面，分析情况，怀疑夏尔夫是罗塞尔长子后裔，决定先观察。安排二副希斯·道尔进行监视。",
+      "identInfos": [
+        "塔罗会'隐者'",
+        "星之上将",
+        "海盗将军",
+        "神秘女王属下",
+        "戴厚重眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅则联想到了“神秘女王”最近两个月的行踪……推了推鼻梁上架着的厚重眼镜，扫了“正义”小姐等贝克兰德成员一眼。"
+        },
+        {
+          "chapterSeq": 904,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星之上将”嘉德丽雅感谢过“愚者”先生，推了推鼻梁上的眼镜，打开船长室的窗户，对所有人喊道：“转向，去拜亚姆。”"
+        },
+        {
+          "chapterSeq": 912,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅明白“倒吊人”的意思是，如果问题很大，那可以借助“月亮”，将血族整体扯入这件事情……她随即笑了笑道：“如果事情严重到了那种程度，为什么不直接找‘世界’？这样似乎更简单。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893, 895, 904, 912]
+    },
+    {
+      "name": "韦特·希尔蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城另一位“猎魔者”长老，用“猎龙弓”参与陵寝探索，对战前任首席。",
+      "identInfos": [
+        "白银城六人议事团长老",
+        "猎魔者",
+        "身高近两米五",
+        "光头，顶部有符号",
+        "使用猎龙弓"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 899,
+          "extractReason": "UPDATE",
+          "evidenceText": "韦特·希尔蒙并没有使用正统“猎魔者”惯用的双剑，以便让不同的油膏同时发挥作用……他提的是一柄铁灰色的长锤，背着一把以他的身高体态都显得庞大的巨弓……叫做：“猎龙弓”！"
+        },
+        {
+          "chapterSeq": 901,
+          "extractReason": "UPDATE",
+          "evidenceText": "他望向那具被怪物头骨簇拥着的巨大棺材，往前走了两步，将长锤杵到面前，取下了背负的猎龙之弓。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [899, 900, 901, 902]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“正义”，在得知赫温·兰比斯是幕后黑手后，震惊于其伪善。对丘纳斯·科尔格表示留意。",
+      "identInfos": [
+        "塔罗会'正义'",
+        "贵族小姐",
+        "观众途径非凡者",
+        "关注慈善",
+        "父亲是霍尔伯爵"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽脑海内已自然浮现出一个和蔼老者的形象……奥黛丽之前怀疑过卡隆自杀案也许有王室的引导，可从没想过实际操纵者会是温和慈祥、善良风趣的赫温·兰比斯！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会“魔术师”，在得知卡隆案真相后恐惧“观众”高序列能力，并萌生创作灵感。",
+      "identInfos": [
+        "塔罗会'魔术师'",
+        "畅销小说作家",
+        "学徒途径非凡者",
+        "休的朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思望向“世界”格尔曼·斯帕罗面前的桌缘，斟酌着说道：“真相是什么？”……她本能瞄了眼青铜长桌最上首，又快速收回了视线……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893]
+    },
+    {
+      "name": "夏尔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“工匠”，被“原始月亮”信徒控制，自愿加入他们。阿尔杰怀疑其与罗塞尔长子有关。",
+      "identInfos": [
+        "工匠",
+        "夏尔夫",
+        "叛逃蒸汽教会",
+        "拜亚姆隐居",
+        "被原始月亮信徒控制"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊连续绕了几圈……来到那位“工匠”的房屋前……这……正是和阿尔杰合作了好几年的“工匠”夏尔夫，具体来历不明。"
+        },
+        {
+          "chapterSeq": 912,
+          "extractReason": "UPDATE",
+          "evidenceText": "“罗塞尔大帝的长子叫做夏尔，和这个名字很接近。”……“如果能够弄到他的血液，我很快就可以确认。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [903, 912]
+    },
+    {
+      "name": "恩佐",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派“赢家”，在古拉因与灵教团联络时遭值夜者突袭，逃跑中被克莱恩伏击，转化为秘偶。",
+      "identInfos": [
+        "赢家",
+        "怪物途径序列5",
+        "玫瑰学派成员",
+        "叛逃生命学派",
+        "被克莱恩转化为秘偶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 908,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "单人沙发上的来客是位四十来岁的男士，鼻梁高挺，眸色近蓝，五官线条较为柔和，黑发浓密微卷……正是刚才在下嘴唇区尖牙街13号乌利卡家中做客的恩佐。"
+        },
+        {
+          "chapterSeq": 909,
+          "extractReason": "UPDATE",
+          "evidenceText": "恩佐心中一紧，脚下忽然踩到了一颗石子，身体顿时失去了平衡，重重摔倒于地，让手枪飞出了好几米。"
+        },
+        {
+          "chapterSeq": 910,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩忍住了用新秘偶看一看自己的冲动，让恩佐处理起现场残余的血肉和痕迹。做完这一切，他带着秘偶，步入了街道侧面的阴影里，很快消失不见。"
+        }
+      ],
+      "lifeStatus": "活着（秘偶）",
+      "appearanceChapterSeqs": [908, 909, 910, 911, 912]
+    },
+    {
+      "name": "奥夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "克莱恩在古拉因城物色的第一个秘偶，原为当地罪犯。在伏击恩佐时充当诱饵，被恩佐开枪击中，后因“血之花”戒指恢复，引爆为血肉炸弹。",
+      "identInfos": [
+        "克莱恩的第一个秘偶",
+        "原为古拉因罪犯",
+        "被武装血之花戒指",
+        "在战斗中自爆"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 907,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“新的秘偶……身体不够强壮，行动不够敏捷，也没有非凡能力，长相还比较凶恶，除了会都坦语，简直一无是处。”……就叫阿福，不，奥夫吧。"
+        },
+        {
+          "chapterSeq": 909,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥夫的左手食指之上，戴着枚镶嵌红宝石的金戒指。那戒指血光一闪，奥夫胸前的伤势已然蠕动复原，整个人一下弹起，大张着嘴巴扑向了刚好经过的恩佐。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [907, 908, 909]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的信使，将发现因斯·赞格威尔行踪的信送往贝克兰德平斯特街7号。",
+      "identInfos": [
+        "克莱恩的信使",
+        "灵界强者",
+        "提四个金发红眼脑袋",
+        "蕾妮特·缇尼科尔"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 905,
+          "extractReason": "UPDATE",
+          "evidenceText": "无声无息间，提着四个金发红眼脑袋的信使小姐蕾妮特·缇妮科尔出现在了他的面前。……折起信纸，克莱恩将它连同一枚金币交给了信使小姐：“送到贝克兰德北区平斯特街7号的信报箱内。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [905, 906]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "寄生在伦纳德体内的天使，告知伦纳德“0-08”特性，提醒不能直接举报因斯。",
+      "identInfos": [
+        "寄生天使",
+        "索罗亚斯德家族",
+        "时之虫",
+        "伦纳德体内",
+        "了解0-08"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 906,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脑海内那略显苍老的嗓音响了起来：“小子，你有一封重要的信。”……叫做帕列斯·索罗亚斯德的老头为什么能隔着狂暴海……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [906, 910]
+    },
+    {
+      "name": "瓦列尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "戴里克在白银城新交的朋友，巡逻区域包括前任首席陵寝。",
+      "identInfos": [
+        "戴里克的朋友",
+        "白银城巡逻队员",
+        "身高两米二",
+        "巡逻前任首席陵寝"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 896,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "瓦列尔身高两米二，是戴里克新交的朋友，也是他最认可的朋友……另外，最近巡逻区域包括前任首席陵寝的正是瓦列尔小队。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [896]
+    },
+    {
+      "name": "赫温·兰比斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上被揭露为卡隆自杀案的幕后操纵者，其身份是王室顾问、心理炼金会评议团委员。",
+      "identInfos": [
+        "王室顾问",
+        "心理炼金会评议团委员",
+        "半神",
+        "观众途径",
+        "卡隆自杀案真凶"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“幕后的操纵者很可能是王室顾问，赫温·兰比斯，他大概率还有另外一个身份，心理炼金会评议团的委员。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893]
+    },
+    {
+      "name": "丘纳斯·科尔格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "军情九处少将副处长，表面序列5，实际为“黑皇帝”途径半神，在塔罗会上被提及。",
+      "identInfos": [
+        "军情九处少将副处长",
+        "黑皇帝途径半神",
+        "灵感敏锐",
+        "低调"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“还有一件事情，帮我留意丘纳斯·科尔格，他是军情九处的少将副处长，表面只有序列5，实际已是‘黑皇帝’途径的半神，拥有相当强的灵感，对别人的注视很敏锐。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [893]
+    },
+    {
+      "name": "乌利卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "灵教团重要成员，负责联系贝克兰德小组，遭红手套突袭，被抓捕。",
+      "identInfos": [
+        "灵教团成员",
+        "负责贝克兰德联络",
+        "肥胖，肤色深棕",
+        "死于红手套突袭"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 908,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "乌利卡坐在沙发上，用晒干的焦黄烟叶将近十种南大陆特产的草药和香料一层又一层裹在里面，剪成了长条状。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [908]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "红手套小队队长，指挥围剿乌利卡。",
+      "identInfos": [
+        "红手套队长",
+        "序列5灵巫",
+        "使用黄金日冕封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 908,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“红手套”小队队长索斯特来到了一处街区附近。……索斯特在无形力量的簇拥下，半漂半浮地立于那里，双手捧着一个黄金铸就的日冕，缓慢举向了高处。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [908, 909]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“冰山中将”，达尼兹的船长，提前为达尼兹准备通晓语言符咒，并通过知识教会转交。",
+      "identInfos": [
+        "冰山中将",
+        "海盗将军",
+        "知识之神的信徒",
+        "达尼兹的船长",
+        "语言学专家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你船长联络了我。说你下船的时候，怎么喊都不停，直接就冲入了码头，她其实已经给你准备好‘通晓语言’符咒。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [903]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "寄生在伦纳德体内的天使，告知伦纳德“0-08”特性，提醒不能直接举报因斯。",
+      "identInfos": [
+        "寄生天使",
+        "索罗亚斯德家族",
+        "时之虫",
+        "伦纳德体内",
+        "了解0-08"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 906,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脑海内那略显苍老的嗓音响了起来：“小子，你有一封重要的信。”……叫做帕列斯·索罗亚斯德的老头为什么能隔着狂暴海……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [906, 910]
+    },
+    {
+      "name": "希斯·道尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“未来号”二副，“蔷薇主教”，被嘉德丽雅安排去监视“工匠”夏尔夫。",
+      "identInfos": [
+        "未来号二副",
+        "蔷薇主教",
+        "嘉德丽雅属下",
+        "苍白瘦高"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 912,
+          "extractReason": "UPDATE",
+          "evidenceText": "门缝处的阴影里，黑暗突然涌动，长出了一道瘦高苍白的身影。他鼻梁高得夸张，脸部皮肤近乎透明，一副正在生病的模样，正是“未来号”的二副，“蔷薇主教”希斯·道尔。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [912]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本次聚会中分享了卡隆自杀案幕后黑手为赫温·兰比斯，并提及军情九处半神丘纳斯·科尔格。成员们各自交流情报，包括白银城陵寝异变、工匠夏尔夫被控等。",
+      "identInfos": [
+        "以愚者为核心的隐秘组织",
+        "成员包括正义、倒吊人、太阳、隐者等",
+        "定期通过灰雾聚会",
+        "交易情报和物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩早就在脑内彩排好该怎么描述，没有一点犹豫就让假人“世界”道：“幕后的操纵者很可能是王室顾问，赫温·兰比斯，他大概率还有另外一个身份，心理炼金会评议团的委员。”"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城首席科林率领两位长老探索前任首席陵寝，遭遇异变，最终击杀前任首席，回收封印物。过程中揭露洛薇雅可能受真实造物主指使，试图污染死神遗留。",
+      "identInfos": [
+        "神弃之地幸存者城邦",
+        "六人议事团领导",
+        "信仰造物主，现转向愚者",
+        "掌握荣耀之证等封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 896,
+          "extractReason": "UPDATE",
+          "evidenceText": "“六人议事团”刚才命令我们小队绕开前任首席陵寝所在的区域，而这是我们巡逻任务剩下的最后一个地方。"
+        },
+        {
+          "chapterSeq": 898,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特……啪地将两把直剑插入门口地砖缝隙……这直接源于一件神级封印物，当初巨人王奥尔米尔佩戴的冠冕：“荣耀之证”！"
+        }
+      ]
+    },
+    {
+      "name": "红手套",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑夜教会精英非凡者小队，由索斯特带领前往南大陆古拉因，突袭灵教团成员乌利卡。成员包括戴莉、伦纳德等。",
+      "identInfos": [
+        "黑夜教会精英小队",
+        "佩戴红手套",
+        "队长索斯特",
+        "执行突袭任务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "这些人有男有女，基本都披着黑色的薄风衣，戴着红色的手套，提着大小不同的皮箱，唯有一位，套神秘的通灵师长袍，涂蓝色的眼影和腮红，正是戴莉·西蒙妮。"
+        },
+        {
+          "chapterSeq": 908,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔和戴莉·西蒙妮等人跟着“红手套”小队队长索斯特来到了一处街区附近。"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩通过白银城陵寝事件，推测灵教团人造死神计划已取得阶段性成功，能够绕过神弃之地影响。灵教团重要成员乌利卡在古拉因被红手套突袭。",
+      "identInfos": [
+        "信仰死神的隐秘组织",
+        "人造死神计划",
+        "在南北大陆均有活动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 902,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩推测灵教团人造死神计划已取得阶段性成功，并能绕过“神弃之地”影响。"
+        },
+        {
+          "chapterSeq": 908,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们这次的目标是居住在13号房屋内的乌利卡，他是灵教团相当重要的成员，负责与贝克兰德区域的不同小组联系。”"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派成员恩佐在古拉因与灵教团联络，遭红手套突袭后逃离，被克莱恩伏击转化为秘偶。学派与原始月亮崇拜有关。",
+      "identInfos": [
+        "纵欲系异种途径组织",
+        "崇拜被缚之神或原始月亮",
+        "在南大陆活跃",
+        "与灵教团有合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 908,
+          "extractReason": "UPDATE",
+          "evidenceText": "他不是“灵教团”的成员，属于当初在玫瑰学派蛊惑下，叛逃出生命学派的那批人。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "评议团委员赫温·兰比斯被揭露为卡隆自杀案幕后黑手，其作为观众途径半神，操纵了事件。",
+      "identInfos": [
+        "隐秘组织",
+        "观众途径掌控者",
+        "评议团委员赫温·兰比斯",
+        "渗透王室"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 893,
+          "extractReason": "UPDATE",
+          "evidenceText": "“幕后的操纵者很可能是王室顾问，赫温·兰比斯，他大概率还有另外一个身份，心理炼金会评议团的委员。”"
+        }
+      ]
+    },
+    {
+      "name": "知识教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "知识教会在贝伦斯港的传教士向达尼兹提供通晓语言符咒，并给安德森布置学习任务。",
+      "identInfos": [
+        "知识与智慧之神的教会",
+        "在贝伦斯港有传教点",
+        "学者型主教"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "他大步走入了那栋普通的房屋，发现这里更像是一个个教室的集合体，而非知识教会在西拜朗的传教之地。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在狂暴海灵界穿行时发现铜哨异常颤动，后占卜发现与死神遗留陵寝有关，画面与值夜者时期预言相符。克莱恩将铜哨献祭到灰雾之上以防被锁定。后取出用于定位，等待阿兹克到来。",
+      "identInfos": [
+        "阿兹克·艾格斯赠予",
+        "可召唤信使、吸引不死生物",
+        "铜制古老哨子",
+        "与死神遗留相关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 899,
+          "extractReason": "UPDATE",
+          "evidenceText": "刚才于灵界“狂暴海”穿梭的过程中，他有察觉到阿兹克铜哨在轻微颤动！……这铜哨失去了往常的冰冷与柔和，有了点灼热的感觉，但这种异常正在快速消退。"
+        },
+        {
+          "chapterSeq": 900,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩这次并没有直接将阿兹克铜哨带入灰雾之上，而是准备像最早占卜“变异的太阳圣徽”那次一样，通过物品的投影具现来完成……"
+        },
+        {
+          "chapterSeq": 901,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收回视线，快速布置仪式，将阿兹克铜哨献祭到了灰雾之上，免得被那不知名又诡异邪恶的事物锁定。"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩前往博多港为手套觅食，后将手套献祭到灰雾之上，防止自身在观察灰雾异象时失控时反噬。在伏击恩佐时使用“血肉炸弹”能力。",
+      "identInfos": [
+        "序列5封印物手套",
+        "可放牧灵魂获得能力",
+        "需定期喂食",
+        "源自A先生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 899,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩进入了灵界，要“旅行”去狂暴海的博多港，为“蠕动的饥饿”寻觅食物。"
+        },
+        {
+          "chapterSeq": 911,
+          "extractReason": "UPDATE",
+          "evidenceText": "他害怕等下自身状态出现问题时，这手套会反噬佩戴者！——这是“蠕动的饥饿”本身就固有的属性，一旦不能吃饱，不能保证每天吃一个人，它就会以佩戴者为食……"
+        }
+      ]
+    },
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩响应科林的祈求，用阿蒙分身的“时之虫”制作成符咒，能短暂对换命运。科林在陵寝中用此化解洛薇雅的阴谋。",
+      "identInfos": [
+        "用时之虫制成",
+        "短暂对换命运",
+        "向愚者祈求制作",
+        "黑色水晶状符咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 898,
+          "extractReason": "UPDATE",
+          "evidenceText": "整个祭坛上的幽暗世界随之也有了瞬间的扭曲。……但祭坛上多了两个黑色水晶制成的奇异符咒，这仿佛某位存在的一双眼眸，正静静地注视着世界。"
+        },
+        {
+          "chapterSeq": 902,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，一道低沉的嗓音回荡在了祭坛四周：“命运。”那阴影“眼前”顿时一暗，旋即发现自己扑到了巨人体型的科林·伊利亚特身上。"
+        }
+      ]
+    },
+    {
+      "name": "血之花戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩给秘偶奥夫佩戴，使其拥有强大恢复力。后用于自身在观察灰雾异象受伤时恢复。最后让秘偶恩佐佩戴。",
+      "identInfos": [
+        "红宝石金戒指",
+        "血肉魔法物品",
+        "来自X先生",
+        "副作用降智"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 909,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥夫戴的正是克莱恩从X先生那里获得的“血之花”戒指，它一方面能随机地使佩戴者放弃思考，变成野兽，另一方面则可以让佩戴者更深层次地掌握住自身血肉……"
+        },
+        {
+          "chapterSeq": 911,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩伸手将“血之花”戒指从秘偶恩佐的手上取了下来，往自己左掌凑去。这能保证他就算肉体受到了严重伤害，也可以恢复过来。"
+        }
+      ]
+    },
+    {
+      "name": "绿华戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "原属恩佐的治疗戒指，可治疗不严重的疾病和伤势，副作用招惹蚊虫。克莱恩使用后治疗自身。",
+      "identInfos": [
+        "绿宝石戒指",
+        "治疗物品",
+        "副作用招惹蚊虫",
+        "源自原始月亮信徒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 910,
+          "extractReason": "UPDATE",
+          "evidenceText": "“绿华”，效果很单一，就是治疗各种不算太严重的疾病和伤势。正因为如此，它的负面影响也很小，仅仅是招惹蚊虫。"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "达尼兹佩戴的神奇物品，会使佩戴者感觉炎热。",
+      "identInfos": [
+        "达尼兹持有",
+        "产生炎热感"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 894,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹之所以热成这个样子，是因为戴了那枚“太阳胸针”，但是，初到这里，还没摸清楚状态的他，不敢把这胸针取下来……"
+        }
+      ]
+    },
+    {
+      "name": "铁黑色拳套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "达尼兹持有的神奇物品，戴后行动变得鲁莽。",
+      "identInfos": [
+        "达尼兹持有",
+        "负面影响行动鲁莽"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 895,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹脱口而出道：“行动变得鲁莽，总是先做再思考问题……”
+   说着说着，他安静了下来。"
+        }
+      ]
+    },
+    {
+      "name": "荣耀之证",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "白银城神级封印物，巨人王奥尔米尔的冠冕，科林用其力量封锁仪式现场。",
+      "identInfos": [
+        "神级封印物",
+        "巨人王冠冕",
+        "白银城镇城之物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 898,
+          "extractReason": "UPDATE",
+          "evidenceText": "对于现在这个“牢笼”的防御能力，科林这位白银城首席还是相当有自信的，因为这直接源于一件神级封印物，当初巨人王奥尔米尔佩戴的冠冕：“荣耀之证”！"
+        }
+      ]
+    },
+    {
+      "name": "猎龙弓",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "韦特·希尔蒙使用的强力神奇物品，曾射杀过半神巨龙。",
+      "identInfos": [
+        "巨弓",
+        "射杀过半神巨龙",
+        "韦特·希尔蒙持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 899,
+          "extractReason": "UPDATE",
+          "evidenceText": "那巨弓是一件神奇物品，副作用并不是太大的那种，在白银城的历史书上都有记载，因射杀过半神层次的巨龙而得名，叫做：“猎龙弓”！"
+        }
+      ]
+    },
+    {
+      "name": "通晓语言符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "知识教会制作，可使佩戴者听懂、辨认和书写指定语言。达尼兹获得四枚。",
+      "identInfos": [
+        "知识教会符咒",
+        "通晓语言",
+        "达尼兹获取"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 903,
+          "extractReason": "UPDATE",
+          "evidenceText": "学者般的老先生探手从衣兜里拿出了四片黄铜符咒道：“可以用两个月，应该足够了。”"
+        }
+      ]
+    },
+    {
+      "name": "时之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿蒙分身遗留的半透明环节小虫，科林利用它们制作了窃运者符咒。",
+      "identInfos": [
+        "阿蒙分身遗留",
+        "半透明环节小虫",
+        "制作窃运者符咒材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 897,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克一眼望去，目光忽然凝滞，眸子里映照出了两条半透明的只有儿童手指粗细的小虫。“时之虫”！有一个又一个透明圆环的“时之虫”！源于“渎神者”阿蒙分身的“时之虫”！"
+        }
+      ]
+    }
+  ]
+}

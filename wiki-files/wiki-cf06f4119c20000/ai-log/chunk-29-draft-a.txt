@@ -1,0 +1,878 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以‘海神’身份惩戒冒充‘愚者’眷者的骗子艾德希兰，将其劈死。他将摩斯苦修会成员‘星之上将’嘉德丽雅拉入灰雾，令其加入塔罗会，代号‘隐者’。在塔罗会上，他阅读罗塞尔日记，得知安提哥努斯家族笔记由查拉图经罗塞尔从蒸汽教会窃出，以及第四纪所罗门帝国与真实造物主结盟等秘辛。他测试梦境中诵念‘愚者’尊名可获回应并告知‘正义’。为寻找红发伊莲，他从‘隐者’处得知其被‘疾病中将’特雷茜俘虏，利用‘海神’信徒找到伊莲审问后，伪装成伊莲潜入‘黑死号’，刺杀特雷茜，激战后未能速杀，跳海逃离。期间，‘冰山中将’邀他见面，试探其背后组织，并请求保护援助反抗军；他参观收藏室，对《格罗塞尔游记》和巨人钥匙产生兴趣。他还在‘海藻酒吧’设计以达尼兹为诱饵，但未引发战斗。",
+      "identInfos": [
+        "塔罗会创始者‘愚者’",
+        "化身格尔曼·斯帕罗",
+        "序列6‘无面人’",
+        "持有‘蠕动的饥饿’",
+        "掌控‘海神权杖’",
+        "曾为值夜者克莱恩·莫雷蒂"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "海神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 563,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩默默收回了“海神权杖”。居然敢用我的名义骗取财物，玷污女性……他嘴角抽动了一下，恨不得再给那个叫艾德希兰的家伙一闪电。"
+        },
+        {
+          "chapterSeq": 564,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅沉默了一下道：“我叫嘉德丽雅，有个‘星之上将’的绰号。‘愚者’先生，是您救了我吗？”"
+        },
+        {
+          "chapterSeq": 567,
+          "extractReason": "UPDATE",
+          "evidenceText": "“十月二日，查拉图再次来拜访我。他希望已经进入半神半人领域的我能够履行诺言，帮他从教会窃取出那件危险的封印物。那是一本来自第四纪安提哥努斯家族的笔记，‘1’级封印物！”"
+        },
+        {
+          "chapterSeq": 572,
+          "extractReason": "UPDATE",
+          "evidenceText": "他打算试的事情很简单，那就是清醒状态下，在梦境里诵念“愚者”的尊名是否有效，自己是否能察觉有人在祈求！"
+        },
+        {
+          "chapterSeq": 580,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩忍着笑意，嗓音低沉地说道：“我会把‘蠕动的饥饿’借给你。”……达尼兹呆滞地眨了下眼睛，看见对方的侧脸线条已然柔和，眼眸碧绿深邃，嘴唇轻轻抿着，略显软弱和摇摆，有种中性的俊美感，与刚离去没多久的伊莲一模一样。"
+        },
+        {
+          "chapterSeq": 582,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩禁锢住特雷茜的时候，也被对方手掌成爪，向后扯掉了一块衣裙布料，抓伤了大腿。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "达尼兹协助克莱恩寻找红发伊莲，在‘海藻酒吧’被克莱恩当作诱饵，虽未引发战斗但心惊胆战。他透露克莱恩向卡维图瓦献祭之事给船长，导致‘冰山中将’试探克莱恩。他被克莱恩要求回忆伊莲细节以作伪装，但拒绝。后目睹克莱恩变成伊莲，内心震撼。他成功与反抗军建立联系，负责援助事宜，并参与将假伊莲交给‘巧言者’米索尔·金的行动。",
+      "identInfos": [
+        "海盗‘烈焰’",
+        "赏金5500镑",
+        "‘冰山中将’手下",
+        "序列7‘纵火家’",
+        "被克莱恩当作诱饵和助手"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 563,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹略显兴奋地搓了搓手，握拳打了下人高的铁黑色煤气路灯杆，似乎恨不得立刻满城转悠，找到那个叫做伊莲的红发女子。"
+        },
+        {
+          "chapterSeq": 573,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹这才醒悟自己刚才遭遇的事情，再次静默下来。过了几秒，他嗓音有点发沉地开口道：“我叫嘉德丽雅，有个‘星之上将’的绰号。”"
+        },
+        {
+          "chapterSeq": 574,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹心头一动，挤出笑容道：“是这样的，我刚才忘记了一件事情。船长问你有没有兴趣去格拉格斯见一面？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [563, 572, 573, 574, 575, 576, 577, 578, 579, 580]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅因‘隐匿贤者’的呓语濒临失控，被克莱恩拉入灰雾获救。她加入塔罗会，代号‘隐者’。在塔罗会上，她展现丰富知识，参与交易，出售六翼石像鬼眼珠给‘世界’，用光辉契灵树果实与‘太阳’交换白银城历史，并推测‘太阳’来自神弃之地。她认出‘海神权杖’，猜到‘愚者’取代了卡维图瓦。会后她写信提醒女王有人搜集罗塞尔日记。",
+      "identInfos": [
+        "‘星之上将’",
+        "摩斯苦修会成员",
+        "序列5‘星象师’",
+        "塔罗会‘隐者’",
+        "佩戴眼镜，黑发紫眸"
+      ],
+      "aliases": [
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        },
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 564,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我叫嘉德丽雅，有个‘星之上将’的绰号。‘愚者’先生，是您救了我吗？"
+        },
+        {
+          "chapterSeq": 568,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅望了“世界”一眼，语速不快不慢地说道：“300镑，或者等值的金币。”"
+        },
+        {
+          "chapterSeq": 571,
+          "extractReason": "UPDATE",
+          "evidenceText": "嘉德丽雅沉默了十几秒，拿出纸笔，斟酌着写道：“最近有人在有意识地搜集大帝的日记。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [564, 565, 566, 567, 568, 569, 570, 571]
+    },
+    {
+      "name": "艾德希兰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "艾德希兰是一个骗子，伪装成‘愚者’眷者建立邪教骗财骗色，在恩马特港诵念‘愚者’尊名后被克莱恩用‘海神权杖’劈死。",
+      "identInfos": [
+        "冒充‘愚者’眷者的骗子",
+        "被克莱恩用闪电劈死"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 563,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾德希兰是一个骗子，最擅长的就是建立邪教骗财骗色……他握住纸张，当着丹妮斯的面，得意地念出了自己刚才书写的赫密斯文……一道银白的闪电凭空降落，劈在了艾德希兰的头顶。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [563]
+    },
+    {
+      "name": "丹妮斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "丹妮斯是被艾德希兰欺骗的少女，目睹艾德希兰被闪电劈死后报警。",
+      "identInfos": [
+        "被骗子艾德希兰欺骗的少女",
+        "报警者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 563,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "身披黑色古典长袍的艾德希兰忍着内心的冲动，对面前青春甜美的少女丹妮斯道……丹妮斯终于察觉到不对，小心上前，提裙蹲下，将手指放到了艾德希兰的鼻端。他，他死了……她吓得哭了出来，跌跌撞撞跑出房间，直奔附近的警察局。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [563]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伦纳德在红手套小队中参与讨论‘愚者’相关案件，提议调查两起塔罗仪式案以获取行动自由。",
+      "identInfos": [
+        "值夜者红手套成员",
+        "黑发绿瞳",
+        "体内有老爷爷寄生",
+        "曾与克莱恩在廷根共事"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 565,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔取下盖在脸上的黑色礼帽道：“‘愚者’有闪电领域的能力？”……伦纳德瞄了一眼，收起双脚，半侧身体，轻声笑道：“不打算查一查？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [565]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "艾德雯娜邀请克莱恩到‘黄金梦想’号见面，试探其背后组织，并请求其保护达尼兹援助反抗军。她向克莱恩展示收藏，介绍《格罗塞尔游记》和巨人钥匙，提出出售《格罗塞尔游记》但被克莱恩以考虑为由婉拒。她还告知克莱恩关于‘疾病中将’特雷茜的情报。",
+      "identInfos": [
+        "‘冰山中将’",
+        "‘黄金梦想’号船长",
+        "知识与智慧之神教会相关",
+        "喜爱收藏和研究"
+      ],
+      "aliases": [
+        {
+          "alias": "冰山中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 575,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩登上了‘黄金梦想’号的甲板，看见了静静屹立于舷侧的“冰山中将”艾德雯娜·爱德华兹。"
+        },
+        {
+          "chapterSeq": 576,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜沉默了一下道：“如果你想要，我可以卖给你，我已经研究了很多年，还是没有收获。不过我有一个条件。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [575, 576, 577]
+    },
+    {
+      "name": "伊莲",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伊莲是红发女子，因蒂斯前王族索伦家族后裔，曾被‘疾病中将’特雷茜俘虏。她逃入因蒂斯领事馆，后准备乘船离开。克莱恩伪装成车夫拦截她，审问关于特雷茜和吉米·内克的情报，并记录其体貌特征、习惯等，最后给她新的船票让她离开。克莱恩随后伪装成她潜入黑死号。",
+      "identInfos": [
+        "红发伊莲",
+        "因蒂斯索伦家族后裔",
+        "序列7‘纵火家’",
+        "曾被‘疾病中将’特雷茜俘虏"
+      ],
+      "aliases": [
+        {
+          "alias": "红发的伊莲",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 578,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊莲坐在梳妆台前，看着镜中漂亮却略显憔悴的自己，怔怔出神了好几分钟。逃出黑死号的这段时间对她来说，既饱含期待，又充满煎熬……"
+        },
+        {
+          "chapterSeq": 579,
+          "extractReason": "UPDATE",
+          "evidenceText": "我的父亲是因蒂斯前王族索伦家族的成员……为了偿还债务，我选择接受家族的一些条件，成为了非凡者，并出海做起了海商。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [578, 579, 580]
+    },
+    {
+      "name": "特雷茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特雷茜是‘疾病中将’，序列5‘痛苦魔女’，协助魔女教派贩卖人口。克莱恩伪装成伊莲潜入黑死号刺杀她，利用‘蠕动的饥饿’和多种能力与之激战，虽打掉其神奇手镯并造成伤害，但未能速杀。特雷茜使用镜子替身、魔杖替身、冰霜、黑焰、疾病、蛛丝等能力反击，最后躲入黑发蚕茧中呼救，克莱恩被迫跳海逃离。",
+      "identInfos": [
+        "‘疾病中将’",
+        "序列5‘痛苦魔女’",
+        "黑死号船长",
+        "协助魔女教派贩卖人口",
+        "与伊莲有暧昧关系"
+      ],
+      "aliases": [
+        {
+          "alias": "疾病中将",
+          "type": "称号"
+        },
+        {
+          "alias": "疾病少女",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 575,
+          "extractReason": "UPDATE",
+          "evidenceText": "特雷茜？艾德雯娜眼眸微动道，“她是一个魔女，序列5的‘痛苦魔女’。”"
+        },
+        {
+          "chapterSeq": 579,
+          "extractReason": "UPDATE",
+          "evidenceText": "她拥有出色的格斗能力，擅长潜行和诅咒，能够隐身与变轻。她掌握了镜子和魔杖替身法，掌握了黑焰与冰霜……"
+        },
+        {
+          "chapterSeq": 581,
+          "extractReason": "UPDATE",
+          "evidenceText": "特雷茜靠坐于书桌后，穿着米色长裤的双腿斜着伸了出来，交叉搁着。她眉毛又长又直，一双蔚蓝的眼睛锐利而明亮……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [575, 579, 581, 582]
+    },
+    {
+      "name": "卡拉特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "卡拉特是反抗军首领，收到‘海神’神谕后组织寻找红发伊莲，并负责与达尼兹接头，将假伊莲交给米索尔·金以领取悬赏。",
+      "identInfos": [
+        "反抗军首领",
+        "光头，坐轮椅",
+        "‘海神’信徒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 573,
+          "extractReason": "UPDATE",
+          "evidenceText": "坐在轮椅上的卡拉特抬起光秃秃的脑袋，望向洒落于洞口的阳光，眼神里是掩饰不住的喜意。"
+        },
+        {
+          "chapterSeq": 580,
+          "extractReason": "UPDATE",
+          "evidenceText": "卡拉特推着轮椅，来到门口，看了眼这男子，沉声问道：“米索尔·金？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [573, 580]
+    },
+    {
+      "name": "米索尔·金",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "米索尔·金是‘巧言者’，赏金5400镑，原齐林格斯手下，现为‘黑死号’三副。他负责确认伊莲身份并带回黑死号。",
+      "identInfos": [
+        "‘巧言者’",
+        "赏金5400镑",
+        "‘黑死号’三副"
+      ],
+      "aliases": [
+        {
+          "alias": "巧言者",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 580,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "米索尔·金？卡拉特沉声问道。“我是否该表示荣幸，你竟然认识我。”那男子笑了一声。他原本是“飓风中将”齐林格斯手下一条海盗船的船长，被“疾病少女”特雷茜收服后，担任了对方旗舰“黑死号”的三副，绰号“巧言者”，赏金5400镑。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [580]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在塔罗会上问候新成员‘隐者’，完成‘心理医生’特性交易，并分享探索集体潜意识海洋的经历。她得到‘愚者’警告和允许在梦境中诵念其名。",
+      "identInfos": [
+        "‘正义’小姐",
+        "序列7‘心理医生’",
+        "鲁恩贵族",
+        "塔罗会创始成员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 565,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”小姐正要起身问候“愚者”先生，突地看见了一道陌生的身影。她有些疑惑又期待地发现了个问题，那就是女性在同一侧，男性在另外一侧。"
+        },
+        {
+          "chapterSeq": 568,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”嘶哑着回应道：“如果你确定想要，我会尽快给你。”“价格1800镑。”"
+        },
+        {
+          "chapterSeq": 571,
+          "extractReason": "UPDATE",
+          "evidenceText": "我最近在追寻心灵巨龙的踪迹，去了一个有崇拜巨龙风俗的地方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [565, 566, 568, 570, 571]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会上对‘隐者’高度戒备，怀疑其为‘星之上将’。他讲述‘海神’卡维图瓦事件试探，并确认‘愚者’取代了‘海神’。他完成与‘月亮’的血族男爵遗产交易。",
+      "identInfos": [
+        "‘倒吊人’先生",
+        "风暴教会成员",
+        "塔罗会成员",
+        "深蓝头发"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 566,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰一边回应“正义”奥黛丽的问候，一边谨慎地打量起新入会的成员……他心头一沉，脑海内浮现出了几个月前在海盗大会上看到的一幕场景……“难道是她？外形上有些相似……"
+        },
+        {
+          "chapterSeq": 569,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰平缓说道：“伪装的考古学家拉蒂西亚在西弥姆岛发现了一座古精灵遗迹……‘海神’的虔诚信徒们依旧能偶尔获得回应。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [566, 568, 569, 570, 571]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在塔罗会上提供古神传说资料，并与‘隐者’交易用白银城历史换取光辉契灵树果实。他对‘月亮’的质疑感到憋屈。",
+      "identInfos": [
+        "‘太阳’",
+        "白银城居民",
+        "塔罗会成员",
+        "信仰创造一切的主"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 566,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克紧随其后道：“‘愚者’先生，我有抄录新的古神传说。”"
+        },
+        {
+          "chapterSeq": 568,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克见他们已商谈完毕，忙学着“正义”小姐，举了下手道：“你们谁有光辉契灵树的果实？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [566, 568, 569, 570, 571]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思在塔罗会上提供罗塞尔日记，并旁观交易。她对新成员‘隐者’保持观察。",
+      "identInfos": [
+        "‘魔术师’小姐",
+        "序列7‘戏法大师’",
+        "塔罗会成员",
+        "作家"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 565,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思瑟瑟发抖地从阴冷的街道上返回住处……她晋升“戏法大师”后，第一时间将这件事情写入信里，邮寄给多里安·格雷……"
+        },
+        {
+          "chapterSeq": 566,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思眼珠微动，假装不在意地半转了身体。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [565, 566, 569, 570]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林在塔罗会上与‘倒吊人’交易血族男爵遗产，并质疑‘太阳’白银城历史，试图证明血族历史正确。",
+      "identInfos": [
+        "‘月亮’",
+        "吸血鬼",
+        "塔罗会成员",
+        "红瞳"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 566,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林鄙视地瞄了“太阳”一眼。"
+        },
+        {
+          "chapterSeq": 568,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我准备好了，你什么时候能拿到那血族男爵的遗产？你上次提过，它在一位大海盗手里？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [566, 568, 571]
+    },
+    {
+      "name": "约德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "约德森是‘黄金梦想’号三副，绰号‘花领结’，赏金5200镑，序列6，曾被艾德雯娜教训后留下。达尼兹等人对他抱有敌意。",
+      "identInfos": [
+        "‘花领结’",
+        "赏金5200镑",
+        "‘黄金梦想’号三副"
+      ],
+      "aliases": [
+        {
+          "alias": "花领结",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 577,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他是三副，约德森，以前是个花花公子兼海盗，说要偷走我们船长的心，结果被揍了一顿，留下来接受教育……达尼兹强调道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [577]
+    },
+    {
+      "name": "纳斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "纳斯特是‘五海之王’，驾驶‘黑皇帝’号出现于罗思德海域，可能与‘黑皇帝’牌有关，但未与克莱恩发生冲突。",
+      "identInfos": [
+        "‘五海之王’",
+        "四王之一",
+        "驾驶‘黑皇帝’号"
+      ],
+      "aliases": [
+        {
+          "alias": "五海之王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 575,
+          "extractReason": "UPDATE",
+          "evidenceText": "那艘巨大的漆黑帆船，长近百米，风帆高挂，侧面有一门门舷炮……达尼兹露出又崇拜又畏惧，又向往又厌恶的复杂神色，嘶了一声，梦呓般低语道：“黑皇帝号……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [575]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本次chunk中新增成员‘隐者’嘉德丽雅，势力进一步扩大。会上完成了多项交易，交流了情报，包括‘海神’事件、集体潜意识探索等。成员们对新成员表现出不同程度的戒备和观察。",
+      "identInfos": [
+        "以‘愚者’为首的神秘组织",
+        "成员以塔罗牌为代号",
+        "定期举行聚会",
+        "涉及多位序列强者和不同势力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 564,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他们建立了一个固定的聚会，我是见证者。”嘉德丽雅沉默了足足十几秒道：“我可以参加吗？”"
+        },
+        {
+          "chapterSeq": 570,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅本能侧头，望向了青铜长桌最上首，望向了笼罩于灰白雾气里的“愚者”先生。"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "摩斯苦修会成员嘉德丽雅被拉入塔罗会，其组织特点被提及：成员相信万物皆数，追逐知识，但会被‘隐匿贤者’追逐，面临失控风险。",
+      "identInfos": [
+        "追逐知识的隐秘组织",
+        "成员会被‘隐匿贤者’灌输知识",
+        "‘星之上将’所属势力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 564,
+          "extractReason": "UPDATE",
+          "evidenceText": "摩斯苦修会的成员都相信万物皆数，追逐着知识本身。但罗塞尔大帝曾经说过，不是我们在追逐知识，而是知识在追逐我们，‘隐匿贤者’就是知识本身，祂在追逐我们，追逐每一个摩斯苦修会成员……"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "极光会Z先生曾向嘉德丽雅提及‘愚者’尊名，表明该组织知晓‘愚者’存在。",
+      "identInfos": [
+        "信仰‘真实造物主’的组织",
+        "成员包括Z先生、A先生等",
+        "曾悬赏寻找‘愚者’信徒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 564,
+          "extractReason": "UPDATE",
+          "evidenceText": "我从‘极光会’的Z先生那里听说过您的尊名。"
+        }
+      ]
+    },
+    {
+      "name": "红手套",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "红手套小队在恩马特港事件后讨论‘愚者’相关案件，伦纳德提议调查塔罗仪式案以获取行动自由。",
+      "identInfos": [
+        "值夜者精英小队",
+        "负责调查涉及‘愚者’的案件",
+        "伦纳德·米切尔所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 565,
+          "extractReason": "UPDATE",
+          "evidenceText": "一位戴着红手套的值夜者拿着张电报，进入了分配给他们的临时办公室。……与两起塔罗仪式和“愚者”相关的卷宗都已交给了索斯特的红手套小队……"
+        }
+      ]
+    },
+    {
+      "name": "反抗军",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "反抗军首领卡拉特收到‘海神’神谕寻找伊莲，并与达尼兹合作，将假伊莲交给米索尔·金换取悬赏。他们还计划接受‘冰山中将’的援助。",
+      "identInfos": [
+        "罗思德群岛本土反抗势力",
+        "信仰‘海神’",
+        "首领卡拉特"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 573,
+          "extractReason": "UPDATE",
+          "evidenceText": "蓝山岛丛林内，反抗军基地中。坐在轮椅上的卡拉特抬起光秃秃的脑袋……"
+        },
+        {
+          "chapterSeq": 576,
+          "extractReason": "UPDATE",
+          "evidenceText": "我打算向罗思德群岛的反抗军提供一些援助，主要是粮食和布料。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩使用海神权杖劈死冒充‘愚者’眷者的骗子，并用来回应信徒祈祷。嘉德丽雅在灰雾之上认出该权杖，推测‘愚者’取代了海神。克莱恩后续用它向信徒发布神谕寻找伊莲。",
+      "identInfos": [
+        "乳白色骨杖，顶端镶嵌青蓝色宝石",
+        "散发大海与风暴气息",
+        "原为‘海神’卡维图瓦所有",
+        "现被克莱恩置于灰雾之上"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 563,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩默默收回了“海神权杖”。居然敢用我的名义骗取财物，玷污女性……他嘴角抽动了一下，恨不得再给那个叫艾德希兰的家伙一闪电。"
+        },
+        {
+          "chapterSeq": 564,
+          "extractReason": "UPDATE",
+          "evidenceText": "他手里很随意地握着根比手臂略长的乳白色权杖，那权杖……黑发女士的瞳孔一下收缩，眸子深处倒映的尽是青蓝色的“宝石”和它几乎搅动四周的大海与风暴气息……"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在潜入黑死号时佩戴‘蠕动的饥饿’，利用其切换灵魂能力战斗，包括‘活尸’、‘光之祭司’、‘审讯者’、‘心理医生’等。在酒吧中曾用它震慑敌人。",
+      "identInfos": [
+        "人皮手套形态",
+        "可放牧多个灵魂并使用其能力",
+        "原属于‘飓风中将’齐林格斯",
+        "现为克莱恩的神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 574,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩跟随望去，右手抚摸了下左掌戴着的“蠕动的饥饿”。"
+        },
+        {
+          "chapterSeq": 581,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的左掌诡异地从手铐内抽出，快如闪电地抓住了她腕部的手镯……与此同时，那只手蒙上了一层金色，克莱恩现在碧绿幽深的眼眸内霍然亮起了两道闪电。这是“蠕动的饥饿”，这是“精神刺穿”！"
+        }
+      ]
+    },
+    {
+      "name": "钻石手镯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "特雷茜佩戴的神奇物品，能抵消绝大部分伤害。克莱恩在战斗初期将其打掉，但未拾取。",
+      "identInfos": [
+        "镶嵌满钻石的手镯",
+        "属于‘疾病中将’特雷茜",
+        "能提供伤害减免"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 581,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她右腕戴着只镶嵌满钻石的手镯。伊莲描述的那件神奇物品？能抵消绝大部分伤害？"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "《格罗塞尔游记》是‘冰山中将’收藏的一本古籍，记载了巨人、精灵、人类等不同时代角色共同冒险的故事，最后几页无法打开。艾德雯娜研究多年无果，提出以8000镑卖给克莱恩，但克莱恩未立即购买。",
+      "identInfos": [
+        "羊皮纸古籍",
+        "记载巨人、精灵等冒险故事",
+        "最后几页黏连无法打开",
+        "制成年代至少三千年前"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 576,
+          "extractReason": "UPDATE",
+          "evidenceText": "这来自于一艘海底沉船，浸泡了165年，依旧没有损坏。艾德雯娜介绍道，“它里面记载了一个故事，一位叫做格罗塞尔的巨人决定去冰霜之国猎杀‘北方之王’……"
+        }
+      ]
+    },
+    {
+      "name": "巨人钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "一把巨大的铁黑色钥匙，形制古老，有巨人系风格。‘血之上将’塞尼奥尔出价5000镑购买，但艾德雯娜未出售，并告知克莱恩。克莱恩认为其可能涉及巨人王庭。",
+      "identInfos": [
+        "巨大的铁黑色钥匙",
+        "有七弦琴大小",
+        "表面花纹类似白银城风格",
+        "‘冰山中将’藏品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 576,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾德雯娜停在那把巨大的铁黑色钥匙前。与之前梦中所见一样，这把钥匙足有七弦琴那么大，正常人类得抱着才能拿动，整体黯淡无光，形制古老。表面的花纹与白银城的风格类似，有明显的巨人系特点……"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在灵界使用过‘黑皇帝’牌，导致‘五海之王’纳斯特被吸引至罗思德海域，但未被锁定。在塔罗会上，‘正义’考虑过让‘愚者’展示该牌试探‘隐者’，但最终放弃。",
+      "identInfos": [
+        "‘黑皇帝’途径亵渎之牌",
+        "罗塞尔制作",
+        "可反占卜反预言",
+        "被克莱恩收藏于灰雾之上"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 575,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了在灵界使用过“黑皇帝”牌，他出海以后，就几乎没让那张亵渎之牌于现实世界里呈现过……以灰雾的屏蔽能力，以亵渎之牌的反占卜反预言特性，“五海之王”纳斯特不可能也不应该锁定我！"
+        }
+      ]
+    },
+    {
+      "name": "梦魇非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩使用‘梦魇’遗留的非凡特性入侵达尼兹梦境，测试在梦境中诵念‘愚者’尊名的效果。",
+      "identInfos": [
+        "幽暗深邃的宝石状胶质物",
+        "‘梦魇’遗留",
+        "可用于入侵梦境"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 572,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他拿出了准备好的另一样物品，那是枚幽暗深邃的宝石状胶质物，那是“梦魇”遗留的非凡特性。"
+        }
+      ]
+    },
+    {
+      "name": "六翼石像鬼眼珠",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "‘隐者’嘉德丽雅在塔罗会上以300镑价格卖给‘世界’六翼石像鬼眼珠，用于‘秘偶大师’辅助材料。",
+      "identInfos": [
+        "‘秘偶大师’魔药材料",
+        "由‘隐者’出售给‘世界’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 569,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“隐者”嘉德丽雅望了“世界”一眼，语速不快不慢地说道：“300镑，或者等值的金币。”"
+        }
+      ]
+    },
+    {
+      "name": "净化之炮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "‘黄金梦想’号的主炮，沿中轴线布置，炮管上符号花纹层叠，流转纯净光芒。只能使用十次，之后需要六位‘光之祭司’举行仪式重新填充灵性。",
+      "identInfos": [
+        "‘黄金梦想’号主炮",
+        "可使用十次",
+        "需‘光之祭司’充能"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 575,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "和同类相比，它显得极为特殊，沿中轴线布置有一门主炮，炮管上符号和花纹层叠，流转着微弱但纯净的光芒。那是净化之炮，只能使用十次，然后需要六位‘光之祭司’举行仪式，向神灵祈求，重新填满灵性。"
+        }
+      ]
+    }
+  ]
+}

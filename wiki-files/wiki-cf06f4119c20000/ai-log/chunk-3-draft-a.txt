@@ -1,0 +1,1031 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在塔罗会上完善仪式魔法，让“正义”和“倒吊人”尝试祈求，并收到回应。他在占卜俱乐部帮格拉西斯占卜，建议避开铁矿投资；为乔伊斯·迈尔解梦，揭露特里斯是苜蓿号惨案制造者。他学习非凡者序列途径和隐秘组织资料，知道“占卜家”后续序列8是“小丑”，与老尼尔去地下交易市场，购买护身符半成品。参与追踪安提哥努斯后裔瑞尔·比伯，遭密修会燕尾服小丑袭击。比伯失控成怪物并被消灭，爆炸将封印物“2-049”抛至克莱恩附近，他受控制，靠“转运仪式”进入灰雾自救，并设计将燕尾服小丑引入封印物影响范围将其枪杀。事后燕尾服小丑尸体抓住他呢喃“霍纳奇斯”，手腕烙印脱落成蓝色血球。克莱恩正式申请成为值夜者，收到导师回信，得知霍纳奇斯主峰古代遗迹专著。家人受邀参加赛琳娜生日晚宴。",
+      "identInfos": [
+        "值夜者小队“占卜家”非凡者",
+        "塔罗会“愚者”",
+        "穿越者，原历史系毕业生",
+        "与安提哥努斯家族笔记有感应"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "克莱恩",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 61,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一手扶额，一手轻敲青铜长桌边缘，敏锐察觉到了“倒吊人”和“正义”的变化。但他装作什么都没有发生，给出一切都在预料中的状态，自顾自地继续说道："
+        },
+        {
+          "chapterSeq": 63,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩双手交叉，靠住下巴，目光沉然地盯着乔伊斯的眼睛，语气低缓却有力地说道：“你不只认为这件事情不正常，你还看到了一些被你忽略的事情……有个人具备很大的嫌疑，也就是梦里拉住你，但最终放开了手的那位……他是你的同伴，他曾经主宰过你的生死，或者说，救过你！”"
+        },
+        {
+          "chapterSeq": 75,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩眼前所见，都变成了上辈子的慢镜头……抓住还未被彻底控制的机会，竭力寻找着自救的办法。……逆时针踏出一步。与此同时，他没试图挣脱“扎”住自己喉咙的无形绳索，只在心里默念道：“福生……玄黄……仙尊……”"
+        },
+        {
+          "chapterSeq": 76,
+          "extractReason": "UPDATE",
+          "evidenceText": "乓！银色的子弹越过几米的距离，准确地钻入了燕尾服小丑的脖子……乓！……燕尾服小丑的额头霍然出现了一个狰狞的孔洞……"
+        },
+        {
+          "chapterSeq": 79,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这个时候，那具尸体的眼皮霍然上抬，露出一双没有焦距的蓝色眼眸。他嘴巴翕动，呢喃出声：“霍纳奇斯……霍纳奇斯……霍纳奇斯……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在塔罗会上聆听愚者完善的仪式魔法，成功举行仪式并得到愚者回应，确认愚者的强大。她开始扮演“观众”，观察女仆和金毛大犬苏茜。她购买牛齿芍药等材料（通过他人间接出现），为制作“观众”魔药或相关仪式做准备。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "贵族少女，序列9“观众”非凡者",
+        "金毛大犬苏茜的主人",
+        "神秘学爱好者"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 61,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔默念着这三段描述，心里陡然翻腾起了狂风巨浪，再也无法维持“观众”的状态。"
+        },
+        {
+          "chapterSeq": 64,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽刚诵念完咒文，打算冥想祈求的内容，就感觉密封的灵性之墙内有风在刮动，就看见手背那深红的星辰在流转。她心头一跳，忙半闭上眼睛，静心勾勒，诚意请求。"
+        },
+        {
+          "chapterSeq": 67,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔突然惊醒，拥被坐起，脑海里尽是刚才梦到的画面。她清楚明白地知道，自己梦见的是愚者，那位高居灰雾之上的神秘愚者！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        61,
+        63,
+        64,
+        67
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会上聆听愚者完善的仪式魔法，后在罗思德群岛尝试祈求愚者并得到回应，对愚者的身份更加敬畏。他介绍了隐秘组织活动增长的趋势。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会非凡者，至少序列7“航海家”",
+        "“幽蓝复仇者”号船长"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 61,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊则发自内心的颤栗起来：“如果愚者设计的仪式魔法真能指向他，让他接收到我们的请求，那，那就必须用祂来尊称了……”"
+        },
+        {
+          "chapterSeq": 67,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊正置身于罗思德群岛的首府“慷慨之城”。……熟稔地完成祈求，阿尔杰耐心等待了一阵，但并未获得任何回应。……拉开房门，阿尔杰刚要走出，眼前突地一花，看见走廊之上是虚幻而无垠的灰雾，看见一道模糊的人影端坐于最深处……“我知道了。”熟悉而低沉的嗓音无形地回荡于阿尔杰的耳畔"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        61,
+        64,
+        67
+      ]
+    },
+    {
+      "name": "特里斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特里斯是苜蓿号惨案制造者，序列8“教唆者”。他在廷根市地下交易市场购买材料时被认出，遭值夜者、代罚者、机械之心联合追捕，但成功逃脱。后与魔女教派神秘女子接头，获得序列7“女巫”配方，得知晋升后将变为女性。",
+      "identInfos": [
+        "序列8“教唆者”",
+        "苜蓿号惨案制造者",
+        "圆脸，亲和腼腆，十八九岁",
+        "魔女教派成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 64,
+          "extractReason": "UPDATE",
+          "evidenceText": "“特里斯，疑似非凡者，初步评估为序列8‘教唆者’，不排除来自‘灵知会’的可能，苜蓿号惨案的制造者……有目击者证明，他离开恩马特港后来到了廷根，目前下落不明……”"
+        },
+        {
+          "chapterSeq": 66,
+          "extractReason": "UPDATE",
+          "evidenceText": "可以看到，他有着圆乎乎极具亲和力的脸庞，正是一手制造了苜蓿号惨案的“教唆者”特里斯。……那神秘女子抬起手，将一本书籍样的事物递给了特里斯。……“女巫！”特里斯愕然出声，不敢相信那古赫密斯语书写的单词是这个。……那名神秘女人捂住嘴巴，发出一阵低笑，好半天才回答道：“你不是一直都很奇怪吗？奇怪我们的高层为什么都是女性……这就是答案。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        64,
+        66,
+        68,
+        70
+      ]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "邓恩是值夜者小队队长，他通知克莱恩内部通缉令，允许克莱恩接触非凡者资料。在追踪瑞尔·比伯的行动中，他带领队伍与密修会燕尾服小丑交战，并使用“梦魇”能力控制失控的比伯，为洛络塔找出弱点创造条件。事后安排善后，并承诺为克莱恩申请正式成员。",
+      "identInfos": [
+        "廷根市值夜者小队队长",
+        "序列7“梦魇”",
+        "灰眸，穿黑色风衣",
+        "健忘"
+      ],
+      "aliases": [
+        {
+          "alias": "队长",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 64,
+          "extractReason": "UPDATE",
+          "evidenceText": "还未来得及和罗珊打招呼，克莱恩就看见队长邓恩·史密斯出来，手里拿着一张配有画像的纸张。“你也看下这张内部通缉令，一位非常凶恶和残忍的非凡者进入了廷根。”"
+        },
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯低沉醇和的嗓音随之响起，“你和我去一下查尼斯门，封印物‘2-049’已护送抵达……”"
+        },
+        {
+          "chapterSeq": 74,
+          "extractReason": "UPDATE",
+          "evidenceText": "“洛络塔，它看起来是死灵，你尽快寻找到它的弱点。”“好。”洛络塔没有多说，抬手按住了自己的双眼。……“找到了！”黑发女士洛络塔终于开口说话，“我需要你们控制住它，至少三秒。”“好。”邓恩没有啰嗦，伸手按住眉心，闭上了眼睛。他似乎就这样睡了过去，有无形的波纹一圈又一圈荡开。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        64,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80
+      ]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "老尼尔带克莱恩去地下交易市场，介绍市场情况。在任务后，他为值夜者进行仪式魔法治疗。",
+      "identInfos": [
+        "值夜者小队正式成员",
+        "资深非凡者，擅长仪式魔法",
+        "穿黑色古典长袍"
+      ],
+      "aliases": [
+        {
+          "alias": "尼尔先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 65,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔慢悠悠喝了口手工咖啡，吧嗒了下嘴唇，然后才拿起有签名和印章的文件，走出了武器库……"
+        },
+        {
+          "chapterSeq": 68,
+          "extractReason": "UPDATE",
+          "evidenceText": "“傍晚时分……已经向班森、梅丽莎交待过的克莱恩在黑荆棘安保公司用过晚餐，正与老尼尔一道乘坐公共马车前往码头区。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        65,
+        66,
+        68,
+        69,
+        78,
+        80
+      ]
+    },
+    {
+      "name": "瑞尔·比伯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "瑞尔·比伯是安提哥努斯家族后裔，他吸收安提哥努斯家族笔记力量失控，变成灰白色怪物，被值夜者小队消灭，身体自爆，留下富集超凡的部位。",
+      "identInfos": [
+        "安提哥努斯家族后裔",
+        "持有安提哥努斯家族笔记",
+        "失控变成怪物，被值夜者消灭"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“封印物‘2-049’进入狂暴化状态，每次影响人数上升到两人，可以确认，瑞尔·比伯是安提哥努斯家族的后裔。”"
+        },
+        {
+          "chapterSeq": 74,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是一个超过两米的人形生物，手脚关节全部不自然地反向扭曲着……瑞尔·比伯……这他妈还像人吗？"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        74,
+        75,
+        77
+      ]
+    },
+    {
+      "name": "洛络塔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "洛络塔是贝克兰德教区值夜者，序列8“掘墓人”，神枪手。参与护送封印物“2-049”并追踪瑞尔·比伯。在战斗中找出怪物比伯的弱点，击入其裆部拖出肠子和笔记，导致怪物自爆。",
+      "identInfos": [
+        "贝克兰德教区值夜者",
+        "序列8“掘墓人”，神枪手",
+        "三十岁上下，黑发，穿男装"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这位是洛络塔女士，序列8的‘掘墓人’，同时也是一位神枪手。”这时，那位三十岁上下的黑发女士和善地对克莱恩点了点头。"
+        },
+        {
+          "chapterSeq": 74,
+          "extractReason": "UPDATE",
+          "evidenceText": "“找到了！”黑发女士洛络塔终于开口说话，“我需要你们控制住它，至少三秒。”……她单手按地，握拳往上，炮弹发射般轰进了怪物比伯的裆部。……刺啦！洛络塔小臂回伸，拖出了一节满是黄褐和血污的肠子。在那肠子之中，隐约有一本古老陈旧的笔记。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        77,
+        78
+      ]
+    },
+    {
+      "name": "艾尔·哈森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾尔·哈森是贝克兰德教区值夜者，序列7“梦魇”。参与护送封印物“2-049”并追踪瑞尔·比伯。在战斗中吟诵诗歌影响敌人和怪物，事后与克莱恩交流战斗细节。",
+      "identInfos": [
+        "贝克兰德教区值夜者",
+        "序列7“梦魇”",
+        "身穿灰色对襟风衣，中年男士"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“艾尔·哈森，和我一样的老家伙。”他话音未落，克莱恩就眼睁睁看见那位身穿灰色对襟风衣的艾尔·哈森先生的“屈臂伸展动作”变得生涩"
+        },
+        {
+          "chapterSeq": 73,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔·哈森主动放缓了前冲的脚步，表情变得宁静而忧伤。他嘴巴张开，吟诵起一首让人平和，让人仿佛置身于夜晚的诗歌……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "name": "博尔吉亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "博尔吉亚是贝克兰德教区值夜者，护送封印物“2-049”。在追捕行动中受伤，服食“女神的凝望”后恢复。发现怪物比伯残留物。",
+      "identInfos": [
+        "贝克兰德教区值夜者",
+        "脸侧有刀痕，褐黄色眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“博尔吉亚。”邓恩指着最后一位值夜者道。那是一位脸侧有刀痕的冷漠男士，他的褐黄色眼眸如同老鹰一样敏锐"
+        },
+        {
+          "chapterSeq": 77,
+          "extractReason": "UPDATE",
+          "evidenceText": "眼睛锐利如同老鹰的博尔吉亚忽然发声：“找到了，咳。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伦纳德参与追踪瑞尔·比伯行动，负责驾车。在战斗中用诗歌影响怪物，并开枪射击。事后他暗示克莱恩自己也有秘密，负责后续调查。",
+      "identInfos": [
+        "值夜者小队“午夜诗人”",
+        "自恋，不爱穿正装",
+        "可能有自己的秘密"
+      ],
+      "aliases": [
+        {
+          "alias": "伦纳德",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你负责驾车，这种事情最好不让西泽尔参与。”“没问题。”伦纳德收起了轻浮，郑重点头道。"
+        },
+        {
+          "chapterSeq": 76,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔……他停在了他的旁边，眼视前方地低笑道：“我本来想救你的，可发现你并不需要。”“不用在意，这个世界上有很多特殊的人，总是能做到别人做不到的事情，比如说你……”“……也比如说我。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "name": "格拉西斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "格拉西斯请克莱恩占卜铁矿投资，克莱恩建议他避开，但他表示会认真考虑。他之前曾因疾病被克莱恩建议，后经民俗草药师治疗恢复。",
+      "identInfos": [
+        "占卜俱乐部会员",
+        "曾患严重疾病，被克莱恩占卜建议",
+        "考虑投资霍纳奇斯铁矿"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 62,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有一个投资的机会，但牵涉的金额太多……兰尔乌斯先生在霍纳奇斯山脉考察时，发现了一处藏量丰富、品相很好的大型铁矿……”"
+        },
+        {
+          "chapterSeq": 62,
+          "extractReason": "UPDATE",
+          "evidenceText": "格拉西斯坦然回答道：“他叫罗森·达克威德，在东区弗拉德街18号有家小店，叫做‘罗森的民俗草药店’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        62
+      ]
+    },
+    {
+      "name": "乔伊斯·迈尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乔伊斯·迈尔是苜蓿号幸存者，安娜的未婚夫。他找克莱恩解梦，被引导发现特里斯是惨案制造者，决定去警察局。",
+      "identInfos": [
+        "苜蓿号幸存者",
+        "安娜的未婚夫",
+        "鼻尖微弯，如鹰嘴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 63,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔伊斯取下礼帽，弯腰行礼，“感谢您对安娜的指点，她一直都在称赞您的神奇，几乎停不了嘴。”"
+        },
+        {
+          "chapterSeq": 63,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔伊斯的脸色变幻了几下，最终恢复了正常，带着点苍白的正常。他露出一抹苦笑道：“我明白了，谢谢您的解梦，或许我得去趟警察局了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        63
+      ]
+    },
+    {
+      "name": "阿德米索尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "阿德米索尔是天生高灵感的“怪物”，在地下交易市场因看到克莱恩的死亡味道而眼睛流血。",
+      "identInfos": [
+        "绰号“怪物”",
+        "天生高灵感",
+        "孤儿，脸色苍白，眼神涣散"
+      ],
+      "aliases": [
+        {
+          "alias": "怪物",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 68,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他停在克莱恩面前，怔怔望着对方。忽然，他高声笑道：“哈哈，死亡的味道，死亡的……啊！”他话音未落，突地惨叫了一声，两只眼睛紧紧闭上，流出了血色的液体。"
+        },
+        {
+          "chapterSeq": 68,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“不用在意，他叫阿德米索尔，一个孤儿，绰号是‘怪物’，他天生灵感很高……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        68
+      ]
+    },
+    {
+      "name": "弗莱",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗莱是值夜者“收尸人”，他检查燕尾服小丑尸体，绘制肖像。他引导克莱恩正视尸体以克服心理阴影，并发现烙印脱落成血球。",
+      "identInfos": [
+        "值夜者“收尸人”",
+        "黑发蓝眼，皮肤苍白",
+        "曾梦想做画家，做过牧师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 78,
+          "extractReason": "UPDATE",
+          "evidenceText": "“弗莱，洛耀，你们立刻去码头区提利尔仓库，协助伦纳德处理后续。”“好的。”头发乌黑，表情冷淡的女士洛耀率先起身。黑发蓝眼、皮肤苍白的“收尸人”弗莱跟着站直。"
+        },
+        {
+          "chapterSeq": 78,
+          "extractReason": "UPDATE",
+          "evidenceText": "他返回尸体附近，放好白纸，手拿铅笔，刷刷刷画了起来。……“在成为值夜者之前，我的梦想是做一位画家。”弗莱的语气没有一点起伏。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        78,
+        79
+      ]
+    },
+    {
+      "name": "赛琳娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "赛琳娜是梅丽莎的朋友，即将过十六岁生日，邀请克莱恩一家参加生日晚宴。",
+      "identInfos": [
+        "梅丽莎的朋友",
+        "即将满十六岁",
+        "生日晚宴邀请克莱恩一家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 80,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“班森，克莱恩，这周周日是赛琳娜的生日，她和她父母想邀请我们一家去参加晚宴，你们有空吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        80
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "苏茜是奥黛丽的金毛大犬，误饮“观众”魔药成为非凡者。奥黛丽让其守门以便举行仪式。",
+      "identInfos": [
+        "奥黛丽的金毛大犬",
+        "误饮“观众”魔药成为非凡者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 63,
+          "extractReason": "UPDATE",
+          "evidenceText": "“苏茜，你也是非凡者了，我们是同类，呸，不是，我的意思是，我们必须更好地互相帮助，你等下守住门，不让任何人打扰到我，我要进行一个仪式。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        61,
+        63,
+        64
+      ]
+    },
+    {
+      "name": "罗森·达克威德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗森·达克威德是东区弗拉德街的民俗草药师，曾用伦堡民俗药剂帮助格拉西斯。",
+      "identInfos": [
+        "民俗草药师",
+        "在东区弗拉德街18号开店"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 62,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“他叫罗森·达克威德，在东区弗拉德街18号有家小店，叫做‘罗森的民俗草药店’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        62
+      ]
+    },
+    {
+      "name": "安洁莉卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "安洁莉卡是占卜俱乐部的接待女士，曾因克莱恩的建议而心情好转，感谢克莱恩。",
+      "identInfos": [
+        "占卜俱乐部接待",
+        "棕黄头发，眼圈曾红肿"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 62,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩按住黑色非丝绸的半高礼帽……进入位于二楼的俱乐部大门，看见了头发棕黄的漂亮女士安洁莉卡。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        62
+      ]
+    },
+    {
+      "name": "班森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "班森是克莱恩的哥哥，公务员。他收到克莱恩买的啤酒，关心克莱恩的消费，并接受赛琳娜生日晚宴邀请。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "公务员",
+        "发际线日渐后退"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 66,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩，我知道你对我们的重视，但确实没有必要，没必要总是在这些事情上花钱。”班森看着装啤酒的小木桶，斟酌了下语言道。"
+        },
+        {
+          "chapterSeq": 80,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我也是。”班森用手指梳理了下头发道，“看来我们得考虑送给赛琳娜小姐的生日礼物了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        66,
+        67,
+        69,
+        80
+      ]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "梅丽莎是克莱恩的妹妹，技术学校学生。她收到克莱恩买的柠檬蛋糕和新裙子，受到赛琳娜生日晚宴邀请，并帮克莱恩寄信。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "技术学校学生",
+        "节俭，喜欢齿轮和蒸汽机械"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 66,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩，我知道你对我们的重视，但确实没有必要，没必要总是在这些事情上花钱。”梅丽莎站在旁边，无声点头，频频点头。"
+        },
+        {
+          "chapterSeq": 69,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎“嗯”了一声：“刚从罗切尔太太那里拿回来，我想着等等肯定要洗，不如先试一下。”"
+        },
+        {
+          "chapterSeq": 80,
+          "extractReason": "UPDATE",
+          "evidenceText": "“班森，克莱恩，这周周日是赛琳娜的生日，她和她父母想邀请我们一家去参加晚宴，你们有空吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        66,
+        67,
+        69,
+        80
+      ]
+    },
+    {
+      "name": "罗珊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗珊是值夜者文职人员，与克莱恩闲聊，提到文职人员轮值压力，并开玩笑建议克莱恩结婚后泄露秘密给妻子以增加文职人员。",
+      "identInfos": [
+        "值夜者小队文职人员",
+        "棕发女孩，话多"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 80,
+          "extractReason": "UPDATE",
+          "evidenceText": "罗珊表情悲痛地摇头道：“不，之前是四个，更早是五个，可惜，科恩黎选择了成为‘不眠者’，薇欧拉在上个月没有续签合同……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        80
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "值夜者小队在廷根市追踪安提哥努斯家族后裔瑞尔·比伯，与密修会燕尾服小丑交战，消灭失控怪物比伯。克莱恩申请成为正式成员，等待圣堂批复。值夜者内部资料显示许多序列途径信息。",
+      "identInfos": [
+        "黑夜女神教会非凡者组织",
+        "廷根市小队队长邓恩·史密斯",
+        "成员包括占卜家克莱恩、午夜诗人伦纳德等"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 77,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我曾经承诺过，等确认瑞尔·比伯是安提哥努斯家族的后裔，就让你成为值夜者的正式成员，现在，我们不仅肯定了瑞尔·比伯的身份，而且还消灭了这个怪物，挫败了密修会的阴谋。”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在克莱恩（愚者）主持下继续聚会，愚者完善了指向自身的仪式魔法，让“正义”和“倒吊人”尝试祈求并得到回应。“正义”询问了考试筛选建议的反馈，“倒吊人”提到隐秘组织活动增长。",
+      "identInfos": [
+        "由愚者召集的隐秘聚会",
+        "成员包括愚者、正义、倒吊人",
+        "每周一聚会，共享神秘知识"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 61,
+          "extractReason": "UPDATE",
+          "evidenceText": "“按照倒吊人上次的提议，正事之后是闲聊阶段，谁先开始？”克莱恩给出请的手势。奥黛丽沉吟了一下道：“愚者先生，您上次给出的考试筛选、事务政务分离建议，得到了不少议员的认同……”"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "密修会派出燕尾服小丑跟踪值夜者，试图夺取安提哥努斯家族笔记。燕尾服小丑与值夜者交战，被克莱恩设计杀死。密修会掌握“占卜家”序列途径，序列8为“小丑”。",
+      "identInfos": [
+        "古老隐秘组织",
+        "掌握“占卜家”序列途径",
+        "与安提哥努斯家族笔记有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 75,
+          "extractReason": "UPDATE",
+          "evidenceText": "“想被唤醒吗？只要你答应我一件事情……我知道你也是‘占卜家’……我们密修会可以给你序列8……‘占卜家’对应的序列8是，‘小丑’。”"
+        }
+      ]
+    },
+    {
+      "name": "魔女教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "魔女教派信奉“原初魔女”，高层为女性。特里斯与魔女教派神秘女子接头，获得序列7“女巫”配方，并得知晋升后变为女性。该组织序列途径包含“刺客”、“教唆者”、“女巫”。",
+      "identInfos": [
+        "信奉“原初魔女”的隐秘组织",
+        "高层为女性，散播灾难",
+        "序列途径包括刺客、教唆者、女巫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 66,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你不是一直都很奇怪吗？奇怪我们的高层为什么都是女性……这就是答案。”"
+        },
+        {
+          "chapterSeq": 66,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔女教派的事情，我了解的也不多，只知道她们信奉‘原初魔女’……她们的序列途径与此相关……高层都是女性……”"
+        }
+      ]
+    },
+    {
+      "name": "灵知会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "灵知会出现在值夜者资料中，被认为与特里斯有关联（不排除来自灵知会的可能）。该组织掌握“学徒”、“戏法大师”序列，也有“刺客”、“教唆者”。",
+      "identInfos": [
+        "第五纪元初期出现的隐秘组织",
+        "认为精神是人的本质，肉体是牢笼",
+        "掌握“学徒”、“戏法大师”等序列"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 64,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“特里斯，疑似非凡者，初步评估为序列8‘教唆者’，不排除来自‘灵知会’的可能……”"
+        },
+        {
+          "chapterSeq": 66,
+          "extractReason": "UPDATE",
+          "evidenceText": "“灵知会，第五纪元，也就是本纪元初期才出现的隐秘组织，他们认为精神是人的本质……可以明显看出，他们掌握的序列途径分为两种……暂时没任何证据表明灵知会拥有序列7及序列7之上的魔药。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "心理炼金会作为新生隐秘组织之一，在值夜者资料中被提及。",
+      "identInfos": [
+        "近一两百年内出现的新生组织",
+        "与“观众”序列可能有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 66,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "三是近一两百年内才出现的新生组织，有“极光会”，“铁血十字会”，“要素黎明”，和克莱恩最早听说过的“心理炼金会”。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "封印物“2-049”（安提哥努斯木偶）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物“2-049”是一个棕褐色小丑木偶，由安提哥努斯家族制造。它会影响周围五米内的人形生物，使其动作滞涩，最终被同化为木偶。在追踪瑞尔·比伯时，它靠近安提哥努斯后裔会狂暴，能力提升。爆炸后，它被抛至克莱恩附近，控制了他，但克莱恩通过转运仪式自救。事后被重新封印送往贝克兰德。",
+      "identInfos": [
+        "2级封印物，危险需谨慎利用",
+        "棕褐色巴掌大小丑木偶",
+        "能同化人形生物，使其变成木偶",
+        "安提哥努斯家族制造"
+      ],
+      "aliases": [
+        {
+          "alias": "2-049",
+          "type": "代号"
+        },
+        {
+          "alias": "安提哥努斯木偶",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 70,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩，你和我去一下查尼斯门，封印物‘2-049’已护送抵达，之后的行动可能需要你对那本笔记的感应。”"
+        },
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“2-049”抬起了脑袋，用纯黑色的无瞳眼眸望向了克莱恩。它缓缓咧开僵硬的嘴角，露出小丑般的笑容。"
+        },
+        {
+          "chapterSeq": 71,
+          "extractReason": "UPDATE",
+          "evidenceText": "“封印物‘2-049’进入狂暴化状态，每次影响人数上升到两人，可以确认，瑞尔·比伯是安提哥努斯家族的后裔。”"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "安提哥努斯家族笔记是第四纪遗留的古老笔记，充满不幸，带来灾祸。瑞尔·比伯用它进行吸收力量仪式，失控成怪物。被值夜者夺回后，暂时存放于廷根查尼斯门，后将被送往贝克兰德圣堂。",
+      "identInfos": [
+        "第四纪安提哥努斯家族遗留",
+        "古老深远，散发不幸气息",
+        "深黑色硬纸封皮",
+        "被密修会觊觎"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 76,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩戴上手套，拾起了那本沾满黄褐与血污的安提哥努斯家族笔记。这本笔记的封皮完全由深黑色硬纸制成，它散发出古老而悠远的气息……"
+        },
+        {
+          "chapterSeq": 74,
+          "extractReason": "UPDATE",
+          "evidenceText": "在那肠子之中，隐约有一本古老陈旧的笔记。"
+        }
+      ]
+    },
+    {
+      "name": "燕尾服小丑的尸体",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "燕尾服小丑被克莱恩射杀后，尸体由弗莱检查。克莱恩触碰时，尸体突然抓住他呢喃“霍纳奇斯”，手腕烙印脱落成一悬浮蓝色血球。",
+      "identInfos": [
+        "密修会成员，涂小丑油彩",
+        "被克莱恩枪杀",
+        "死后发生异变，呢喃“霍纳奇斯”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 79,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这个时候，那具尸体的眼皮霍然上抬，露出一双没有焦距的蓝色眼眸。他嘴巴翕动，呢喃出声：“霍纳奇斯……霍纳奇斯……霍纳奇斯……”三声之后，急得手忙脚乱的克莱恩感觉到扣住自己腕部的手指开始松动……"
+        },
+        {
+          "chapterSeq": 79,
+          "extractReason": "UPDATE",
+          "evidenceText": "那个烙印不知什么时候脱落了下来，凝缩成一团带着些许蓝色的血球。血球只得拇指大小，以一种违背物理规则的姿态静静悬浮在半空。"
+        }
+      ]
+    },
+    {
+      "name": "蓝色血球",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "燕尾服小丑尸体手腕烙印脱落后形成的诡异物品，拇指大小，悬浮半空。来源和用途未知，被交予值夜者处理。",
+      "identInfos": [
+        "从燕尾服小丑尸体烙印脱落形成",
+        "拇指大小，带蓝色，悬浮",
+        "用途不明"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 79,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那个烙印不知什么时候脱落了下来，凝缩成一团带着些许蓝色的血球。血球只得拇指大小，以一种违背物理规则的姿态静静悬浮在半空。"
+        }
+      ]
+    },
+    {
+      "name": "怪物比伯残留物",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "瑞尔·比伯失控成怪物被消灭后，其身体某部位富集超凡，成为较高品质材料，被值夜者回收。",
+      "identInfos": [
+        "瑞尔·比伯失控后残留",
+        "拳头大小灰白大脑状",
+        "超凡材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 77,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“找到了，咳。”……很快，他看见了博尔吉亚身前的东西，那是一团拳头大小的灰白事物，表面布满沟壑，整体柔软有质，仿佛活生生取出来的大脑。"
+        }
+      ]
+    },
+    {
+      "name": "银制护身符半成品",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩在地下交易市场购买两件银制护身符半成品，打算自己制作成真正的护身符给班森和梅丽莎。",
+      "identInfos": [
+        "银制，一精致一简朴",
+        "克莱恩购买准备自制护身符"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 69,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“这两件多少钱？”他问的不是那些初步具备气场颜色的护身符，而是半成品，只有外形，还未雕刻咒文和象征符号的半成品。……“这个6苏勒。”摊主是个沉默寡言的中年男子，他指着较为精致的那件说道。……“这个5苏勒3便士。”"
+        }
+      ]
+    },
+    {
+      "name": "《霍纳奇斯主峰古代遗迹研究》",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "导师在信中提到的专著，由约翰·乔瑟夫著，鲁恩人出版社出版，描述霍纳奇斯主峰的古代遗迹。克莱恩计划去德维尔图书馆借阅。",
+      "identInfos": [
+        "考古学专著",
+        "作者约翰·乔瑟夫",
+        "记录霍纳奇斯主峰古代遗迹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 80,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“那本专著的名字是《霍纳奇斯主峰古代遗迹研究》，由鲁恩人出版社出版。”"
+        }
+      ]
+    }
+  ]
+}

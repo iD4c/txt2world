@@ -1,0 +1,79 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1211,
+      "toChapterSeq": 1230,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "奥黛丽因粮食危机和家庭观念冲击陷入迷茫，克莱恩通过塔罗会交流开导她，建议她深入体验底层并看清真实，同时协助她为戴里克晋升无暗者提供心理引导；奥黛丽作为心理炼金会成员持续为克莱恩提供心理治疗和精神支持。"
+    },
+    {
+      "fromChapterSeq": 1227,
+      "toChapterSeq": 1227,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "奥黛丽以灵体降临白银城，运用心理学技术引导戴里克剥离情感，协助其成功晋升无暗者。"
+    },
+    {
+      "fromChapterSeq": 1224,
+      "toChapterSeq": 1230,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "埃姆林为晋升伯爵委托塔罗会狩猎玫瑰学派巫王，克莱恩以世界身份接下委托，并计划狩猎另一位巫王作为陷阱吸引火力。"
+    }
+  ]
+}

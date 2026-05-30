@@ -1,0 +1,79 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 334,
+      "toChapterSeq": 353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩以450镑价格售出“戏法大师”配方给佛尔思，佛尔思接受寻找太阳领域物品的委托，并最终以现金交易完成。克莱恩在满月之夜将佛尔思拉入灰雾以保护她免受“门”先生呓语伤害。"
+    },
+    {
+      "fromChapterSeq": 334,
+      "toChapterSeq": 353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "relationSummary": "克莱恩与莎伦、马里奇合作，在废弃船坞设伏击杀玫瑰学派追捕者史蒂夫及其手下。战斗中莎伦为克莱恩创造偷袭机会，克莱恩用净化能力削弱敌人并支援莎伦，战后莎伦将“生物毒素瓶”和“狼人”特性分给克莱恩。"
+    },
+    {
+      "fromChapterSeq": 334,
+      "toChapterSeq": 353,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "迈克·约瑟夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "迈克·约瑟夫委托克莱恩担任保镖，一起前往东区调查采访居民生活状况。克莱恩接受委托并获得10镑报酬。"
+    }
+  ]
+}

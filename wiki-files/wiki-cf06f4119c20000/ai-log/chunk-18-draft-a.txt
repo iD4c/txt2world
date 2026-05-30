@@ -1,0 +1,946 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以夏洛克·莫里亚蒂身份陪同记者迈克深入东区调查，目睹极端贫困和恶劣环境，雇佣老科勒为线人搜集情报。之后参与晚宴，为贫苦女工丽芙免费寻女，通过占卜追踪到富豪卡平的豪宅，怀疑卡平涉嫌拐卖少女。",
+      "identInfos": [
+        "穿越者，塔罗会创始人“愚者”",
+        "序列7“魔术师”",
+        "化身夏洛克·莫里亚蒂侦探",
+        "前值夜者",
+        "持有阿兹克铜哨、太阳胸针等",
+        "追查兰尔乌斯和因斯·赞格威尔"
+      ],
+      "aliases": [
+        { "alias": "夏洛克·莫里亚蒂", "type": "化名" },
+        { "alias": "愚者", "type": "称号" },
+        { "alias": "世界", "type": "代号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [354, 356, 357, 362, 363, 367, 368, 369, 370, 371, 372, 373],
+      "evidences": [
+        {
+          "chapterSeq": 354,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩静静听完，叹了口气道：\n“这就是东区。”\n他环顾一圈，调整了情绪道：\n“这里更接近丛林，而不是人类社会。”"
+        },
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩斟酌着道：\n“每次见面，我会给你15苏勒的经费加报酬，如果你提供的情报让我满意，额外还会有5苏勒的奖励。”"
+        },
+        {
+          "chapterSeq": 362,
+          "extractReason": "UPDATE",
+          "evidenceText": "解决掉致命危险的克莱恩重新返回了现实世界，再次感受到了提升序列的迫切。"
+        },
+        {
+          "chapterSeq": 368,
+          "extractReason": "UPDATE",
+          "evidenceText": "他刚才也通过今天的《贝克兰德早报》，确定了一件事情，那就是明晚有“智慧之眼”老先生召集的非凡者聚会。"
+        },
+        {
+          "chapterSeq": 370,
+          "extractReason": "UPDATE",
+          "evidenceText": "找到你的赏金，以及刚才的车资，我将向你的父母索取。\n而且你们还得调配有非凡效果的药剂，帮我治疗一个病人。"
+        },
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩回望浆洗女工丽芙，用不含感情的口吻说道：\n“你相信东区的警察会真正用心地寻找黛西吗？"
+        }
+      ]
+    },
+    {
+      "name": "迈克·约瑟夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "记者迈克与克莱恩深入东区调查底层生活状况，铅白工厂女工缺乏保护，纺织女工反抗失业，他深受震撼且更加沉默。之后将调查报告提交给女神教会。",
+      "identInfos": [
+        "资深记者",
+        "受克莱恩委托在东区调查",
+        "风格吝啬但保留正义感",
+        "参与德维尔爵士的铅中毒宣传"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [354, 356],
+      "evidences": [
+        {
+          "chapterSeq": 354,
+          "extractReason": "UPDATE",
+          "evidenceText": "迈克·约瑟夫看到街边有不少衣着破烂眼神可怜的儿童，用手帕擦了下嘴，打算过去给他们一些便士。"
+        },
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "迈克表情沉凝地听完，默然了几秒，忽然开口道：\n“135万。”\n“啊？”由于患了感冒，克莱恩的嗓子已经明显有些哑了。\n迈克往前方迈步道：\n“这是初步统计的东区人口数量。”"
+        }
+      ]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "前流浪汉老科勒被克莱恩雇佣为线人，每周15苏勒，负责搜集东区情报，特别关注失业工人和邪教传播。他汇报了极光会变种造物主理论流传，并带克莱恩寻访浆洗女工丽芙一家。",
+      "identInfos": [
+        "前流浪汉",
+        "克莱恩的东区线人",
+        "曾失去孩子",
+        "熟悉东区黑帮和贫民生活"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [354, 356, 372, 373],
+      "evidences": [
+        {
+          "chapterSeq": 354,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的行动却被前流浪汉老科勒给阻止了：\n“那些是小偷！”"
+        },
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩斟酌着道：\n“每次见面，我会给你15苏勒的经费加报酬，如果你提供的情报让我满意，额外还会有5苏勒的奖励。”"
+        },
+        {
+          "chapterSeq": 372,
+          "extractReason": "UPDATE",
+          "evidenceText": "老科勒絮絮叨叨说了一阵后道：\n“对了，丽芙家的小女儿失踪了。”"
+        }
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "戴里克因幻听幻视被隔离在圆塔底部，隔壁被关四十二年的前探索小队队长失控并声称见过阿蒙。后前队长异变穿透封印，白银城首席科林将其清除，但阿蒙分身寄生戴里克灵体。克莱恩借助密契仪式和灰雾力量清除阿蒙分身。戴里克咳出半透明小虫，彻底摆脱寄生。",
+      "identInfos": [
+        "塔罗会成员“太阳”",
+        "白银城少年",
+        "序列8“祈光人”",
+        "父母双亡，渴望成为“太阳”非凡者",
+        "被阿蒙分身寄生后清除"
+      ],
+      "aliases": [
+        { "alias": "太阳", "type": "代号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [354, 355, 358, 361, 363, 364],
+      "evidences": [
+        {
+          "chapterSeq": 354,
+          "extractReason": "UPDATE",
+          "evidenceText": "白银城，出现幻听幻视的戴里克·伯格经过详细的检查，被带到了圆塔的底部。"
+        },
+        {
+          "chapterSeq": 355,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克正要祈求圣光，眼前忽然一亮，他所在的空间似乎全部被搬到了外界，且适逢闪电划过。"
+        },
+        {
+          "chapterSeq": 361,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，他眼前突然又弥漫出灰白的雾气，雾气的中央是高居于上的椅子，是悠闲而坐的“愚者”。\n紧接着，戴里克看见了自己，被透明虚幻身影覆盖着的自己。"
+        },
+        {
+          "chapterSeq": 364,
+          "extractReason": "UPDATE",
+          "evidenceText": "咳咳咳！\n他伏下身体，不断咳嗽着，直到喉咙一痒，咳出了一样东西！\n啪，一个半透明的事物滑过他的喉咙，掉在了地上，是条指头大小和粗细的虫子！"
+        }
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿蒙曾在前探索小队队长记忆中出现，被描述为普通男性且自称阿蒙。其后裔身份在塔罗会上被讨论。分身寄生戴里克·伯格灵体，试图潜入灰雾之上，被克莱恩利用灰雾力量清除，分身消散前低语“愚者”。远方本体念出“愚者”并跳入沟壑。",
+      "identInfos": [
+        "渎神者阿蒙家族成员",
+        "自称远古太阳神后裔",
+        "能寄生、分身",
+        "身穿黑色古典长袍，戴尖顶软帽和水晶单片眼镜",
+        "第四纪图铎王朝禁忌姓氏"
+      ],
+      "aliases": [
+        { "alias": "渎神者", "type": "称号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [355, 358, 361, 363],
+      "evidences": [
+        {
+          "chapterSeq": 355,
+          "extractReason": "UPDATE",
+          "evidenceText": "苍老的声音“嗯”了一声：\n“他告诉我们，他叫……”\n他顿了顿道：\n“阿蒙。”"
+        },
+        {
+          "chapterSeq": 361,
+          "extractReason": "UPDATE",
+          "evidenceText": "那虚影穿黑色古典长袍，戴同色尖顶软帽，脸上挂着水晶制成般的单片眼镜。"
+        },
+        {
+          "chapterSeq": 363,
+          "extractReason": "UPDATE",
+          "evidenceText": "那人影穿着黑色古典长袍，戴着同色尖顶软帽，黑卷发，黑眼睛，宽额头，瘦脸颊，与戴里克·伯格见过的虚影一模一样。\n他抬手捏了捏水晶制成的单片眼镜，扭头望向了左侧，望向了远方。"
+        }
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城六人议事团首席科林·伊利亚特在阿蒙分身异变时化身光人清除失控者，拿到由阿蒙遗留的半透明小虫。他审问戴里克，并派影子监控其后。",
+      "identInfos": [
+        "白银城“六人议事团”首席",
+        "强大“猎魔者”",
+        "头发花白，脸上有陈旧疤痕",
+        "浅蓝色眼眸深邃沧桑"
+      ],
+      "aliases": [
+        { "alias": "首席", "type": "称号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [361, 364],
+      "evidences": [
+        {
+          "chapterSeq": 361,
+          "extractReason": "UPDATE",
+          "evidenceText": "他面前站着的正是白银城“六人议事团”“首席”，年纪超过一百岁的强大“猎魔者”科林·伊利亚特！"
+        },
+        {
+          "chapterSeq": 364,
+          "extractReason": "UPDATE",
+          "evidenceText": "白银城，圆塔顶部一个昏暗的房间内。\n“六人议事团”首席，科林·伊利亚特正站在窗户前，凝望着黑暗与闪电笼罩下的白银城。"
+        }
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在心理课程中接触心理炼金会理论，发现“意识深海”观点与观众途径相关，读取到宠物犬苏茜初步掌握语言。她在书房发现父亲桌上有东区调查报告，并参加塔罗会，提交罗塞尔日记，得知序列0“黑皇帝”信息。在霍尔家午餐会上偶遇斯塔琳太太。",
+      "identInfos": [
+        "塔罗会成员“正义”",
+        "霍尔伯爵之女",
+        "序列8“读心者”",
+        "金发碧眼，美貌高雅",
+        "宠物犬苏茜误食“观众”魔药能说话"
+      ],
+      "aliases": [
+        { "alias": "正义", "type": "代号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [356, 357, 358, 359, 368],
+      "evidences": [
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽明显听出了对方的引诱意图，故作懵懂和好奇地问道：\n“老师，我更想知道神秘学领域心理方面的研究情况。”"
+        },
+        {
+          "chapterSeq": 357,
+          "extractReason": "UPDATE",
+          "evidenceText": "离开霍尔伯爵家的豪华马车上。\n卢克正与玛丽夫人闲聊刚才那一位位身份显赫的宾客……\n斯塔琳没有回应他，而是怔怔望向了窗外，望向了那有着湖泊的公园。"
+        },
+        {
+          "chapterSeq": 358,
+          "extractReason": "UPDATE",
+          "evidenceText": "她侧头望向青铜长桌最上首，浅笑道：\n“‘愚者’先生，我申请单独交流。”"
+        },
+        {
+          "chapterSeq": 359,
+          "extractReason": "UPDATE",
+          "evidenceText": "她克制住心里的激动和难以掩饰的兴奋，她吸了口气，具现出了那三页罗塞尔日记。"
+        },
+        {
+          "chapterSeq": 368,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽继续学习着心理学。\n她的脚旁，金毛大狗苏茜蹲在那里，眼睛炯炯有神，它时不时还会摇下尾巴，似乎非常享受。"
+        }
+      ]
+    },
+    {
+      "name": "伊思兰特·奥西斯莱卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的心理学教师伊思兰特试图引导奥黛丽对心理炼金会产生兴趣，透露心理学领域神秘学方面知识需要加入某些圈子，并介绍“意识深海”理论。",
+      "identInfos": [
+        "奥黛丽的心理学教师",
+        "疑似心理炼金会成员",
+        "长发及腰，黑发",
+        "序列不高，可能是“读心者”"
+      ],
+      "aliases": [
+        { "alias": "伊思兰特小姐", "type": "称呼" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [356, 368],
+      "evidences": [
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽明显听出了对方的引诱意图，故作懵懂和好奇地问道：\n“老师，我更想知道神秘学领域心理方面的研究情况。”\n伊思兰特抿了抿嘴，微皱眉头，为难地说道：\n“但这涉及一些保密誓言，我是说，这些理论，这些研究情况，属于某些神秘学圈子的秘密，只在内部传播。”"
+        },
+        {
+          "chapterSeq": 368,
+          "extractReason": "UPDATE",
+          "evidenceText": "心理医生伊思兰特讲完了入门部分，故作不经意地提到：\n“其实，还有这样一种理论。\n它认为人类会从先祖那里……继承一定的意识，从而形成自身行为模式的底层逻辑……”"
+        }
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "金毛大狗苏茜误食“观众”魔药后能初步掌握语言，在奥黛丽学习心理学时听懂理论，并在塔罗会上被讨论。",
+      "identInfos": [
+        "奥黛丽的宠物犬",
+        "因误食“观众”魔药而能说话",
+        "金毛大狗",
+        "对心理学感兴趣"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [356, 358, 368],
+      "evidences": [
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "“她不真诚！”苏茜直截了当地回答。\n接着，它歪了歪头道：\n“不过，她讲得东西很有意思，我觉得比肉和零食饼干还有意思！”"
+        },
+        {
+          "chapterSeq": 368,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗苏茜蹲在那里，眼睛炯炯有神，它时不时还会摇下尾巴，似乎非常享受。"
+        }
+      ]
+    },
+    {
+      "name": "斯塔琳·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "斯塔琳作为克莱恩的房东太太，在自家晚宴上为克莱恩和于尔根律师介绍对象，后随玛丽夫人参加霍尔伯爵家的午餐会，被奥黛丽猎犬价格震撼，变得低落。",
+      "identInfos": [
+        "克莱恩的房东太太",
+        "喜欢炫耀收入和生活",
+        "丈夫卢克·萨默尔年收入430镑",
+        "曾委托克莱恩捉奸"
+      ],
+      "aliases": [
+        { "alias": "萨默尔太太", "type": "称呼" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [357, 367],
+      "evidences": [
+        {
+          "chapterSeq": 357,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯塔琳并未生气，非常认真地回应道：\n“这非常重要。”\n“如果你们能彼此喜欢，建立家庭，收入是必不可少的基础。”"
+        },
+        {
+          "chapterSeq": 357,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯塔琳没有回应他，而是怔怔望向了窗外，望向了那有着湖泊的公园。\n她的耳畔依稀还回荡着之前那位贵族少女漫不经心的话语：\n“450镑。”"
+        }
+      ]
+    },
+    {
+      "name": "于尔根·库珀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "于尔根律师在晚宴上被介绍给几位小姐，后支付克莱恩照顾猫的报酬6苏勒，并接受吸血鬼埃姆林为奶奶多丽丝太太治疗肺病，药剂令多丽丝暂时好转。",
+      "identInfos": [
+        "高级事务律师",
+        "年收入至少200镑",
+        "与奶奶多丽丝同住",
+        "养有黑猫布罗迪"
+      ],
+      "aliases": [
+        { "alias": "于尔根", "type": "简称" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [357, 370, 371, 372],
+      "evidences": [
+        {
+          "chapterSeq": 357,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩笑着凑了过去，主动问候道：\n“多丽丝太太恢复得怎么样了？”\n于尔根不太自在地扯了扯领结道：\n“她下周就能出院。”"
+        },
+        {
+          "chapterSeq": 371,
+          "extractReason": "UPDATE",
+          "evidenceText": "于尔根看了克莱恩一眼，而事前做了占卜的对方给出了肯定的点头。\n“好。”于尔根终于做出了决定。\n他警惕地看着多丽丝太太喝下那瓶药剂，仔细观察着她的反应。"
+        }
+      ]
+    },
+    {
+      "name": "多丽丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "多丽丝太太肺病出院后被吸血鬼埃姆林用特效药治疗，暂时好转，但根疾难愈，寿命仅剩三到五年。",
+      "identInfos": [
+        "于尔根律师的奶奶",
+        "肺病患者",
+        "与黑猫布罗迪相伴",
+        "住在乔伍德区明斯克街附近"
+      ],
+      "aliases": [
+        { "alias": "多丽丝太太", "type": "称呼" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [357, 367, 371, 372],
+      "evidences": [
+        {
+          "chapterSeq": 367,
+          "extractReason": "UPDATE",
+          "evidenceText": "路过于尔根家的时候，他听见了凸肚窗吱呀打开的声音，本能扭头，望了过去。\n站在窗口的是戴着黑色毛绒软帽，围着灰蓝色厚实围巾的多丽丝太太，和之前相比，她脸色又差了一些，身形愈发佝偻。"
+        },
+        {
+          "chapterSeq": 371,
+          "extractReason": "UPDATE",
+          "evidenceText": "多丽丝太太最初没什么变化，但渐渐觉得自己的呼吸正一点点变得轻松。\n她站了起来，弯腰抱了下猫，欣喜地说道：\n“我感觉好多了！”"
+        }
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林·怀特是吸血鬼，被乌特拉夫斯基神父囚禁后假意改信大地母神获释，但被“心魇蜡烛”种下暗示，每天被迫回教堂劳动一小时。他回家后发现人偶收藏没被带走，克莱恩以此索取报酬，后为多丽丝太太治疗肺病。",
+      "identInfos": [
+        "吸血鬼（血族）",
+        "黑发红瞳，英俊秀气",
+        "人偶收藏爱好者",
+        "父母是内科医师",
+        "被大地母神教会神父乌特拉夫斯基囚禁"
+      ],
+      "aliases": [
+        { "alias": "怀特先生", "type": "称呼" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [365, 369, 370, 371, 372],
+      "evidences": [
+        {
+          "chapterSeq": 365,
+          "extractReason": "UPDATE",
+          "evidenceText": "上上下下检查了一遍后，克莱恩确认怀特家没有古怪的地方，而且那对夫妇连根头发都未曾遗留……\n他回到那间摆满人偶的卧室……"
+        },
+        {
+          "chapterSeq": 369,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特收起忧愁，得意笑道：\n“侦探先生，你不需要演戏。\n或者说，我该称呼你万能钥匙的新主人？\n嘿嘿，对高贵的血族来说，每个人的味道都是不同的，会拥有不同的血液特征，哪怕我当时被关在地下室里，也闻到了，记住了你的味道。”"
+        },
+        {
+          "chapterSeq": 370,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩侧过脑袋，怜悯地看了埃姆林·怀特一眼：\n“也许乌特拉夫斯基神父利用它给你种下了暗示，让你逐渐地，彻底地，真正地信仰起大地母神。”"
+        },
+        {
+          "chapterSeq": 371,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩指着身边的吸血鬼道：\n“我新认识了位医师，擅长治疗肺部疾病，所以专门请他来帮你看看，这位，埃姆林·怀特医师。”"
+        }
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基神父",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "丰收教堂主教，曾为海盗，用“心魇蜡烛”给吸血鬼埃姆林种下心理暗示，使其每天回教堂劳动一小时。",
+      "identInfos": [
+        "大地母神教会丰收教堂主教",
+        "身高超过两米二十，魁梧强壮",
+        "前海盗",
+        "持有封印物“心魇蜡烛”"
+      ],
+      "aliases": [
+        { "alias": "乌特拉夫斯基主教", "type": "称呼" },
+        { "alias": "神父", "type": "称呼" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [368, 369, 370],
+      "evidences": [
+        {
+          "chapterSeq": 368,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基主教正在布道，超过两米二十的身高和宽松教士袍无法掩盖的魁梧体魄，给人极大的压迫感。\n但是，他的表情却异常温和，带着对生命的赞美和感恩。"
+        },
+        {
+          "chapterSeq": 370,
+          "extractReason": "UPDATE",
+          "evidenceText": "神父手里有一件强力的封印物，叫做“心魇蜡烛”，它能让持有者进入目标心灵的最深处，在那里，没有人能够撒谎。"
+        }
+      ]
+    },
+    {
+      "name": "丽芙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "浆洗女工丽芙因小女儿黛西失踪而悲痛，克莱恩免费帮助寻人，通过占卜追踪到富豪卡平豪宅。",
+      "identInfos": [
+        "东区浆洗女工",
+        "寡妇，有两个女儿",
+        "曾与站街女郎吵架",
+        "女儿黛西失踪"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [372, 373],
+      "evidences": [
+        {
+          "chapterSeq": 372,
+          "extractReason": "UPDATE",
+          "evidenceText": "老科勒絮絮叨叨说了一阵后道：\n“对了，丽芙家的小女儿失踪了。”"
+        },
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "浆洗女工丽芙突然回神，转头望向大女儿，收起悲伤的表情，恶狠狠地说道：\n“哭什么哭？快起来洗衣服！\n你想饿肚子吗？你想免费学校都去不成吗？”"
+        }
+      ]
+    },
+    {
+      "name": "弗莱娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "丽芙的大女儿弗莱娅因妹妹黛西失踪而自责，提供黛西的单词册给克莱恩用于寻人。",
+      "identInfos": [
+        "丽芙的大女儿",
+        "十七八岁浆洗工",
+        "妹妹黛西失踪"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [373],
+      "evidences": [
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "叫做弗莱娅的少女已站了起来，两眼又红又肿。\n她低泣着说道：\n“就在，就在破斧巷，侦探先生，黛西会没事吧？”"
+        }
+      ]
+    },
+    {
+      "name": "黛西",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "丽芙的小女儿黛西在送衣途中失踪，克莱恩占卜追踪到富豪卡平豪宅，怀疑其被拐卖。",
+      "identInfos": [
+        "丽芙的小女儿",
+        "十三四岁，免费学校学生",
+        "喜欢学习，是班级导生",
+        "在东区破斧巷失踪"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [372, 373],
+      "evidences": [
+        {
+          "chapterSeq": 372,
+          "extractReason": "UPDATE",
+          "evidenceText": "老科勒絮絮叨叨说了一阵后道：\n“对了，丽芙家的小女儿失踪了。”"
+        },
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩回望浆洗女工丽芙，用不含感情的口吻说道：\n“你相信东区的警察会真正用心地寻找黛西吗？"
+        }
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "伦纳德加入红手套后接受培训，得知“寄生者”知识，怀疑体内老爷爷实为寄生者，两人摊牌，老爷爷承认寄生但声称不害宿主，并透露仇敌姓氏为“阿蒙”。",
+      "identInfos": [
+        "前值夜者，现红手套成员",
+        "墨发碧眼",
+        "体内有寄生者（老爷爷）",
+        "复仇对象是因斯·赞格威尔"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [364, 365],
+      "evidences": [
+        {
+          "chapterSeq": 364,
+          "extractReason": "UPDATE",
+          "evidenceText": "墨发碧眼的伦纳德·米切尔披上一身黑色的风衣，戴上红色的手套，走出了自己的房间。"
+        },
+        {
+          "chapterSeq": 365,
+          "extractReason": "UPDATE",
+          "evidenceText": "默然十几秒，他突然非常小声地，近乎咬牙切齿地说道：\n“原来你是‘寄生者’！”"
+        }
+      ]
+    },
+    {
+      "name": "老爷爷（寄生者）",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "寄生在伦纳德体内的苍老声音承认自己是“寄生者”，但声称不害宿主，只为恢复和躲避仇敌“阿蒙”，并期望伦纳德强大后帮他重塑身体。",
+      "identInfos": [
+        "寄生在伦纳德体内的古老灵魂",
+        "自称“寄生者”",
+        "提供“扮演法”和知识",
+        "仇敌姓氏为“阿蒙”",
+        "所属途径与“学徒”“占卜家”有关"
+      ],
+      "aliases": [],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [365],
+      "evidences": [
+        {
+          "chapterSeq": 365,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我是你的奇遇啊，你不是一直这么认为吗？认为自己独一无二，是这个大时代的主角之一……”\n“其实，你并不像平时表现出来的那么自大那么狂傲，你始终在提防着我……”"
+        },
+        {
+          "chapterSeq": 365,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果我‘寄生者’能那么容易被发现，今天那位叫做塞西玛的高级执事就不会只做提醒，不带着你们去接受检查。”"
+        }
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿尔杰消化完“航海家”魔药，规划晋升序列5并伪装序列7以进入教会高层，同时觊觎罗塞尔日记与“黑皇帝”牌。他在塔罗会上透露阿蒙家族信息，并为“魔术师”提供大海材料信息。",
+      "identInfos": [
+        "塔罗会成员“倒吊人”",
+        "风暴教会代罚者",
+        "“幽蓝复仇者”号船长",
+        "序列6“航海家”（已消化）",
+        "觊觎教会高层权力"
+      ],
+      "aliases": [
+        { "alias": "倒吊人", "type": "代号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [358, 359, 360, 366],
+      "evidences": [
+        {
+          "chapterSeq": 358,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰望了最上首的“愚者”先生一眼，见祂安稳淡然，没做任何表示，于是大着胆子说道：\n“臆想是一个可能，但不会没有原因就想出‘阿蒙’这个姓名。”"
+        },
+        {
+          "chapterSeq": 366,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰睁开眼睛，抬起双手，让四周出现了点点蔚蓝。\n那些蔚蓝哗啦着交汇，变成了一道席卷往前的巨浪。\n阿尔杰双手一按，这巨浪顿时崩解，化作无数雨滴，落到了甲板上。"
+        }
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思为“戏法大师”魔药材料发愁，在塔罗会上求购食灵者胃袋和深海枪鱼血液。她偶遇亚伯拉罕家族后裔劳伦斯，被询问安丽萨太太遗物事宜。",
+      "identInfos": [
+        "塔罗会成员“魔术师”",
+        "小说作家",
+        "序列8“戏法大师”（未晋升）",
+        "与休同住",
+        "满月受“门”先生呓语影响"
+      ],
+      "aliases": [
+        { "alias": "魔术师", "type": "代号" }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [358, 360, 373],
+      "evidences": [
+        {
+          "chapterSeq": 358,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你们有听说过阿蒙这个人吗？”\n“魔术师”佛尔思一脸茫然地听着，总觉得这里讨论的事情在自己的知识范围外。"
+        },
+        {
+          "chapterSeq": 360,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思悄然吸了口气道：\n“我想求购食灵者的胃袋和20毫升深海枪鱼的血液，用金镑支付。”"
+        },
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "走着走着，她发现自己不知不觉回到了一个熟悉的地方。\n她的斜前方是她最早工作过的尤瑟夫诊所，一个相当大的私人诊所。"
+        }
+      ]
+    },
+    {
+      "name": "卡平",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "富豪卡平涉嫌拐卖少女，克莱恩占卜追踪失踪的黛西至其豪宅，发现那里戒备森严且有危险感。",
+      "identInfos": [
+        "贝克兰德富豪",
+        "涉嫌多起少女失踪案",
+        "豪宅在乔伍德区艾瑞斯街"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [373],
+      "evidences": [
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "马车夫略感诧异地回应道：\n“先生，您不是来拜访卡平先生的？”\n克莱恩笑着反问道：\n“你为什么会这么认为？”\n“经常会有人从东区出来，乘坐我的马车到这里，呵呵，这是大富豪卡平先生的家。”"
+        }
+      ]
+    },
+    {
+      "name": "玛丽夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "玛丽夫人收到恐吓信后求助克莱恩，克莱恩推断系大气污染调查委员会内部自导自演以煽动民意，事后证实。她参加霍尔伯爵家午餐会。",
+      "identInfos": [
+        "考伊姆公司大股东",
+        "王国大气污染调查委员会委员",
+        "斯塔琳的朋友"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [357, 367],
+      "evidences": [
+        {
+          "chapterSeq": 367,
+          "extractReason": "UPDATE",
+          "evidenceText": "玛丽夫人侧头望了斯塔琳太太一眼，见她没像往常那么积极，只好自己斟酌着道：\n“那封信要求我在做大气污染调查的时候，公正地对待工厂的烟气，肯定它们的贡献，否则，会让我和那个随信寄来的玩偶一样……”"
+        },
+        {
+          "chapterSeq": 367,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩刚才想到的可能是，这次恐吓信事件是一个局，自己人设的局，为的是煽动民众，利用他们的怒火，从而让大气污染的调查顺利进行，让之后的法案有利于自身。"
+        }
+      ]
+    },
+    {
+      "name": "斯图亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯图亚特侦探支付悬赏分成给克莱恩，并对其能力极为敬佩，成为莫里亚蒂侦探的粉丝。",
+      "identInfos": [
+        "私家侦探",
+        "委托克莱恩寻找埃姆林·怀特",
+        "对克莱恩的破案能力十分推崇"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [371],
+      "evidences": [
+        {
+          "chapterSeq": 371,
+          "extractReason": "UPDATE",
+          "evidenceText": "他非常崇敬非常振奋地看着克莱恩，迫不及待地赞美道：\n“您果然是一位大侦探，拥有丰富的资源和渠道，这种没有一点线索的寻人案，你都能这么快解决！”"
+        }
+      ]
+    },
+    {
+      "name": "劳伦斯·诺德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "劳伦斯是安丽萨太太丈夫的哥哥，前来寻找弟媳，从佛尔思处得知安丽萨过世且无子嗣，担忧亚伯拉罕家族消亡。",
+      "identInfos": [
+        "亚伯拉罕家族后裔",
+        "间海郡公学教师",
+        "劳博罗的哥哥",
+        "寻找安丽萨太太"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [373],
+      "evidences": [
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "他忽然发现了停留在不远处，正张望这边的佛尔思，忙迈开步伐，走了过去，温和又急切地笑道：\n“美丽的女士，你住在这片街区吗？你认识劳博罗和安丽萨吗？”"
+        }
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "极光会在东区传播变种造物主理论，鼓动贫民向造物主祈祷以获救赎，可能利用贫民实现某些目的。",
+      "identInfos": [
+        "信仰“真实造物主”的隐秘组织",
+        "成员有A先生等",
+        "热衷散播混乱和灾难",
+        "曾在廷根策划兰尔乌斯事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 356,
+          "extractReason": "UPDATE",
+          "evidenceText": "最近不知从哪里传来了一种说法，说我们既然信仰七神之一，为什么不直接向源头的那位造物主祈祷？说祂在每个人的身体里，在所有的事物中，并没有真正逝去。\n向祂祈祷能让我们得到救赎……这……极光会传播的变种造物主理论？克莱恩暗想。"
+        }
+      ]
+    },
+    {
+      "name": "大气污染调查委员会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "委员会成员玛丽夫人收到恐吓信，克莱恩推断系内部自导自演煽动民意，以推动反污染法案。委员会包括主席德斯·肖爵士、首席秘书希伯特·霍尔等。",
+      "identInfos": [
+        "王国政府组织",
+        "调查大气污染推动立法",
+        "成员包括玛丽夫人、希伯特·霍尔等",
+        "被考伊姆公司等利益方影响"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 357,
+          "extractReason": "UPDATE",
+          "evidenceText": "他们都是在政府、王室或议院拥有广泛影响力的人物，这个委员会最终做出的报告，将成为预定的《反污染法案》《烟气减排法案》最重要的依据。"
+        },
+        {
+          "chapterSeq": 367,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩刚才想到的可能是，这次恐吓信事件是一个局，自己人设的局，为的是煽动民众，利用他们的怒火，从而让大气污染的调查顺利进行，让之后的法案有利于自身。"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "劳伦斯·诺德担忧亚伯拉罕家族消亡，家族成员稀少且多遭不测。",
+      "identInfos": [
+        "第四纪图铎王朝五大家族之一",
+        "掌握“学徒”途径",
+        "家族受诅咒，后裔凋零",
+        "先祖伯特利疑为“门”先生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 373,
+          "extractReason": "UPDATE",
+          "evidenceText": "劳博罗过世了，而且没有留下孩子，也不知道他的非凡特性被安丽萨弄去了哪里……理查德死在了极光会的手上……萨姆根本就不想联系我们，不想承担姓氏的责任……\n亚伯拉罕家族真要这样慢慢消亡了吗？"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "亵渎之牌“黑皇帝”牌在塔罗会上被克莱恩摆放，用于匹配“愚者”身份，后用于密契仪式压制力量，清除阿蒙分身。",
+      "identInfos": [
+        "亵渎之牌之一",
+        "对应序列0“黑皇帝”",
+        "反占卜反预言",
+        "克莱恩从罗塞尔纪念展盗得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 358,
+          "extractReason": "UPDATE",
+          "evidenceText": "如今，他身前的桌面上只盖着一张“黑皇帝”牌。\n这是足以匹配“愚者”身份的物品！"
+        },
+        {
+          "chapterSeq": 363,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩迅速有了想法，探手抓向了背面朝上的“黑皇帝”牌！"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩拥有的太阳胸针在密契仪式中被用作桥梁，凝聚金色神圣人影，结合灰雾力量清除阿蒙分身。",
+      "identInfos": [
+        "神奇物品",
+        "暗金色太阳鸟形状",
+        "能凝聚“太阳圣水”",
+        "对邪灵有净化驱邪效果",
+        "克莱恩花费2000镑购得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 363,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩脑海内刚闪过这么一个想法，右手已然抓起了太阳鸟形状的暗金色胸针。\n与此同时，他以自身的灵性为漩涡，将神秘空间内被撬动的力量吸聚了过来，潮水般导向太阳胸针。"
+        }
+      ]
+    },
+    {
+      "name": "秘密之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩利用《秘密之书》上的密契仪式知识，结合灰雾力量清除阿蒙分身。",
+      "identInfos": [
+        "古代巫王卡拉曼的神秘学书籍",
+        "记载向原始月亮祈求的仪式",
+        "含有密契元素",
+        "克莱恩从与莎伦合作中所得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 362,
+          "extractReason": "UPDATE",
+          "evidenceText": "想了片刻，环顾一圈，克莱恩发现唯有灰雾，唯有这片神秘的空间，才具备解决阿蒙的可能。\n必须想办法撬动它的力量……之前的献祭和赐予仪式就是榜样……有了这么个思路，克莱恩将目光投向了那本《秘密之书》。"
+        }
+      ]
+    },
+    {
+      "name": "心魇蜡烛",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "乌特拉夫斯基神父持有的封印物“心魇蜡烛”，能进入目标心灵深处，种下暗示，使吸血鬼埃姆林每天被迫回教堂劳动。",
+      "identInfos": [
+        "封印物",
+        "能进入目标心灵深处",
+        "种下无法撒谎的心理暗示",
+        "源自一条巨龙",
+        "观众途径物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 370,
+          "extractReason": "UPDATE",
+          "evidenceText": "神父手里有一件强力的封印物，叫做“心魇蜡烛”，它能让持有者进入目标心灵的最深处，在那里，没有人能够撒谎。\n而且，这只是它其中一个作用，它还有没有别的能力，我也不知道。"
+        }
+      ]
+    },
+    {
+      "name": "时之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克咳出的半透明小虫，有十二道圆环，是阿蒙分身遗留物，作用未知。",
+      "identInfos": [
+        "半透明小虫",
+        "有十二道透明圆环",
+        "阿蒙分身遗留",
+        "戴里克咳出"
+      ],
+      "aliases": [
+        { "alias": "半透明的小虫", "type": "别名" }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 361,
+          "extractReason": "UPDATE",
+          "evidenceText": "直剑的旁边，静静躺着一条半透明的小虫。\n它只有拇指长，纤细近乎孩童的小指，而一环又一环完全透明的颜色，将它分成了许多节。"
+        },
+        {
+          "chapterSeq": 364,
+          "extractReason": "UPDATE",
+          "evidenceText": "他弯腰捡起了那条半透明的小虫，终于数清楚对方身上共有十二道圆环。\n它有什么用？它能拿来做什么？它好像已经死了……戴里克陷入了沉思。"
+        }
+      ]
+    }
+  ]
+}

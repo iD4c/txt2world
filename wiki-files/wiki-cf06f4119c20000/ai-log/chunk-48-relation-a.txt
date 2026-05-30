@@ -1,0 +1,254 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "联合设局复仇因斯·赞格威尔，克莱恩提供策略、情报与远程支援，伦纳德执行正面战斗，共同击杀因斯。"
+    },
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "在复仇因斯的行动中合作，戴莉负责通灵阻挡灵界生物，克莱恩最终以秘偶化让她安详逝去。"
+    },
+    {
+      "fromChapterSeq": 940,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "复仇者"
+        }
+      },
+      "characterB": {
+        "name": "因斯·赞格威尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被复仇者"
+        }
+      },
+      "relationSummary": "克莱恩联合伦纳德、戴莉设局复仇，最终亲手以“丧钟”左轮击杀因斯。"
+    },
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "因斯·赞格威尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "寄生者"
+        }
+      },
+      "characterB": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被寄生者"
+        }
+      },
+      "relationSummary": "“红天使”恶灵附身因斯，二者合作利用“0-08”编写剧本猎杀教会高级执事，后被分离。"
+    },
+    {
+      "fromChapterSeq": 940,
+      "toChapterSeq": 941,
+      "characterA": {
+        "name": "乌特拉夫斯基主教",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "亚当（乌特拉夫斯基主教）设局困住因斯和乌洛琉斯，为克莱恩复仇创造条件，并作为“观众”见证使其消化魔药。"
+    },
+    {
+      "fromChapterSeq": 940,
+      "toChapterSeq": 941,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被分离者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "分离者"
+        }
+      },
+      "relationSummary": "克莱恩用“窃运者”符咒将“红天使”恶灵从因斯体内分离，送入冥界。"
+    },
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩远程指挥达尼兹祷告、发报通知教会，配合行动。"
+    },
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托阿尔杰调查班西港废墟，阿尔杰发现“红天使”恶灵身份证据。"
+    },
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩通过“世界”委托戴里克获取诡术邪怪血液，戴里克随白银城小队成功完成。"
+    },
+    {
+      "fromChapterSeq": 933,
+      "toChapterSeq": 946,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "科林率队探索诺斯城，带领戴里克等人成功诱杀变形者。"
+    }
+  ]
+}

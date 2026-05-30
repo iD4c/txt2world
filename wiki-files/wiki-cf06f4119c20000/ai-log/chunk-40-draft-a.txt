@@ -1,0 +1,621 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以道恩·唐泰斯身份在王国博物馆偶遇威廉·赛克斯，得知其死亡后怀疑管家瓦尔特卷入。深夜追踪瓦尔特至下水道，发现他与魔女特莉丝密会，得知埃德萨克王子被迫自杀的线索及宫廷侍卫长斯特福德子爵是主谋。他与特莉丝达成有限合作，利用其调查大雾霾事件。发现海柔尔夜探下水道被吓退后生病。以“世界”身份委托佛尔思协助刺杀极光会神使X先生，参加聚会时伪装成休·迪尔查，利用秘偶大师能力控制并击杀X先生，借传送门逃脱，获得传送能力和血之花戒指。事后从X先生手套释放审讯者灵魂，得知其死于1338年科诺托海战。探索下水道隐秘通道，发现海柔尔挖掘的洞窟。参加波特兰·莫蒙特家晚宴，期间响应倒吊人祈祷，帮助其晋升海洋歌者。",
+      "identInfos": [
+        "穿越者",
+        "源堡主人",
+        "塔罗会“愚者”",
+        "多身份：夏洛克·莫里亚蒂、格尔曼·斯帕罗、道恩·唐泰斯",
+        "占卜家途径序列5“秘偶大师”",
+        "持有蠕动的饥饿、海神权杖等封印物",
+        "与天使阿兹克结盟",
+        "无面人能力伪装专家"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "化名"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "化名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 773,
+          "extractReason": "UPDATE",
+          "evidenceText": "威廉·赛克斯……一个庄园的执事……克莱恩在心里重复了一遍对方的回答，转而将话题引导向那面旌旗和白蔷薇战争。"
+        },
+        {
+          "chapterSeq": 774,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝！特莉丝奇克！"
+        },
+        {
+          "chapterSeq": 774,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯特福德子爵。王室的宫廷侍卫长。"
+        },
+        {
+          "chapterSeq": 778,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩成功找到美人鱼，在歌声辅助下晋升序列5“秘偶大师”，获得操纵“灵体之线”的能力，可逐步将目标转化为傀儡。"
+        },
+        {
+          "chapterSeq": 779,
+          "extractReason": "UPDATE",
+          "evidenceText": "他旋即抬起右手，将握住“丧钟”左轮的右手塞入暗袋里，捏住了那枚布满烧灼痕迹的暗青色石头。“门！”他语气异常平静地用古赫密斯语念道。"
+        },
+        {
+          "chapterSeq": 780,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的灵性突有触动，整个人一下惊醒。他轻挑了下眉头，起身离床，走至窗边，将帘布拉开了一道缝隙。黯淡的月光下，深沉的夜色里，一道人影从花园小径处小心翼翼地抵达了外墙旁边，翻了出去。"
+        },
+        {
+          "chapterSeq": 780,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见X先生手上那枚镶嵌红宝石的戒指。"
+        },
+        {
+          "chapterSeq": 781,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的灵感有所触动，只觉一道道无形的目光不知从哪里投来，扫过了自己。"
+        },
+        {
+          "chapterSeq": 782,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将“海神权杖”举高了一点，让上面的青蓝色宝石相继亮起，发出明亮又耀眼的光芒！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792]
+    },
+    {
+      "name": "特莉丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特莉丝在下水道养伤，与管家瓦尔特密会。她为调查埃德萨克王子被迫自杀真相，向原初魔女出卖灵魂。从威廉·赛克斯处逼问出主谋是宫廷侍卫长斯特福德子爵，并杀死威廉。她晋升序列5“欢愉魔女”，收敛魅惑力，与克莱恩假扮的血之上将达成有限合作，共同调查大雾霾事件。提供联络方式后离开下水道。",
+      "identInfos": [
+        "原魔女教派成员",
+        "序列5“欢愉魔女”",
+        "原名特莉丝奇克",
+        "原为男性，因魔药变性",
+        "埃德萨克王子复仇者",
+        "曾持有蓝宝石戒指（0级封印物）",
+        "在海上自相残杀事件中扮演角色"
+      ],
+      "aliases": [
+        {
+          "alias": "特莉丝奇克",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "魔女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 773,
+          "extractReason": "UPDATE",
+          "evidenceText": "那虚弱的女声低笑了一声道：“我已经将灵魂卖给了邪神，接下来人生唯一的意义只有复仇。”"
+        },
+        {
+          "chapterSeq": 774,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝！特莉丝奇克！"
+        },
+        {
+          "chapterSeq": 774,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯特福德子爵。王室的宫廷侍卫长。"
+        },
+        {
+          "chapterSeq": 775,
+          "extractReason": "UPDATE",
+          "evidenceText": "原初魔女。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [773, 774, 775, 785]
+    },
+    {
+      "name": "瓦尔特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "瓦尔特作为道恩·唐泰斯的管家，深夜潜入下水道与特莉丝密会。他不仅提供食物和掩护，还透露威廉·赛克斯的死亡，并参与为埃德萨克王子复仇的调查。他身手敏捷，疑似低序列非凡者。白天表现如常，完美掩饰秘密行动。",
+      "identInfos": [
+        "道恩·唐泰斯管家",
+        "前康纳德子爵家仆",
+        "埃德萨克王子忠诚者",
+        "秘密调查王子自杀真相",
+        "与魔女特莉丝合作",
+        "外表古板严肃",
+        "可能为低序列非凡者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 773,
+          "extractReason": "UPDATE",
+          "evidenceText": "瓦尔特戴着白色手套走下二楼，回答了同样的问题。"
+        },
+        {
+          "chapterSeq": 773,
+          "extractReason": "UPDATE",
+          "evidenceText": "黯淡的月光下，深沉的夜色里，一道人影从花园小径处小心翼翼地抵达了外墙旁边，翻了出去。他有着宽阔的额头、乌亮的黑发和严肃的褐眸，正是管家瓦尔特。"
+        },
+        {
+          "chapterSeq": 773,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“可你为什么还会受这么严重的伤？”瓦尔特带着几分担忧地说道。"
+        },
+        {
+          "chapterSeq": 773,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“他是第一个给我那样待遇的贵族，也是我真正想效忠的人。”瓦尔特低沉回应道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [773, 775, 776, 780, 788, 792]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "海柔尔因夜探下水道被怨魂塞尼奥尔惊吓而生病，取消下午茶。她在波特兰·莫蒙特家晚宴上发现花园有非凡材料埋藏，使用偷盗者能力处理。她持有偷盗者途径神奇物品（项链），能窃取能力，并具备感应珍贵物品的直觉。她仍对下水道怨魂心有余悸，计划获取太阳领域物品。",
+      "identInfos": [
+        "马赫特议员之女",
+        "持有偷盗者途径神奇物品（项链）",
+        "序列7“盗火人”或类似",
+        "经常夜探下水道",
+        "高傲，有优越感",
+        "被怨魂惊吓后生病",
+        "具备偷盗者途径天赋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 774,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔感觉体内的阴冷出现了短暂的呆滞。她毫不犹豫又用灵性点亮了另一枚通透翠绿的石头，右手抬起，对准自己，腕部猛地一扭。"
+        },
+        {
+          "chapterSeq": 774,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔深棕色的眼眸睁得极大，充满了恐惧和不甘，两滴晶莹的泪水开始沿着她的眼角，缓慢往下滑落。"
+        },
+        {
+          "chapterSeq": 784,
+          "extractReason": "UPDATE",
+          "evidenceText": "花园内，海柔尔来到了一个阴森无人的角落。她刚才发现地上的蚂蚁等生物有不正常的汇聚，灵感里也觉得这边藏着什么事物。"
+        },
+        {
+          "chapterSeq": 784,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔收回视线，伸出左手，对准前方泥土，轻轻一握，扭动了腕部。那里汇聚的灵性陡然消失，似乎被人给偷走了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [774, 775, 784, 785]
+    },
+    {
+      "name": "威廉·赛克斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "威廉·赛克斯原为埃德萨克王子的执事，后服务于其他庄园。在王国博物馆与道恩·唐泰斯相遇，不久后死于旅馆，实为被特莉丝逼问线索后杀害。他暗中身份不简单，实力较强。",
+      "identInfos": [
+        "前埃德萨克王子执事",
+        "被魔女特莉丝杀害",
+        "知晓王子自杀内幕",
+        "暗藏实力",
+        "死于王国博物馆附近旅馆"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 773,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "威廉·赛克斯……一个庄园的执事……克莱恩在心里重复了一遍对方的回答。"
+        },
+        {
+          "chapterSeq": 773,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“威廉·赛克斯比你，也比我，想象得更强，大概也只有这样，才符合他暗中的身份。”"
+        },
+        {
+          "chapterSeq": 773,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他死了，死于王国博物馆附近的一家旅馆内。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [773, 774]
+    },
+    {
+      "name": "X先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "X先生（路易斯·维恩）是极光会神使，序列5“旅行家”。他在东区主持非凡者聚会，被克莱恩伪装成休·迪尔查潜入，利用秘偶大师和怨魂组合无声控制。克莱恩制造龙卷风混乱后，用丧钟左轮将其一枪爆头击杀，尸体收入格罗塞尔游记。他的手套被放牧，获得传送能力和血之花戒指，审讯者灵魂被释放。",
+      "identInfos": [
+        "极光会神使",
+        "序列5“旅行家”",
+        "原名路易斯·维恩",
+        "主持东区非凡者聚会",
+        "曾背叛亚伯拉罕家族",
+        "被格尔曼·斯帕罗刺杀"
+      ],
+      "aliases": [
+        {
+          "alias": "路易斯·维恩",
+          "type": "原名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 778,
+          "extractReason": "UPDATE",
+          "evidenceText": "X先生眼睛略有睁大，思绪逐渐迟缓，本想呼喊出的话语，被自己的喉咙牢牢锁住，被自己的嘴巴死死封住，彻底消弭于无形。"
+        },
+        {
+          "chapterSeq": 779,
+          "extractReason": "UPDATE",
+          "evidenceText": "X先生的脑袋猛地后仰，像是被一只无形的手按在了脸上。他的头部，他的黄铜面具，在这一刻分裂成了无数碎片，带着红白液体，向着四面八方飞散。"
+        },
+        {
+          "chapterSeq": 779,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！克莱恩毫不犹豫扣动了扳机，而枪声的轰鸣被风给吞没了。X先生的脑袋猛地后仰，像是被一只无形的手按在了脸上。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [778, 779, 780, 781]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在圣赛缪尔教堂与道恩·唐泰斯相遇，认出对方。他作为红手套小队成员，参与调查灵教团相关事件。",
+      "identInfos": [
+        "黑夜女神教会红手套",
+        "墨发碧瞳，诗人同学",
+        "体内寄生索罗亚斯德家族天使",
+        "参与调查灵教团"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 776,
+          "extractReason": "UPDATE",
+          "evidenceText": "道恩·唐泰斯……他精神一下紧绷，身体出现了微不可见的僵硬。克莱恩则看着伦纳德，含笑点了下头，神情友善，姿态随意。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [776]
+    },
+    {
+      "name": "戴莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉作为通灵者，协助红手套调查灵教团。在教堂遇见道恩·唐泰斯时，因对方模仿邓恩的眼睛而恍惚。",
+      "identInfos": [
+        "通灵者",
+        "值夜者成员",
+        "暗恋邓恩·史密斯",
+        "擅长通灵"
+      ],
+      "aliases": [
+        {
+          "alias": "戴莉女士",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 776,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉瞄了眼经过的中年绅士，神情突然恍惚了一下，旋即收回目光，沉默地靠近出口。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [776]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思受世界委托，协助刺杀X先生，提供情报并阻拦休参加聚会。她用假身份与老师多里安见面，报告X先生死讯，获得丰厚奖励。她在塔罗会上提出出租莱曼诺旅行笔记的共享模式，并购买审讯者非凡特性。",
+      "identInfos": [
+        "塔罗会“魔术师”",
+        "学徒途径序列7“占星人”",
+        "畅销小说作家",
+        "老师多里安·格雷·亚伯拉罕",
+        "有严重拖延症"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师小姐",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 781,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思眼前是无垠的灰雾，耳畔是“世界”格尔曼·斯帕罗不含一点感情的话语，心里虽然对这个消息早有一定的准备，但依旧觉得难以想象不敢接受。"
+        },
+        {
+          "chapterSeq": 786,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思取出深棕色行李箱内的报纸包裹，露出X先生的脑袋。多里安看见路易斯·维恩的脑袋已布满裂缝，狰狞痛苦。"
+        },
+        {
+          "chapterSeq": 791,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我打算租两天，不过具体的价格还需要再商量一下，根据这本笔记上现有的非凡能力做一定的调整。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [777, 781, 786, 787, 791]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林通过情报商人伊恩获得两名原始月亮信徒线索，准备猎杀。他在塔罗会上租用莱曼诺旅行笔记两天，以增强实力。",
+      "identInfos": [
+        "塔罗会“月亮”",
+        "血族男爵",
+        "在丰收教堂做义工",
+        "参与血族狩猎竞赛"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 788,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特通过情报商人伊恩获得两名“原始月亮”信徒线索，为猎杀做准备。"
+        },
+        {
+          "chapterSeq": 791,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林轻轻点头道：“我租赁今天和明天，可以吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [788, 789, 791]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在深渊漩涡附近找到奥布尼斯海怪，向愚者祈祷后获得帮助，成功晋升序列5“海洋歌者”。他承诺调查1338年科诺托海战的所有弗萨克上校。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会船长",
+        "序列5“海洋歌者”",
+        "执掌幽蓝复仇者号"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 782,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊立在船头，眺望着远处的海浪，表面沉稳如常，内心却有着难以遏制的激动。前方那片海域就是苏尼亚岛正北方的“深渊漩涡”！"
+        },
+        {
+          "chapterSeq": 783,
+          "extractReason": "UPDATE",
+          "evidenceText": "他完成了这么多年来的初步目标，晋升为“海洋歌者”！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [782, 783]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽移居斯托恩，准备参观古物保护基金会。她在塔罗会上旁听，对莱曼诺旅行笔记感兴趣，但未竞租。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "序列5“心理医生”",
+        "霍尔伯爵之女",
+        "金毛大狗苏茜的主人"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 789,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽立在栏杆后，看着男佣女仆们将自己从家族城堡带过来的物品分别摆到合适的地方，场面热闹却有序，一点也不混乱。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [789]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅在塔罗会上提供两页罗塞尔日记，透露罗塞尔大帝晚年选择黑皇帝途径及小心月亮的警告。她询问门先生信息，并考虑如何换取命运途径天使血液。",
+      "identInfos": [
+        "塔罗会“隐者”",
+        "星之上将",
+        "摩斯苦修会成员",
+        "与神秘女王贝尔纳黛联络",
+        "序列5“海语者”"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 789,
+          "extractReason": "UPDATE",
+          "evidenceText": "尊敬的‘愚者’先生，这次有两页罗塞尔日记。"
+        },
+        {
+          "chapterSeq": 792,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那滴神话生物的血液有把握了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [789, 792]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿罗德斯是克莱恩的魔镜，能回答问题并执行任务。它协助克莱恩伪装道恩·唐泰斯应付主教探病，但言语不当导致风评被害。",
+      "identInfos": [
+        "魔镜",
+        "克莱恩的仆从",
+        "喜欢窥视和提问",
+        "能回答问题、模拟声音"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 776,
+          "extractReason": "UPDATE",
+          "evidenceText": "全身镜表面的单词凝固了几秒，蠕动变化道：“伟大的主人，只要是您吩咐的事情，我都尽量完成。虽然这无法维持太久，不符合我的习惯，但也足够应付这里所有人。如果您希望，我可以模拟任何声音！”"
+        },
+        {
+          "chapterSeq": 780,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃莱克特拉主教脸上的笑容忽然凝固，他抬起手掌，握成拳头，抵住嘴巴，咳嗽了两声。道恩·唐泰斯恍然未觉，继续说道：“比我小很多，纯真，活泼，让人看到她就像看到清晨，不自觉充满朝气的女性，我也喜欢……”"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 776,
+          "extractReason": "UPDATE",
+          "evidenceText": "全身镜表面的单词凝固了几秒，蠕动变化道：“伟大的主人，只要是您吩咐的事情，我都尽量完成。虽然这无法维持太久，不符合我的习惯，但也足够应付这里所有人。如果您希望，我可以模拟任何声音！”"
+        },
+        {
+          "chapterSeq": 780,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃莱克特拉主教脸上的笑容忽然凝固，他抬起手掌，握成拳头，抵住嘴巴，咳嗽了两声。道恩·唐泰斯恍然未觉，继续说道：“比我小很多，纯真，活泼，让人看到她就像看到清晨，不自觉充满朝气的女性，我也喜欢……”"
+        }
+      ]
+    }
+  ],
+  "factions": [],
+  "items": [
+    {
+      "name": "血之花戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "血之花戒指是X先生持有的神奇物品，能被动控制血肉，即使重伤也能蠕动复原，并附带一些血肉魔法。负面效果是使佩戴者随机放弃思考、丢失理智。克莱恩将其交给秘偶塞尼奥尔佩戴，规避负面效果。",
+      "identInfos": [
+        "X先生的神奇物品",
+        "红宝石金戒指",
+        "被动控制血肉",
+        "负面效果：丢失理智"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 781,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“名字是‘血之花’……它能让佩戴者更深层次地掌握住自身血肉，只要不直接死亡，不被彻底净化，从而失去掌控能力，就能蠕动复原……这相当于给了一个本能，属于被动效果……”"
+        },
+        {
+          "chapterSeq": 781,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩旋即探寻起“血之花”戒指的负面效果。几十秒后，克莱恩霍然睁开眼睛，脱离了“梦境”。“这会不会太坑了？”他表情隐有点扭曲地低语道。"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "name": "莱曼诺旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "莱曼诺旅行笔记是佛尔思的神奇物品，可记录非凡能力并释放。克莱恩用它记录了龙卷风、闪电风暴等半神级能力，在刺杀X先生时使用。佛尔思在塔罗会上将其出租给月亮埃姆林。",
+      "identInfos": [
+        "佛尔思的魔法书",
+        "可记录半神级能力",
+        "亚伯拉罕家族物品",
+        "共享出租模式"
+      ],
+      "aliases": [
+        {
+          "alias": "莱曼诺的旅行笔记",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 777,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将“海神权杖”举高了一点，让上面的青蓝色宝石相继亮起，发出明亮又耀眼的光芒！紧接着，他把“闪电风暴”的暴虐气息传递了出去，施加于奥布尼斯海怪身上。"
+        },
+        {
+          "chapterSeq": 791,
+          "extractReason": "UPDATE",
+          "evidenceText": "“各位，我这里有一件神奇物品。它共有38页，每一页都能帮助使用者记录他见过的非凡能力，并在需要的时候释放，不过，比原本的要弱一些……”"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "莱曼诺的旅行笔记",
+          "type": "别名"
+        }
+      ]
+    }
+  ]
+}

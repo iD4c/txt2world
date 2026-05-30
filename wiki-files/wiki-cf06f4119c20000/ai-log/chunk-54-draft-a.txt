@@ -1,0 +1,1637 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以道恩·唐泰斯身份与奥黛丽商讨对付赫温·兰比斯，引导她申请塔罗会小范围聚会。在灰雾之上，他作为“世界”参与讨论，提醒成员亚当与黄昏隐士会的关联，并建议奥黛丽烧毁羽毛帽饰引入隐秘力量干扰。他利用赫温·兰比斯作为实验体，测试灰雾对意识入侵的遮蔽效果，最终在阿里安娜的隐秘辅助下，联合秘偶丘纳斯·科尔格和恩尤尼，使用控灵子弹等能力将赫温·兰比斯转化为秘偶，但随后在阿里安娜要求下放弃秘偶，获得其非凡特性。他向阿里安娜询问星空相关，将冰蓝色金属圆筒献祭给女神，获得“古代学者”魔药配方，发现仪式与自己穿越经历吻合。他通过无暗十字逐级析出赫温·兰比斯的非凡特性，准备卖给奥黛丽。他参与血族与莎伦联合对付玫瑰学派的行动，但行动因目标提前察觉而失败，发现玫瑰学派掩盖秘密。他召集伦纳德和奥黛丽进入《格罗塞尔游记》探索梦境，通过斯诺曼、莫贝特·索罗亚斯德和夏塔丝的梦境，获取了八大天使之王信息、第四纪所罗门帝国贵族秘辛和第二纪古神历史，得知血族始祖莉莉丝、异种王克瓦希图恩、毁灭魔狼弗雷格拉陨落真相，以及萨林格尔、奥尔尼娅等从神去向。",
+      "identInfos": [
+        "道恩·唐泰斯",
+        "格尔曼·斯帕罗",
+        "夏洛克·莫里亚蒂",
+        "塔罗会“世界”",
+        "愚者眷者",
+        "秘偶大师",
+        "黑夜女神眷者",
+        "穿越者",
+        "曾用名克莱恩·莫雷蒂"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "让自己的贴身男仆恩尤尼守到门口后，这位大富翁环顾了一圈，最后才将目光落到奥黛丽身上：\n“你似乎遇到了什么困难？”"
+        },
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩笑了笑道：\n“为什么不找那两位小姐一起商量？”"
+        },
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看向“正义”小姐，指了指自己的头顶：\n“赫温·兰比斯一离开，你就烧掉那个帽饰，然后才激发我给的符咒。”"
+        },
+        {
+          "chapterSeq": 1051,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这个时候，从集体潜意识大海深处沿心灵岛屿底部悄然入侵格尔曼·斯帕罗心智体的虚幻赫温·兰比斯眼前突然一花，看见了无边无际的灰白雾气，而周围的集体潜意识海洋和心灵岛屿全部消失不见。"
+        },
+        {
+          "chapterSeq": 1052,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩用自己“灵之虫”为材料，承载灰雾之上神秘空间力量制成的“控灵子弹”，它能让序列3的圣者都麻痹那么一两秒！"
+        },
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫温·兰比斯这位心理炼金会评议团的委员，“观众”途径的半神，失去了自己的生命，成为了克莱恩的秘偶！"
+        },
+        {
+          "chapterSeq": 1054,
+          "extractReason": "UPDATE",
+          "evidenceText": "道完谢后，克莱恩立刻放弃了对赫温·兰比斯的掌控，让他无法再维持秘偶化的状态。"
+        },
+        {
+          "chapterSeq": 1054,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列3，古代学者；\n主材料：福根之犬（又称源堡看守者）的眼睛一对，雾之魔狼的絮化心脏一颗；\n辅助材料：福根之犬的血液100毫升，雾之魔狼的白霜结晶30克，大量的真实的古代历史记录……\n晋升仪式：完全脱离现实至少三百年，在自己已成为历史，不属于当前时代后服食魔药。”"
+        },
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩收回目光，赞同了“正义”小姐的话语，然后对她道，“你试着引导斯诺曼的梦境，让他将潜意识里的重要信息说出来，重点是天使之王相关。”"
+        },
+        {
+          "chapterSeq": 1061,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩召集伦纳德和奥黛丽进入《格罗塞尔游记》探索梦境：通过苦修士斯诺曼的梦境了解八大天使之王及远古太阳神时代的部分历史；通过莫贝特·索罗亚斯德的梦境获得第四纪所罗门帝国贵族、帕列斯·索罗亚斯德、伯特利·亚伯拉罕公爵及星空漫游定律等秘辛；通过精灵夏塔丝的梦境得知第二纪古神历史..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1047, 1048, 1051, 1052, 1053, 1054, 1057, 1061, 1062, 1063, 1064, 1065, 1066]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽向道恩·唐泰斯求助如何应对赫温·兰比斯的催眠，在克莱恩建议下召集塔罗会小聚会讨论。她在格莱林特子爵府邸催眠休和佛尔思后，遭遇提前出现的赫温·兰比斯，被其怀疑并强行控制。危急时刻，她使用“窃运者”符咒逆转局势，催眠赫温·兰比斯，为自己争取时间。随后在花园中配合克莱恩击杀赫温·兰比斯，事后得知对方目的。她从克莱恩处购得“梦境行者”非凡特性并成功晋升，加入《格罗塞尔游记》探索梦境，引导斯诺曼、夏塔丝梦境获取历史隐秘。",
+      "identInfos": [
+        "“正义”小姐",
+        "霍尔伯爵之女",
+        "塔罗会成员",
+        "“观众”途径非凡者",
+        "金发碧眼",
+        "序列5“梦境行者”"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽带着礼貌的微笑，询问起那个鲁恩与东拜朗混血的年轻男仆。\n“上午好，唐泰斯先生呢？”"
+        },
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽没去解读“世界”先生的言行举止，坦然回应道：\n“是的……”\n她将之前的遭遇捡重点描述了一遍..."
+        },
+        {
+          "chapterSeq": 1048,
+          "extractReason": "UPDATE",
+          "evidenceText": "她随即望向“审判”休和“魔术师”佛尔思：\n“我今早遇上了赫温·兰比斯，他催眠我帮他做两件事情，并遗忘他来过。"
+        },
+        {
+          "chapterSeq": 1049,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这个时候，他耳畔响起了一个古老拗口的单词：\n“命运！”\n现实世界的赫温·兰比斯愕然抬头，只见奥黛丽碧绿的眼眸染上了最明亮最迷人的金黄。"
+        },
+        {
+          "chapterSeq": 1050,
+          "extractReason": "UPDATE",
+          "evidenceText": "这让她清楚地认知到，自己刚才产生的好感和安全感，都是被引导的结果。"
+        },
+        {
+          "chapterSeq": 1054,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽没去戴厚厚的面具，情绪略有点复杂地半笑半叹道：\n“原来我已经这么厉害了呀……”"
+        },
+        {
+          "chapterSeq": 1055,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我会催促‘太阳’给出条件，完成交易，尽快提升到序列5，到时候，希望能得到‘愚者’先生的庇佑，在梦境里保持住清醒。”"
+        },
+        {
+          "chapterSeq": 1061,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽则从藏东西的各处隐蔽地方分别拿出了“梦境行者”非凡特性、相应的辅助材料和用于调配的器皿..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1047,
+        1048,
+        1049,
+        1050,
+        1054,
+        1055,
+        1061,
+        1062,
+        1063,
+        1064,
+        1065,
+        1066
+      ]
+    },
+    {
+      "name": "赫温·兰比斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "赫温·兰比斯催眠奥黛丽，要求她催眠休和佛尔思并遗忘自己来过。他提前在格莱林特子爵府邸等待奥黛丽完成催眠，随后怀疑奥黛丽，强行控制她时被“窃运者”符咒逆转，反被奥黛丽催眠。之后在花园中遭遇克莱恩伏击，展现不完整神话生物形态战斗，使用“精神瘟疫”感染克莱恩，但最终被克莱恩配合秘偶用控灵子弹击杀，转化为秘偶后由阿里安娜提取非凡特性。他的灵魂供出国王乔治三世绕过三大契约企图成神、心理炼金会推动世界大战、会长多重身份等秘密，并提供“操纵师”魔药配方。",
+      "identInfos": [
+        "心理炼金会评议团委员",
+        "“观众”途径序列4“操纵师”",
+        "银发淡蓝眼眸",
+        "会催眠、精神瘟疫",
+        "被克莱恩击杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我今早遇上了赫温·兰比斯，他催眠我帮他做两件事情，并遗忘他来过的。"
+        },
+        {
+          "chapterSeq": 1048,
+          "extractReason": "UPDATE",
+          "evidenceText": "她刚走出两步，耳畔忽然响起了一道温和含笑的声音：\n“做得不错。”\n“……”奥黛丽的瞳孔一下放大，连忙侧过脑袋，只见斜对面典雅的壁灯灯架旁边，正站着满头银发，眼眸淡蓝，衣物整洁的赫温·兰比斯！"
+        },
+        {
+          "chapterSeq": 1049,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，他耳畔响起了一个古老拗口的单词：\n“命运！”\n现实世界的赫温·兰比斯愕然抬头，只见奥黛丽碧绿的眼眸染上了最明亮最迷人的金黄。"
+        },
+        {
+          "chapterSeq": 1051,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫温·兰比斯瞬间做出了判断，结合过去获得的情报，对格尔曼·斯帕罗的状况有了更进一步的掌握。"
+        },
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫温·兰比斯这位心理炼金会评议团的委员，“观众”途径的半神，失去了自己的生命，成为了克莱恩的秘偶！"
+        },
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜相当直接地问道。\n“你们为什么要帮助乔治三世？”\n赫温·兰比斯迷茫的表情一下变得严肃：\n“这是时代的选择，这是命运的必然..."
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1047, 1048, 1049, 1050, 1051, 1052, 1053]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休在塔罗会小聚会上得知自己与佛尔思被赫温·兰比斯盯上，感到惊恐和内疚。在格莱林特子爵府邸被奥黛丽催眠，后与佛尔思前往黑夜教堂祷告。事后得知问题解决，并了解国王秘密，恢复斗志，计划购买非凡物品提升实力。",
+      "identInfos": [
+        "“审判”",
+        "塔罗会成员",
+        "前宫廷侍卫长之女",
+        "娇小身材",
+        "信仰黑夜女神",
+        "调查父亲死因"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我今早遇上了赫温·兰比斯，他催眠我帮他做两件事情，并遗忘他来过的。\n“幸运的是，我还算谨慎和小心，很快发现了异常，借助‘愚者’先生的庇佑，记起了所有事情。\n“赫温·兰比斯让我做的其中一件事情就是，约‘审判’和‘魔术师’小姐见面，趁机催眠她们..."
+        },
+        {
+          "chapterSeq": 1048,
+          "extractReason": "UPDATE",
+          "evidenceText": "我是。”“审判”休没有隐瞒。"
+        },
+        {
+          "chapterSeq": 1056,
+          "extractReason": "UPDATE",
+          "evidenceText": "休也睁开了眼睛，却先在胸前画了个绯红之月，以忏悔刚才行为对女神的不尊敬。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1047, 1048, 1056]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思在塔罗会小聚会上得知被赫温·兰比斯盯上，感到惊惧。在格莱林特子爵府邸被奥黛丽催眠，后与休前往黑夜教堂祷告。事后得知问题解决，并了解国王秘密，感慨非凡之路危险，决定更谨慎行事，等待老师回信获得晋升材料。",
+      "identInfos": [
+        "“魔术师”",
+        "塔罗会成员",
+        "畅销小说作家",
+        "信仰蒸汽与机械之神",
+        "序列5“旅行家”"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "什么？“魔术师”佛尔思最初只是担心“正义”小姐的安危，可没想到事情绕了一圈，又绕到了自己和休身上！"
+        },
+        {
+          "chapterSeq": 1056,
+          "extractReason": "UPDATE",
+          "evidenceText": "信仰“蒸汽与机械之神”的佛尔思在昏暗宁静的大祈祷厅里睁开眼睛，侧过脑袋，压低嗓音，感慨了一句。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1047, 1048, 1056]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰作为“倒吊人”参与塔罗会小聚会，建议误导心理炼金会让其以为赫温·兰比斯之死是黑夜教会所为，并提议休和佛尔思去黑夜教堂祷告。",
+      "identInfos": [
+        "“倒吊人”",
+        "塔罗会成员",
+        "海上强者",
+        "序列5“海洋歌者”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1048,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰环顾了一圈道：\n“赫温·兰比斯只是催眠你不寻求庇佑...你完全可以创造一个机会，见一见大主教，当然，什么都不用说，这样一来，等到赫温·兰比斯身亡或失踪，心理炼金会就大概率会怀疑是黑夜教会在你身上察觉到了什么问题，借此设下了陷阱。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1047, 1048]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅作为“隐者”参与塔罗会小聚会，对心理炼金会发现塔罗会成员表示严肃关切，并提及黄昏隐士会与罗塞尔大帝的关系。",
+      "identInfos": [
+        "“隐者”",
+        "塔罗会成员",
+        "星之上将",
+        "序列4半神"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅则听得略有些不解，微皱起眉头道：\n“心理炼金会，或者说赫温·兰比斯，发现了‘审判’和‘魔术师’两位小姐是我们塔罗会的成员？”"
+        },
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "“黄昏隐士会……这就是罗塞尔大帝加入过的那个古老隐秘组织吗？”“隐者”嘉德丽雅似自言自语，似寻求肯定般问道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1047, 1048]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德作为“星星”被克莱恩拉入《格罗塞尔游记》探索梦境。他负责引导莫贝特·索罗亚斯德的梦境，以帕列斯·索罗亚斯德学生的身份拉近关系，询问所罗门帝国历史、大贵族、第四纪秘辛，并试探莫贝特关于帕列斯的信息以验证体内天使身份。",
+      "identInfos": [
+        "“星星”",
+        "塔罗会成员",
+        "黑夜教会“红手套”队长",
+        "序列5“灵巫”",
+        "体内寄生天使帕列斯",
+        "克莱恩前同事"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1061,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩瞥了他一眼道：\n“有件事情需要你帮忙。”\n“需要我帮忙？”伦纳德指了指自己，愕然反问道，“你指的是帕列斯吧？”"
+        },
+        {
+          "chapterSeq": 1064,
+          "extractReason": "UPDATE",
+          "evidenceText": "自我介绍一下，我是帕列斯·索罗亚斯德的学生。”\n他打算用这个身份拉近关系，降低排斥，方便后续引导。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1061, 1062, 1063, 1064, 1065, 1066]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿里安娜在克莱恩与赫温·兰比斯战斗时从红月中走出，提供隐秘辅助。战后她通灵赫温·兰比斯灵魂获取情报，提取其非凡特性并清除精神烙印，提醒克莱恩不要使用来自星空的封印物，并告知知道的越多越容易被感染。",
+      "identInfos": [
+        "黑夜教会苦修士首领",
+        "天使",
+        "隐秘之仆",
+        "身穿简陋长袍",
+        "黑色长发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "隔了几秒，穿简陋之袍，系树皮腰带，披黑色长发的黑夜教会苦修士首领阿里安娜从那轮巨大的红月中走出，踏足于虚空，来到了赫温·兰比斯的斜上方。"
+        },
+        {
+          "chapterSeq": 1054,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜低头看了一眼，眸中幽黑愈发深邃。\n赫温·兰比斯的尸体顿时如同铅笔画，被橡皮擦一寸寸抹掉了，只剩下那个冰蓝色的金属圆筒残留。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1053, 1054]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "莎伦作为节制派半神参与血族联合对付玫瑰学派的行动。行动因目标提前察觉而失败，遭遇红月陷阱，使用“深红月冕”抵抗。事后与克莱恩、马里奇讨论，怀疑玫瑰学派在掩盖某个秘密。",
+      "identInfos": [
+        "节制派半神",
+        "异种途径",
+        "人偶大师",
+        "克莱恩盟友",
+        "蕾妮特的学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "下方街道上的树木忽然轻轻摇晃，煤气路灯的光芒同时出现了闪烁。\n“一个‘木偶’。”米斯特拉尔伯爵微微点头，认可了莎伦的身份和地位。\n莎伦没有看他，望着餐厅的二楼道：\n“有崇拜‘欲望母树’的感觉残留。”"
+        },
+        {
+          "chapterSeq": 1060,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦蔚蓝的眼眸似乎有了瞬间的凝固，左手猛然抬起，轻巧一翻，展现出了托在掌心的一件暗红色饰品。\n这饰品外形如同圆月，四周镶嵌着一枚又一枚绯色的宝石..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1059, 1060]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林作为血族子爵参与联合行动，通过“玫瑰之誓”戒指共享米斯特拉尔伯爵感官，目睹行动失败和红月异变，受到冲击。事后决心提升实力以承担使命。",
+      "identInfos": [
+        "“月亮”",
+        "塔罗会成员",
+        "血族子爵",
+        "丰收教堂义工",
+        "爱好人偶"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1058,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林原本以为自己虽然只负责居中联络，发挥不了什么重要作用，但至少可以展示下源于“深红学者”的一些类法术能力...这让他很是沮丧，觉得自己纯粹就是一个工具。"
+        },
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "几条街外的埃姆林·怀特正无聊地摩挲着那枚镶嵌幽蓝色宝石的“玫瑰之誓”戒指，突然获得了米斯特拉尔伯爵当前的感官..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1058, 1059, 1060]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "马里奇作为节制派“怨魂”参与行动，向血族提供玫瑰学派成员位置。行动失败后与克莱恩、莎伦讨论，怀疑玫瑰学派在掩盖秘密。",
+      "identInfos": [
+        "节制派“怨魂”",
+        "异种途径",
+        "克莱恩盟友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1058,
+          "extractReason": "UPDATE",
+          "evidenceText": "脸色苍白头发略显凌乱的年轻男子点了点头，指着斜前方一栋带店铺的临街房屋道：\n“对。\n“那是一家书店，老板叫查理·雷克..."
+        },
+        {
+          "chapterSeq": 1060,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这有太多的可能了，也许是及时察知袭击的那个秘密，也许是他们想在贝克兰德谋划什么事情的秘密...”克莱恩试着将玫瑰学派引入贝克兰德当前紧张的局势里..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1058, 1060]
+    },
+    {
+      "name": "乔治三世",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "赫温·兰比斯供出乔治三世在心理炼金会帮助下绕过三大契约限制，通过“血皇帝”遗迹内的某物和大量祭祀仪式企图成为半神。",
+      "identInfos": [
+        "鲁恩国王",
+        "奥古斯都家族成员",
+        "秘密寻求成神",
+        "与心理炼金会、魔女教派合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜默然了一秒，转而问道：\n“乔治三世的秘密是什么？”\n赫温·兰比斯的脸上露出了一丝笑容：\n“每一位国王都有受到三大契约的束缚，最高只能到序列5，而他在我们的帮助下，绕过了这方面的阻碍，已实质上具备更高的位格，只等到时代的浪潮涌来，就能顺利登临本就属于自己的位置。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1053]
+    },
+    {
+      "name": "苏尼亚索列姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，精灵王苏尼亚索列姆是第二纪古神之一，与巨人王奥尔米尔曾是盟友，后因对方背叛而决裂。他愤怒于奥尔米尔与人类隐秘教派合作，并回忆血族始祖莉莉丝陨落乃因背叛而起。",
+      "identInfos": [
+        "精灵王",
+        "古神",
+        "风暴途径",
+        "天灾女王之夫",
+        "耳朵尖高",
+        "发色黑蓝交错"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥尔米尔这个背叛者！”突然，巨大洪亮如同雷鸣的声音响起，震得整座宫殿剧烈颤动，让夏塔丝等侍从恐惧地埋低了脑袋。\n这声怒吼来自那位古神。"
+        },
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏塔丝就侍立于这里，对面和旁边有多位精灵。\n而那九层台阶之上，摆放着两张似乎由纯粹电光组成的巨大座椅...最中央那张王座上，坐着个穿简单宽松长袍的男子，他耳朵尖而高耸，脸部轮廓线条较为柔和，头发根根粗壮，黑与蓝彼此交错..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "高希纳姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，精灵王后高希纳姆被称为“天灾女王”，在古神内战中态度冷静，分析局势，认为巨人的背叛导致血族始祖莉莉丝陨落，并提及奥尔米尔与人类隐秘教派合作。",
+      "identInfos": [
+        "精灵王后",
+        "天灾女王",
+        "棕色眼眸",
+        "头发乌黑",
+        "序列高"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "坐在他旁边的是个美丽的女子，头发乌黑亮泽，挽成了高高的发髻，耳朵稍尖，五官精致，有双大海般幽深的棕色眼眸...正是精灵王后、“天灾女王”高希纳姆。"
+        },
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "恐怖的怒吼下，那位“天灾女王”高希纳姆没受一点影响，表情冷漠，相对平静地说道：\n“这不是早就已经确定的事实吗？\n“祂的信誉和祂的体型正好相反。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "奥尔米尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，巨人王奥尔米尔背叛与精灵王的联盟，导致血族始祖莉莉丝、异种王克瓦希图恩、毁灭魔狼弗雷格拉陨落。祂事后与人类隐秘教派合作对抗精灵王。",
+      "identInfos": [
+        "巨人王",
+        "古神",
+        "背叛者",
+        "体型庞大",
+        "信誉差"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥尔米尔这个背叛者！”突然，巨大洪亮如同雷鸣的声音响起..."
+        },
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果不是祂当初的出卖，莉莉丝又怎么会陨落？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "莉莉丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，血族始祖莉莉丝在古神内战中因巨人王奥尔米尔的背叛而陨落，拉着异种王克瓦希图恩和毁灭魔狼弗雷格拉陪葬。",
+      "identInfos": [
+        "血族始祖",
+        "古神",
+        "月亮途径",
+        "陨落于古神内战"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果不是祂当初的出卖，莉莉丝又怎么会陨落？”"
+        },
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那也不是坏事，至少克瓦希图恩和弗雷格拉被莉莉丝拉着陪葬了。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "克瓦希图恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过夏塔丝梦境得知，异种王克瓦希图恩在古神内战中陨落，被血族始祖莉莉丝拉着陪葬。其从神“灵物之神”托尔兹纳消失。",
+      "identInfos": [
+        "异种王",
+        "古神",
+        "陨落于古神内战"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那也不是坏事，至少克瓦希图恩和弗雷格拉被莉莉丝拉着陪葬了。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "弗雷格拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过夏塔丝梦境得知，毁灭魔狼弗雷格拉在古神内战中陨落，被血族始祖莉莉丝拉着陪葬。其从神“亡灵之神”萨林格尔投靠不死鸟始祖，“厄运女神”阿曼妮西斯消失。",
+      "identInfos": [
+        "毁灭魔狼",
+        "古神",
+        "陨落于古神内战"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那也不是坏事，至少克瓦希图恩和弗雷格拉被莉莉丝拉着陪葬了。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "萨林格尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，萨林格尔是“毁灭魔狼”的“亡灵之神”，在主人陨落后投靠不死鸟始祖。",
+      "identInfos": [
+        "亡灵之神",
+        "毁灭魔狼从神",
+        "后投靠不死鸟",
+        "第四纪成为冥皇/死神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘毁灭魔狼’的‘亡灵之神’萨林格尔投靠了不死鸟始祖...萨林格尔是拜朗帝国的建立者，第四纪那位冥皇、死神！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "奥尔尼娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，奥尔尼娅是血族的“美神”，在血族始祖陨落后投靠精灵王。克莱恩认出她是第四纪夜皇的妻子，特伦索斯特帝国的皇后。",
+      "identInfos": [
+        "血族美神",
+        "投靠精灵王",
+        "第四纪夜皇妻子",
+        "特伦索斯特帝国皇后"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "血族的‘美神’奥尔尼娅投靠了我们……奥尔尼娅是血月女王，是第四纪夜皇的妻子，特伦索斯特帝国的皇后！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "阿曼妮西斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过夏塔丝梦境得知，阿曼妮西斯是“毁灭魔狼”的“厄运女神”，在主人陨落后消失不见。",
+      "identInfos": [
+        "厄运女神",
+        "毁灭魔狼从神",
+        "消失不见"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "“毁灭魔狼”的‘厄运女神’阿曼妮西斯消失不见..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "托尔兹纳",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过夏塔丝梦境得知，托尔兹纳是异种王的“灵物之神”，在主人陨落后消失不见。",
+      "identInfos": [
+        "灵物之神",
+        "异种王从神",
+        "消失不见"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "异种王的‘灵物之神’托尔兹纳消失不见..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1066]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过莫贝特梦境得知，帕列斯·索罗亚斯德是序列1天使，索罗亚斯德家族曾祖父，性格像普通老者，唠叨，喜欢打击后代，执着于分类和整洁。曾差点被阿蒙杀死。",
+      "identInfos": [
+        "序列1天使",
+        "索罗亚斯德家族",
+        "寄生伦纳德",
+        "被称“老头”",
+        "曾差点被阿蒙杀死"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特瞥了伦纳德一眼，语带疑惑地说道：\n“你又不是我们索罗亚斯德家族的成员，怎么可能成为老头的学生？只可能是被寄生的对象！”"
+        },
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特怔了两秒，又喝了口蒸馏烈酒道：\n“老头在家里表现得就像普通的老者，有点唠叨，喜欢打击后代，爱好享受生活，如果不是提前知晓，谁也想不到祂是位序列1的天使..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1065]
+    },
+    {
+      "name": "莫贝特·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "莫贝特是索罗亚斯德家族成员，第四纪贵族，生活在《格罗塞尔游记》书中世界。他在梦境中透露所罗门帝国历史、大贵族信息、帕列斯·索罗亚斯德性格，以及伯特利·亚伯拉罕相关传说。",
+      "identInfos": [
+        "第四纪索罗亚斯德家族成员",
+        "曾祖父帕列斯·索罗亚斯德",
+        "生活在《格罗塞尔游记》中",
+        "与精灵夏塔丝是夫妻"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1064,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚麻头发，深棕眼眸，鼻梁高挺，嘴唇较薄的莫贝特套着件略有点毛绒感的睡衣，躺在半边高半边低的床上，睁眼看着天花板，喃喃自语..."
+        },
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特怔了两秒，又喝了口蒸馏烈酒道：\n“老头在家里表现得就像普通的老者..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1064, 1065]
+    },
+    {
+      "name": "夏塔丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "夏塔丝是精灵歌者，生活在《格罗塞尔游记》中，与莫贝特是夫妻。她的梦境呈现了第二纪精灵王庭场景，透露精灵王苏尼亚索列姆与巨人王奥尔米尔决裂、古神内战等历史。",
+      "identInfos": [
+        "精灵歌者",
+        "生活在《格罗塞尔游记》中",
+        "莫贝特妻子",
+        "目睹古神历史"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "到了尾声，奥黛丽又分别抓住克莱恩和伦纳德的胳臂，带着他们跳跃进了夏塔丝的梦境。\n这位精灵歌者正站在花园内，捂着肚子，皱眉看着莫贝特..."
+        },
+        {
+          "chapterSeq": 1066,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏塔丝就侍立于这里，对面和旁边有多位精灵。\n而那九层台阶之上，摆放着两张似乎由纯粹电光组成的巨大座椅..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1065, 1066]
+    },
+    {
+      "name": "斯诺曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯诺曼是第三纪苦修士，生活在《格罗塞尔游记》中。他的梦境呈现了远古太阳神教堂场景，背诵了八大天使之王相关宗教典籍内容，并提到有信仰黑夜的邪教徒隐藏。",
+      "identInfos": [
+        "第三纪苦修士",
+        "信仰远古太阳神",
+        "序列5",
+        "生活在《格罗塞尔游记》中"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1063,
+          "extractReason": "UPDATE",
+          "evidenceText": "苦修士斯诺曼正坐于最前排，面对神像，埋着脑袋，闭着眼睛，专心地祈祷。\n他是一个不算苍老但有些许皱纹的中年男子，穿着不知浆洗过多少次的白色简朴长袍..."
+        },
+        {
+          "chapterSeq": 1063,
+          "extractReason": "UPDATE",
+          "evidenceText": "“只有圣灵才能真正地侍奉主，这是我毕生追逐的目标……\n“我见主立于亿万光辉之上，仁慈洒满天国与大地，身旁有八位‘王’侍立。\n“‘暗之天使’是主创造的第一位天使..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1063, 1064]
+    },
+    {
+      "name": "米斯特拉尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族伯爵米斯特拉尔参与联合行动，使用太阳领域封印物攻击玫瑰学派据点，遭遇红月陷阱，身体出现异变，后被奥尔默公爵解除。事后分析行动失败原因。",
+      "identInfos": [
+        "血族伯爵",
+        "深红学者",
+        "淡银色头发",
+        "鲜红眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "这男子身材瘦高，极为挺拔，发色较浅，接近银色，眼眸鲜红，如藏血液，正是血族伯爵米斯特拉尔。"
+        },
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，血族伯爵米斯特拉尔看见自己的肚子一点点鼓了起来，只觉生命的脉动在内部缓慢凝聚..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1059, 1060]
+    },
+    {
+      "name": "尼拜斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族侯爵尼拜斯在行动中展开巨大蝙蝠翅膀封锁区域，遭遇红月影响，翅膀长满白毛。",
+      "identInfos": [
+        "血族侯爵",
+        "天使级",
+        "蝙蝠翅膀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道苍老沉厚的叹息随之响起，一对覆盖着深色皮膜，布满数不清花纹符号的翅膀突地从那片黑暗里伸了出来，越来越大，越来越宽，两三秒钟就将周围完全笼罩。"
+        },
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "尼拜斯低哼了一声，对这片区域的封锁出现了裂痕。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1059]
+    },
+    {
+      "name": "奥尔默",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族公爵奥尔默在行动中出手消除红月影响，化解了参战者的异变。",
+      "identInfos": [
+        "血族公爵",
+        "天使级"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，覆盖周围的巨大蝙蝠翅膀上的白色细毛全部掉落了...这是血族那位奥尔默公爵出手了？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1059]
+    },
+    {
+      "name": "马赫特议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "马赫特议员在下午茶时向客人炫耀女儿海柔尔变得成熟，分享作为父亲的感受。",
+      "identInfos": [
+        "下院议员",
+        "海柔尔的父亲",
+        "莉亚娜夫人的丈夫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "马赫特议员闻言哈哈笑道：\n“道恩，你的观察力真的很敏锐。”\n...\n“海柔尔最近是真的成熟了..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1057]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "海柔尔性格变得成熟，学习社交课程，为家人做甜点，主动陪伴父母。奥黛丽治疗她的精神崩溃有所进展，她开始回忆受惊吓的感受，更加珍惜家人。",
+      "identInfos": [
+        "马赫特议员的女儿",
+        "曾被阿蒙分身顶替老师",
+        "精神受创",
+        "正在康复"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是海柔尔亲自做的，你们等会可以尝尝，虽然她还不能有效地控制外形，但味道真的不错。”马赫特议员略显炫耀地说道。"
+        },
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "据“正义”小姐讲，海柔尔的治疗进程已经到了可以回忆起曾经遭受的那种巨大惊吓和痛苦的阶段，虽然那只是一种直观的情绪感受，还不涉及具体的事情经过，但也足以让海柔尔时不时梦到自己失去了父母和大部分亲人……这让她不自觉开始珍惜家人..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1057]
+    },
+    {
+      "name": "波特兰·莫蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "贝克兰德技术大学校长波特兰邀请克莱恩投资他的机械实验室，克莱恩表示有兴趣并计划投资1万镑。",
+      "identInfos": [
+        "贝克兰德技术大学校长",
+        "道恩·唐泰斯的朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "另外一边的贝克兰德技术大学校长波特兰·莫蒙特顿时笑道：\n“这不太像我知道的海柔尔。”"
+        },
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "说到这里，他看向克莱恩道：\n“道恩，想好没有？要不要投资我那个机械实验室？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1057]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蕾妮特作为信使送来莎伦的信件，克莱恩预付报酬给予“昨日重现”符咒。行动失败后她向克莱恩询问情况。",
+      "identInfos": [
+        "信使",
+        "前玫瑰学派节制派天使",
+        "四个金发红眼脑袋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看了眼等在原地的信使小姐，走至书桌前，摊开一张白纸写道：\n“我会准时的。\n“另外，最近贝克兰德局势紧张，务必注意控制程度。”"
+        },
+        {
+          "chapterSeq": 1060,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，克莱恩耳畔突然响起了微有间隔略显断续的声音：\n“究竟……”“发生了……”“什么……”“事情……”\n克莱恩侧过头去，发现信使小姐不知什么时候从灵界走了出来..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1057, 1060]
+    },
+    {
+      "name": "丘纳斯·科尔格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为克莱恩的秘偶，丘纳斯·科尔格在战斗中使用“扭曲”和“放大”能力辅助克莱恩，帮助抵挡赫温·兰比斯的精神入侵，放大“缓慢”和“灵体之线”操纵效果，辅助击杀赫温。",
+      "identInfos": [
+        "克莱恩的秘偶",
+        "前军情九处少将",
+        "“律师”途径半神",
+        "“堕落伯爵”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1051,
+          "extractReason": "UPDATE",
+          "evidenceText": "在赫温·兰比斯试图侵入他本体对应的意识岛屿时，他的秘偶丘纳斯·科尔格使用能力，“扭曲”了敌人锁定的目标..."
+        },
+        {
+          "chapterSeq": 1052,
+          "extractReason": "UPDATE",
+          "evidenceText": "“堕落伯爵”，“放大”！\n这是克莱恩另一个秘偶，“律师”途径的半神，丘纳斯·科尔格！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1051, 1052]
+    },
+    {
+      "name": "恩尤尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "恩尤尼是克莱恩的秘偶，以“赢家”身份作为贴身男仆。在战斗中负责操纵赫温·兰比斯的灵体之线，配合完成击杀。",
+      "identInfos": [
+        "克莱恩的秘偶",
+        "“赢家”恩佐",
+        "道恩·唐泰斯的贴身男仆"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1052,
+          "extractReason": "UPDATE",
+          "evidenceText": "实际是“赢家”恩尤尼的那个格尔曼·斯帕罗抓住这短暂的机会，操纵起赫温·兰比斯的“灵体之线”。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1047, 1052, 1053]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "苏茜是奥黛丽的金毛大狗，在奥黛丽催眠休和佛尔思时守在外面防止打扰。奥黛丽认为从赫温·兰比斯掌控中摆脱，苏茜功劳第二大，并计划购买“催眠师”非凡特性给它。",
+      "identInfos": [
+        "奥黛丽的宠物狗",
+        "超凡生物",
+        "金毛大狗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1050,
+          "extractReason": "UPDATE",
+          "evidenceText": "做完这一切，奥黛丽前往大厅，先行找到了金毛大狗苏茜，从对方那里拿回了“谎言”项链和“酒类克星”钻石领针"
+        },
+        {
+          "chapterSeq": 1055,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是给苏茜的，这次真是多亏了她。\n“唔，她层次越高，能提供的帮助就越大，嗯，我也会反过来帮助她的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1050, 1055]
+    },
+    {
+      "name": "黑夜女神",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩计划借助黑夜女神的力量干扰亚当。他向女神献祭冰蓝色金属圆筒获得“古代学者”配方。在探索梦境中得知远古太阳神时期就有信仰黑夜的邪教徒。",
+      "identInfos": [
+        "隐秘存在",
+        "黑夜教会信仰对象",
+        "掌握隐秘权柄"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1048,
+          "extractReason": "UPDATE",
+          "evidenceText": "到时候，回应你的将是隐秘的力量，这样一来，无论发生了什么，亚当都只能认为是女神插手了，认为祂在庇佑霍尔一家，与塔罗会无关..."
+        },
+        {
+          "chapterSeq": 1054,
+          "extractReason": "UPDATE",
+          "evidenceText": "到了仪式的尾声，呜的狂风中，草药燃烧的灰烬和周围的泥土同时腾了起来，落到了祭坛空白处。\n这些灰烬和泥土彼此相连，构成了一个又一个单词："
+        },
+        {
+          "chapterSeq": 1064,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们教区有信仰黑夜的邪教徒隐藏！\n“这是王们降下的谕令。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1048, 1054, 1064]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在探索斯诺曼梦境时，得知阿蒙是远古太阳神次子，被称为“时之天使”、“狡诈之神”、“恶作剧之神”。",
+      "identInfos": [
+        "时之天使",
+        "天使之王",
+        "远古太阳神次子",
+        "狡诈之神",
+        "恶作剧之神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1063,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘时之天使’是主的次子，主说，你是狡诈之神，恶作剧之神，是末日来临时的光；"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1063]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在探索斯诺曼梦境时，得知亚当是远古太阳神长子，被称为“空想天使”，被预言将成为生灵的救主。",
+      "identInfos": [
+        "空想天使",
+        "天使之王",
+        "远古太阳神长子",
+        "黄昏隐士会首领"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1063,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘空想天使’是主的长子，主说，在遥远的未来，你将成为生灵的救主；"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1063]
+    },
+    {
+      "name": "萨斯利尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在探索斯诺曼梦境时，得知萨斯利尔是“暗之天使”，是远古太阳神创造的第一位天使，被称为天国的副君。",
+      "identInfos": [
+        "暗之天使",
+        "天使之王",
+        "天国的副君",
+        "远古太阳神创造的第一个天使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1063,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘暗之天使’是主创造的第一位天使，是祂的左手，是祂的代行者，是天国的副君；"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1063]
+    },
+    {
+      "name": "伯特利·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通过莫贝特梦境得知，伯特利·亚伯拉罕是亚伯拉罕家族公爵，公认最有可能成神的天使之一，“学徒”途径序列2可漫游星空，并总结出星空漫游三定律。",
+      "identInfos": [
+        "亚伯拉罕家族祖先",
+        "天使之王",
+        "漫游星空者",
+        "第四纪大贵族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "伯特利·亚伯拉罕公爵大人可能只是伪信，据我所知，祂只信自己。"
+        },
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "他们留下了不少有关星空的游记，上面记载了许多有趣的事情，可惜，我一直没能借到，不过，我有听说他们总结出来的星空漫游三定律：\n“一，不要回应任何呼唤；二，不要鲁莽靠近未有了解的生物和建筑；三，忍受孤独。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1065]
+    },
+    {
+      "name": "心理炼金会会长",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "赫温·兰比斯供出心理炼金会会长多重身份：黑座之王巴洛斯·霍普金斯、贝克兰德医学院前任校长鲍利·德尔劳、隐士埃里克·德雷克等。",
+      "identInfos": [
+        "心理炼金会会长",
+        "多重身份",
+        "黑座之王",
+        "海上四王之一"
+      ],
+      "aliases": [
+        {
+          "alias": "巴洛斯·霍普金斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "鲍利·德尔劳",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "埃里克·德雷克",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "黑座之王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1053,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "赫温·兰比斯露出了回忆的神情：\n“他有很多身份，也有很多名字，但只要看到他，我就能确定他是我们心理炼金会的会长。\n“他目前的身份和名字有：\n“海上四王之一的‘黑座之王’巴洛斯·霍普金斯，贝克兰德医学院前任校长，王室医学顾问，已经‘死’去的鲍利·德尔劳，中苏尼亚海知名隐士埃里克·德雷克……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1053]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会成员在灰雾之上召开小范围聚会，讨论如何对付赫温·兰比斯并避免心理炼金会怀疑。成员包括“正义”、“倒吊人”、“隐者”、“世界”、“审判”、“魔术师”。会议决定利用黑夜教会误导敌人，并借助“愚者”庇佑干扰亚当。",
+      "identInfos": [
+        "愚者召集的隐秘组织",
+        "成员以塔罗牌为代号",
+        "主要成员有正义、倒吊人、世界等"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "无边无际的灰白雾气之上，一道道深红的光芒蹿升于斑驳古老的青铜长桌周围。\n“正义”奥黛丽环顾了一圈，起身对其余成员行了一礼道：\n“各位，我有件事情希望能得到你们的意见。”"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "心理炼金会评议团委员赫温·兰比斯被击杀，供出该组织与黄昏隐士会关联，旨在推动一场席卷全世界的战争。会长有多重身份，包括黑座之王巴洛斯·霍普金斯等。",
+      "identInfos": [
+        "隐秘组织",
+        "源于赫密斯遗迹",
+        "受黄昏隐士会引导",
+        "“观众”途径为主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫温·兰比斯迷茫的表情一下变得严肃：\n“这是时代的选择，这是命运的必然，我们只是在顺应潮流...一场战争，一场席卷全世界的战争。”"
+        },
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "他目前的身份和名字有：\n“海上四王之一的‘黑座之王’巴洛斯·霍普金斯，贝克兰德医学院前任校长..."
+        }
+      ]
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会讨论中揭露黄昏隐士会由亚当创建，赫密斯为成员，心理炼金会受其引导，旨在推动世界大战。罗塞尔大帝曾加入该组织。",
+      "identInfos": [
+        "古老隐秘组织",
+        "首领是空想天使亚当",
+        "成员有赫密斯等",
+        "推动世界大战"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "心理炼金会源于对赫密斯遗迹的挖掘，赫密斯是‘黄昏隐士会’的一员，‘黄昏隐士会’的创建者之一是亚当，而‘愚者’先生并不希望在这件事情上直接与‘黄昏隐士会’为敌。"
+        },
+        {
+          "chapterSeq": 1047,
+          "extractReason": "UPDATE",
+          "evidenceText": "“黄昏隐士会……这就是罗塞尔大帝加入过的那个古老隐秘组织吗？”"
+        }
+      ]
+    },
+    {
+      "name": "黑夜教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会计划误导心理炼金会，使其认为赫温·兰比斯之死是黑夜教会所为。黑夜教会天使阿里安娜协助击杀赫温·兰比斯，并提取其非凡特性。教会内部可能存在内奸。",
+      "identInfos": [
+        "正神教会",
+        "信仰黑夜女神",
+        "掌握隐秘权柄"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1048,
+          "extractReason": "UPDATE",
+          "evidenceText": "把锅扔给黑夜教会……这思路好眼熟啊……化身“世界”格尔曼·斯帕罗的克莱恩莫名竟有了几分滑稽感。"
+        },
+        {
+          "chapterSeq": 1053,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿简陋之袍，系树皮腰带，披黑色长发的黑夜教会苦修士首领阿里安娜从那轮巨大的红月中走出..."
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "玫瑰学派在贝克兰德的成员据点被血族和节制派联合突袭，但目标提前察觉并留下红月陷阱后撤离，行动失败。分析认为玫瑰学派在掩盖某个秘密，可能与“欲望母树”有关。",
+      "identInfos": [
+        "崇拜“被缚之神”或“欲望母树”",
+        "分为节制派和放纵派",
+        "恶灵为主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1058,
+          "extractReason": "UPDATE",
+          "evidenceText": "他年轻时去过南大陆一次，希望能够暴富，在那里，他成为了玫瑰学派的成员，‘被缚之神’的信徒..."
+        },
+        {
+          "chapterSeq": 1060,
+          "extractReason": "UPDATE",
+          "evidenceText": "“需要掩盖的是什么秘密？”莎伦似乎接受了克莱恩的怀疑，坐姿端正地问道。"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "血族联合节制派突袭玫瑰学派据点，由伯爵米斯特拉尔、侯爵尼拜斯、公爵奥尔默参与，行动因陷阱失败。发现“欲望母树”已掌握部分“月亮”权柄。",
+      "identInfos": [
+        "古老种族",
+        "崇拜月亮",
+        "始祖莉莉丝"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "米斯特拉尔半空转身，对着黑暗最为浓郁的区域点头道，“尼拜斯大人，请您封锁这里。”"
+        },
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是血族那位奥尔默公爵出手了？"
+        }
+      ]
+    },
+    {
+      "name": "所罗门帝国",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过莫贝特梦境了解所罗门帝国历史：大贵族包括索罗亚斯德、亚伯拉罕、查拉图等家族，皇帝为“黑皇帝”，与真实造物主联盟对抗六神。审美崇尚不协调。",
+      "identInfos": [
+        "第四纪帝国",
+        "“黑皇帝”统治",
+        "大贵族家族众多"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1065,
+          "extractReason": "UPDATE",
+          "evidenceText": "莫贝特放下酒杯，摊开手掌道，“拥有公爵的家族并不多。我们索罗亚斯德家族，亚伯拉罕家族，查拉图家族...那个时候，图铎、特伦索斯特虽然是皇帝陛下最忠实的天使，但依旧得排在我们之下..."
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽使用“窃运者”符咒逆转局势，将赫温·兰比斯对自己的控制命运互换，从而催眠对方。该符咒由阿蒙“时之虫”为材料，以“愚者”力量做凭依制造。",
+      "identInfos": [
+        "用阿蒙时之虫制作",
+        "可窃取目标短时间命运",
+        "克莱恩制造"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1050,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是用阿蒙“时之虫”为材料，以“愚者”力量做凭依制造的符咒，可以窃取目标后续较短时间内的命运，与使用者对应的未来互换！"
+        }
+      ]
+    },
+    {
+      "name": "控灵子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩使用控灵子弹多次命中赫温·兰比斯，使其麻痹僵硬，最终配合秘偶完成击杀。该子弹以“灵之虫”为材料，承载灰雾力量制成。",
+      "identInfos": [
+        "以灵之虫为材料",
+        "承载灰雾力量",
+        "可使圣者麻痹",
+        "克莱恩专属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1052,
+          "extractReason": "UPDATE",
+          "evidenceText": "“控灵子弹”！\n克莱恩用自己“灵之虫”为材料，承载灰雾之上神秘空间力量制成的“控灵子弹”，它能让序列3的圣者都麻痹那么一两秒！"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩使用无暗十字逐级析出赫温·兰比斯的非凡特性，准备卖给奥黛丽。该物品可净化污染、析出多余特性。",
+      "identInfos": [
+        "远古太阳神遗物",
+        "可净化污染",
+        "可析出非凡特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1055,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘愚者’先生新获得的那个十字架可以让非凡特性逐级析出。”"
+        }
+      ]
+    },
+    {
+      "name": "腐烂的流星",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "赫温·兰比斯持有的冰蓝色金属圆筒封印物，可发射墨绿色弹丸使人中毒腐烂，负面效果是持有者可能被星空目光注视污染。来自星空，阿里安娜建议献祭给女神。",
+      "identInfos": [
+        "冰蓝色金属圆筒",
+        "发射腐烂弹丸",
+        "来自星空",
+        "有污染风险"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1052,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是一件来历不明的封印物，叫做“腐烂的流星”，赫温·兰比斯从某位存在那里获得，只清楚部分材料来自星空。"
+        },
+        {
+          "chapterSeq": 1054,
+          "extractReason": "UPDATE",
+          "evidenceText": "它来自星空，你最好不要使用，就连携带也尽量不做，否则，将有目光投射到你的身上，让你不知不觉遭受污染，出现畸变。"
+        }
+      ]
+    },
+    {
+      "name": "谎言",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽佩戴的神奇物品，可变化形状，但会放大情绪。她为避免影响催眠而未佩戴，后从苏茜处取回。",
+      "identInfos": [
+        "奥黛丽的神奇物品",
+        "可变形状",
+        "会放大情绪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1049,
+          "extractReason": "UPDATE",
+          "evidenceText": "你之前总是随身携带一件可以变化形状的饰品类神奇物品，今天为什么没佩戴？"
+        },
+        {
+          "chapterSeq": 1050,
+          "extractReason": "UPDATE",
+          "evidenceText": "做完这一切，奥黛丽前往大厅，先行找到了金毛大狗苏茜，从对方那里拿回了“谎言”项链..."
+        }
+      ]
+    },
+    {
+      "name": "深红月冕",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "莎伦持有的暗红色饰品，能免疫满月效果，在对抗红月陷阱时使用。",
+      "identInfos": [
+        "暗红色圆月饰品",
+        "镶嵌绯色宝石",
+        "免疫满月效果",
+        "莎伦持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1059,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦左手猛然抬起，轻巧一翻，展现出了托在掌心的一件暗红色饰品。\n这饰品外形如同圆月，四周镶嵌着一枚又一枚绯色的宝石...这是莎伦借助夏洛克·莫里亚蒂帮忙获得的“深红月冕”"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰之誓戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林佩戴的镶嵌幽蓝色宝石的戒指，可让米斯特拉尔伯爵共享他的视觉听觉嗅觉，有随机交换想法的负面效果。",
+      "identInfos": [
+        "幽蓝色宝石戒指",
+        "可共享感官",
+        "会随机交换想法"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1058,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“玫瑰之誓”戒指，可以让米斯特拉尔伯爵共享他的视觉、听觉和嗅觉。"
+        }
+      ]
+    },
+    {
+      "name": "昨日重现符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩预付给蕾妮特·缇尼科尔的报酬之一，可让其短暂向过去的自己借用力量。",
+      "identInfos": [
+        "可借用过去力量",
+        "符咒",
+        "克莱恩制造"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1057,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是‘昨日重现’符咒，可以让您短暂地向过去的自己借用力量。”"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩召集伦纳德和奥黛丽进入《格罗塞尔游记》探索书中世界人物的梦境，获取历史秘辛。",
+      "identInfos": [
+        "古神空想之龙制造",
+        "内有空想世界",
+        "可进入梦境探索"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1062,
+          "extractReason": "UPDATE",
+          "evidenceText": "唯一可以肯定的是，它是第二纪的古神，‘空想之龙’安格尔威德制作的，我从‘冰山中将’那里得到。"
+        },
+        {
+          "chapterSeq": 1063,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩召集伦纳德和奥黛丽进入《格罗塞尔游记》探索梦境..."
+        }
+      ]
+    }
+  ]
+}

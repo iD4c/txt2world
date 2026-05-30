@@ -1,0 +1,1049 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在雪伦夫人任务收尾时发现队长邓恩疑似异常，写信向戴莉和阿兹克求助。随后与伦纳德调查兰尔乌斯案，发现其留下的挑衅信。梅高欧丝来访，克莱恩灵性警告不可直视她，推断其腹中婴儿为邪神子嗣。在邓恩安排下，克莱恩领取阳炎符咒参与战斗，用两枚阳炎符咒重创梅高欧丝。邓恩牺牲后，克莱恩被因斯·赞格威尔偷袭杀死，随后在墓园复活，通过占卜确认凶手为因斯·赞格威尔，并得知兰尔乌斯也在贝克兰德。他决定前往贝克兰德复仇，离开前化身小丑为梅丽莎和班森献花。",
+      "identInfos": [
+        "原廷根市值夜者",
+        "序列8小丑",
+        "灰雾之上愚者",
+        "持阿兹克铜哨",
+        "用阳炎符咒参战",
+        "死而复生者",
+        "伪装小丑献花"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 201,
+          "extractReason": "UPDATE",
+          "evidenceText": "他发现邓恩·史密斯穿着黑色薄风衣出现于面前。\n按照正常的做梦反应，克莱恩迟缓地打了声召唤：\n“上午好……队长……”"
+        },
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "“邓恩·史密斯的异常会让我陷入危险之中。”"
+        },
+        {
+          "chapterSeq": 204,
+          "extractReason": "UPDATE",
+          "evidenceText": "不能看！不能看！不能看！\n会死的！\n看到就会死！"
+        },
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抓住这个机会，低沉开口，吐出了一个古赫密斯语单词：\n“光！”\n我要光，就有光！\n他顿觉掌中布满神秘花纹的薄薄金片变得滚烫，看见它散发出刺目的光芒，就像是化身成了一轮小太阳。\n紧接着，克莱恩将大半灵性灌入，往被禁锢住的梅高欧丝扔出了这枚“阳炎符咒”！"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的眼泪混杂着血液一滴滴滑落，口中低沉地吐出了一个古赫密斯语单词：\n“光！”\n照亮黑暗的光！带来温暖的光！\n他残余的灵性几乎全部灌注入了那刻满神秘花纹的薄薄金片，脑袋顿时又空洞又眩晕。\n鼓起最后的力气，克莱恩扔出了“阳炎符咒”，扔向了被无数黑色细线禁锢着的梅高欧丝。"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "突然，克莱恩胸口一痛，瞳孔紧缩，整个人一下定在了原地。\n他埋低脑袋，怔怔看见一只略显苍白的手掌从自己的左胸位置穿透出来，上面染满了鲜血。"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "突然，封住墓坑的石板被翻动，一只略显苍白的手从泥土里伸了出来。\n伸了出来！\n哗！\n石板被推开，棺材盖被推开，克莱恩坐了起来，略显茫然地望向四周。"
+        },
+        {
+          "chapterSeq": 212,
+          "extractReason": "UPDATE",
+          "evidenceText": "“杀掉我的人。”\n……他看见了一位留着暗金短发的中年男子。\n他穿着黑色双排扣长礼服，明显瞎了一只眼睛，眼眸深蓝近黑，五官轮廓如同雕刻，没有丝毫的皱纹。\n……这个凶手是因斯·赞格威尔！带着封印物“0-08”叛逃的前黑夜女神教会大主教，晋升失败的“看门人”！"
+        },
+        {
+          "chapterSeq": 213,
+          "extractReason": "UPDATE",
+          "evidenceText": "忽然，他摸了下衣兜里的钱夹，有了一个想法。\n……他们看到一个涂着红黄白等各色油彩的小丑跑了过来，先是往天上扔出一个个网球，接着在人们的注意力被吸引到半空时，不知从哪里变出了一束花，一束塞维亚菊。\n这束花凑到了梅丽莎和班森眼前，颜色金黄，象征着快乐。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        211,
+        212,
+        213
+      ]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "邓恩在雪伦夫人任务中支开克莱恩，半趴在科恩黎尸体旁，嘴角沾血，引起克莱恩怀疑。他向克莱恩解释自己服食队友遗留非凡特性以继续并肩战斗，因此导致消化缓慢，并非失控。在梅高欧丝事件中，他果断取出圣赛琳娜骨灰，安排非战斗人员撤离，率先出击对抗异变的梅高欧丝。战斗中，他挖出自己心脏塞入骨灰盒强化封印，最终说出“我们拯救了廷根”后死亡。",
+      "identInfos": [
+        "廷根市值夜者队长",
+        "序列7梦魇",
+        "灰眸幽邃",
+        "服食队友特性",
+        "使用圣赛琳娜骨灰",
+        "牺牲于邪神子嗣事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 201,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见队长立在那里，用黑布层层缠绕着封印物“3-0271”，表情沉凝，灰眸幽邃，脸庞干净。"
+        },
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩将右手伸入衣兜，想要摸索烟斗，但发现自己将它留在了办公室内。\n他自嘲摇头道：\n“我刚才说过了，我不是为了变得更强大才服食他们的遗物。”\n……“他们都是我的同伴……我很舍不得他们……”"
+        },
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩停住脚步，回过头来，表情温和，嗓音醇厚地说道：\n“不要担心我，我不是一个人，阿德莱德、道恩、小伊特、科恩黎他们在和我并肩战斗，不管面对什么样的危险。”\n……\n“也不要紧张，我们是在守护廷根市。”"
+        },
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩被无形的力量抛飞了，狠狠撞在了对面的墙上，撞得墙面开裂，砖块纷飞。\n他噗地吐出了一口鲜血，但双手依然捧着圣赛琳娜的骨灰盒，死死捧着，没让它掉落在地上。"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脸上的表情变幻了一下，几乎没有半点犹豫地就收回了右手，张开五指，噗的一声插入了自己的胸膛，左边胸膛！\n他的右手迅速抽离出来，上面染满了血液，五指紧握着一颗带着夜晚安宁和梦境多变感觉的心脏，一颗还在收缩和膨胀的心脏！"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯侧过头来，望向克莱恩，苍白的脸上带着温和而轻松的笑容，嗓音一如既往地醇厚：\n“我们拯救了廷根。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        201,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在追查兰尔乌斯案时发现其留下的挑衅信，随后与克莱恩一起面对梅高欧丝事件。战斗中，他使用封印物“2-105”窃取梅高欧丝的“亵渎之言”能力，短暂控制住她，为克莱恩创造攻击机会。邓恩和克莱恩死后，他悲痛万分，决心加入“红手套”复仇。",
+      "identInfos": [
+        "值夜者午夜诗人",
+        "绿眸",
+        "使用血管小偷封印物",
+        "窃取亵渎之言能力",
+        "欲加入红手套复仇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你描述的场景，让我想到了一些可能，想到了吸血鬼和异种。”"
+        },
+        {
+          "chapterSeq": 204,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德笑笑道：\n“不要这么紧张，你应该很清楚，兰尔乌斯是一名‘诈骗师’，他‘没有骗人’的描述或许本身就在骗人。”"
+        },
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德左手五指猛然合拢，腕部跟着旋转了半圈。\n他苍白的脸庞涨成了肝脏的颜色，上面的血管随之凸显，像是一条条细小的毒虫。\n“……”梅高欧丝的“亵渎之语”卡在了喉咙里，戛然而止。\n她似乎一下失去了语言的能力，失去了诅咒别人的能力。"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德双腿一软，跪在了原地，碧绿的眼睛内满是痛苦，一滴又一滴的泪水划过了他的脸庞，洗掉了血污，洗掉了灰尘。\n他侧耳倾听了两秒，忽然半趴下去，怒吼一声，握紧拳头，重重捶向了地板。"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德一下收回双腿，站了起来，碧绿的眼眸内仿佛有火焰在燃烧。\n他看着西迦·特昂道：\n“我打算申请加入‘红手套’。”\n……\n我要报仇！\n因斯·赞格威尔，你一定要活着等到我强大起来！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        211
+      ]
+    },
+    {
+      "name": "梅高欧丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "梅高欧丝被兰尔乌斯骗色怀孕，腹中孕育邪神子嗣。她受到召唤来到黑荆棘安保公司，与值夜者发生战斗，迅速异变成怪物，长出骨刀，使用亵渎之语攻击。她被克莱恩的阳炎符咒重创，最终在邓恩和克莱恩的牺牲下被消灭，邪神子嗣被驱除。",
+      "identInfos": [
+        "被兰尔乌斯骗色的孕妇",
+        "孕育真实造物主子嗣",
+        "异变为怪物",
+        "使用亵渎之语和骨刀",
+        "被阳炎符咒消灭"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 204,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅高欧丝摸着自己的肚子，浅笑道：\n“不知道为什么，我忽然就想着到佐特兰街来，忽然就想着上来看一看。”"
+        },
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅高欧丝略显烦躁地不断端起杯子喝水，脸庞隐有点扭曲地望向伦纳德道：\n“不知道为什么，我忽然有些不舒服。”\n……梅高欧丝抬手抓向她自己的脸庞，刷的一声抓下了一块肉，长条的肉，沾满了鲜血的肉。\n“我的脸庞有些痒。”梅高欧丝不好意思地笑了笑，嘴角一直裂到了颧骨位置，露出了里面白森森的牙齿和鲜红色的牙龈。"
+        },
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅高欧丝右边的眼球早被自己抓了下去，黏着染血的系带，挂在眼眶下面，她怒视着邓恩·史密斯，大声喊叫道：\n“你必须死！”\n……梅高欧丝左臂变成了她手里握着的那把白色骨刀，妖异又圣洁。"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅高欧丝失去了左臂，失去了脑袋，失去了许多血肉的焦黑身躯瞬间瓦解，里面有某个半虚幻半真实的可怕事物不再有现实的凭依，无法完成转化的最后一步，不甘地、愤怒地化作黑气，消融在了光芒与火焰里。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔是叛逃的前黑夜女神教会大主教，序列5“看门人”。他持有封印物“0-08”，暗中布置一系列巧合，目的是获得圣赛琳娜骨灰晋升序列4。在梅高欧丝事件结束后，他出现杀死了克莱恩，拿走骨灰，成功晋升为半神。",
+      "identInfos": [
+        "叛逃大主教",
+        "序列5看门人",
+        "持封印物0-08",
+        "杀死克莱恩",
+        "晋升序列4守夜人",
+        "制造廷根事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "突然，克莱恩胸口一痛，瞳孔紧缩，整个人一下定在了原地。\n他埋低脑袋，怔怔看见一只略显苍白的手掌从自己的左胸位置穿透出来，上面染满了鲜血。"
+        },
+        {
+          "chapterSeq": 212,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个凶手是因斯·赞格威尔！带着封印物“0-08”叛逃的前黑夜女神教会大主教，晋升失败的“看门人”！\n……因斯·赞格威尔确实是为了圣赛琳娜的骨灰，为了晋升序列4，才谋划了一系列的事情！"
+        },
+        {
+          "chapterSeq": 210,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔以剩余的死神后裔特性布置仪式，服食下圣赛琳娜的骨灰，成功从‘死神’途径的序列5‘看门人’晋升为‘黑夜’途径的序列4‘守夜人’，由此获得神性，成为半神半人的强者。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        209,
+        210,
+        211,
+        212
+      ]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "梅丽莎在得知克莱恩的死讯后，沉默而悲痛，在葬礼上扔下克莱恩的铜哨，并最终在墓碑前哭泣骂克莱恩“笨蛋”。后来与班森去马戏团，收到克莱恩化身的小丑送出的塞维亚菊。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "黑发褐眸",
+        "坚强沉默",
+        "在墓前哭泣骂笨蛋",
+        "收到小丑送花"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎站在那里，眼睛一点点睁大，身体微不可见地摇晃了几下，手中那三张门票无力滑落于地。\n……那位充满青春气息的女孩睁着眼睛，不发一言，瞳孔没有焦距，安静地就像一个人偶。"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎半蹲下去，将哥哥身上搜出来的那个铜哨扔了进去。\n……忽然，她蹲了下去，将脸埋进了双臂内。\n沉默之中，不知过了多久，梅丽莎突地闷声骂了一句：\n“笨蛋！”\n她哭了出来，无声地流泪，不断地流泪，难以停止地流泪。"
+        },
+        {
+          "chapterSeq": 213,
+          "extractReason": "UPDATE",
+          "evidenceText": "这束花凑到了梅丽莎和班森眼前，颜色金黄，象征着快乐。\n梅丽莎和班森略显茫然地望向对面的小丑，只见他满是红黄白等各色油彩的脸上，嘴角高高翘起，固定着一个快乐的笑容，浮夸的笑容，滑稽的笑容。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202,
+        211,
+        213
+      ]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森在得知克莱恩死讯后强忍悲痛，在盥洗室独自哭泣。他与梅丽莎参加葬礼，后来带她去马戏团散心，收到克莱恩化身的小丑送出的塞维亚菊。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "发际线较高",
+        "表面坚强内心悲痛",
+        "带妹妹去马戏团",
+        "收到小丑送花"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森扯了扯僵硬的嘴角道：“好的，他现在就可以。”\n不等伦纳德回应，他快步进入了一楼的盥洗室内，乓地一声关上了木门。\n……班森才抬起头，望向洗漱镜，只见对面的自己脸上尽是水滴，眼眶红得再也无法遮掩。"
+        },
+        {
+          "chapterSeq": 213,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森努力了几次，并大声喝彩，可都没能调动起妹妹的情绪，自己也慢慢低沉。\n……他们看到一个涂着红黄白等各色油彩的小丑跑了过来……不知从哪里变出了一束花，一束塞维亚菊。\n这束花凑到了梅丽莎和班森眼前，颜色金黄，象征着快乐。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202,
+        211,
+        213
+      ]
+    },
+    {
+      "name": "西迦·特昂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "西迦是值夜者成员，在梅高欧丝事件中看守查尼斯门，并与内部看守者对抗暴动的封印物。事件后，她告知伦纳德队长办公室有一封未译电报，内容为“小心因斯·赞格威尔，小心封印物‘0-08’”。",
+      "identInfos": [
+        "值夜者",
+        "白发黑瞳",
+        "兼职作家",
+        "看守查尼斯门",
+        "告知伦纳德电报"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 206,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位白发黑瞳，气质沉静的兼职作家沉默了几秒道：\n“你来看守查尼斯门吧。”\n“我的实力比你强，我的经验也比你丰富。”"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "右臂包扎着白色绷带的西迦·特昂出现于看守室的门口。\n……伦纳德，我发现队长，队长办公室里有一封还没译码的电报，应该是之前圣堂发来的。”\n……“小心因斯·赞格威尔，小心封印物‘0-08’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        206,
+        211
+      ]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克收到克莱恩的信后回信，分析邓恩的异常可能是吸血鬼或异种。在克莱恩复活后，他来到墓园献花，表示自己知道了凶手是谁。",
+      "identInfos": [
+        "霍伊大学历史系教员",
+        "长生者",
+        "克莱恩的笔友",
+        "具有死神途径相关记忆",
+        "青铜肤色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩手腕一抖，将信扔了上去，看见白骨怪物稳稳抓住。\n他又吹动铜哨，目睹“信使”崩解成虚幻的白骨，一根根如雨落下，消失在书桌表面。"
+        },
+        {
+          "chapterSeq": 203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“……你描述的场景，让我想到了一些可能，想到了吸血鬼和异种。”\n……如果你的上司已经处于半疯狂的状态，那他很可能是误服了这种魔药……"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "肤色古铜的阿兹克拿着束白花，立在克莱恩的墓坑前，久久没有说话，最后叹息着自语道：\n“很抱歉，我迟到了十分钟。”\n“但我应该知道是谁了……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202,
+        203,
+        211
+      ]
+    },
+    {
+      "name": "弗莱",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗莱在科恩黎死后安慰克莱恩，参与搬运尸体，后来参加葬礼。",
+      "identInfos": [
+        "值夜者",
+        "冰冷阴沉面孔",
+        "参加科恩黎葬礼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 201,
+          "extractReason": "UPDATE",
+          "evidenceText": "他侧头望向克莱恩，冰冷阴沉的脸上露出明显的关切和紧张：\n“出了什么事情？”\n“队长和科恩黎呢？”"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德、班森、弗莱和布莱特扛着棺材，走了过来，将它放入了墓坑内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        201,
+        211
+      ]
+    },
+    {
+      "name": "赛琳娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "赛琳娜是梅丽莎的朋友，曾进行魔镜占卜招来邪灵。在本chunk中，她参加克莱恩的葬礼。",
+      "identInfos": [
+        "梅丽莎的朋友",
+        "曾招来邪灵",
+        "参加克莱恩葬礼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "赛琳娜和伊丽莎白也在家人的催促下告辞，现场只留有班森和梅丽莎。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        211
+      ]
+    },
+    {
+      "name": "伊丽莎白",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伊丽莎白是梅丽莎的朋友，在克莱恩葬礼上抹泪。",
+      "identInfos": [
+        "梅丽莎的朋友",
+        "在葬礼上哭泣"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎站在墓坑前方，眼神涣散，没有焦距，她旁边的伊丽莎白却是一直在抹泪。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        211
+      ]
+    },
+    {
+      "name": "兰尔乌斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "兰尔乌斯是诈骗犯，在廷根制造邪神子嗣事件后留下挑衅信，宣称安放了“炸弹”。他处于贝克兰德，是克莱恩的复仇目标之一。",
+      "identInfos": [
+        "诈骗犯",
+        "序列8诈骗师",
+        "制造邪神子嗣事件",
+        "留下挑衅信",
+        "目前在贝克兰德"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“哈哈哈，祝贺你们，祝贺你们终于找到了这封信！”\n“这说明你们还不算太愚蠢，不算太迟钝，有资格参与我设计的这场生与死的游戏。”"
+        },
+        {
+          "chapterSeq": 204,
+          "extractReason": "UPDATE",
+          "evidenceText": "“女士们，先生们，我的提示是，我在廷根市安放了一个炸弹，会随着时间推移不断变强的炸弹。”\n……最喜欢给朋友带来惊喜的兰尔乌斯。”"
+        },
+        {
+          "chapterSeq": 212,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯目前的位置。\n……兰尔乌斯同样在“希望之地”、“万都之都”贝克兰德！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        203,
+        204,
+        212
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽通过祈求向愚者请假，因齐林格斯事件被父亲请非凡者保护。",
+      "identInfos": [
+        "塔罗会正义",
+        "贵族少女",
+        "观众途径非凡者",
+        "愚者信徒",
+        "请假暂不参加聚会"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我祈求您的垂听。”\n“因为齐林格斯的事情，我的父亲请了位非凡者来保护我，而且暗中还有我不知道的监控，我好不容易才找到机会向您祈求，我想为下周的聚会请假，我相信这些很快就能淡去。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰通过祈求向愚者请假，因齐林格斯事件残余影响。",
+      "identInfos": [
+        "塔罗会倒吊人",
+        "风暴教会非凡者",
+        "愚者信徒",
+        "请假暂不参加聚会"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "他开始倾听“倒吊人”的祈求。\n对方的描述与“正义”不同，但祈求的却是同样一件事情，他也要因为齐林格斯事件的残余影响请假。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴里克收到愚者取消聚会的通知，并观察到白银城长老洛薇雅状态异常。",
+      "identInfos": [
+        "塔罗会太阳",
+        "白银城少年",
+        "渴望成为太阳非凡者",
+        "愚者信徒"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "他并不惊讶于这种神奇，因为每次聚会前，“愚者”先生都是这样提示他的。\n戴里克下意识抬头望了眼前方那位女子，白银城六人议事团的成员，“牧羊人”洛薇雅。\n洛薇雅长老没有发现任何异常……她的状态越来越奇怪了，是因为她放牧的灵魂里有一个等于高序列强者的恶灵吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202
+      ]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉收到克莱恩的信后未直接回复，而是让邓恩自行解释。克莱恩因此得知邓恩没有大问题。",
+      "identInfos": [
+        "通灵者",
+        "值夜者",
+        "克莱恩信赖的顾问",
+        "使用无眼无鼻信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“戴莉让我自己给你解释。”\n……戴莉女士未及时回信的原因是，她认为没有必要，她直接把事情转达给了队长，让他自己解释。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        203
+      ]
+    },
+    {
+      "name": "科恩黎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "科恩黎在雪伦夫人任务中因封印物“3-0271”看到自己而死亡。邓恩在其死后服食了他遗留的非凡特性。",
+      "identInfos": [
+        "值夜者",
+        "死于雪伦夫人任务",
+        "擅长弹七弦琴",
+        "邓恩服食其特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 201,
+          "extractReason": "UPDATE",
+          "evidenceText": "科恩黎的尸体没新增什么异常，依旧是刚才的样子。"
+        },
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "“科恩黎……个子不高……会弹七弦琴，会唱歌，会讲故事，比伦纳德更像一个诗人……我很舍不得他们。”\n……科恩黎也死亡了，邓恩非常自责，并按照惯例服食了对方遗留的非凡特性"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        201,
+        207
+      ]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "洛薇雅是白银城六人议事团成员，牧羊人，状态在微笑和冷酷中转变，负责训练少年巡逻。",
+      "identInfos": [
+        "白银城六人议事团成员",
+        "牧羊人",
+        "状态异常",
+        "训练戴里克"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛薇雅长老没有发现任何异常……她的状态越来越奇怪了，是因为她放牧的灵魂里有一个等于高序列强者的恶灵吗？戴里克思维发散地想着。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        202
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会成员正义和倒吊人因齐林格斯事件请假，太阳继续在白银城活动。聚会暂时取消。",
+      "identInfos": [
+        "愚者主持的非凡者聚会",
+        "成员有正义、倒吊人、太阳",
+        "每周一聚会",
+        "通过灰雾联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我祈求您的垂听。”\n“因为齐林格斯的事情，我的父亲请了位非凡者来保护我，而且暗中还有我不知道的监控，我好不容易才找到机会向您祈求，我想为下周的聚会请假，我相信这些很快就能淡去。”"
+        },
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "“即将到来的聚会暂时取消。”"
+        }
+      ]
+    },
+    {
+      "name": "值夜者小队",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者小队在邓恩带领下与梅高欧丝战斗，邓恩和克莱恩牺牲，科恩黎早先死亡，小队遭受重创。伦纳德决定加入红手套，队员将迎来一半以上新面孔。",
+      "identInfos": [
+        "黑夜女神教会非凡者队伍",
+        "廷根市小队驻佐特兰街",
+        "队长邓恩牺牲",
+        "多名成员死亡",
+        "伦纳德欲加入红手套"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩停住脚步，回过头来，表情温和，嗓音醇厚地说道：\n“不要担心我，我不是一个人，阿德莱德、道恩、小伊特、科恩黎他们在和我并肩战斗，不管面对什么样的危险。”\n……\n“也不要紧张，我们是在守护廷根市。”"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "西迦·特昂：“我们的队员将有一半甚至更多的新面孔，就算是值夜者小队，这样的惨烈也很少见……”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "极光会成员西里斯·阿瑞匹斯曾与兰尔乌斯有联系，兰尔乌斯从极光会成员处得到与真实造物主有关的仪式魔法。",
+      "identInfos": [
+        "信仰真实造物主",
+        "成员涉及邪神子嗣仪式",
+        "与兰尔乌斯有联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 203,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你描述的场景，让我想到了一些可能，想到了吸血鬼和异种。”\n……之前那位极光会成员所在的街区吗？"
+        },
+        {
+          "chapterSeq": 205,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯从极光会成员那里得到与‘真实造物主’有关的仪式魔法，借助胡德·欧根的帮助，让梅高欧丝成为了孕育某种力量的载体"
+        }
+      ]
+    },
+    {
+      "name": "红手套",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "红手套是值夜者内部精英队伍，不受辖区限制追踪罪犯。伦纳德决定申请加入以复仇。",
+      "identInfos": [
+        "值夜者精英队伍",
+        "可跨辖区追捕",
+        "最低要求序列7",
+        "伦纳德申请加入"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 211,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他忽地眯起眼睛，身上的颓唐和沮丧同时消失不见。\n……“我打算申请加入‘红手套’。”\n“红手套”是值夜者内部精英队伍的代称……他们是严格挑选出来的精英，甚至掌握了部分圣物，他们的任务是增援发出信号的值夜者小队，以及不受限制地追踪和抓捕被关注的邪恶者。"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "教会高层让戴莉和邓恩对非凡特性不灭定律保密，圣堂对廷根事件做出反应，派强者重新布置查尼斯门。",
+      "identInfos": [
+        "信仰黑夜女神",
+        "掌握不眠者途径",
+        "值夜者归属",
+        "对扮演法保密"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣堂让我保密，并给我两个选择……第一个选择是装作不知道，就像绝大部分值夜者队长和执事一样……"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "此时此刻，圣堂派来的强者正在重新布置查尼斯门后的封印，因为圣赛琳娜骨灰的丢失，他们的意见出现了矛盾"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城位于神弃之地，六人议事团成员洛薇雅状态异常，少年们将加入巡逻队清除黑暗怪物。",
+      "identInfos": [
+        "神弃之地城市",
+        "六人议事团统治",
+        "掌握巨人途径",
+        "有牧羊人长老"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克下意识抬头望了眼前方那位女子，白银城六人议事团的成员，“牧羊人”洛薇雅。\n这位可怕的强者不断在微笑和冷酷中转变着，并告诉在场的每一位少年，他们接下来将加入巡逻队伍，去清除附近的黑暗怪物们，那不再是训练。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "阳炎符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在战斗中使用两枚阳炎符咒重创梅高欧丝，最终驱除邪神子嗣。符咒源自窃取永恒烈阳神血制作。",
+      "identInfos": [
+        "克莱恩制作的攻击符咒",
+        "蕴含神血力量",
+        "可释放光与火焰",
+        "使用古赫密斯语催动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抓住这个机会，低沉开口，吐出了一个古赫密斯语单词：\n“光！”\n我要光，就有光！\n他顿觉掌中布满神秘花纹的薄薄金片变得滚烫，看见它散发出刺目的光芒，就像是化身成了一轮小太阳。\n紧接着，克莱恩将大半灵性灌入，往被禁锢住的梅高欧丝扔出了这枚“阳炎符咒”！"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "鼓起最后的力气，克莱恩扔出了“阳炎符咒”，扔向了被无数黑色细线禁锢着的梅高欧丝。\n……炽白的光华里，克莱恩闭上了眼睛，脑海内铭刻下了最后的那幅画面：\n梅高欧丝失去了左臂，失去了脑袋，失去了许多血肉的焦黑身躯瞬间瓦解……"
+        }
+      ]
+    },
+    {
+      "name": "圣赛琳娜的骨灰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "邓恩在危急关头使用圣赛琳娜骨灰对抗梅高欧丝，骨灰释放出无数黑色细线禁锢敌人。邓恩挖出心脏塞入骨灰盒强化封印，最终骨灰被因斯·赞格威尔夺走，用于晋升序列4。",
+      "identInfos": [
+        "高序列强者圣赛琳娜的骨灰",
+        "廷根查尼斯门封印核心",
+        "呈深沉黑暗含璀璨细沙",
+        "被因斯·赞格威尔夺走"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 205,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯……走向地底，然后托着一个巴掌大小的方形骨灰盒出来。\n……我作为廷根市值夜者小队的队长，有权利在危急关头使用圣赛琳娜的骨灰！"
+        },
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯……按住了圣赛琳娜的骨灰盒，揭开了盖子。\n里面是深沉到了极点的黑暗，黑暗中有一粒粒璀璨的细沙，这幅场景呈现梦幻般的美丽，就像夜晚的星空被装进了盒子内。\n四周霍然变暗，幽深笼罩了整个接待大厅，空气里随之荡起无数黑色的、冰冷的、滑腻的细丝。\n它们涌向了梅高欧丝，几乎瞬间就将她缠绕包裹起来。"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯……右手迅速抽离出来，上面染满了血液，五指紧握着一颗带着夜晚安宁和梦境多变感觉的心脏，一颗还在收缩和膨胀的心脏！\n队长……克莱恩眼睁睁看着邓恩·史密斯将右手握住的心脏塞入了圣赛琳娜的骨灰盒里，他的视线飞快模糊。"
+        },
+        {
+          "chapterSeq": 209,
+          "extractReason": "UPDATE",
+          "evidenceText": "一只略显苍白的手掌从自己的左胸位置穿透出来……最后只感觉到那手掌猛地往后抽回，只看见了一双崭亮的皮靴和一只下探的手，略显苍白的手。\n它握住了圣赛琳娜的骨灰盒。"
+        }
+      ]
+    },
+    {
+      "name": "封印物“2-105”（血管小偷）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从查尼斯门取出血管小偷交给伦纳德使用。伦纳德用它窃取梅高欧丝的“亵渎之言”能力，短暂控制住对方。",
+      "identInfos": [
+        "2级封印物",
+        "外形为苍白染血的粗大血管",
+        "可窃取目标能力",
+        "偷窃生命",
+        "伦纳德使用"
+      ],
+      "aliases": [
+        {
+          "alias": "血管小偷",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 206,
+          "extractReason": "UPDATE",
+          "evidenceText": "“2-105”的名称是“血管小偷”，它的外形为一条粗大的、僵化的血管，凡是触碰到它的人，不管有没有保护，都会被偷走生命……佩戴它的人，有机会窃取一定范围内某个目标的一项能力"
+        },
+        {
+          "chapterSeq": 208,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德左手猛然抬起，用掌心锁定了梅高欧丝，腕部缠绕的封印物“2-105”从粗大的、苍白的、染着红色的血管变成了暗红色的、鼓胀到快要崩裂的“肠子”。\n他刚才借助“血管小偷”，成功窃取了梅高欧丝的“亵渎之言”"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用铜哨召唤信使给阿兹克送信，在梅高欧丝事件中铜哨曾受压但恢复。克莱恩死后，梅丽莎将铜哨扔入棺中，后克莱恩复活取出。阿兹克未取走铜哨。",
+      "identInfos": [
+        "召唤白骨信使的铜哨",
+        "阿兹克所赠",
+        "可寄信给阿兹克",
+        "梅丽莎陪葬品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 201,
+          "extractReason": "UPDATE",
+          "evidenceText": "折好信纸，克莱恩掏出铜哨，凑到嘴边，狠狠吹了口气。\n无声无息间，他看见书桌之上有虚幻朦胧的白骨被一根根抛出，化作喷泉，拼成了一个巨大的怪物"
+        },
+        {
+          "chapterSeq": 205,
+          "extractReason": "UPDATE",
+          "evidenceText": "他敏锐地察觉到后者冰凉但柔和的非凡触感消失了，似乎正被无形的力量压制，而前者却依旧温暖，让人安心。"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎半蹲下去，将哥哥身上搜出来的那个铜哨扔了进去。"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩……明白自己必须尽快处理现场……他的灵感察觉到了“阿兹克铜哨”的存在，于是将它挖了出来，擦得干干净净。"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克……没有取走那个铜哨。"
+        }
+      ]
+    },
+    {
+      "name": "封印物“3-0271”（通灵者的镜子）",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "在雪伦夫人任务中，邓恩将通灵者的镜子交给科恩黎使用，科恩黎因照到自己而失控自杀。",
+      "identInfos": [
+        "3级封印物",
+        "外形为镜子",
+        "照到自己会导致失控",
+        "雪伦夫人任务使用"
+      ],
+      "aliases": [
+        {
+          "alias": "通灵者的镜子",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 201,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯拿着“通灵者的镜子”，沉默了几秒，嗓音沙哑地说道：\n“抱歉，我忘记了，我今晚犯了太多的错误。”"
+        },
+        {
+          "chapterSeq": 207,
+          "extractReason": "UPDATE",
+          "evidenceText": "雪伦夫人正巧将‘原初魔女’的神像放在旁边。\n于是，值夜者们的计划失败了，科恩黎紧张之下照到了自己，看到了自己。"
+        }
+      ]
+    },
+    {
+      "name": "黄水晶吊坠",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩在灰雾之上用黄水晶吊坠占卜邓恩的异常，复活后从手腕取下吊坠寻找邓恩坟墓。",
+      "identInfos": [
+        "克莱恩的占卜工具",
+        "黄水晶灵摆",
+        "缠在左腕"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 202,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩坐到属于“愚者”的高背椅上，默然解下了左腕袖口内的灵摆……他望着黄水晶吊坠，一颗心渐渐往下沉去，因为灵摆正在做顺时针的转动"
+        },
+        {
+          "chapterSeq": 212,
+          "extractReason": "UPDATE",
+          "evidenceText": "抬起左手，克莱恩看见了腕部依旧缠绕的那条黄水晶吊坠。\n……他自嘲一笑，解下灵摆"
+        }
+      ]
+    },
+    {
+      "name": "封印物“0-08”",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物“0-08”是一支普通羽毛笔，能通过书写安排巧合，因斯·赞格威尔用它策划了廷根一系列事件。西迦告知伦纳德小心该封印物。",
+      "identInfos": [
+        "0级封印物",
+        "外形为普通羽毛笔",
+        "能安排巧合",
+        "因斯·赞格威尔持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 210,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是密修会成员瑞金斯因为疲惫和幻觉的双重影响，误将安提哥努斯家族笔记当做一般的古籍卖了出去，这是一个符合逻辑的巧合。”"
+        },
+        {
+          "chapterSeq": 211,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“小心因斯·赞格威尔，小心封印物‘0-08’。”\n……封印物“0-08”，一支看起来很普通的羽毛笔……\n……因斯·赞格威尔，封印物“0-08”……能够制造巧合？"
+        },
+        {
+          "chapterSeq": 212,
+          "extractReason": "UPDATE",
+          "evidenceText": "所以，是那个封印物“0-08”的能力？\n它的外形是一支普通的羽毛笔……它的作用是写下的事情注定会实现？\n……这个位于所有封印物最顶端那一层的物品，可以让人不知不觉按照它的描述展开行为？这就是那一次次巧合的原因？"
+        }
+      ]
+    }
+  ]
+}

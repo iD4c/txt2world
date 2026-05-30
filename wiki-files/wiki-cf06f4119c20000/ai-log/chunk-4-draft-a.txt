@@ -1,0 +1,613 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "正式成为值夜者，需独立完成入队任务。先是调查德维尔爵士的骚扰事件，通过灵视和梦境占卜发现骚扰源于铅中毒女工的怨念，核心为海莉叶的怨念。他劝说德维尔补偿海莉叶家属300镑并宣扬铅害，怨念消散，任务完成。随后在赛琳娜生日晚宴上，发现魔镜占卜招来邪灵，举行向黑夜女神祈求的仪式成功驱逐。得知海纳斯·凡森特在睡梦中死亡，队长邓恩在其梦中见到倒吊的鲜血裸男。在塔罗会上获得新罗塞尔日记，得知密修会首领查拉图是占卜家，密修会在寻找安提哥努斯家族遗物。从日记和戴莉的猜测确认“占卜家”后续是“小丑”，在灰雾之上占卜确认并寻找魔药线索，梦中看到海纳斯·凡森特将笔记卖给韦尔奇的场景，发现第三位在场半百老者。占卜发现艾略特绑架案存在超凡引导，看到红色烟囱象征，意识到幕后黑手。开始学习格斗，拜访导师科恩，从阿兹克处借阅《霍纳奇斯主峰古代遗迹研究》，了解夜之国信息。阿兹克指出其命运不协调，克莱恩对其背景产生怀疑。决定寻找笔记交易时的第三位老者，并计划多接触阿兹克。",
+      "identInfos": [
+        "值夜者正式成员，代号“愚者”",
+        "穿越者，原为历史系毕业生克莱恩·莫雷蒂",
+        "序列9“占卜家”，掌握占卜、灵视、仪式魔法",
+        "塔罗会创始人，以“愚者”为化身",
+        "妹妹梅丽莎，哥哥班森",
+        "参与调查安提哥努斯家族笔记事件"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "代号"
+        },
+        {
+          "alias": "克莱恩",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 81,
+          "extractReason": "UPDATE",
+          "evidenceText": "“必须独立完成一个任务才是正式成员？”克莱恩愣了一下道，“可是，我们一周都未必能有一次任务，而且不一定简单。”"
+        },
+        {
+          "chapterSeq": 85,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩镇定笑了一声：“不要打扰到里面的小姐和女士。”"
+        },
+        {
+          "chapterSeq": 99,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩心中大骇，失去了宁静，让灵摆的转动一下混乱。"
+        },
+        {
+          "chapterSeq": 100,
+          "extractReason": "UPDATE",
+          "evidenceText": "想到这里，克莱恩揉了揉额头，对占卜家的局限突然深有感触。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "向克莱恩解释值夜者正式成员的仪式，教授神秘学课程，安排格斗训练。",
+      "identInfos": [
+        "值夜者成员，负责神秘学教学",
+        "擅长仪式魔法",
+        "常喝咖啡，教导克莱恩制作符咒护身符"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 81,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这只是值夜者之间的仪式，毕竟我们站在对抗超凡危险的最前方，肯定不希望身边的队友是时刻需要照顾的小孩，而这不影响你拿到正式成员的薪水，获得对应的权利，履行必要的义务。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [81]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "指派克莱恩独立任务，调查海纳斯·凡森特时在其梦中见到巨大十字架上倒吊的鲜血裸男，凡森特随后在睡梦中死亡。向克莱恩介绍戴莉的猜测。",
+      "identInfos": [
+        "值夜者小队队长，序列7“梦魇”",
+        "灰眸深邃，发际线高",
+        "记忆不好"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 88,
+          "extractReason": "UPDATE",
+          "evidenceText": "“在他的梦境里，在我的梦境里……”邓恩重复了两遍，目光不自觉流露出畏惧地说道，“在他的梦境里，我看见了一个十字架，巨大的十字架，撑满了天空的十字架，在这十字架上面，黑色铁钉钉着一个赤身裸体的男人，他两臂张开，双脚在上，头部如同吊坠般垂下，身体有着一道又一道的血渍。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [81, 88, 89, 92, 96]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "通知克莱恩有任务，带克莱恩去格斗老师高文处。",
+      "identInfos": [
+        "值夜者成员，诗人气质",
+        "序列8“午夜诗人”",
+        "与克莱恩一起调查过安提哥努斯笔记事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 88,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你和伦纳德昨晚就去找了海纳斯·凡森特……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [88, 97]
+    },
+    {
+      "name": "赛琳娜·伍德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "生日晚宴上玩魔镜占卜，因偷看老师海纳斯·凡森特的秘藏咒文而招来邪灵，被克莱恩举行仪式驱逐。",
+      "identInfos": [
+        "梅丽莎的好友，神秘学爱好者",
+        "酒红色长发，酒窝很深",
+        "老师为海纳斯·凡森特"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 86,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我祈求您，等待片刻，等待那位不幸的女孩。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [84, 85, 86, 87]
+    },
+    {
+      "name": "伊丽莎白",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "在赛琳娜生日晚宴上认出克莱恩是地下交易市场遇到的神秘学专家，协助克莱恩解决邪灵事件，并答应保密。",
+      "identInfos": [
+        "梅丽莎和赛琳娜的好友，十六岁少女",
+        "褐色长发，有婴儿肥",
+        "伊沃斯公学学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 84,
+          "extractReason": "UPDATE",
+          "evidenceText": "“原来你是梅丽莎的哥哥……谢谢你，赛琳娜很喜欢我送的护身符，说刚戴上就感觉身体变得健康。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [84, 85, 86, 87]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "参加赛琳娜生日晚宴，收到克莱恩制作的护身符，察觉克莱恩和伊丽莎白行为古怪，后被克莱恩诱导解释。",
+      "identInfos": [
+        "克莱恩的妹妹，机械爱好者",
+        "廷根市技术学校学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 84,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩，你以前不是这样的，这样……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [84, 85, 87, 88, 98]
+    },
+    {
+      "name": "班森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "参加赛琳娜生日晚宴，收到克莱恩制作的护身符，与律师们交流。",
+      "identInfos": [
+        "克莱恩的哥哥，事务律师",
+        "发际线高"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 84,
+          "extractReason": "UPDATE",
+          "evidenceText": "“班森，你这是很旧的正装了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [84, 87, 88]
+    },
+    {
+      "name": "德维尔爵士",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "被铅中毒女工怨念纠缠，每晚听见呻吟哭泣，精神萎靡。克莱恩调查后发现根源，说服他补偿海莉叶家属300镑并宣扬铅害，怨念消散。",
+      "identInfos": [
+        "廷根市富豪、慈善家、勋爵",
+        "制铅和瓷器工厂主",
+        "德维尔图书馆主人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 89,
+          "extractReason": "UPDATE",
+          "evidenceText": "“从上个月6号开始，德维尔爵士每晚入睡的时候，都会听到让人头皮发麻的痛苦呻吟，就像是垂死的病人在竭力挣扎，他检查过周围的房间，没发现任何异常的情况，而管家和仆人们也证实，确实有类似的声音，只不过他们听到的动静很轻微。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [81, 89, 90, 91, 92]
+    },
+    {
+      "name": "博格达·琼斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "肝部疾病严重，因朋友推荐找克莱恩占卜，按指引去罗森草药店购买药剂治愈，事后感谢克莱恩。",
+      "identInfos": [
+        "安娜和乔伊斯的朋友",
+        "肝病患者，对手术恐惧",
+        "按克莱恩指引找到罗森草药店"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 82,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“博格达，你考虑好什么时候进行手术了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [82, 83, 95]
+    },
+    {
+      "name": "罗森·达克威德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "东区罗森的民俗草药店老板，疑似非凡者，能一眼看出博格达肝病，售卖神奇药剂，但感觉被太多人注意后计划离开廷根。",
+      "identInfos": [
+        "民俗草药店老板，黑发圆脸",
+        "深蓝色眼眸，穿类似巫医长袍",
+        "药剂神奇，可治愈重病"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 82,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你肝部的疾病很严重啊，但一切的前提是，你有没有钱，足够付药剂的钱？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [82, 83]
+    },
+    {
+      "name": "海纳斯·凡森特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "赛琳娜的神秘学老师，私下教授危险咒文。邓恩·史密斯潜入其梦境调查时，见到巨大十字架上倒吊的鲜血裸男，凡森特随后在睡梦中死亡。克莱恩在占卜中看到他参与安提哥努斯笔记交易。",
+      "identInfos": [
+        "占卜俱乐部成员，赛琳娜的神秘学老师",
+        "涉及邪神信仰",
+        "在睡梦中死亡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 88,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“海纳斯·凡森特死了。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [88]
+    },
+    {
+      "name": "戴莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通灵者，从恩马特港来廷根，调往贝克兰德教区。提出“占卜家”后续序列可能为非递进关系的猜测，认为序列4会组合能力发生质变。",
+      "identInfos": [
+        "阿霍瓦郡最有名的通灵者",
+        "序列7“通灵者”，晋升极快",
+        "擅长挖掘序列魔药"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 96,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我和戴莉讨论了‘占卜家’魔药后续是‘小丑’的事情，在先不考虑密修会成员故意欺骗你的情况下，她提出了一个有趣的猜测。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [96]
+    },
+    {
+      "name": "高文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的格斗老师，曾是骑士，因时代变迁退役。住在一栋破旧房屋中，要求克莱恩从基础力量训练开始。",
+      "identInfos": [
+        "前骑士，克莱恩的格斗老师",
+        "金发两鬓白，神情沉郁",
+        "认为格斗已过时"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 97,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“他活跃于骑士最后的辉煌年代，那些穿着胸甲的勇士向着排成阵列的火枪和火炮疯狂冲锋，摧毁对手，踏平阵线”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [97]
+    },
+    {
+      "name": "阿兹克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "霍伊大学教员，借给克莱恩《霍纳奇斯主峰古代遗迹研究》，指出克莱恩命运有不协调之处，提及自己会占卜。克莱恩怀疑其背景，决定多接触。",
+      "identInfos": [
+        "霍伊大学教员，古铜色皮肤",
+        "右耳下有小痣，眼眸沧桑",
+        "会占卜，命运存在不协调"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 98,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“克莱恩，我在贝克兰德读大学的时候，接触到了一些占卜的东西，对这方面有一定的研究，嗯，我发现你的命运有不协调的地方。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [98]
+    },
+    {
+      "name": "安吉莉卡",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "占卜俱乐部接待女郎，通知克莱恩有客人指定占卜。",
+      "identInfos": [
+        "占卜俱乐部接待员",
+        "与克莱恩相熟"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 82,
+          "extractReason": "UPDATE",
+          "evidenceText": "“安洁莉卡礼貌性笑道：‘您有指定的占卜师吗？或者，翻看我们的介绍，选择最适合您的那位。’”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [82, 95]
+    },
+    {
+      "name": "奥黛丽",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上呈交新一页罗塞尔日记，询问心理炼金会线索，被告知无需急于寻找，应专注消化魔药。愚者告知消化期限可短至一个月。",
+      "identInfos": [
+        "代号“正义”，贵族少女",
+        "序列9“观众”",
+        "塔罗会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 93,
+          "extractReason": "UPDATE",
+          "evidenceText": "“下午好，愚者先生。”附加了朦胧效果般的奥黛丽行了一礼"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [93, 94]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上介绍各隐秘组织，包括摩斯苦修会、密修会、魔女教派等。愚者将真实造物主称为“堕落造物主”。",
+      "identInfos": [
+        "代号“倒吊人”，风暴教会非凡者",
+        "序列7“航海家”",
+        "塔罗会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 94,
+          "extractReason": "UPDATE",
+          "evidenceText": "“摩斯苦修会最早是由几位观看了亵渎石板的人类组建，他们信仰一位非人格化的神灵，叫做隐匿的贤者。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [93, 94, 95]
+    },
+    {
+      "name": "科恩·昆汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的导师，临时会议未见面，让阿兹克代为接待。",
+      "identInfos": [
+        "霍伊大学历史系教员，克莱恩的导师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 98,
+          "extractReason": "UPDATE",
+          "evidenceText": "“科恩临时有个会议，去了廷根大学，让我在这里等你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [98]
+    },
+    {
+      "name": "托勒督察",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "金梧桐区警察局督察，负责德维尔爵士骚扰案，陪同克莱恩调查。",
+      "identInfos": [
+        "警局督察，肩章两颗银星",
+        "有浓密棕黄胡须"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 89,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“这是见习督察莫雷蒂先生，郡警察厅的历史学专家、心理学专家。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [89, 92]
+    },
+    {
+      "name": "海莉叶·沃克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "德维尔工厂的女工，因铅中毒死亡。她的怨念成为骚扰德维尔的核心。克莱恩建议德维尔补偿其家属300镑，怨念消散。",
+      "identInfos": [
+        "制铅工厂女工，十七岁",
+        "铅中毒死亡",
+        "家庭贫困，父亲兄弟失业"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 90,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“海莉叶，你最近身体怎么样，有没有感觉头疼？如果很严重，记得告诉我，德维尔爵士规定，严重头疼的人不能再接触铅，必须离开工厂。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [91]
+    }
+  ],
+  "factions": [
+    {
+      "name": "值夜者小队",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩正式成为其中一员，需完成独立任务以获得同伴认可。队长邓恩指派任务，成员包括伦纳德、老尼尔、弗莱、洛耀、科恩黎、西迦等。小队使用额外经费聚餐。",
+      "identInfos": [
+        "黑夜女神教会下属超凡者小队",
+        "廷根市驻守，对抗超凡危险",
+        "队长邓恩·史密斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 83,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩，圣堂已经批复，你是我们的正式成员了。”"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上被介绍为活动频率最低的隐秘组织，总是在追逐寻找什么。罗塞尔日记揭示其首领查拉图是占卜家，密修会在寻找安提哥努斯家族遗物。",
+      "identInfos": [
+        "古老隐秘组织，首领查拉图",
+        "掌握“占卜家”序列途径",
+        "在寻找安提哥努斯家族遗物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 94,
+          "extractReason": "UPDATE",
+          "evidenceText": "“密修会是所有隐秘组织里活动频率最低的组织，因此最不被别人了解，他们每一次出现，都似乎只是在追逐什么，寻找什么。”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "本次聚会中，“正义”询问心理炼金会，“倒吊人”介绍各隐秘组织，愚者将真实造物主称为“堕落造物主”。讨论新成员加入需严格挑选。",
+      "identInfos": [
+        "由愚者创建的秘密聚会",
+        "成员包括“正义”奥黛丽、“倒吊人”阿尔杰",
+        "每周一下午在灰雾之上聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 93,
+          "extractReason": "UPDATE",
+          "evidenceText": "“最开始是尝试，没有那么多额外的考量。”"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "在塔罗会上被介绍为最早隐秘组织之一，信仰非人格化的隐匿贤者，后因隐匿贤者变为人格化邪神而堕落。",
+      "identInfos": [
+        "最早隐秘组织，信仰隐匿贤者",
+        "掌握“窥秘人”序列",
+        "后堕落成邪恶组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 94,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“摩斯苦修会最早是由几位观看了亵渎石板的人类组建，他们信仰一位非人格化的神灵，叫做隐匿的贤者。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在占卜“小丑”魔药线索时，看到海纳斯·凡森特将笔记卖给韦尔奇的场景，揭示笔记交易存在第三位半百老者。笔记与密修会寻找之物相关。",
+      "identInfos": [
+        "第四纪安提哥努斯家族遗留笔记",
+        "引发韦尔奇、娜娅自杀事件的源头",
+        "密修会寻找的物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 100,
+          "extractReason": "UPDATE",
+          "evidenceText": "“安提哥努斯家族的笔记！”"
+        }
+      ]
+    },
+    {
+      "name": "《霍纳奇斯主峰古代遗迹研究》",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩从阿兹克处借阅此书，了解到夜之国遗迹详情，包括建筑风格、无墓葬、居民消失等。确认梦境与遗迹关联。",
+      "identInfos": [
+        "约翰·乔瑟夫所著学术专著",
+        "研究霍纳奇斯主峰古代遗迹",
+        "揭示夜之国信息"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 98,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“《霍纳奇斯主峰古代遗迹研究》这本书并不厚，临近中午的时候，克莱恩就翻阅完毕，把握到了几个需要注意的点”"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在塔罗会上获得新一页日记，得知密修会首领查拉图是占卜家，密修会寻找安提哥努斯家族遗物，以及消化魔药的时间标准。",
+      "identInfos": [
+        "罗塞尔大帝用中文简体书写的日记",
+        "记载诸多神秘学知识和隐秘",
+        "塔罗会成员定期搜集"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 93,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我又见到了那位神秘的查拉图先生，他竟然是古老组织密修会的首领！”"
+        }
+      ]
+    }
+  ]
+}

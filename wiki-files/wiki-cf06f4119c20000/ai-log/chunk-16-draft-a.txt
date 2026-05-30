@@ -1,0 +1,908 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在塔罗会上确认黑夜魔狼弗雷格拉与黑夜女神的关系，推断女神继承其权柄。占卜万能钥匙来源，得知其原主人为吸血鬼埃姆林·怀特，被关押在丰收教堂。从埃姆林处获知万能钥匙来自威尔迪街32号。参观罗塞尔纪念展，怀疑书签为亵渎之牌，委托正义验证。夜晚以灵体状态潜入博物馆窃取书签，遭遇高序列神秘女子阻拦，借灰雾仪式逃脱。途中偶遇恶魔犬行凶，呼救引来神秘女子，以侦探身份脱险。确认书签为黑皇帝牌，获得完整成神途径知识。接受莎伦和马里奇的委托，协助围杀玫瑰学派追捕者序列5怨魂史蒂夫，以换取《秘密之书》。使用万能钥匙迷路撞见恶魔犬行凶现场并逃脱，后将万能钥匙丢到灰雾之上。帮助艾伦医生分析厄运来源，建议找黑夜女神教堂。在马戏团观察魔术师表演，总结出魔术师守则“不做无准备的表演”。",
+      "identInfos": [
+        "夏洛克·莫里亚蒂",
+        "序列7魔术师",
+        "塔罗会愚者",
+        "灰雾之主",
+        "曾击杀兰尔乌斯"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 314,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍纳奇斯山脉主峰的夜之国信仰“夜的主宰，天之母亲”……这和“黑夜魔狼”弗雷格拉存在一定关系？所以，我听见的虚幻呓语才是“霍纳奇斯……弗雷格拉”？"
+        },
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩忍不住问了一句：\n“神父，你在哪里抓到他的？”\n乌特拉夫斯基主教表情颇为古怪地看了克莱恩一眼道：\n“他是‘万能钥匙’的原主人。”"
+        },
+        {
+          "chapterSeq": 318,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩轻轻颔首，再次审视起那些书签。\n罗塞尔在日记里提过，他要把那张“亵渎之牌”夹在一本很有价值的书内，让所有人都想不到那本书里最有价值的其实是一张不起眼的书签……"
+        },
+        {
+          "chapterSeq": 320,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩掏出那枚形制古朴的黄铜色泽钥匙，对准厨房的大门，无声拧动了一下。\n难以察觉的水波晃动间，克莱恩进入了里面，一路见门穿门，见墙穿墙，没惊动任何人地找到了一间储物室。"
+        },
+        {
+          "chapterSeq": 322,
+          "extractReason": "UPDATE",
+          "evidenceText": "那把钥匙有一定的诅咒，非必须，不要使用。"
+        },
+        {
+          "chapterSeq": 323,
+          "extractReason": "UPDATE",
+          "evidenceText": "“序列0：黑皇帝！”\n序列0！果然藏着神之秘密！黑皇帝竟然是序列0……"
+        },
+        {
+          "chapterSeq": 326,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的灵视里，艾伦的气场和情绪颜色，与他的身体和精神状态分别吻合，没有特别的地方。\n他斟酌着问道：\n“你供职的那家医院里，有和你差不多倒霉的人吗？”"
+        },
+        {
+          "chapterSeq": 330,
+          "extractReason": "UPDATE",
+          "evidenceText": "莎伦虚幻的嗓音再次响起：\n“而且你还有那只‘眼睛’。”\n那只眼睛？是指“秘偶大师”罗萨戈遗留的那只“全黑之眼”？克莱恩微微点头道：\n“但我只能利用一点，没法发挥太大的作用，因为里面有‘真实造物主’的精神污染。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "太阳在塔罗会上向世界确认黑夜魔狼弗雷格拉与异种途径信息。在白银城图书馆偶遇洛薇雅长老，发现其状态正常而感到害怕。",
+      "identInfos": [
+        "塔罗会太阳",
+        "白银城少年",
+        "神弃之地居民",
+        "渴望成为太阳非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 314,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克坦然点头道：\n“是的，异种就是因某些非凡特性带来的负面影响，而从人类里分化出去的各种怪物。”"
+        },
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克循着手臂望去，只看了一眼，就低下脑袋，以手按胸，沉声问候：\n“你好，洛薇雅长老。”\n拿走那本典籍的正是“六人议事团”成员，“牧羊人”洛薇雅。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [314, 315]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "正义接受愚者委托，在闭馆参观罗塞尔纪念展时，用耳钉刺破书签验证其异常，确认是亵渎之牌。后收到愚者眷属提高报酬至3000镑的感谢。参加非凡聚会求购观众配方，引起心理炼金会注意，怀疑被跟踪。",
+      "identInfos": [
+        "塔罗会正义",
+        "霍尔伯爵之女",
+        "序列8读心者",
+        "金发碧眼贵族少女"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 319,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽垂下手臂，用掌心的那枚耳钉，刺向握着的书签，并于心里默念着“海盗王”这个词组，一遍赫密斯语，一遍古赫密斯语。\n尖锐的细针般的装饰触及了书签表面，它刚要深入进去，穿透到另一面，奥黛丽顿时就感受到了强烈而虚幻的阻力。"
+        },
+        {
+          "chapterSeq": 324,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那是一张罗塞尔制作的‘亵渎之牌’。”\n“愚者”先生……“亵渎之牌”？终于等到回应的奥黛丽先是一喜，旋即微微发愣，不明白所谓的“亵渎之牌”究竟指什么。"
+        },
+        {
+          "chapterSeq": 333,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽则宽慰了格莱林特一句：\n“等我回去，就到我家宝库里找一找，也许有你想要的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [316, 319, 324, 332, 333]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "魔术师向愚者献祭现金支付药师配方和扮演法报酬。与奥黛丽、休一同参加非凡聚会。",
+      "identInfos": [
+        "塔罗会魔术师",
+        "序列9学徒",
+        "休的同伴",
+        "作家"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 314,
+          "extractReason": "UPDATE",
+          "evidenceText": "看见光幕出现，看见投入进去的纸币消失，佛尔思怔了好几秒才反应过来，诚心诚意地感谢起“愚者”先生。"
+        },
+        {
+          "chapterSeq": 333,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思原本不会带那么多现金在身上，但她之前正准备参加非凡者聚会，所以，专门留了500镑，看能否买到想要的物品，谁知道，相应的聚会却因为局势问题取消了，如今正好用来支付“药师”配方和“扮演法”的报酬，总共430镑。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [314, 332, 333]
+    },
+    {
+      "name": "乌特拉夫斯基主教",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "丰收教堂神父，曾被克莱恩在心灵深处击败，关押吸血鬼埃姆林·怀特在地下室。告知克莱恩万能钥匙的原主人为埃姆林。",
+      "identInfos": [
+        "丰收教堂主教",
+        "黎明骑士",
+        "巨人般身材",
+        "曾杀人如麻"
+      ],
+      "aliases": [
+        {
+          "alias": "神父",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基主教表情颇为古怪地看了克莱恩一眼道：\n“他是‘万能钥匙’的原主人。”\n“有一天，他迷路走进了这座教堂。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [315, 316]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "吸血鬼，原万能钥匙的主人，因迷路进入丰收教堂被乌特拉夫斯基神父关押在地下室。告知克莱恩万能钥匙来自威尔迪街32号。",
+      "identInfos": [
+        "吸血鬼",
+        "崇拜月亮",
+        "被关押在丰收教堂地下室"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 315,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“他是‘万能钥匙’的原主人。”\n“有一天，他迷路走进了这座教堂。”"
+        },
+        {
+          "chapterSeq": 316,
+          "extractReason": "UPDATE",
+          "evidenceText": "地下室内的吸血鬼嘟囔道：\n“他说是在大桥南区河湾大道48号，我原本打算有空去探查一下，结果……该死！”"
+        }
+      ],
+      "lifeStatus": "被囚禁",
+      "appearanceChapterSeqs": [315, 316]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "侦探，协助调查连环杀人案。克莱恩写信提示动物线索，艾辛格回复称已锁定嫌疑人，并感谢克莱恩的贡献。",
+      "identInfos": [
+        "知名大侦探",
+        "疑似官方认证非凡者",
+        "调查连环杀人案"
+      ],
+      "aliases": [
+        {
+          "alias": "斯坦顿先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抽出信纸，握住钢笔，刷刷写道：\n“尊敬的斯坦顿先生：”\n“我想到了一个问题，之前侦探们讨论的时候，都认为凶手杀人的动作很娴熟……”"
+        },
+        {
+          "chapterSeq": 325,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾辛格·斯坦顿似乎有点怀疑我知道了“恶魔”的真相，所以故意暗示了一些事情？克莱恩放下信纸，无声嘀咕道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [315, 325, 328]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "不到十岁的男孩，在医院接受截肢手术。曾用塔罗牌为艾伦医生占卜出逆位命运之轮，说医生运气会变差。",
+      "identInfos": [
+        "截肢男孩",
+        "持有塔罗牌",
+        "疑似与厄运有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 326,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾伦摇头道：\n“那台手术很成功，没过多久，他就顺利出院了，还特别感谢了我。”\n“所以，我一直没怀疑过这件事情，可现在回想之后，我发现这是最近两个月来，我唯一一次接触涉及神秘学的物品，不管怎么样，不管有用还是没用，塔罗牌终究是用来占卜的。”"
+        },
+        {
+          "chapterSeq": 326,
+          "extractReason": "UPDATE",
+          "evidenceText": "“医生，你的运气会变差诶。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [326]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "序列5怨魂，原玫瑰学派成员，与马里奇叛逃。在克莱恩遭遇恶魔犬后偶遇，提出以协助围杀序列5怨魂史蒂夫为条件，换取《秘密之书》。透露自身为禁欲派。",
+      "identInfos": [
+        "序列5怨魂",
+        "玫瑰学派叛逃者",
+        "淡金发蓝眼",
+        "常穿黑色宫廷长裙"
+      ],
+      "aliases": [
+        {
+          "alias": "莎伦小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 329,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，马里奇的背后浮现出了一道身影，穿复杂黑色宫廷长裙，戴同色小巧软帽的身影，正是淡金头发蔚蓝眼眸的莎伦小姐。"
+        },
+        {
+          "chapterSeq": 330,
+          "extractReason": "UPDATE",
+          "evidenceText": "“做我们的辅助。”\n“围杀一位序列5的非凡者。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [329, 330, 331, 332]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "序列6活尸，操纵活尸和幽魂，与莎伦一起叛逃玫瑰学派。告知克莱恩需协助围杀序列5怨魂史蒂夫。",
+      "identInfos": [
+        "序列6活尸",
+        "玫瑰学派叛逃者",
+        "脸色苍白",
+        "能操纵活尸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 329,
+          "extractReason": "UPDATE",
+          "evidenceText": "马里奇指了指车厢，示意克莱恩上去。\n克莱恩一时有些犹豫，想当场取下灵摆，做个占卜。"
+        },
+        {
+          "chapterSeq": 330,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们原本属于一个较为古老的隐秘组织。”\n……\n“我们确实掌握了不少神秘学方面的知识，比如卡拉曼巫王的《秘密之书》，但你能拿什么来换取？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [329, 330, 331, 332]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城六人议事团长老，牧羊人。在图书馆出现，状态正常，让戴里克感到害怕。",
+      "identInfos": [
+        "白银城长老",
+        "牧羊人",
+        "银灰发淡灰眼"
+      ],
+      "aliases": [
+        {
+          "alias": "洛薇雅长老",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "拿走那本典籍的正是“六人议事团”成员，“牧羊人”洛薇雅。\n洛薇雅身穿绣有诸多神秘紫纹的黑色长袍，银灰色的头发茂密但带着点卷曲地披着。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [315]
+    },
+    {
+      "name": "黑色恶魔犬",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "大型黑狗，序列6恶魔，犯下多起连环杀人案。第12起凶案现场被克莱恩撞见，追逐克莱恩后被呼救声惊退。后被官方非凡者锁定，在一场被封印物隔离的战斗中被净化消灭。",
+      "identInfos": [
+        "黑色大狗",
+        "序列6恶魔",
+        "连环杀人案凶手",
+        "可巨大化为恶魔犬"
+      ],
+      "aliases": [
+        {
+          "alias": "恶魔犬",
+          "type": "别名"
+        },
+        {
+          "alias": "恶魔",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 322,
+          "extractReason": "UPDATE",
+          "evidenceText": "看到尸体听见声音的瞬间，克莱恩根根汗毛倒竖，知道自己遇见不好的事情了。\n他的视线内，客厅的装饰以明黄亮丽为主，茶几、沙发等事物没一点异常，只有那块地毯染上了鲜红的血液，并缓缓浸开。\n腹部伤口内空空荡荡的女尸侧方，蹲着一条体型很大的黑狗，它嘴巴半张，露出一根根尖利锋锐让人发抖的白牙，而每根牙齿之上，还生长着铁锈般的暗红痕迹，这似乎是长久啃食血肉却没经常清理的结果。"
+        },
+        {
+          "chapterSeq": 327,
+          "extractReason": "UPDATE",
+          "evidenceText": "这只黑色恶犬迅速膨胀成了高大的恶魔，背后有蝙蝠般的翅膀，头上长出了满是神秘花纹的羊角，它正仰望着天空，发出一声满是污秽意味的恶魔语单词：\n“堕落！”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [322, 327]
+    },
+    {
+      "name": "麦克斯·利维摩尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "机械之心西区小队队长，负责罗塞尔纪念展安保。佩戴封印物3-1328水晶之眼。在书签失窃后向大主教汇报情况。",
+      "identInfos": [
+        "机械之心队长",
+        "佩戴单片眼镜",
+        "负责罗塞尔纪念展"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 319,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "因为知道某些贵族子弟是经常闯祸的纨绔，所以，负责看守纪念展的“机械之心”西区小队队长麦克斯·利维摩尔不得不伪装成安保人员，始终跟在旁边，防备意外。\n他头发整齐后梳，戴着单片眼镜，文质彬彬地像是一位大学教授。"
+        },
+        {
+          "chapterSeq": 321,
+          "extractReason": "UPDATE",
+          "evidenceText": "存放罗塞尔日记的展厅内，麦克斯·利维摩尔对两位队员道：\n“你们看守好这里，我去寻找那个潜入的家伙。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [319, 320, 321, 324]
+    },
+    {
+      "name": "霍拉米克·海顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "蒸汽与机械之神教会贝克兰德教区大主教，神前会议成员，贝克兰德大学物理系荣誉教授。负责博物馆书签失窃案调查，确认有两方势力在场。",
+      "identInfos": [
+        "蒸汽教会大主教",
+        "神前会议成员",
+        "物理系荣誉教授"
+      ],
+      "aliases": [
+        {
+          "alias": "大主教阁下",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 324,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那是一个身穿白色牧师袍，头戴神职人员软帽的老者，那是蒸汽与机械之神教会贝克兰德教区的负责人，神前会议成员，大主教霍拉米克·海顿。\n这位大人物不仅仅是神职人员，还是非常出名的科学家，贝克兰德大学物理系荣誉教授。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [324]
+    },
+    {
+      "name": "艾伦·克瑞斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "外科医生，克莱恩熟人。近期连续遭遇不幸，怀疑被诅咒。克莱恩建议他找黑夜女神教堂求助。曾为男孩威尔·昂赛汀做截肢手术。",
+      "identInfos": [
+        "外科医生",
+        "金丝边眼镜",
+        "近期遭遇厄运",
+        "曾为威尔·昂赛汀手术"
+      ],
+      "aliases": [
+        {
+          "alias": "艾伦",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 325,
+          "extractReason": "UPDATE",
+          "evidenceText": "个子高瘦，长相冷淡，戴着副金丝边眼镜的艾伦轻拍了下右腿道：\n“不，不要提，这真是太倒霉了！我从楼梯上摔了下去，出现了较为严重的骨裂，只能打石膏做固定。”"
+        },
+        {
+          "chapterSeq": 326,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾伦低下目光，望着餐盘内的食物，陷入了长久的沉思，克莱恩也没有闲着，在食物变冷变得不好吃前，解决了它们。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [325, 326]
+    },
+    {
+      "name": "塔利姆·杜蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "贵族马术教师，介绍克莱恩加入克拉格俱乐部。向克莱恩咨询情感问题。",
+      "identInfos": [
+        "贵族马术教师",
+        "棕色短卷发",
+        "信仰风暴之主"
+      ],
+      "aliases": [
+        {
+          "alias": "塔利姆",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 325,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位熟人正是在玛丽太太拜托下介绍他加入俱乐部的贵族马术教师塔利姆·杜蒙特，他曾经还给克莱恩带来过一桩生意，那就是保护《每日观察报》的记者迈克·约瑟夫到“金玫瑰”做调查。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [325, 326]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "贵族，奥黛丽的朋友。参加非凡聚会，购买药师配方。在聚会中因害怕而多次失态。",
+      "identInfos": [
+        "子爵",
+        "奥黛丽朋友",
+        "神秘学爱好者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 319,
+          "extractReason": "UPDATE",
+          "evidenceText": "格莱林特子爵则在旁边笑道：\n“你为什么对这个也如此好奇？不管它有多么古老，它始终只是一个抽水马桶。”"
+        },
+        {
+          "chapterSeq": 333,
+          "extractReason": "UPDATE",
+          "evidenceText": "格莱林特子爵走在旁边，渐渐有些害怕，忍不住压低嗓音道：\n“这里怎么感觉有点古怪……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [319, 332, 333]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "仲裁人，佛尔思的同伴。参加非凡聚会，在返回途中发现被跟踪。",
+      "identInfos": [
+        "仲裁人",
+        "佛尔思同伴",
+        "金色短发",
+        "身高较矮"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 332,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽委托休和佛尔思寻找兰尔乌斯，休在东区散播悬赏，导致信息人士威廉姆斯和盖文被极光会成员“巨人”杀害。"
+        },
+        {
+          "chapterSeq": 333,
+          "extractReason": "UPDATE",
+          "evidenceText": "休认可地点了下头：\n“我曾经遇到过类似的怨魂，在墓园转了好几圈都逃不掉，这个过程里，一直有人莫名其妙回头，接着突然死亡，如果不是有一位非凡者携带有‘太阳符咒’，也许你们今天就见不到我了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [332, 333]
+    },
+    {
+      "name": "于尔根律师",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "克莱恩的邻居，律师。邀请忘带钥匙的克莱恩到家吃饭，委托克莱恩帮忙喂猫。",
+      "identInfos": [
+        "律师",
+        "克莱恩邻居",
+        "养黑猫布罗迪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "于尔根律师看着凸肚窗外一趟又一趟路过的夏洛克侦探，终于忍不住打开大门，礼貌询问道：\n“莫里亚蒂先生，你忘带钥匙了？”"
+        },
+        {
+          "chapterSeq": 328,
+          "extractReason": "UPDATE",
+          "evidenceText": "于尔根站在敞开的凸肚窗后，看着表情“迷茫”的莫里亚蒂侦探，抬高音量道：\n“莫里亚蒂先生，你，我是说，你又忘记带钥匙了？或者，钥匙掉了？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [315, 328]
+    },
+    {
+      "name": "黑猫布罗迪",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "于尔根律师的黑猫，克莱恩受委托帮忙喂食和陪伴。",
+      "identInfos": [
+        "于尔根律师的猫",
+        "黑色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 328,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他进门的时候，黑猫布罗迪正在角落舔洗着爪子，于尔根没多寒暄，进入了厨房。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [328]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的宠物金毛大狗，误食观众魔药后能说话。在验证书签时协助奥黛丽吸引注意力。",
+      "identInfos": [
+        "奥黛丽的宠物狗",
+        "金毛大狗",
+        "能说话",
+        "非凡生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 319,
+          "extractReason": "UPDATE",
+          "evidenceText": "“汪！汪！汪！”\n众人的目光当即被吸引了过去，奥黛丽则垂下手臂，用掌心的那枚耳钉，刺向握着的书签……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [319]
+    },
+    {
+      "name": "雷帕德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "发明家，克莱恩投资其改良脚踏车。在连环杀人案告破后，克莱恩计划周六去找他。",
+      "identInfos": [
+        "发明家",
+        "改良脚踏车",
+        "克莱恩的投资对象"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 325,
+          "extractReason": "UPDATE",
+          "evidenceText": "雷帕德说自己要连看三天罗塞尔纪念展，我得等周六再去找他，支付最后一笔款项，希望到时候自行车的专利已经申请下来了，哎，贝克兰德专利局的工作效率似乎一直都不高。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [325]
+    },
+    {
+      "name": "卡斯帕斯·坎立宁",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "黑市武器商人，在勇敢者酒吧被黑帮赶走，生意被抢。克莱恩发现后推测是玫瑰学派的陷阱。",
+      "identInfos": [
+        "黑市武器商人",
+        "瘸腿",
+        "认识莎伦和马里奇"
+      ],
+      "aliases": [
+        {
+          "alias": "卡斯帕斯",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 329,
+          "extractReason": "UPDATE",
+          "evidenceText": "酒保抬头看了他一眼：\n“又来找卡斯帕斯？他不在这里了，他的生意被人抢了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [329]
+    }
+  ],
+  "factions": [],
+  "items": [
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "一件能让使用者开门穿墙的神奇物品，但有诅咒，会导致迷路。克莱恩占卜其来源，得知原主人为吸血鬼埃姆林·怀特，怀特从窃贼处获得，最终来源是威尔迪街32号。克莱恩使用它潜入博物馆和后续行动中多次遭遇危险，最终决定将其丢到灰雾之上保管。",
+      "identInfos": [
+        "形制古朴的黄铜色泽钥匙",
+        "可穿墙开门",
+        "有迷路诅咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 314,
+          "extractReason": "UPDATE",
+          "evidenceText": "“它的来源。”\n紧接着，他握住了“万能钥匙”，以免“它”这个代称指向错误。"
+        },
+        {
+          "chapterSeq": 315,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基主教表情颇为古怪地看了克莱恩一眼道：\n“他是‘万能钥匙’的原主人。”"
+        },
+        {
+          "chapterSeq": 316,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这把‘万能钥匙’真的很实用啊！只是前面两位主人都迷路迷到了危险的地方，让人不敢一直随身携带……”"
+        },
+        {
+          "chapterSeq": 322,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那把钥匙有一定的诅咒，非必须，不要使用。”"
+        },
+        {
+          "chapterSeq": 324,
+          "extractReason": "UPDATE",
+          "evidenceText": "等返回现实世界，他又举行仪式，自己召唤自己，把“万能钥匙”这迷路与倒霉的结合体……丢到了灰雾之上，打算没事不用它。"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "罗塞尔制作的亵渎之牌之一，伪装成书签夹在创意手稿中。克莱恩在罗塞尔纪念展发现并怀疑，委托正义奥黛丽验证后确认。夜晚潜入博物馆盗走，途中遇神秘女子阻拦但成功逃脱。用古弗萨克语念“贝尔纳黛”开启，获得序列0黑皇帝途径全部序列配方和成神秘仪。",
+      "identInfos": [
+        "亵渎之牌之一",
+        "序列0黑皇帝途径",
+        "罗塞尔制作",
+        "原为书签伪装"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 317,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "罗塞尔在日记里提过，他要把那张“亵渎之牌”夹在一本很有价值的书内，让所有人都想不到那本书里最有价值的其实是一张不起眼的书签……"
+        },
+        {
+          "chapterSeq": 323,
+          "extractReason": "UPDATE",
+          "evidenceText": "“序列0：黑皇帝！”\n序列0！果然藏着神之秘密！黑皇帝竟然是序列0……"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克先生留给克莱恩的铜哨，可召唤信使，也能加持灵体。克莱恩在潜入博物馆时用其稳固灵体并伪装外观。后留于灰雾之上。",
+      "identInfos": [
+        "阿兹克赠与",
+        "可召唤信使",
+        "能加持灵体"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 320,
+          "extractReason": "UPDATE",
+          "evidenceText": "与此同时，他还借助这种力量，略微改变了虚幻灵体呈现出来的样子，使脸孔之上似乎涂了层油彩。"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "秘偶大师罗萨戈遗留的物品，含有真实造物主的精神污染。莎伦指出克莱恩可用它帮忙找到同为怨魂的目标史蒂夫。",
+      "identInfos": [
+        "罗萨戈遗留",
+        "有真实造物主污染",
+        "可辅助定位怨魂"
+      ],
+      "aliases": [
+        {
+          "alias": "那只眼睛",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 330,
+          "extractReason": "UPDATE",
+          "evidenceText": "“而且你还有那只‘眼睛’。”\n那只眼睛？是指“秘偶大师”罗萨戈遗留的那只“全黑之眼”？"
+        }
+      ]
+    },
+    {
+      "name": "心魇蜡烛",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基主教的物品，克莱恩曾借来进入主教心灵深处。在本次剧情中，克莱恩威胁吸血鬼要使用它。",
+      "identInfos": [
+        "乌特拉夫斯基主教的蜡烛",
+        "可进入心灵深处"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 316,
+          "extractReason": "UPDATE",
+          "evidenceText": "“它叫心魇蜡烛，你借它做什么？”"
+        }
+      ]
+    },
+    {
+      "name": "水晶之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "封印物3-1328，单片眼镜形态，佩戴后可看见灵体、鬼魂、幽影，但会吸引它们并降低视力。麦克斯·利维摩尔在博物馆安保中佩戴。",
+      "identInfos": [
+        "封印物3-1328",
+        "单片眼镜",
+        "可看灵体"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 319,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那单片眼镜其实是一件封印物，代号“3-1328”，昵称“水晶之眼”，通过它，麦克斯·利维摩尔能直接看见灵体，看见鬼魂，看见幽影，不再害怕非凡者驱使这些正常难以发现的事物来捣乱或盗窃。"
+        }
+      ]
+    },
+    {
+      "name": "深红月冕",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "玫瑰学派追捕者史蒂夫持有的封印物，能在一定范围内营造满月效果，克制禁欲派异种非凡者（如莎伦和马里奇）。佩戴者免疫满月效果并获得速度、恢复力等强化，但血液会逐渐变冷。",
+      "identInfos": [
+        "玫瑰学派封印物",
+        "营造满月效果",
+        "克制异种途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 331,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“那件需要被封印的诅咒物品叫做‘深红月冕’。”\n“它能在一定范围内营造出类似满月的效果，这对那些已经冷酷和扭曲的家伙而言，是爆发力量的帮助，但我们却会变得虚弱，失去战斗能力……”"
+        }
+      ]
+    },
+    {
+      "name": "秘密之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "卡拉曼巫王所著的神秘学书籍，包含密契、仪式、炼金、占星等知识。莎伦和马里奇承诺若协助围杀史蒂夫成功，将交给克莱恩。",
+      "identInfos": [
+        "卡拉曼巫王著作",
+        "神秘学典籍",
+        "莎伦和马里奇持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 329,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我们确实掌握了不少神秘学方面的知识，比如卡拉曼巫王的《秘密之书》，但你能拿什么来换取？”"
+        }
+      ]
+    },
+    {
+      "name": "公证书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "神奇物品，源自秘偶大师罗萨戈，现属莎伦。可建立单向承诺的约束。克莱恩向莎伦承诺不泄露秘密时使用。",
+      "identInfos": [
+        "神奇物品",
+        "可约束承诺",
+        "原先属罗萨戈"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 332,
+          "extractReason": "UPDATE",
+          "evidenceText": "那纸通体橘黄，有诸多象征符号，包括代表太阳的那些。\n而这些符号和标识围出了一个空白的区域，让人感觉很温暖很安稳。\n一看到这张纸，克莱恩就想起了它是什么物品，并放下了吊着的那颗心。\n这同样来自“秘偶大师”罗萨戈，这是“公证书”！"
+        }
+      ]
+    },
+    {
+      "name": "塔罗牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "男孩威尔·昂赛汀持有的塔罗牌，曾为艾伦医生占卜出逆位命运之轮，并预言医生运气变差，后艾伦厄运缠身。",
+      "identInfos": [
+        "威尔·昂赛汀的塔罗牌",
+        "可能具有超凡力量"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 326,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我记得那是他手术之前一天，我专门又去病房找他，他确实相当不安，在玩塔罗牌，这是他入院的时候就带着的物品，甚至不允许他的家人拿走。\n我为了让他放松下来，就陪他玩起了塔罗占卜。\n当时，我翻出了一张牌，是逆位的“命运之轮”。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 201,
+      "toChapterSeq": 213,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "在雪伦夫人任务收尾时，克莱恩发现队长邓恩在科恩黎尸体旁嘴角沾血，产生怀疑并写信向戴莉和阿兹克询问。直到战斗前邓恩才解释自己因怀念队友服食了他们的非凡特性，导致行为异常。克莱恩的疑虑消除，二人关系在生死与共的战斗中得到升华。"
+    },
+    {
+      "fromChapterSeq": 201,
+      "toChapterSeq": 213,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩与伦纳德在追查兰尔乌斯案、对抗梅高欧丝及邪神子嗣的战斗中紧密合作，伦纳德使用‘血管小偷’协助克莱恩重创敌人，共同为守护廷根而战。"
+    },
+    {
+      "fromChapterSeq": 201,
+      "toChapterSeq": 213,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩就队长邓恩的异常向阿兹克写信求助，阿兹克详细分析可能原因并提供神秘学知识，二人继续维持互助的盟友关系。阿兹克后专程到克莱恩墓前献花悼念。"
+    },
+    {
+      "fromChapterSeq": 204,
+      "toChapterSeq": 204,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "梅高欧丝",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "梅高欧丝因被兰尔乌斯骗色怀孕后到访黑荆棘安保公司，克莱恩灵性直觉警告不可直视她，推断其腹中婴儿为‘炸弹’，并立即向队长汇报，由此引发后续决战。"
+    },
+    {
+      "fromChapterSeq": 205,
+      "toChapterSeq": 209,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅高欧丝",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "梅高欧丝腹中邪神子嗣异变，邓恩、克莱恩、伦纳德与之展开生死战斗。克莱恩使用阳炎符咒重创并最终消灭梅高欧丝，驱除邪神子嗣。"
+    },
+    {
+      "fromChapterSeq": 209,
+      "toChapterSeq": 212,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "因斯·赞格威尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "因斯·赞格威尔作为幕后黑手，利用封印物0-08制造一系列巧合，最终在战斗结束后突然出现杀死克莱恩，夺走圣赛琳娜骨灰。克莱恩复活后确认凶手，并决心前往贝克兰德复仇。"
+    },
+    {
+      "fromChapterSeq": 209,
+      "toChapterSeq": 209,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅高欧丝",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "邓恩作为值夜者队长，携圣赛琳娜骨灰率先与异变的梅高欧丝交战，为禁锢她挖出自己心脏强化封印，最终与克莱恩联手消灭梅高欧丝和邪神子嗣，壮烈牺牲。"
+    },
+    {
+      "fromChapterSeq": 211,
+      "toChapterSeq": 213,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩复活后偷偷去看望梅丽莎和班森，见他们悲伤，乔装成小丑在马戏团献上一束塞维亚菊，以无言的方式告别妹妹。"
+    },
+    {
+      "fromChapterSeq": 211,
+      "toChapterSeq": 213,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "班森·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "弟",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩复活后偷偷看望班森和梅丽莎，见他们悲伤，乔装成小丑在马戏团献上一束塞维亚菊，以无言的方式告别哥哥。"
+    },
+    {
+      "fromChapterSeq": 201,
+      "toChapterSeq": 209,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "邓恩作为队长指挥伦纳德与克莱恩共同对抗梅高欧丝，伦纳德使用封印物协助战斗，服从邓恩的安排，最终为守护廷根共同牺牲或幸存。"
+    },
+    {
+      "fromChapterSeq": 201,
+      "toChapterSeq": 201,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩因怀疑队长邓恩的异常，写信向通灵者戴莉详细描述情况并求助，希望获得专业分析。"
+    },
+    {
+      "fromChapterSeq": 211,
+      "toChapterSeq": 211,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "伦纳德前往水仙花街通知梅丽莎和班森克莱恩的死讯，承担了传递噩耗的责任。"
+    }
+  ]
+}

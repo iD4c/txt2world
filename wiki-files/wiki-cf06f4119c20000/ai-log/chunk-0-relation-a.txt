@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 5,
+      "toChapterSeq": 6,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "周明瑞在灰雾之上伪装成神秘存在“愚者”，奥黛丽误以为对方是强大存在，请求成为非凡者。周明瑞借此获取信息并控制聚会，奥黛丽获得成为非凡者的途径。"
+    },
+    {
+      "fromChapterSeq": 5,
+      "toChapterSeq": 6,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "周明瑞伪装为“愚者”将阿尔杰拉入灰雾，阿尔杰误认其为强者，主动提供魔药配方信息并提议定期聚会，成为周明瑞获取非凡知识的重要来源。"
+    },
+    {
+      "fromChapterSeq": 5,
+      "toChapterSeq": 6,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "奥黛丽与阿尔杰在塔罗会上达成交易，阿尔杰提供“观众”魔药配方信息，奥黛丽需支付100毫升鬼鲨血，双方在愚者见证下建立合作关系。"
+    },
+    {
+      "fromChapterSeq": 14,
+      "toChapterSeq": 15,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "邓恩在确认克莱恩失忆后，正式邀请他加入值夜者成为文职人员，提供保护和待遇，克莱恩同意加入，双方建立上下级合作关系。"
+    },
+    {
+      "fromChapterSeq": 17,
+      "toChapterSeq": 20,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "克莱恩签署合同正式成为值夜者文职人员后，邓恩详细向他介绍非凡者常识、失控原因、工作安排、封印物分级等，扮演教导者角色。"
+    },
+    {
+      "fromChapterSeq": 20,
+      "toChapterSeq": 20,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "relationSummary": "克莱恩发现罗塞尔大帝的日记竟是用中文简体字书写，这一发现对理解穿越原因至关重要，罗塞尔的日记成为重要线索。"
+    },
+    {
+      "fromChapterSeq": 10,
+      "toChapterSeq": 12,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "邓恩作为值夜者队长上门调查韦尔奇和娜娅自杀案，克莱恩因失忆和隐瞒真相而处于被调查地位，邓恩通过梦境引导和通灵者验证其失忆，逐步消除怀疑。"
+    },
+    {
+      "fromChapterSeq": 14,
+      "toChapterSeq": 14,
+      "characterA": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "通灵者戴莉对克莱恩进行通灵调查，试图获取其记忆，克莱恩保持清醒并伪装遗忘，最终未暴露秘密。"
+    },
+    {
+      "fromChapterSeq": 19,
+      "toChapterSeq": 20,
+      "characterA": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "老尼尔作为值夜者资深人员，安排克莱恩协助解读文献，克莱恩首次接触到罗塞尔的日记副本。"
+    },
+    {
+      "fromChapterSeq": 17,
+      "toChapterSeq": 20,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "罗珊",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "罗珊作为安保公司接待员，引导克莱恩进入地底见邓恩，双方为普通同事关系。"
+    },
+    {
+      "fromChapterSeq": 20,
+      "toChapterSeq": 20,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥利安娜",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥利安娜作为值夜者会计，为克莱恩预支薪水，并分享自己曾是连环杀手幸存者的经历，双方建立初步同事关系。"
+    }
+  ]
+}

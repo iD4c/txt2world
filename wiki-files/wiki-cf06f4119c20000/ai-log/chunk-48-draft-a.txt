@@ -1,0 +1,1473 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩联合伦纳德、戴莉设局复仇。他利用亚当对付因斯·赞格威尔，以“海神权杖”远程降雷消耗对方，用“窃运者”符咒分离“红天使”恶灵至冥界，最终以“丧钟”左轮击杀因斯·赞格威尔。亚当以“观众”身份见证，使其消化“秘偶大师”魔药并晋升序列4“诡法师”。戴莉因通灵代价失控濒死，克莱恩将其秘偶化中止异变后逝去。事后他在灰雾之上发现光门与悬挂的透明蚕茧，其中三个已空，暗示穿越者身份。",
+      "identInfos": [
+        "愚者",
+        "格尔曼·斯帕罗",
+        "道恩·唐泰斯",
+        "夏洛克·莫里亚蒂",
+        "前值夜者",
+        "塔罗会首领"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩对白银城那位首席主动组织队伍探索诺斯城的行为深表赞赏，并告知小“太阳”，不需要冒险猎杀，只要能获得目标少许血液，就算完成任务。"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "他摩挲了下袖口的钉子，摊开信纸，提笔写道：“……我初步怀疑附身因斯·赞格威尔的是‘猎人’途径的恶灵，你们可以多往这个方向调查。……随信寄来的是一份‘安魂师’的非凡特性，它源于一位被放牧的可怜人，我让他得到了解脱，并承诺将他的特性送还黑夜教会。”"
+        },
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没去体验“秘偶大师”魔药的消化和相应的反馈，一个火焰跳跃，来到了戴莉·西蒙妮的身前。"
+        },
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着三重冠冕穿着深蓝法衣的克莱恩抬起了左手，让白骨权杖顶端的青蓝色宝石发出光芒。锐利刺耳的声音当即回荡于现实世界的复活广场，突如其来的狂风呼啸着席卷了那片区域。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一边让“赢家”恩佐就近找了个角落，拿出准备好的物品，布置祈求赐予的仪式，一边操纵“地狱上将”路德维尔走出隐藏点，直面因斯·赞格威尔。"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩闪现到了因斯·赞格威尔面前，将“丧钟”左轮抵在了他的脸上。"
+        },
+        {
+          "chapterSeq": 946,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩握住了那瓶魔药，将它凑至嘴巴，灌了进去。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        933,
+        934,
+        935,
+        936,
+        937,
+        938,
+        939,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945,
+        946
+      ]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔执掌“0-08”，被“红天使”恶灵附身。他前往西拜朗库克瓦城，遭遇亚当设局。克莱恩等人在复活广场设伏，分离恶灵后，因斯·赞格威尔被克莱恩用“丧钟”左轮击杀。",
+      "identInfos": [
+        "前任大主教",
+        "守夜人",
+        "执掌0-08封印物",
+        "被红天使恶灵附身",
+        "廷根事件幕后黑手"
+      ],
+      "aliases": [
+        {
+          "alias": "0-08持有者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔的序列5就是‘看门人’……难怪那恶灵会长期附身他，或者，这是他尝试奴役恶灵失败的结果？"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔出现得太早了！他还有差不多两个月才能消化掉“秘偶大师”魔药。"
+        },
+        {
+          "chapterSeq": 940,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔前来南大陆的真正目的其实是：猎杀黑夜教会高级执事伊丽娅，获取她的非凡特性，为自己的晋升做准备！"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔刚回归复活广场，就看见一道深黑的光芒不知从何而来，将整片天空都覆盖于内。"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！因斯·赞格威尔的脑袋彻底爆炸，如同摔坏的西瓜，碎片和汁液洒得到处都是。“丧钟”为他而鸣。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        933,
+        934,
+        935,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德与克莱恩合作，提供恶灵信息，获得“时之虫”制作“窃运者”符咒。他参与复仇行动，使用“窃运者”符咒和“蠕动的饥饿”攻击因斯·赞格威尔，最终见证其死亡。戴莉牺牲后，他带着尸体返回。",
+      "identInfos": [
+        "诗人同学",
+        "红手套成员",
+        "寄生者帕列斯·索罗亚斯德",
+        "克莱恩的前同事",
+        "值夜者"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 933,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德清了清喉咙，不自觉带上了笑容，压低嗓音道：“老头，克莱恩这个，这个提议似乎，还不错..."
+        },
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德习惯性将右脚搁到了左腿上，若有所思地追问道：“恶灵是否可以通过附身一个人，离开自己的‘领地’？”"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "刚预备参加早晨会议的伦纳德突然看见那提着四个金发红眼脑袋的天使级信使出现于自己面前。"
+        },
+        {
+          "chapterSeq": 940,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德表情一下凝重，扭头对戴莉道：“女士，麻烦帮我掩盖一下行踪。”他说话的同时，左掌的手套已然变得透明，右手则插入衣兜内，握住了那张“窃运者”符咒。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德表情一下变得决绝，脸部扭曲地张开了嘴巴，用古赫密斯语低沉念道：“不属于这个时代的愚者；灰雾之上的神秘主宰；执掌好运的黄黑之王！”"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德毫不犹豫抬起左掌，将那只手套抵在了额角，然后用右手，紧紧握住了“窃运者”符咒。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        933,
+        934,
+        935,
+        938,
+        939,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945,
+        946
+      ]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴莉参与复仇行动，张开冥界之门分离“红天使”恶灵，并以通灵能力阻止灵界生物接近，消耗自身。她因过度使用能力导致失控濒死，被克莱恩秘偶化后逝去。",
+      "identInfos": [
+        "值夜者",
+        "通灵者",
+        "死神途径序列5",
+        "伦纳德的队友",
+        "邓恩·史密斯暗恋对象"
+      ],
+      "aliases": [
+        {
+          "alias": "戴莉女士",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 933,
+          "extractReason": "UPDATE",
+          "evidenceText": "还未卸掉蓝色眼影和对应腮红的戴莉·西蒙妮打开了门，挑了下眉毛道：“什么时候‘不眠者’有勇气在让人联想到床的时间敲女士的房门了？”"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉微不可见地点了下头，思索着说道：“那很可能具备挑衅的本能，会主动在途中给我们留下线索，当然，这也许包含一定的误导。”"
+        },
+        {
+          "chapterSeq": 940,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉将通灵者黑袍的兜帽拉起，瞥了伦纳德·米切尔一眼：“这是展现绅士主见和风格的时候。”"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉最先看见的是那道永远不会忘记的身影，眼中一下就腾起了仇恨的火焰。"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉蓝色的眼影和腮红一下变得鲜艳，就连皮肤都透明了几分，她盘起的头发刹那崩解，将兜帽推开，向着四周飘散。"
+        },
+        {
+          "chapterSeq": 946,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴莉已没有了漆黑的鳞片和洁白的绒毛，恢复了原本的样子，她眼睛轻轻闭着，嘴角微微上翘，就像在做一场最深最甜的美梦。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        933,
+        934,
+        935,
+        938,
+        939,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945,
+        946
+      ]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "亚当在库克瓦城设局谋取“0-08”，以尸骨教堂困住因斯·赞格威尔和乌洛琉斯，最终取走“0-08”。他以“观众”身份见证克莱恩的复仇戏剧，帮助其消化魔药晋升。",
+      "identInfos": [
+        "造物主之子",
+        "天使之王",
+        "空想天使",
+        "黄昏隐士会主人",
+        "简朴神父打扮"
+      ],
+      "aliases": [
+        {
+          "alias": "空想天使",
+          "type": "称号"
+        },
+        {
+          "alias": "造物主之子",
+          "type": "称号"
+        },
+        {
+          "alias": "神父",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 941,
+          "extractReason": "UPDATE",
+          "evidenceText": "他穿着异常简朴的白色长袍，留着遮住下半张脸的淡金胡须，眼眸清澈单纯如同小孩，神情和煦而内敛。望着对面因斯·赞格威尔手中的羽毛笔，这普通神父打扮的中年男子，半闭上眼睛，抬起右手，在身前连点了四下。"
+        },
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔话音未落，对面那位简朴神父的眼睛就睁了开来，浅色的瞳孔已染上纯金。霍然间，周围一根根漆黑石柱耸立了起来，撑起了一座恢弘巨大的教堂。"
+        },
+        {
+          "chapterSeq": 946,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，一道身影出现在了不远处，弯腰拾取起了那根已是黯淡的羽毛笔。这身影穿着简朴的白袍，留着遮住下半张脸的淡金胡须，胸前悬挂着一根银十字吊坠，宛若最普通的神父，正是天使之王，亚当！"
+        },
+        {
+          "chapterSeq": 946,
+          "extractReason": "UPDATE",
+          "evidenceText": "在‘观众’的见证下，克莱恩·莫雷蒂完成了华丽的戏剧，导演了一场神奇的谋杀，他借此消化完魔药，并有多余的力量在这部戏剧落幕时尝试晋升。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        941,
+        942,
+        943,
+        944,
+        945,
+        946
+      ]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安德森被心理炼金会半神指派任务，体内形成深红“蚕蛹”，被送到西拜朗。在库克瓦城遭遇因斯·赞格威尔，因亚当出现而脱险。事后他恢复了被封印的记忆。",
+      "identInfos": [
+        "宝藏猎人",
+        "迷雾海最强猎人",
+        "被乌洛琉斯关注",
+        "格尔曼·斯帕罗的朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "也不知道为什么，我不太想离开西拜朗，哈哈，既然都来到了这里，作为一名宝藏猎人，怎么能毫无收获就回去？"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森瞄了眼达尼兹戴着的拳套，沉吟了几秒，露出笑容道：“你是不是信仰了什么隐秘存在？或者接触过什么古代事物？”"
+        },
+        {
+          "chapterSeq": 941,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森不认识这位中年男士，可身体没来由就一阵颤抖，就像面对了天敌。他的脑海内，危险的预感轰然炸开，瞳孔急剧放大！"
+        },
+        {
+          "chapterSeq": 941,
+          "extractReason": "UPDATE",
+          "evidenceText": "他记起了之前两个多月究竟发生了什么事情，记起了那位半神交代的任务是什么！当初在拜亚姆，他依循心中的念头与那位半神会合后，就跟着对方，离开罗思德群岛，乘船前往了一个隐秘的地方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        934,
+        935,
+        940,
+        941,
+        942
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹在西拜朗调查军火贸易，遇到安德森同行。他收到愚者神谕监视安德森，在因斯·赞格威尔出现时立刻祈祷。战斗结束后，他在克莱恩指示下逃离躲藏。",
+      "identInfos": [
+        "烈焰达尼兹",
+        "愚者信徒",
+        "黄金梦想号前水手",
+        "被多个势力通缉"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹瞄了眼身边的安德森，脱口问道：“我要做调查了，你为什么还跟着我？正常来说，你不是应该在贝伦斯港就直接返回迷雾海吗？”"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹边往街口走，寻找针对外国人的马车，边从安德森那里拿过一份报纸，快速翻看了一下。突然，他留意到了一则新闻：……著名海盗，自称‘地狱上将’的路德维尔被疯狂冒险家格尔曼·斯帕罗击杀……"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "披上斗篷，走向旅馆大门，准备开始今天的调查。途中，他忽然脱口而出道：“你有没有这样的经历？时常梦见一个天使降临，用羽翼将自己层层包裹。"
+        },
+        {
+          "chapterSeq": 941,
+          "extractReason": "UPDATE",
+          "evidenceText": "早在多天前，他就收到了“愚者”先生的神谕，让他假装办事，实际藏于安德森周围，在情况异常时立刻祷告。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        934,
+        935,
+        938,
+        940,
+        941,
+        942
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "魔镜阿罗德斯回应克莱恩召唤，告知威尔·昂赛汀已出生，并回答消化魔药需更好扮演。克莱恩询问其从自身看到什么，阿罗德斯回答“支柱，支配”。",
+      "identInfos": [
+        "魔镜",
+        "无线电收报机形态",
+        "愚者的仆人"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "伴随着哒哒哒的声音，一截虚幻的白纸从无线电收报机里吐了出来，上面用鲁恩文写道：“至高的伟大的永恒的主人，您渺小的卑微的忠诚的仆人阿罗德斯应您召唤而来！您知道吗？艾伦·克瑞斯医生家的孩子前晚已经出生了。”"
+        },
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩思索了两秒道：“有什么办法可以更快地消化魔药？”“更好地扮演。”虚幻的白纸上，几个黑色的单词被哒哒哒打了出来。"
+        },
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "我，我从您身上看见了支柱，支配。这样的回答，您还满意吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        936
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀以婴儿身份出生，更名为威尔·克瑞斯。克莱恩用杖头交换其脐带血，获得两滴“命运之蛇”血液，并请教对付“0-08”的建议，威尔以哭泣回应。",
+      "identInfos": [
+        "命运之蛇",
+        "生命学派议长",
+        "序列1天使",
+        "水银之蛇",
+        "婴儿"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        },
+        {
+          "alias": "水银之蛇",
+          "type": "称号"
+        },
+        {
+          "alias": "威尔·克瑞斯",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩让两个秘偶立在原地，自己走到了婴儿小床旁，将目光投向了里面。那是一个裹着银色丝绸的小孩，皮肤很白，手上肉多，竟有一截一截之感。这婴儿一点也不怕“陌生人”，吸着手指，瞪着眼睛，就那样与克莱恩对视。"
+        },
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "威尔·昂赛汀摊开肉乎乎的手掌道：“先给我看一下。”"
+        },
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "小婴儿笑嘻嘻地回答道：“厄难与恐惧的女皇。”"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "你要是喜欢，也可以继续这么认为，不过，我的全名已经变成了威尔·克瑞斯。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        936,
+        937
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯同意分离两条“时之虫”给伦纳德，随后陷入沉睡。在后续战斗中，伦纳德呼唤他时无回应。",
+      "identInfos": [
+        "寄生者",
+        "索罗亚斯德家族天使",
+        "时之虫",
+        "寄生在伦纳德体内"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 933,
+          "extractReason": "UPDATE",
+          "evidenceText": "我现在最多能给你两条‘时之虫’。"
+        },
+        {
+          "chapterSeq": 933,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德顿时“呵”了一声：“如果不是已经用过，见证了效果，他怎么会主动提这件事情，希望得到更多？好了，我要开始分离‘时之虫’了，这会让我沉睡至少两周，你有什么问题，自己找人解答。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        933,
+        944
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "科林率领探索小队前往诺斯城猎杀变形者。他利用戴里克提供的灵界掠夺者真实魂体引诱变形者，成功将其击杀，获得诡术邪怪血液。",
+      "identInfos": [
+        "猎魔者",
+        "白银城首席",
+        "六人议事团成员",
+        "序列4半神"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格收到了加入一个探索小队的命令，率队者是首席科林·伊利亚特，目的地是诺斯城，那个有“变形者”等可怕怪物生存的北方城邦遗迹！"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "头发花白凌乱的科林·伊利亚特郑重告诫道。"
+        },
+        {
+          "chapterSeq": 939,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特将手中直剑插入地面后，拔出了背负的另外一把。周围一下明亮，就像传说中的黎明降临在了这片被遗弃的大地上，无穷无尽的晨曦光芒因此爆发而出。"
+        },
+        {
+          "chapterSeq": 939,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林眼睛微眯，当即喊道：“照耀！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        934,
+        937,
+        938,
+        939
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴里克参与探索诺斯城行动，提供灵界掠夺者真实魂体作为诱饵，协助击杀变形者。他向愚者祈祷，获得获得诡术邪怪血液的任务。",
+      "identInfos": [
+        "小太阳",
+        "白银城居民",
+        "愚者信徒",
+        "序列6公证人"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        },
+        {
+          "alias": "小太阳",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格收到了加入一个探索小队的命令，率队者是首席科林·伊利亚特，目的地是诺斯城。"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克望着前方被淡淡迷雾笼罩着，没有一点声音传出的死寂城市，下意识问道：“首席阁下，这座城市曾经也属于‘巨人王庭’吗？”"
+        },
+        {
+          "chapterSeq": 939,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克毫不犹豫就说道：“我有一件物品，对变形者有非常强的诱惑力，只要将它放在诺斯城的边缘或者更远一点的地方，就能引诱出变形者。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        934,
+        937,
+        938,
+        939
+      ]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "洛薇雅参与探索诺斯城行动，击杀变形者过程中展现了牧羊人能力。她观察到戴里克的行为，并在事后默认科林兑换变形者材料。",
+      "identInfos": [
+        "牧羊人",
+        "白银城长老",
+        "六人议事团成员",
+        "穿黑底紫纹长袍"
+      ],
+      "aliases": [
+        {
+          "alias": "洛薇雅长老",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位‘猎魔者’的旁边，还站着另一个人，穿黑底紫纹长袍，留银灰微卷长发的‘牧羊人’洛薇雅。"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "“牧羊人”洛薇雅已蹲身拾取起了之前掉落的几团血肉，但没急着将它们塞入口中，咀嚼吞下，主动开口道：“我们可以换一个方向，探索下诺斯城其他入口，或许会发现点什么。”"
+        },
+        {
+          "chapterSeq": 939,
+          "extractReason": "UPDATE",
+          "evidenceText": "“牧羊人”洛薇雅身后也浮现出了一个超过五米身穿银甲的虚幻骑士。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        934,
+        937,
+        938,
+        939
+      ]
+    },
+    {
+      "name": "阿尔杰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔杰再次前往班西港废墟，发现救赎蔷薇成员遗留的扭曲风暴之主画像，证实红天使恶灵身份。他顺势让水手们主动要求前往班西以掩饰目的。",
+      "identInfos": [
+        "倒吊人",
+        "幽蓝复仇者号船长",
+        "风暴教会成员",
+        "塔罗会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "作为风暴教会的“船长”，他时刻都受到水手们的监督，在已经去过一次班西的情况，再次提议前往，很容易被人怀疑，所以，阿尔杰决定让船员们自己要求！"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰的瞳孔猛然放大，心中瞬间有狂风巨浪涌起。他认得那图中的怪物代表什么，因为“太阳”曾经展示过：这是“救赎蔷薇”对“风暴之主”形象的扭曲！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        935,
+        937
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "嘉德丽雅向愚者献祭杖头物品，换取命运途径神话生物血液，为晋升序列4做准备。",
+      "identInfos": [
+        "星之上将",
+        "隐者",
+        "塔罗会成员",
+        "摩斯苦修会"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "正举行仪式的“星之上将”嘉德丽雅看见烛火形成的虚幻大门内飞出了一滴银色的血液。"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "果然是‘命运’领域的神话生物血液，而且位格比普通的天使高……嘉德丽雅欣喜地结束掉仪式。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        937
+      ]
+    },
+    {
+      "name": "帕伦克·塔西布",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "帕伦克·塔西布是灵教团人造死神派半神，与因斯·赞格威尔见面。",
+      "identInfos": [
+        "苍白之手",
+        "灵教团半神",
+        "人造死神派"
+      ],
+      "aliases": [
+        {
+          "alias": "苍白之手",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 940,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "没有太早，也没有太晚，因斯·赞格威尔在索斯特‘红手套’小队采取行动前，与灵教团人造死神派的‘苍白之手’帕伦克·塔西布见面了，希望能得到他们的帮忙，驱除恶灵……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        940
+      ]
+    },
+    {
+      "name": "索伦·艾因霍恩·梅迪奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "红天使恶灵，糅合了梅迪奇、索伦、艾因霍恩三位天使残余精神。附身因斯·赞格威尔，在战斗中被分离至冥界。",
+      "identInfos": [
+        "红天使恶灵",
+        "救赎蔷薇创建者",
+        "猎人途径天使之王",
+        "梅迪奇家族"
+      ],
+      "aliases": [
+        {
+          "alias": "红天使",
+          "type": "称号"
+        },
+        {
+          "alias": "梅迪奇",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那是以“红天使”梅迪奇为主体，融合了索伦、艾因霍恩家族两个序列1天使残余精神的恶灵！"
+        },
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "穿着染血黑色盔甲的半透明男子，年轻英俊，留着红色的头发，脸上有一块又一块腐烂见骨的可怕痕迹，眉心处长着旌旗似的印记。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "命运！艰涩拗口的声音里，“地狱上将”路德维尔与“守夜人”因斯·赞格威尔所在的位置同时黯淡了一下。"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        934,
+        940,
+        942,
+        943
+      ]
+    },
+    {
+      "name": "乌洛琉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "乌洛琉斯在库克瓦城被亚当的尸骨教堂困住，短暂逃脱未果。",
+      "identInfos": [
+        "命运天使",
+        "吞尾者",
+        "天使之王",
+        "真实造物主座下"
+      ],
+      "aliases": [
+        {
+          "alias": "吞尾者",
+          "type": "称号"
+        },
+        {
+          "alias": "命运天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道又一道光芒就从尸骨教堂高处的彩色玻璃窗照了进来，化成一只只虚幻层叠的纯净羽翼。羽翼覆盖的下方，一道留着银色长发的身影以半跪祈祷的形态勾勒而出，随之站直了身体。祂套着简朴的亚麻长袍，面容秀美，五官柔和，正是天使之王，“吞尾者”乌洛琉斯！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        942
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "蕾妮特·缇尼科尔为克莱恩送信给伦纳德，并驱赶广场周围灵界生物，协助战斗。",
+      "identInfos": [
+        "信使小姐",
+        "灵界强者",
+        "蕾妮特·缇尼科尔",
+        "莎伦的老师"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 941,
+          "extractReason": "UPDATE",
+          "evidenceText": "提着四个金发红眼脑袋的蕾妮特·缇尼科尔走出了虚空，八只眼睛同时转向了广场位置。"
+        },
+        {
+          "chapterSeq": 944,
+          "extractReason": "UPDATE",
+          "evidenceText": "来了，来了，它，祂是蕾妮特·缇尼科尔！不，蕾妮特·缇尼科尔在驱赶着周围灵界的所有生物，祂看了因斯·赞格威尔一眼，祂收回了视线，祂离开了这里，祂继续于附近游荡。"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        941,
+        944
+      ]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "索斯特是红手套小队队长，带领队员调查因斯·赞格威尔事件，接受戴莉的恶灵附身假设并向上汇报。",
+      "identInfos": [
+        "红手套队长",
+        "值夜者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 938,
+          "extractReason": "UPDATE",
+          "evidenceText": "索斯特放下了手中的白釉瓷咖啡杯，伦纳德和戴莉等人也将目光投向了门口。"
+        },
+        {
+          "chapterSeq": 939,
+          "extractReason": "UPDATE",
+          "evidenceText": "索斯特环顾一圈，对所有队员道：“‘女神之眼’阁下让我们调查本地和周围城市‘猎人’途径非凡材料的出售情况..."
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        938,
+        939
+      ]
+    },
+    {
+      "name": "辛迪",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "辛迪是红手套小队成员，发现了因斯·赞格威尔的行动轨迹和购买非凡材料的线索。",
+      "identInfos": [
+        "红手套成员",
+        "酒红长发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 938,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "有一头酒红色长发的辛迪拿着几封电报走了进来，略显兴奋地说道：“有发现一些新的线索！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        938
+      ]
+    },
+    {
+      "name": "伊丽娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伊丽娅是黑夜教会高级执事，认同戴莉的恶灵猜测，准备以封印物设置陷阱，实则为因斯·赞格威尔的目标。",
+      "identInfos": [
+        "女神之眼",
+        "黑夜教会高级执事"
+      ],
+      "aliases": [
+        {
+          "alias": "女神之眼",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 940,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "经过与宁静教堂那位的讨论，黑夜教会高级执事伊丽娅相信了戴莉的猜测，决定以一件‘猎人’途径的‘1’级封印物为诱饵。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        940
+      ]
+    },
+    {
+      "name": "里格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "里格是白银城探索小队成员，序列5守护者。",
+      "identInfos": [
+        "白银城守护者",
+        "序列5",
+        "科林队员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 937,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这支小队人数并不多，除了科林，只有四位队员，分别是“六人议事团”长老，“牧羊人”洛薇雅，两位序列5的“守护者”，里格和古娜露恩。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        937,
+        939
+      ]
+    },
+    {
+      "name": "古娜露恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "古娜露恩是白银城探索小队成员，序列5守护者。",
+      "identInfos": [
+        "白银城守护者",
+        "序列5",
+        "女性",
+        "科林队员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 937,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这支小队人数并不多，除了科林，只有四位队员，分别是“六人议事团”长老，“牧羊人”洛薇雅，两位序列5的“守护者”，里格和古娜露恩。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        937,
+        939
+      ]
+    },
+    {
+      "name": "托尼·唐恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "托尼·唐恩是铁血十字会的战争主教，曾追逐因斯·赞格威尔。",
+      "identInfos": [
+        "战争主教",
+        "铁血十字会",
+        "猎人途径半神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 940,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "经历多次挑衅以后，铁血十字会的托尼·唐恩终于锁定了因斯·赞格威尔，对他展开了追捕，这个过程中，这位立志成为‘征服者’的‘战争主教’毫不掩饰地张扬着自己的能力。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        940
+      ]
+    }
+  ],
+  "factions": [],
+  "items": [
+    {
+      "name": "0-08",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "0-08是一支古典羽毛笔，具有“你知道了它，它也就知道了你”的特性，并能通过书写影响现实。因斯·赞格威尔持有它，在战斗中被亚当取走。",
+      "identInfos": [
+        "阿勒苏霍德之笔",
+        "0-08封印物",
+        "观众途径唯一性",
+        "凡有言必被知"
+      ],
+      "aliases": [
+        {
+          "alias": "阿勒苏霍德之笔",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "0-08”的特点是，你知道了它，它也就知道了你。"
+        },
+        {
+          "chapterSeq": 940,
+          "extractReason": "UPDATE",
+          "evidenceText": "一支没沾墨水的古典羽毛笔仿佛正被无形之手拿着，在一本普普通通的笔记上快速书写。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔深蓝近黑的眼眸迅速恢复了神采，古典雕塑般的脸庞变得极为严肃。此时此刻，突破了尸骨教堂的他，前方并不是广场，而是一层层石制的古老台阶。"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔丢掉“0-08”这黯淡的羽毛笔，剩余的四条“腿”一撑，扑向了伦纳德·米切尔。"
+        },
+        {
+          "chapterSeq": 946,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，一道身影出现在了不远处，弯腰拾取起了那根已是黯淡的羽毛笔。"
+        }
+      ]
+    },
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "利用“时之虫”制作的高级符咒，可调换命运。克莱恩和伦纳德各持一张，用于分离红天使恶灵和重创因斯·赞格威尔。",
+      "identInfos": [
+        "时之虫制作",
+        "调换命运",
+        "高级符咒",
+        "帕列斯提供"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 933,
+          "extractReason": "UPDATE",
+          "evidenceText": "我现在最多能给你两条‘时之虫’。"
+        },
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "对于“时之虫”只得两条这件事情，他没有一点失望，在他看来，这本身就是额外的收获，能有一条就算赚到，两条正好他和克莱恩平分，一人一张“窃运者”符咒。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "命运！艰涩拗口的声音里，“地狱上将”路德维尔与“守夜人”因斯·赞格威尔所在的位置同时黯淡了一下，似乎刚好被两朵乌云遮住。"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "海神权杖是克莱恩持有的强力封印物，可掌控海洋与风暴。在复仇战中，克莱恩于灰雾之上使用它连续降下雷霆攻击因斯·赞格威尔。",
+      "identInfos": [
+        "白骨权杖",
+        "青蓝色宝石",
+        "掌控海洋风暴",
+        "原属海神卡维图瓦"
+      ],
+      "aliases": [
+        {
+          "alias": "白骨权杖",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着三重冠冕穿着深蓝法衣的克莱恩抬起了左手，让白骨权杖顶端的青蓝色宝石发出光芒。锐利刺耳的声音当即回荡于现实世界的复活广场。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "整个广场区域，莫名来到了夜晚，泥土之中的虫豸，地砖上面的细菌，一个接一个死去，进入了永恒的沉眠。这是“黑夜”与“死亡”力量的结合！眼见戴莉·西蒙妮和伦纳德·米切尔即将在沉睡中飞快失去生命，“轰隆”一声雷鸣炸响于半空。银白的闪电一道道落下，化作雷霆森林，将因斯·赞格威尔变成的不完整神话生物笼罩在了里面。"
+        }
+      ]
+    },
+    {
+      "name": "丧钟",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "丧钟是克莱恩持有的神奇左轮，在复仇战最后阶段，克莱恩用它抵住因斯·赞格威尔的脸部开枪，将其彻底击杀。",
+      "identInfos": [
+        "神奇左轮",
+        "克莱恩持有",
+        "击杀因斯·赞格威尔"
+      ],
+      "aliases": [
+        {
+          "alias": "丧钟左轮",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "他随即从衣兜里拿出剩下的一张塔罗牌，丢到了因斯·赞格威尔的尸体上。这是一张逆位的“星星”牌。"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩闪现到了因斯·赞格威尔面前，将“丧钟”左轮抵在了他的脸上。"
+        },
+        {
+          "chapterSeq": 945,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！因斯·赞格威尔的脑袋彻底爆炸，如同摔坏的西瓜，碎片和汁液洒得到处都是。“丧钟”为他而鸣。"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "蠕动的饥饿是人皮手套封印物，克莱恩借给伦纳德使用，伦纳德用它释放“闪电风暴”配合“窃运者”符咒攻击因斯·赞格威尔。",
+      "identInfos": [
+        "人皮手套",
+        "可释放记录的能力",
+        "克莱恩持有"
+      ],
+      "aliases": [
+        {
+          "alias": "人皮手套",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德毫不犹豫抬起左掌，将那只手套抵在了额角，然后用右手，紧紧握住了“窃运者”符咒。"
+        },
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德一边抬起左掌，将人皮手套抵在额角处，一边用右手握紧了“窃运者”符咒，低沉发声道：“命运！”"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "莱曼诺旅行笔记是神奇物品，伦纳德用它释放了“闪电风暴”能力。",
+      "identInfos": [
+        "可记录能力",
+        "透明书册",
+        "佛尔思持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德毫不犹豫抬起左掌，将那只手套抵在了额角，然后用右手，紧紧握住了“窃运者”符咒。……伦纳德一边让身前有透明书册凝聚而出，于“我来到，我看见，我记录”的飘渺吟唱里翻至其中一页。"
+        }
+      ]
+    },
+    {
+      "name": "暴君牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "暴君牌是“风暴”途径序列0亵渎之牌，克莱恩在复仇行动中佩戴了它（三重冠冕）。",
+      "identInfos": [
+        "风暴途径序列0",
+        "亵渎之牌",
+        "三重冠冕",
+        "教皇法袍"
+      ],
+      "aliases": [
+        {
+          "alias": "风暴牌",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着三重冠冕穿着深蓝法衣的克莱恩抬起了左手。"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "格罗塞尔游记是空想之龙留下的特殊书籍，克莱恩准备用其作为后手，看能否诱使0-08离开因斯·赞格威尔。",
+      "identInfos": [
+        "空想之龙遗留",
+        "特殊书籍",
+        "可吞入书中世界"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 943,
+          "extractReason": "UPDATE",
+          "evidenceText": "让“赢家”恩佐布置祈求赐予的仪式，随时准备着将《格罗塞尔游记》送到现实世界，送到战场边缘，看能不能诱使那支笔离开因斯·赞格威尔。"
+        }
+      ]
+    },
+    {
+      "name": "灵界掠夺者真实魂体",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩将灵界掠夺者真实魂体借给戴里克，用于在诺斯城外引诱变形者（诡术邪怪）。",
+      "identInfos": [
+        "蠕虫状",
+        "黑色微芒",
+        "诡术邪怪晋升关键",
+        "克莱恩提供"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 939,
+          "extractReason": "UPDATE",
+          "evidenceText": "粗看能注意到里面填充着透明的液体，时而冒出泡沫，发散黑色微芒，细瞧却能发现，这由一条条状似蠕虫的东西缠绕而成，细微处充斥着表征各种抽象概念的不可名状花纹。这是克莱恩之前获得的灵界掠夺者真实魂体！"
+        }
+      ]
+    },
+    {
+      "name": "诡法师魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在晋升序列4时使用的魔药配方，包含诡术邪怪血液等材料。",
+      "identInfos": [
+        "序列4魔药",
+        "诡法师",
+        "辅助材料：诡术邪怪血液"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "另外，他并不担心诡术邪怪也是类灵界生物，根本没有血液，因为“诡法师”魔药配方上写的很清楚：“辅助材料：诡术邪怪的血液200毫升……”"
+        }
+      ]
+    },
+    {
+      "name": "命运之蛇血液",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用杖头从威尔·昂赛汀处换得两滴命运之蛇血液，可用于制作符咒。",
+      "identInfos": [
+        "银色血液",
+        "包含命运圆轮",
+        "威尔·昂赛汀提供",
+        "可用于制作厄难符咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 936,
+          "extractReason": "UPDATE",
+          "evidenceText": "那里共有两滴银色的血液，每一滴中都仿佛有无数微小的，超然的，虚幻的圆轮在转动，它们连成了一条长带，首尾近乎相接。"
+        },
+        {
+          "chapterSeq": 937,
+          "extractReason": "UPDATE",
+          "evidenceText": "正举行仪式的“星之上将”嘉德丽雅看见烛火形成的虚幻大门内飞出了一滴银色的血液。"
+        }
+      ]
+    },
+    {
+      "name": "厄难符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用命运之蛇血液制作，向黑夜女神祈求的符咒，在战斗中作为神之诅咒扔向因斯·赞格威尔，使其厄运缠身。",
+      "identInfos": [
+        "银灰色符咒",
+        "蕴含幽黑光芒",
+        "克莱恩制作",
+        "黑夜女神响应"
+      ],
+      "aliases": [
+        {
+          "alias": "神之诅咒",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 942,
+          "extractReason": "UPDATE",
+          "evidenceText": "她的右掌，那枚银灰色的符咒陡地燃起了幽黑的光芒。这是克莱恩直接向“黑夜女神”祈求，利用“水银之蛇”威尔·昂赛汀的血液和贵重金属制作的厄难领域符咒。"
+        }
+      ]
+    },
+    {
+      "name": "红祭司牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "红祭司牌是“红祭司”途径的亵渎之牌，描绘着战车和罗塞尔·古斯塔夫，克莱恩从因斯·赞格威尔尸体上取走。",
+      "identInfos": [
+        "亵渎之牌",
+        "红祭司途径",
+        "深红祭司脸孔",
+        "罗塞尔·古斯塔夫"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 934,
+          "extractReason": "UPDATE",
+          "evidenceText": "那个恶灵还携带着一张反占卜反预言的‘红祭司’牌。"
+        },
+        {
+          "chapterSeq": 946,
+          "extractReason": "UPDATE",
+          "evidenceText": "他拿着帽子，转身走向因斯·赞格威尔的身体，从上面取走了一张牌，描绘着一辆战车和一个深红祭司的牌。那个深红祭司的脸孔，俨然便是罗塞尔·古斯塔夫。"
+        }
+      ]
+    },
+    {
+      "name": "安魂师非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩寄给伦纳德的一份非凡特性，源于一位被放牧者，承诺送还黑夜教会。",
+      "identInfos": [
+        "璀璨夜幕状",
+        "安魂师",
+        "黑夜教会途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 935,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "随信寄来的是一份‘安魂师’的非凡特性，它源于一位被放牧的可怜人，我让他得到了解脱，并承诺将他的特性送还黑夜教会。"
+        }
+      ]
+    },
+    {
+      "name": "时之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯分离出的两条时之虫，用于制作“窃运者”符咒。",
+      "identInfos": [
+        "透明小虫",
+        "有环节",
+        "帕列斯分离",
+        "可制作窃运者符咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 933,
+          "extractReason": "UPDATE",
+          "evidenceText": "我现在最多能给你两条‘时之虫’。"
+        },
+        {
+          "chapterSeq": 935,
+          "extractReason": "UPDATE",
+          "evidenceText": "他颇感欣慰，拿出了两条有环节，已死去的透明小虫，直接利用那个信封装好，再次召唤出格尔曼·斯帕罗的信使，交给了对方。"
+        }
+      ]
+    },
+    {
+      "name": "杖头",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "嘉德丽雅献祭给愚者的物品，形如手杖杖头，镶嵌透明宝石，绘刻复杂符号，可让弱小期短暂恢复力量。克莱恩用它交换威尔·昂赛汀的脐带血。",
+      "identInfos": [
+        "手杖杖头",
+        "透明宝石",
+        "隐者献祭",
+        "恢复力量"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 936,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这形如一根手杖的杖头，上面镶嵌着一枚枚长条形的透明宝石，绘刻着一个又一个复杂神秘、立体难描的象征符号和魔法标识。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1605 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在阿里安娜的隐秘空间中与丘纳斯·科尔格激战，利用阿蒙分身遗留的“欺瞒子弹”和“寄生子弹”将其转化为秘偶。通过通灵审讯得知国王乔治三世挖掘“血皇帝”遗迹的秘密。战后处理战利品，将丘纳斯变为贴身男仆。在塔罗会上展示“无暗十字”，说明其功效。通过占卜“无暗十字”来历，目睹远古太阳神相关画面，遭受重创。阅读罗塞尔日记，了解“观众”途径成神仪式等秘密。参与血族与莎伦对付玫瑰学派的计划讨论，答应作为后手。收到特莉丝来信，拟合作对付卡特琳娜，但因信使身份暴露，特莉丝失联。为“正义”奥黛丽提供天使祝福，应对赫温·兰比斯的催眠，并鼓励其迎接考验。",
+      "identInfos": [
+        "愚者先生",
+        "格尔曼·斯帕罗",
+        "道恩·唐泰斯",
+        "序列4诡法师",
+        "塔罗会组织者",
+        "黑夜女神眷者",
+        "灰雾之上神秘空间主人"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1027,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩放弃偷袭，拖延时间，一方面是为了让丘纳斯·科尔格将“禁止”或“剥夺”用满，用在看似对他重要却非此次战斗关键的非凡能力上，另一方面，也是在等随机性异变的第一次出现，然后，抓住两次异变间的空隙，用“剥夺子弹”窃取走丘纳斯·科尔格三种强大能力。"
+        },
+        {
+          "chapterSeq": 1028,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是克莱恩自己。他刚才打出的不是空气子弹，而是以空气子弹的力量推出的“寄生子弹”！以阿蒙分身遗留“时之虫”制作的“寄生子弹”！"
+        },
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩因此丧失了对秘偶的掌控。他对此不是太意外，毕竟他还没有分出一条“灵之虫”通过“灵体之线”传递过去，对那个秘偶的控制从本质上来说还属于序列5阶段，不到半神层次。"
+        },
+        {
+          "chapterSeq": 1030,
+          "extractReason": "UPDATE",
+          "evidenceText": "得到阿里安娜的通知后，克莱恩将丘纳斯·科尔格变成了庄园内一位仆役，让这位军情九处的副处长就此消失。"
+        },
+        {
+          "chapterSeq": 1033,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没有直接占卜“无暗十字”的获得是否存在安排的痕迹，害怕因此指向亚当，引起对方的警觉，他准备从这件封印物的来历入手，查探具体的情况。"
+        },
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅闭了下眼睛，抢先转过身体，面朝了青铜长桌最上首。她行礼说话前，“愚者”克莱恩忽然轻笑了一声：“不用担心，具现出来的这幅眼镜可以封印你的‘窥秘之眼’。”"
+        },
+        {
+          "chapterSeq": 1036,
+          "extractReason": "UPDATE",
+          "evidenceText": "这一页日记承载的秘密看得克莱恩有种直面神话生物形态的感觉，脑海遭遇了知识层面的风暴袭击。"
+        },
+        {
+          "chapterSeq": 1046,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩轻轻颔首，赞许笑道：“你处理得不错。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1039,
+        1040,
+        1041,
+        1042,
+        1045,
+        1046
+      ]
+    },
+    {
+      "name": "丘纳斯·科尔格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "军情九处副处长，半神“堕落伯爵”，与克莱恩在隐秘空间激战，被转化为秘偶。通灵审讯中供出国王乔治三世挖掘“血皇帝”遗迹、与魔女教派和心理炼金会合作等秘密。后变为道恩·唐泰斯的贴身男仆，被用来伪装身份。",
+      "identInfos": [
+        "堕落伯爵",
+        "军情九处少将副处长",
+        "律师途径序列4",
+        "掌握“扭曲”、“混乱”、“放大”等能力",
+        "持有封印物“光与影的协奏曲”和“里维尔的绝望嘶喊”"
+      ],
+      "aliases": [
+        {
+          "alias": "堕落伯爵",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1027,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "在丘纳斯·科尔格终于弄清楚敌人属于哪条非凡途径后，花园、葡萄园、庄园主屋内的格尔曼·斯帕罗同时抬起了左手。"
+        },
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那座遗迹位于塔索克河斯特利文段，在地底深处，有干扰占卜和预言的布置。”"
+        },
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将丘纳斯·科尔格变成了庄园内一位仆役，让这位军情九处的副处长就此消失。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1027,
+        1028,
+        1029,
+        1030,
+        1031
+      ]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜教会大主教，“隐秘之仆”，天使位阶。在隐秘空间中协助克莱恩击败丘纳斯·科尔格，进行通灵审讯，获得关键情报。联合风暴教会、蒸汽教会突袭“血皇帝”遗迹，但未发现异常。怀疑亚当空想遗迹，承诺验证并追查卡特琳娜。",
+      "identInfos": [
+        "隐秘之仆",
+        "黑夜教会苦修士首领",
+        "天使",
+        "执掌隐秘权柄",
+        "穿简朴长袍、系树皮腰带"
+      ],
+      "aliases": [
+        {
+          "alias": "隐秘之仆",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "那巨大红月中，一个黑点瞬间凸显了出来，从天而降，正是穿简朴长袍，系树皮腰带的黑夜教会大主教，“隐秘之仆”阿里安娜。"
+        },
+        {
+          "chapterSeq": 1030,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜环顾一圈，平静说道：“这关系王室，牵涉国王，你们最好先征得各自圣座的同意。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1029,
+        1030,
+        1031,
+        1032
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会“正义”，在塔罗会上得知国王秘密，情绪低落。为晋升“梦境行者”收购材料。赫温·兰比斯潜入马车催眠她，要求约见佛尔思和休并催眠她们，改变对王子态度。奥黛丽凭借苏茜提醒察觉异常，向“愚者”祈祷恢复记忆，得到鼓励面对考验。",
+      "identInfos": [
+        "正义",
+        "霍尔伯爵之女",
+        "塔罗会成员",
+        "观众途径序列5催眠师",
+        "金毛大狗苏茜的同伴"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽眼眸微微睁大，心潮霍然起伏，难以自制。这一方面是因为这个消息对身为贵族的她太过震动，另一方面则由于她携带的“谎言”配饰对情绪有放大作用。"
+        },
+        {
+          "chapterSeq": 1046,
+          "extractReason": "UPDATE",
+          "evidenceText": "那温和的声音仿佛与奥黛丽内心深处的念头产生了共鸣，让她只是稍有抗拒，就觉得这源于自己的心声，是自己最真实的想法。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035,
+        1037,
+        1040,
+        1046
+      ]
+    },
+    {
+      "name": "赫温·兰比斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理炼金会评议团委员，“观众”途径半神。因被三大教会通缉而失踪。在奥黛丽马车上对其进行催眠，要求约见佛尔思和休并催眠她们，改变对王子态度，但被奥黛丽察觉。",
+      "identInfos": [
+        "心理炼金会评议团委员",
+        "观众途径半神",
+        "操纵师",
+        "卡隆自杀案幕后黑手",
+        "正被三大教会通缉"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1046,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这个时候，奥黛丽眼角余光看见马车上多了一道身影。那身影穿着黑色三件套，打着暗红领结，手拿一顶礼帽，头发已然全白却依旧茂密，眼睛淡蓝之中仿佛藏着无尽的智慧。这是赫温·兰比斯，心理炼金会评议团的委员，一位“观众”途径的半神！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1046
+      ]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“魔术师”，与“审判”休一起处理斯特福德子爵之死后续，献祭“无暗十字”。寻求晋升“记录官”，参与血族计划讨论。被赫温·兰比斯列为目标，奥黛丽需约见并催眠她。",
+      "identInfos": [
+        "魔术师",
+        "塔罗会成员",
+        "学徒途径序列7",
+        "多里安·格雷的学生",
+        "持有莱曼诺的旅行笔记"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思眼眸动了一下，缓慢活了过来道：“不管是恢复我父亲的名誉，还是复仇，在面对一个国王时，希望都是那样渺茫…”"
+        },
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思和“审判”休则认出了那铜绿色的十字架就是自己两人献祭的封印物。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1031,
+        1035,
+        1045
+      ]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“审判”，与“魔术师”佛尔思一起处理斯特福德子爵之死后续，献祭“无暗十字”。故意在军情九处联络人面前留下破绽，引诱国王派系调查，并告知父亲为前宫廷侍卫长。被赫温·兰比斯列为目标，奥黛丽需约见并催眠她。",
+      "identInfos": [
+        "审判",
+        "塔罗会成员",
+        "仲裁人途径序列8",
+        "前宫廷侍卫长之女",
+        "军情九处外围情报人员"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "休眼眸动了一下，缓慢活了过来道：“不管是恢复我父亲的名誉，还是复仇，在面对一个国王时，希望都是那样渺茫，我根本想不到有什么办法可以完成类似的事情…”"
+        },
+        {
+          "chapterSeq": 1044,
+          "extractReason": "UPDATE",
+          "evidenceText": "这次塔罗会前，她预想的方案是说自己跟踪斯特福德子爵到了码头区的某个仓库外，被突然蹿起的恐怖龙卷风吓跑了，这更有说服力，更让人相信，更不容易被怀疑，可知道“世界”格尔曼·斯帕罗先生对这件事情感兴趣后，她悄然改变了主意。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1031,
+        1044,
+        1045
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“星星”，黑夜教会“红手套”。在塔罗会上被要求询问帕列斯·索罗亚斯德是否看过第二块“亵渎石板”。得知帕列斯曾祖父看过，且石板被亚当带走。",
+      "identInfos": [
+        "星星",
+        "塔罗会成员",
+        "黑夜教会红手套",
+        "克莱恩朋友",
+        "寄生有天使帕列斯·索罗亚斯德"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1038,
+          "extractReason": "UPDATE",
+          "evidenceText": "“星星”伦纳德自己也被吓了一跳，没想到克莱恩会提出这样的要求。沉默了几秒后，他才吐了口气道：“好。”"
+        },
+        {
+          "chapterSeq": 1038,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德沉默了一下道：“如果我曾祖父描述的没错，那应该是天使之王亚当。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035,
+        1038
+      ]
+    },
+    {
+      "name": "阿尔杰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“倒吊人”，风暴教会成员。在塔罗会上汇报调查科诺托海战弗萨克上校结果，受命继续搜集详细情报。参与血族计划讨论，给予意见。",
+      "identInfos": [
+        "倒吊人",
+        "塔罗会成员",
+        "风暴教会非凡者",
+        "海洋歌者",
+        "曾被格尔曼·斯帕罗救过"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个时候，“倒吊人”阿尔杰和“隐者”嘉德丽雅等塔罗会成员也注意到了那个比“纸牌”显眼许多的铜绿色十字架。"
+        },
+        {
+          "chapterSeq": 1038,
+          "extractReason": "UPDATE",
+          "evidenceText": "话音刚落，阿尔杰申请到权限，具现出了一页写满更详细情报的白纸。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035,
+        1038,
+        1042
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“隐者”，序列4“神秘学家”。在塔罗会上提供罗塞尔日记，并请求累积问题至下次。为“审判”休提供“法官”途径神奇物品，并尝试从“隐匿贤者”处获取魔药配方。",
+      "identInfos": [
+        "隐者",
+        "星之上将",
+        "塔罗会成员",
+        "窥秘人途径序列4神秘学家",
+        "摩斯苦修会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅闭了下眼睛，抢先转过身体，面朝了青铜长桌最上首。她行礼说话前，“愚者”克莱恩忽然轻笑了一声：“不用担心，具现出来的这幅眼镜可以封印你的‘窥秘之眼’。”"
+        },
+        {
+          "chapterSeq": 1037,
+          "extractReason": "UPDATE",
+          "evidenceText": "至于她获取魔药配方的办法，其实很简单，那就是主动倾听“隐匿贤者”的呓语，接受祂灌注的知识。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035,
+        1037,
+        1042
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“月亮”，血族子爵。在塔罗会上分享血族与玫瑰学派节制派合作对付玫瑰学派重要成员的计划，并请求塔罗会成员提供意见。发现自己只需保持沟通，无需参与战斗。",
+      "identInfos": [
+        "月亮",
+        "塔罗会成员",
+        "血族子爵",
+        "丰收教堂常客"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1042,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林环顾了一圈，坦然说道：“是的，具体的方案是这样，通过两位从玫瑰学派叛逃的节制派成员…”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035,
+        1042,
+        1043
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“太阳”，白银城“光之祭司”。在塔罗会上希望换取“无暗十字”，得到“愚者”应允。向首席科林·伊利亚特提及造物主遗物，科林得知后表示将提供圣级封印物资料作为交换。",
+      "identInfos": [
+        "太阳",
+        "塔罗会成员",
+        "白银城居民",
+        "光之祭司",
+        "希望将白银城居民带回阳光下"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克隐隐约约间感受到了一阵无形的召唤，只觉那铜绿色的十字架在吸引自己过去。"
+        },
+        {
+          "chapterSeq": 1039,
+          "extractReason": "UPDATE",
+          "evidenceText": "“首席阁下，我发现了一件造物主的遗物，它对应‘太阳’途径的序列4‘无暗者’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035,
+        1039
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城“六人议事团”首席，“猎魔者”。得知造物主已陨落后，情绪复杂，但仍接受现实。应允戴里克可用圣级封印物交换“无暗十字”。",
+      "identInfos": [
+        "猎魔者",
+        "白银城首席",
+        "六人议事团成员",
+        "序列5"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1039,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位“猎魔者”与往常一样，花白的头发颇为凌乱，疏于打理，脸上法令纹较重，残存着些或深刻或扭曲的陈旧疤痕。"
+        },
+        {
+          "chapterSeq": 1039,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你已经成为序列5，有资格了解白银城有哪些圣级封印物了…如果你能与某件圣级封印物契合，减小它的负面效果，那你就可以执掌它。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1039
+      ]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "玫瑰学派节制派半神，“木偶”。与血族合作对付玫瑰学派在贝克兰德重要成员，邀请克莱恩作为后手。透露老师为蕾妮特·缇尼科尔，说明老师复活状态及过去历史。",
+      "identInfos": [
+        "木偶",
+        "玫瑰学派节制派成员",
+        "蕾妮特·缇尼科尔的学生",
+        "喜欢戴小巧软帽穿宫廷长裙"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1041,
+          "extractReason": "UPDATE",
+          "evidenceText": "左侧高脚凳上端坐的是戴小巧软帽，穿宫廷长裙，头发淡金，眼眸蔚蓝的莎伦，和以往相比，她脸色不再苍白得那么厉害，只是略有点失血感。"
+        },
+        {
+          "chapterSeq": 1042,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们打算挑选其中较为重要的一个动手，并故意有所遗漏，让潜藏的几位能悄然逃走，将消息传递给玫瑰学派在贝克兰德的负责人。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1041,
+        1042
+      ]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派节制派成员，与莎伦一同行动。与血族合作对付玫瑰学派重要成员，参与计划讨论。",
+      "identInfos": [
+        "怨魂",
+        "玫瑰学派节制派成员",
+        "莎伦的同伴",
+        "喜欢和活尸打牌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1041,
+          "extractReason": "UPDATE",
+          "evidenceText": "右边立于球桌旁的是马里奇，这位喜欢和活尸打牌的年轻男子愈发苍白，眼中需要克制的恶意变得不太明显，却又直观地给人一种压抑感。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1041
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "莎伦的老师，前玫瑰学派节制派天使，现为灵界特殊状态存在，正恢复中。作为克莱恩的信使出现，吓坏特莉丝，导致其失联。不希望血族发现其存在。",
+      "identInfos": [
+        "蕾妮特·缇尼科尔",
+        "信使小姐",
+        "前玫瑰学派节制派天使",
+        "序列2古代邪物",
+        "手提四个金发红眼脑袋"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1041,
+          "extractReason": "UPDATE",
+          "evidenceText": "“祂是我的老师。”"
+        },
+        {
+          "chapterSeq": 1043,
+          "extractReason": "UPDATE",
+          "evidenceText": "紧接着，一道人影从烛火里跨出，身穿阴沉繁复的黑裙，手提四个金发红眼明艳大气的脑袋。那四个脑袋上的八只猩红眼睛同时转动，齐齐将目光投向了正对面的特莉丝。"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        1041,
+        1043,
+        1044
+      ]
+    },
+    {
+      "name": "特莉丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "魔女，原埃德萨克王子情妇，现为原初魔女容器。写信给格尔曼·斯帕罗寻求合作对付“白之圣女”卡特琳娜，但被信使天使吓坏，失联。转移躲藏。",
+      "identInfos": [
+        "特莉丝奇克",
+        "魔女",
+        "原初魔女容器",
+        "埃德萨克王子相关"
+      ],
+      "aliases": [
+        {
+          "alias": "特莉丝奇克",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1043,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿黑色长裙的特莉丝收拾好了行李，准备转去下一个隐藏点。她略圆的脸庞比以往瘦了少许，于甜美之外多了几分难以描述的清丽感。"
+        },
+        {
+          "chapterSeq": 1044,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他的信使竟然是位天使…”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1043,
+        1044
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "格尔曼·斯帕罗的追随者，海盗。受命搜集“疾病中将”相关物品并询问安德森情况。向“愚者”祈祷转达信息，并奉命陪同安德森寻找特雷茜和材料。",
+      "identInfos": [
+        "海盗",
+        "格尔曼·斯帕罗的追随者",
+        "序列7纵火家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1040,
+          "extractReason": "UPDATE",
+          "evidenceText": "接收到格尔曼·斯帕罗信息的达尼兹心中充满了不解。但再是不解，他还是认真而小心地感谢了“愚者”先生。"
+        },
+        {
+          "chapterSeq": 1043,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹在“黄金梦想号”上祈祷，将冰山中将的回复转达给格尔曼·斯帕罗。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1040,
+        1043
+      ]
+    },
+    {
+      "name": "安德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "迷雾海最强猎人，正接受冰山中将实验以消化体内异物。异物已初步隔离，倾向于寻找“铁血骑士”配方冒险吸收。达尼兹通知其陪同任务，安德森接受。",
+      "identInfos": [
+        "迷雾海最强猎人",
+        "猎人途径序列5",
+        "体内有异物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1040,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森放下了画笔，瞥了达尼兹一眼，口吻沉重地回答道：“它已经会叫爸爸了。”"
+        },
+        {
+          "chapterSeq": 1043,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森若有所思地点了点头：“那么，报酬是什么？”达尼兹嘴角一点点咧开，用一种俯视的姿态道：“‘铁血骑士’的辅助材料列表和晋升仪式。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1040,
+        1043
+      ]
+    },
+    {
+      "name": "格罗夫·奥古斯都",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "苏尼亚亲王，王室半神之一。在三大教会突袭遗迹时现身，声称挖掘仅为保密，与魔女教派已决裂，否认大雾霾相关。引导检查，未发现异常。",
+      "identInfos": [
+        "苏尼亚亲王",
+        "奥古斯都家族半神",
+        "负责遗迹看守"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那人影有一张长方脸，头上戴着白色的发套，嘴边留着两撇在尽头略微上翘的胡须…这是苏尼亚亲王格罗夫·奥古斯都，王室的半神之一。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1030
+      ]
+    },
+    {
+      "name": "雷达尔·瓦伦丁",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会枢机主教、贝克兰德教区大主教，“深蓝主祭”。受阿里安娜邀请联合行动，进入遗迹检查。",
+      "identInfos": [
+        "深蓝主祭",
+        "风暴教会大主教",
+        "胡须浓密头发深蓝"
+      ],
+      "aliases": [
+        {
+          "alias": "深蓝主祭",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "风暴教会枢机主教、贝克兰德教区大主教，“深蓝主祭”雷达尔·瓦伦丁从风中降下，落到了左侧有大钟的尖塔内。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1030
+      ]
+    },
+    {
+      "name": "霍拉米克·海顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "蒸汽教会神前会议成员、贝克兰德教区大主教，半神。受阿里安娜邀请联合行动，进入遗迹检查。",
+      "identInfos": [
+        "蒸汽教会大主教",
+        "贝克兰德大学物理系荣誉教授",
+        "面容慈祥"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他说话的对象身穿白色牧师袍，头戴神职人员软帽，面容慈祥，表情温和，正是蒸汽教会神前会议成员，贝克兰德教区大主教，半神半人的霍拉米克·海顿。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1030
+      ]
+    },
+    {
+      "name": "安东尼·史蒂文森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑夜教会十三位大主教之一，贝克兰德教区负责人，圣者。参与联合行动，检查遗迹。",
+      "identInfos": [
+        "黑夜教会大主教",
+        "圣者",
+        "贝克兰德教区负责人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这人影穿着黑中带红的神职人员长袍，胸前佩戴着五枚黑暗圣徽…俨然便是黑夜教会十三位大主教之一，贝克兰德教区负责人，圣者安东尼·史蒂文森。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1030
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "寄生在伦纳德体内的天使，索罗亚斯德家族先祖。告知伦纳德曾祖父看过第二块“亵渎石板”，石板被亚当带走。",
+      "identInfos": [
+        "寄生天使",
+        "索罗亚斯德家族成员",
+        "偷盗者途径天使",
+        "被伦纳德称为老头"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1038,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的脑海内，帕列斯·索罗亚斯德略显苍老的嗓音响了起来：“没有，看到第二块‘亵渎石板’的是我的曾祖父，呵呵，是谁提到了这件事情？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1038
+      ]
+    },
+    {
+      "name": "乔治三世",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "鲁恩王国国王，被揭露挖掘“血皇帝”遗迹，与魔女教派、心理炼金会合作，涉及大雾霾事件。三大教会突袭遗迹未获证据。休父亲之死与其有关。",
+      "identInfos": [
+        "鲁恩王国国王",
+        "奥古斯都家族",
+        "涉及大雾霾事件"
+      ],
+      "aliases": [
+        {
+          "alias": "国王",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“那座遗迹曾经属于‘血皇帝’亚利斯塔·图铎……我接受的是国王陛下的命令…”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1029,
+        1030,
+        1034
+      ]
+    },
+    {
+      "name": "恩尤尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的秘偶，原为“赢家”，现被用来伪装为道恩·唐泰斯的贴身男仆，实际真身已藏于丘纳斯·科尔格胃中。",
+      "identInfos": [
+        "克莱恩的秘偶",
+        "赢家",
+        "混血儿外貌",
+        "被用作伪装身份"
+      ],
+      "aliases": [
+        {
+          "alias": "赢家",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是道恩·唐泰斯的贴身男仆恩尤尼。而现在跟着道恩·唐泰斯的是丘纳斯·科尔格，他们顶着同样的脸孔，有着一样的身材！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1031
+      ]
+    },
+    {
+      "name": "海柔尔·马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "马赫特议员之女，持有“偷盗者”途径神奇物品。在玫歌庄园狩猎期间，因克莱恩与丘纳斯交战产生恐惧，不敢探查异常。",
+      "identInfos": [
+        "马赫特议员之女",
+        "偷盗者途径非凡者",
+        "曾被阿蒙分身顶替"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔走在最后，望了眼丘纳斯·科尔格少将住的那个客卧和旁边的房间，总觉得有些地方不太协调，下意识想要用“解密学者”的能力重构那里的情况。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1031
+      ]
+    },
+    {
+      "name": "马赫特议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "议员，海柔尔的父亲，参加玫歌庄园狩猎活动，发现丘纳斯失踪。",
+      "identInfos": [
+        "议员",
+        "海柔尔的父亲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "马赫特议员捏了捏两边颧骨，疑惑地询问道：“科尔格少将有晨起散步的爱好吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1031
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的金毛大狗，具有非凡能力，提醒奥黛丽行为异常，帮助发现赫温·兰比斯的催眠。",
+      "identInfos": [
+        "金毛大狗",
+        "奥黛丽的非凡犬同伴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1046,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗苏茜蹲坐在旁边，认真地想了下道：“有。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1040,
+        1046
+      ]
+    },
+    {
+      "name": "雪曼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "魔女，被斯特福德子爵用“光辉十字架”净化时，被休和佛尔思救下，但失控被休杀死。其非凡特性析出为幽蓝色宝石。",
+      "identInfos": [
+        "魔女",
+        "被休杀死",
+        "析出非凡特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "雪曼死后析出的非凡特性，它让周围的事物都变得柔和，多了几分美感。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1031
+      ]
+    },
+    {
+      "name": "斯特福德子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "前宫廷侍卫长，因发现国王秘密被处决。其持有“无暗十字”，曾与魔女雪曼有染，欲净化雪曼被休和佛尔思阻止，后自杀。",
+      "identInfos": [
+        "前宫廷侍卫长",
+        "效忠国王乔治三世",
+        "持有无暗十字"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "“前宫廷侍卫长梅森·迪尔因发现国王秘密被处决。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1029
+      ]
+    },
+    {
+      "name": "卡特琳娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "“白之圣女”，魔女教派序列3“不老魔女”。接替潘娜蒂亚负责与国王派系合作。克莱恩、阿里安娜及特莉丝均计划对付她。",
+      "identInfos": [
+        "白之圣女",
+        "不老魔女",
+        "序列3"
+      ],
+      "aliases": [
+        {
+          "alias": "白之圣女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "“还有魔女教派和心理炼金会的人，前者的代表原本是‘绝望夜莺’潘娜蒂亚，大雾霾之后换成了‘白之圣女’卡特琳娜。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1029,
+        1045
+      ]
+    },
+    {
+      "name": "波特兰·莫蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "贝克兰德技术大学校长，邀请奥黛丽和克莱恩捐款或投资新建机械实验室。",
+      "identInfos": [
+        "贝克兰德技术大学校长",
+        "白发红脸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1040,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "贝克兰德技术大学的校长波特兰·莫蒙特环顾一圈，开口问道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1040
+      ]
+    },
+    {
+      "name": "多里安·格雷·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思的老师，亚伯拉罕家族成员。佛尔思写信通知他地址变更，以免回信寄错。",
+      "identInfos": [
+        "佛尔思的老师",
+        "亚伯拉罕家族成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是写给她老师多里安·格雷·亚伯拉罕的信，告诉对方自己迫于某个危险，不得不搬离了原本的住处。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1035
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "由“愚者”克莱恩组织的隐秘集会，本周聚会中展示了“无暗十字”，交流了国王秘密、血族计划等信息。成员之间进行交易，如“太阳”希望换取十字架，“审判”寻求魔药配方。",
+      "identInfos": [
+        "愚者先生组织的隐秘集会",
+        "成员有正义、倒吊人、太阳、魔术师等",
+        "定期于灰雾之上举行"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "恢弘雄伟的宫殿内，古老斑驳的长桌旁，一道道身影不分先后地出现，凝聚成形。"
+        }
+      ]
+    },
+    {
+      "name": "黑夜教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "因获得丘纳斯·科尔格口供，联合风暴教会、蒸汽教会突袭“血皇帝”遗迹，未发现证据。通缉赫温·兰比斯。大主教阿里安娜协助克莱恩。",
+      "identInfos": [
+        "信仰黑夜女神",
+        "三大教会之一",
+        "执掌隐秘权柄"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜随即拿出了一个铭刻有复杂符号的铁黑色纹章，将它握在手里，尝试着激发。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "受黑夜教会邀请，联合突袭“血皇帝”遗迹，未发现证据。大主教雷达尔·瓦伦丁参与行动。",
+      "identInfos": [
+        "信仰风暴之主",
+        "三大教会之一"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "UPDATE",
+          "evidenceText": "风暴教会枢机主教、贝克兰德教区大主教，“深蓝主祭”雷达尔·瓦伦丁从风中降下。"
+        }
+      ]
+    },
+    {
+      "name": "蒸汽教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "受黑夜教会邀请，联合突袭“血皇帝”遗迹，未发现证据。大主教霍拉米克·海顿参与行动。",
+      "identInfos": [
+        "信仰蒸汽与机械之神",
+        "三大教会之一"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1030,
+          "extractReason": "UPDATE",
+          "evidenceText": "他说话的对象身穿白色牧师袍，头戴神职人员软帽…正是蒸汽教会神前会议成员…霍拉米克·海顿。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "与国王乔治三世合作，参与“血皇帝”遗迹项目。评议团委员赫温·兰比斯被通缉后失踪，潜入奥黛丽梦境进行催眠。",
+      "identInfos": [
+        "掌握观众途径",
+        "与国王派系合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "“还有魔女教派和心理炼金会的人…后者是赫温·兰比斯。”"
+        }
+      ]
+    },
+    {
+      "name": "魔女教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "与国王乔治三世合作，参与“血皇帝”遗迹项目。代表前期为潘娜蒂亚，后期为卡特琳娜。",
+      "identInfos": [
+        "信仰原初魔女",
+        "与国王派系合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "“还有魔女教派和心理炼金会的人，前者的代表原本是‘绝望夜莺’潘娜蒂亚，大雾霾之后换成了‘白之圣女’卡特琳娜。”"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "鲁恩军方情报机构，副处长丘纳斯·科尔格被克莱恩转化为秘偶并获得口供。内部存在国王派系，对休进行调查。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "负责王室相关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位军情九处的副处长利用“混乱”将手枪放回了腋下枪袋。"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "被血族与节制派合作计划引出并打击其在贝克兰德的重要成员。内部存在放纵派与节制派对立，节制派首领蕾妮特·缇尼科尔以特殊状态存活。",
+      "identInfos": [
+        "信仰被缚之神和欲望母树",
+        "分放纵派与节制派",
+        "在贝克兰德有成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1042,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果能有拿到有效情报，我们血族还打算抓住机会，突袭一次玫瑰学派的总部，希望能夺走一件重要物品。”"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "与玫瑰学派节制派合作，计划引出并打击玫瑰学派在贝克兰德的重要成员。奥尔默公爵、尼拜斯侯爵等高层参与制定计划。",
+      "identInfos": [
+        "远古种族",
+        "始祖莉莉丝",
+        "擅长吸血鬼途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1042,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们和血族达成了一项协议，合作对付玫瑰学派在贝克兰德的重要成员。”"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "神弃之地的人类聚居地，首席科林·伊利亚特得知造物主已陨落，但仍支持戴里克换取“无暗十字”。准备探索“巨人王庭”。",
+      "identInfos": [
+        "神弃之地的人类聚居地",
+        "信仰造物主",
+        "首席科林·伊利亚特"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1039,
+          "extractReason": "UPDATE",
+          "evidenceText": "幽深的高空一道闪电划过，照亮了整座白银城，可它未持续太久，很快就黯然消逝，让世界归于漆黑。"
+        }
+      ]
+    },
+    {
+      "name": "摩斯苦修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "信仰“隐匿贤者”的隐秘组织，成员嘉德丽雅可相对安全地从隐匿贤者处获取知识。",
+      "identInfos": [
+        "信仰隐匿贤者",
+        "嘉德丽雅所属组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1037,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "作为一个信仰“隐匿贤者”的古老组织，摩斯苦修会的高层被这位存在影响的同时，也逐渐摸索出了一整套相对安全的“倾听”办法。"
+        }
+      ]
+    },
+    {
+      "name": "王室派系",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "以乔治三世为首的鲁恩王室势力，挖掘“血皇帝”遗迹，与魔女教派、心理炼金会合作。拥有多位半神，如格罗夫亲王、乔治娜女公爵。",
+      "identInfos": [
+        "鲁恩王室奥古斯都家族",
+        "涉及大雾霾事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "“除了国王陛下能进入遗迹深处，目前只有王室的其中两位半神可以，一位是格罗夫亲王，一位是乔治娜女公爵。”"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "人造死神派系，其成员帕特里克·布雷恩受神谕效忠克莱恩，但未在本chunk直接出现，仅作为背景提及。",
+      "identInfos": [
+        "信仰人造死神",
+        "分不同派系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1036,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩还不知道人造死神出了问题，就连灵教团人造死神派都还没发现这点。"
+        }
+      ]
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "古老隐秘组织，成员皆为大人物的猜测得到强化。亚当为其首领，可能空想出假遗迹欺骗三大教会。罗塞尔日记提及该组织看过第二块亵渎石板。",
+      "identInfos": [
+        "古老隐秘组织",
+        "首领亚当",
+        "成员可能包括教会高层"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "UPDATE",
+          "evidenceText": "罗塞尔大帝在日记里说过，那个古老隐秘组织的成员都是大人物……那么，会不会有这么一个可能，三大教会某些高层就是“黄昏隐士会”的成员？"
+        }
+      ]
+    },
+    {
+      "name": "原初魔女教",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "信仰原初魔女，魔女教派的主神，以毁灭为宗旨。特莉丝为原初魔女容器。原初魔女被描述为肮脏、黑暗的邪神。",
+      "identInfos": [
+        "信仰原初魔女",
+        "亦称魔女教"
+      ],
+      "aliases": [
+        {
+          "alias": "魔女教",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1044,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "据克莱恩所知，这位被改名为特莉丝奇克的魔女，很可能是原初苏醒或者降临的媒介之一。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "原为斯特福德子爵持有，被休和佛尔思献祭给“愚者”。对应序列4“无暗者”，能净化污染、析出非凡特性，但排斥其他神奇物品。来历为远古太阳神遗物，融合其神血而成。克莱恩占卜其来历时遭重创。在塔罗会上展示，戴里克希望换取。",
+      "identInfos": [
+        "远古太阳神遗物",
+        "铜绿色十字架",
+        "对应无暗者",
+        "能净化精神污染"
+      ],
+      "aliases": [
+        {
+          "alias": "铜绿色十字架",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1032,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这铜绿色的十字架能净化堕落、污秽、腐蚀、黑暗、邪恶、疾病等领域的力量，让它们飞快消散，直至没有一点残存。"
+        },
+        {
+          "chapterSeq": 1033,
+          "extractReason": "UPDATE",
+          "evidenceText": "一滴绽放着光与热的金色血液下滴，落到了银色的十字架上。顺着血液往上，似乎有一道纯粹光芒组成的人影。"
+        }
+      ]
+    },
+    {
+      "name": "光与影的协奏曲",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "丘纳斯·科尔格持有的封印物，表盘半秩序半混乱，会产生随机性异变，影响战斗。后被阿里安娜取走调查来历。",
+      "identInfos": [
+        "铁皮怀表形态",
+        "随机性异变",
+        "曾由乔治三世赐予"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1027,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是那块“铁皮”怀表，“光与影的协奏曲”带来的随机性异变。"
+        },
+        {
+          "chapterSeq": 1029,
+          "extractReason": "UPDATE",
+          "evidenceText": "这件封印物来自乔治三世的赐予，或许能从它更早的来历里查出一定的线索。"
+        }
+      ]
+    },
+    {
+      "name": "里维尔的绝望嘶喊",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "丘纳斯·科尔格持有的转轮手枪型封印物，能发射空气炮弹或进行机枪扫射，附带“绝望嘶吼”效果，对半神有一定影响。被克莱恩缴获，放在秘偶身上。",
+      "identInfos": [
+        "转轮手枪",
+        "附带绝望嘶吼",
+        "能机枪扫射"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1028,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这把奇特的转轮手枪会让持有者时不时听见绝望的嘶喊，对没有神性的生物来说，这非常严重。"
+        }
+      ]
+    },
+    {
+      "name": "幸运草",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "丘纳斯·科尔格持有的护符型封印物，能让佩戴者在每次失败后为下次成功积累概率，但放大人性缺陷。被克莱恩缴获。",
+      "identInfos": [
+        "四叶草护符",
+        "失败积累成功率",
+        "放大人性缺陷"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1033,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "另一件叫“幸运草”，看起来非常简陋，就是做成了护符的四叶草，它的能力是让佩戴者在每一次失败后，都为下一次成功积累一定的概率，负面效果则是放大佩戴者的人性缺陷。"
+        }
+      ]
+    },
+    {
+      "name": "欺瞒子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩利用阿蒙分身遗留“时之虫”制作的子弹，可欺瞒目标，使其无法察觉自身被操纵灵体之线。战斗中成功用于控制丘纳斯·科尔格。",
+      "identInfos": [
+        "时之虫制作",
+        "欺瞒效果",
+        "阿蒙分身遗留材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1027,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿蒙分身制作的“欺瞒子弹”！"
+        }
+      ]
+    },
+    {
+      "name": "寄生子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩利用阿蒙分身遗留“时之虫”制作的子弹，可制造短暂存活的“时之虫”寄生目标体内。战斗中用于寄生丘纳斯·科尔格，协助秘偶化。",
+      "identInfos": [
+        "时之虫制作",
+        "寄生效果",
+        "阿蒙分身遗留材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1028,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "以阿蒙分身遗留“时之虫”制作的“寄生子弹”！"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思持有的魔法书，可记录非凡能力。埃姆林计划租赁此书两周，用于记录“深渊枷锁”等能力。",
+      "identInfos": [
+        "佛尔思的魔法书",
+        "可记录非凡能力",
+        "可出租"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1037,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林思索了一下，望向“魔术师”道：“女士，接下来两周，我可能需要租赁一次那本旅行笔记。”"
+        }
+      ]
+    },
+    {
+      "name": "断指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "“偷盗者”途径神奇物品，被克莱恩用于实验“无暗十字”的析出效果。在灰雾压制下，其非凡特性缓慢析出，并开始歌颂太阳。",
+      "identInfos": [
+        "偷盗者途径神奇物品",
+        "两根指骨磨成的镊子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1043,
+          "extractReason": "UPDATE",
+          "evidenceText": "此时，仿佛两根指骨打磨成的灰白色“镊子”表面，已浮出了一粒粒因吸收了周围所有光线显得漆黑深邃的沙砾。"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“隐者”嘉德丽雅提供的一页日记，内容涉及第二块“亵渎石板”不完整、“观众”途径成神仪式是让时代发展符合预想、小心观众等秘辛，以及对第四纪大人物看过石板的描述。克莱恩阅读后深感恐惧。",
+      "identInfos": [
+        "罗塞尔大帝的日记",
+        "记录隐秘知识",
+        "塔罗会交易品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1035,
+          "extractReason": "UPDATE",
+          "evidenceText": "“伟大的‘愚者’先生，这次有一页罗塞尔大帝的日记。”"
+        },
+        {
+          "chapterSeq": 1036,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘门’先生的回答让我确定了一件事情，在那个古老隐秘组织内，我看见的第二块亵渎石板，不是完整的！”"
+        }
+      ]
+    },
+    {
+      "name": "血之花戒指",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩交给“赢家”恩尤尼的戒指，可赋予秘偶佩戴，使其快速愈合伤口。在战斗中发挥作用。",
+      "identInfos": [
+        "戒指",
+        "赋予秘偶愈合能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1028,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是“血之花”戒指的效果。这个格尔曼·斯帕罗本质上是“赢家”恩尤尼！"
+        }
+      ]
+    },
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩提及可使用“时之虫”制作“窃运者”符咒对付因斯·赞格威尔，但伦纳德体内天使帕列斯沉默。",
+      "identInfos": [
+        "时之虫制作",
+        "窃取命运",
+        "用于对付因斯·赞格威尔"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1034,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩提议用“时之虫”制作“窃运者”符咒对付因斯，但伦纳德体内天使帕列斯沉默。"
+        }
+      ]
+    },
+    {
+      "name": "光辉十字架",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯特福德子爵曾持有的封印物，能释放“阳炎”等半神层次法术。休和佛尔思曾见其被用来对付雪曼。现已被献祭，即“无暗十字”。",
+      "identInfos": [
+        "铜绿色十字架",
+        "与无暗十字同一物",
+        "斯特福德子爵持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1031,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "在她们侧方的桌子上，正摆放着一个铜绿色的十字架和一块竖眼般的幽蓝色宝石。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "characters": [
+    {
+      "name": "潘娜蒂亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "潘娜蒂亚是绝望魔女，贝克兰德大雾霾元凶，被囚禁在迷雾小镇。她袭击克莱恩，使用瘟疫和不完整神话生物形态等手段，一度占据上风。后与克莱恩合作试图逃离，在开门后因查拉图陷阱抢先出门被悬吊，成为教堂内待风干的尸体之一。",
+      "identInfos": [
+        "绝望魔女",
+        "贝克兰德大雾霾元凶",
+        "明艳圣洁，穿纯白长袍",
+        "半疯，吃过非凡者血肉",
+        "与A先生合作过"
+      ],
+      "aliases": [
+        {
+          "alias": "绝望女士",
+          "type": "称号"
+        },
+        {
+          "alias": "绝望魔女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 833,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "潘娜蒂亚？她啊，呵……你究竟做了什么？竟然能让黑夜教会派出祂来对付你？"
+        },
+        {
+          "chapterSeq": 833,
+          "extractReason": "ALIAS",
+          "evidenceText": "潘娜蒂亚。你呢？"
+        },
+        {
+          "chapterSeq": 834,
+          "extractReason": "UPDATE",
+          "evidenceText": "要知道，当初在贝克兰德，整个东区都被我制造的瘟疫雾气笼罩着"
+        },
+        {
+          "chapterSeq": 838,
+          "extractReason": "ALIAS",
+          "evidenceText": "它在那个‘绝望魔女’手中。"
+        },
+        {
+          "chapterSeq": 842,
+          "extractReason": "UPDATE",
+          "evidenceText": "潘娜蒂亚发出了尖利的叫声，一根根无形的细线和粗黑的头发随之倒卷，将她缠绕于内，外面则覆盖黑焰，凝结坚冰，一层又一层。霍然间，这所有都瓦解了，‘绝望魔女’潘娜蒂亚的目光中透出了明显的，浓浓的绝望和后悔。她的表情迅速变得呆板，脖子处像是被无形之手提着，整个人升向了半空，悬挂于那里，眼睛一点点翻白，外貌依旧明艳。"
+        }
+      ],
+      "lifeStatus": "被囚禁",
+      "appearanceChapterSeqs": [833, 834, 837, 839, 840, 841, 842]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "自称查拉图的老者出现在迷雾小镇教堂内，声称自己已死亡，只是历史孔隙中的影像。他提供逃离方法：用黑曜石板和开门符号打开逃离之门，并给克莱恩诡法师配方和开门符号，但符号有陷阱。他请克莱恩将骨灰撒入塞伦佐河。在开门后，骨灰罐变空，疑似达成目的。",
+      "identInfos": [
+        "密修会首领",
+        "自称查拉图",
+        "已死亡，历史影像",
+        "提供诡法师配方和开门符号",
+        "骨灰罐"
+      ],
+      "aliases": [
+        {
+          "alias": "查拉图",
+          "type": "本名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 838,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "你可以叫我，嗯……查拉图。"
+        },
+        {
+          "chapterSeq": 838,
+          "extractReason": "UPDATE",
+          "evidenceText": "因为我早就已经死了。"
+        },
+        {
+          "chapterSeq": 838,
+          "extractReason": "UPDATE",
+          "evidenceText": "我用特殊的非凡能力，寻找到了这个世界历史和命运的孔隙，将自身影像切割出来，定格于此，维持到了现在，至于我的身体和我的灵，早就已经彻底死亡彻底消散。"
+        },
+        {
+          "chapterSeq": 838,
+          "extractReason": "UPDATE",
+          "evidenceText": "只要你能找到那块对应的黑曜石，将它安放于这里，就能让这面墙壁初步摆脱‘隐秘’的状态，呈现虚幻的色彩，到时候，我再告诉你一个复杂的特殊的符号，它是于墙上打开逃离之门的钥匙。"
+        },
+        {
+          "chapterSeq": 839,
+          "extractReason": "UPDATE",
+          "evidenceText": "没有问题，只要你愿意相信我给的是真配方。等你拿回那块黑曜石，我就将‘诡法师’的魔药配方连同‘开门’的符号一起给你。"
+        },
+        {
+          "chapterSeq": 841,
+          "extractReason": "UPDATE",
+          "evidenceText": "查拉图拿起羽毛笔，刷刷在羊皮纸上书写出文字和符号，然后卷了起来，递给‘格尔曼·斯帕罗’：那个‘开门’符号，以及你要的‘诡法师’魔药配方。"
+        },
+        {
+          "chapterSeq": 842,
+          "extractReason": "UPDATE",
+          "evidenceText": "他话音刚落，整个身体突然裂成了数不清的细小光点，向着四周扩散，融入了虚空之中，似乎早就已经腐朽，已经成灰。而他坐的地方，留下了一个锡白的罐子"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [838, 839, 841]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德参与调查查尼斯门潜入事件，将排查名单中的道恩·唐泰斯列为重点怀疑对象，并申请调查下水道爆炸案等关联事件。他通过档案发现夏洛克·莫里亚蒂出现在多起事件边缘，并与格尔曼·斯帕罗时间吻合，怀疑夏洛克、格尔曼、道恩为同一组织成员。他进一步怀疑夏洛克很像已故队友克莱恩·莫雷蒂，于是前往廷根开棺验尸，发现空棺，证实克莱恩未死。返回后，他直接入梦见道恩·唐泰斯质问，道恩承认潜入是格尔曼个人所为。",
+      "identInfos": [
+        "值夜者红手套",
+        "绿色眼眸，墨发",
+        "诗人同学",
+        "体内寄生帕列斯·索罗亚斯德",
+        "克莱恩前同事"
+      ],
+      "aliases": [
+        {
+          "alias": "伦纳德",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 846,
+          "extractReason": "UPDATE",
+          "evidenceText": "首先，他主动将道恩·唐泰斯划入了自己和两位队友的排查范围。"
+        },
+        {
+          "chapterSeq": 847,
+          "extractReason": "UPDATE",
+          "evidenceText": "我现在有理由怀疑，贝克兰德大雾霾事件里也有这位大侦探的身影出没，在众多牵涉者的联系名单上，在问题的最边缘！他和道恩·唐泰斯都属于那个信奉‘愚者’的隐秘组织？"
+        },
+        {
+          "chapterSeq": 850,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩·莫雷蒂……他越看越觉得神秘侦探夏洛克·莫里亚蒂非常像自己曾经的队友，拯救了廷根的英雄，克莱恩·莫雷蒂！"
+        },
+        {
+          "chapterSeq": 852,
+          "extractReason": "UPDATE",
+          "evidenceText": "他终于，伦纳德放弃铁铲，俯身往下，伸出双手，握住了棺材盖子的边缘。他猛地一个用力，掀开了那沉重的木盖，发现粗长的铁钉们不知什么时候已经掉落，漆黑的棺材内，空无一物。"
+        },
+        {
+          "chapterSeq": 852,
+          "extractReason": "UPDATE",
+          "evidenceText": "他第一个来到的梦境不属于那份名单上的任何一个名字。他的目标是道恩·唐泰斯！"
+        },
+        {
+          "chapterSeq": 852,
+          "extractReason": "UPDATE",
+          "evidenceText": "格尔曼·斯帕罗？伦纳德低沉反问道。克莱恩藏着些许沧桑的幽邃蓝眸看了对方一眼道：这不是很明显的事情吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [846, 847, 848, 849, 850, 851, 852]
+    },
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以道恩·唐泰斯身份应对教会调查，被伦纳德识破部分身份。他通过梦境警告伦纳德，承认潜入是格尔曼个人行为。他参加东拜朗退伍军官俱乐部，被军方邀请做军火生意。接受奥黛丽心理治疗，精神状态好转，魔药加速消化。拟定后续计划。",
+      "identInfos": [
+        "穿越者",
+        "原名克莱恩·莫雷蒂",
+        "现用身份道恩·唐泰斯",
+        "格尔曼·斯帕罗、夏洛克·莫里亚蒂",
+        "愚者眷者",
+        "塔罗会创始人"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 846,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩从冥想中苏醒，穿着睡袍，让道恩·唐泰斯一点点变得精神。他离开盥洗室，对等在外面的贴身男仆理查德森道：帮我准备一套适合待在家里的衣物。"
+        },
+        {
+          "chapterSeq": 849,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩不知该怎么回应，只能简单‘嗯’了一声。然后，他听见对面的门吱呀打开，以‘愚者’的视角看到‘正义’小姐退出‘忏悔室’，直起了身体。"
+        },
+        {
+          "chapterSeq": 852,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩一边解读一边将内容贯通起来，试图得到有效有意义的结论。经过认真的思考，他开始相信梦境给予的启示与过去的他与黑夜教会有关。"
+        },
+        {
+          "chapterSeq": 852,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩很快有了对策，转而思索起下午在‘东拜朗退伍军官俱乐部’遭遇的那件事情：这种走私军火的生意怎么会直接找到我？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "A先生（路易斯·维恩）在迷雾小镇中存活，但已半疯，极度饥饿。克莱恩用蘑菇引诱他，使其停止攻击。在开门过程中，A先生寄生在秘偶胃袋中作为见证。开门后，A先生因目睹失控天使而蘑菇寄生异变，成为巨大蘑菇怪物，最终被克莱恩击杀，其非凡特性与蠕动的饥饿融合，使手套升级。",
+      "identInfos": [
+        "极光会神使",
+        "路易斯·维恩",
+        "曾与潘娜蒂亚合作制造大雾霾",
+        "蔷薇主教途径",
+        "蘑菇异变"
+      ],
+      "aliases": [
+        {
+          "alias": "路易斯·维恩",
+          "type": "本名"
+        },
+        {
+          "alias": "极光会X先生",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 836,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这身影的掌中，已多了本透明模糊的书册，并伴随有悠远飘渺的吟唱：我来到，我看见，我记录。"
+        },
+        {
+          "chapterSeq": 836,
+          "extractReason": "UPDATE",
+          "evidenceText": "兜帽往后滑落，露出一张漂亮似女性的脸庞，正是A先生。这位极光会的神使，竟然在这种恶劣的环境下存活到了现在！"
+        },
+        {
+          "chapterSeq": 841,
+          "extractReason": "UPDATE",
+          "evidenceText": "我可以帮你们‘见证’。A先生拉了下兜帽，低沉笑道"
+        },
+        {
+          "chapterSeq": 842,
+          "extractReason": "UPDATE",
+          "evidenceText": "A先生被蘑菇寄生异变为巨大蘑菇怪物"
+        },
+        {
+          "chapterSeq": 843,
+          "extractReason": "UPDATE",
+          "evidenceText": "那阴暗的角落里，立着一个比他还高的巨大蘑菇。这蘑菇顶部赤红如血，夹杂着白色花纹，身体由一个又一个同样的小蘑菇组成，它们的纹路共同描绘出了一张脸孔，A先生的脸孔。"
+        },
+        {
+          "chapterSeq": 843,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩弯下腰背，小心翼翼地拾取起那人皮手套。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [836, 839, 841, 842, 843]
+    },
+    {
+      "name": "奥黛丽",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在生日舞会后，应克莱恩请求在灰雾之上为其进行心理治疗。她安抚克莱恩，引导他直面恐惧根源，使其精神状态好转，魔药加速消化。",
+      "identInfos": [
+        "贵族小姐",
+        "心理医生",
+        "塔罗会正义",
+        "金发绿眸",
+        "霍尔伯爵之女"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "奥黛丽·霍尔",
+          "type": "本名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 848,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽刚试过今天备选的三套晚礼服……就在这个时候，她眼前突然出现了无边无际的灰白雾气和高据其上俯视着一切的模糊身影。紧接着，她看见了另外的人影——被灰雾笼罩的祈祷人影，耳畔则回荡起相应的话语。"
+        },
+        {
+          "chapterSeq": 849,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘世界’先生，我能想象得出来这些梦境场景的惊悚和邪异，也能体验到那种会让你惊醒的巨大恐惧。"
+        },
+        {
+          "chapterSeq": 849,
+          "extractReason": "UPDATE",
+          "evidenceText": "我需要的诊金很少。嗯，祝我快乐！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [848, 849]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "索斯特是值夜者红手套小队队长，负责调查查尼斯门潜入事件，组织排查，接受上级指示，安排任务。",
+      "identInfos": [
+        "值夜者红手套队长",
+        "负责调查潜入事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 846,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "索斯特环顾一圈道：经过清点，所有的神秘学材料都没有丢失，包括各种魔药主材料和非凡特性……"
+        },
+        {
+          "chapterSeq": 850,
+          "extractReason": "UPDATE",
+          "evidenceText": "索斯特喝了口香醇的咖啡道：失踪的仆役已经被找到。而他被安置的房间内，有一些潜入者的衣物留下。经确认，这属于之前活跃于海上的疯狂冒险家格尔曼·斯帕罗。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [846, 850]
+    },
+    {
+      "name": "圣安东尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "圣安东尼是贝克兰德大主教，圣者，负责调查查尼斯门潜入事件，确认潜入者为格尔曼·斯帕罗。",
+      "identInfos": [
+        "贝克兰德大主教",
+        "圣者",
+        "值夜者高层"
+      ],
+      "aliases": [
+        {
+          "alias": "大主教阁下",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 846,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "贝克兰德大主教圣安东尼站在连接一层和二层的阶梯口，看着几位‘值夜者’执事忙碌地来来回回，其中不乏戴红手套者。"
+        },
+        {
+          "chapterSeq": 852,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣安东尼阁下借助圣堂的帮助，确认潜入者就是格尔曼·斯帕罗"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [846, 852]
+    },
+    {
+      "name": "辛迪",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "辛迪是伦纳德的队友，参与排查道恩·唐泰斯，调查仆人邻居，赞同深入调查。",
+      "identInfos": [
+        "值夜者红手套",
+        "酒红长发",
+        "梦魇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 847,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "有一头酒红色长发的辛迪先行介绍起自己的收获"
+        },
+        {
+          "chapterSeq": 847,
+          "extractReason": "UPDATE",
+          "evidenceText": "辛迪拢了拢自己的酒红色长发道：你说服了我，这应该是一个需要重点关注的目标。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [847, 850]
+    },
+    {
+      "name": "鲍勃",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "鲍勃是伦纳德的队友，参与排查道恩·唐泰斯，认为道恩不太可能是潜入者同伙。",
+      "identInfos": [
+        "值夜者红手套",
+        "下巴颇尖"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 847,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "下巴颇尖的鲍勃则皱眉摇头道：这样一来，这份名单里的所有人都摆脱不了嫌疑"
+        },
+        {
+          "chapterSeq": 847,
+          "extractReason": "UPDATE",
+          "evidenceText": "而且，我不认为一个潜入者会这样大胆，他都已经进入查尼斯门后并顺利逃脱，完成了这让人难以相信的事情，竟然还逗留于附近，不抛弃身份，直接远离，这可能吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [847]
+    },
+    {
+      "name": "马赫特议员",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "马赫特议员引荐道恩·唐泰斯加入东拜朗退伍军官俱乐部，并作为军方中间人邀请克莱恩参与军火生意。",
+      "identInfos": [
+        "新党议员",
+        "东拜朗俱乐部推荐人"
+      ],
+      "aliases": [
+        {
+          "alias": "马赫特",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 851,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "马赫特议员点头回应道：它其实是仿古建筑，但本身也有超过一百年的历史了……说话间，他引着道恩·唐泰斯进入俱乐部"
+        },
+        {
+          "chapterSeq": 851,
+          "extractReason": "UPDATE",
+          "evidenceText": "加尔文闻言笑道：当然，因蒂斯人在那里犯了太多的错误。他顿了一下，继续问道：你和那里的因蒂斯人关系怎么样？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [851]
+    },
+    {
+      "name": "加尔文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "加尔文是陆军上校，在国防部任职，在东拜朗俱乐部邀请克莱恩做军火生意，将武器卖到西拜朗。",
+      "identInfos": [
+        "陆军上校",
+        "在鲁恩国防部做事",
+        "驴脸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 851,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "地位最高的是肩章为陆军上校的加尔文，他目前在鲁恩国防部做事，具体职位不明。"
+        },
+        {
+          "chapterSeq": 851,
+          "extractReason": "UPDATE",
+          "evidenceText": "加尔文点了点头，又提出了一个问题：你和那里的部落，那里的反抗军熟悉吗？"
+        },
+        {
+          "chapterSeq": 851,
+          "extractReason": "UPDATE",
+          "evidenceText": "是这样的，我们每年都会淘汰很多枪支和火炮，而直接销毁或者做别的处理，要么太浪费，要么成本太高，不是好的办法。不知道你有没有兴趣购买一批，将它们卖到西拜朗，卖到因蒂斯人统治的区域，卖给那些部落和反抗军？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [851]
+    },
+    {
+      "name": "海柔尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "海柔尔参加奥黛丽生日舞会，感受到奥黛丽的魅力而自卑。她因值夜者排查而担心自己暴露，受到神秘老鼠警告。",
+      "identInfos": [
+        "马赫特议员的女儿",
+        "持有偷盗者途径物品"
+      ],
+      "aliases": [
+        {
+          "alias": "海柔尔·马赫特",
+          "type": "本名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 848,
+          "extractReason": "UPDATE",
+          "evidenceText": "海柔尔无聊地望着挑选出来的晚礼服，听着母亲在旁边反复叮嘱。她今晚要陪父亲和母亲参加奥黛丽·霍尔小姐的生日舞会。"
+        },
+        {
+          "chapterSeq": 848,
+          "extractReason": "UPDATE",
+          "evidenceText": "有黑夜教会的非凡者在排查这片街区，规格相当高。……这样一来，他们很可能会发现你的问题。"
+        },
+        {
+          "chapterSeq": 849,
+          "extractReason": "UPDATE",
+          "evidenceText": "一向骄傲的她，突然有点自卑，认为这样一位光彩夺目的小姐即使不具备超自然力量，也不会比自己差什么。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [848, 849]
+    },
+    {
+      "name": "理查德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "理查德森是克莱恩的贴身男仆，在克莱恩回归后准备衣物。",
+      "identInfos": [
+        "道恩·唐泰斯的贴身男仆"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 845,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "离开盥洗室，穿着睡袍的克莱恩表情如常地走至门口，拉开了房门，对等在外面的贴身男仆理查德森道：帮我准备一套适合待在家里的衣物。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [845]
+    },
+    {
+      "name": "瓦尔特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "瓦尔特是克莱恩的管家，向克莱恩汇报当天安排，包括下午去东拜朗俱乐部，并建议捐款数额。",
+      "identInfos": [
+        "道恩·唐泰斯的管家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 850,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位先生戴着白色手套，恭敬行礼道：早上好，先生，您今天的安排只有一项，那就是下午三点，和马赫特议员一起去‘东拜朗退伍军官俱乐部’参与活动。"
+        },
+        {
+          "chapterSeq": 850,
+          "extractReason": "UPDATE",
+          "evidenceText": "夸赞他们在东拜朗建立的功勋，借此提供一笔捐款，不用太多，也不能太少，500镑是较为合适的数目。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [850]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伦纳德体内的寄生者，被克莱恩点出名字，伦纳德知道其存在。",
+      "identInfos": [
+        "伦纳德体内寄生天使",
+        "帕列斯·索罗亚斯德",
+        "偷盗者途径"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 852,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "帕列斯·索罗亚斯德没有告诉过你什么叫礼貌吗？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [852]
+    }
+  ],
+  "factions": [
+    {
+      "name": "东拜朗退伍军官俱乐部",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩由马赫特议员引荐加入该俱乐部，缴纳年费60镑，捐款500镑，并结识军官加尔文等人，被邀请参与军火走私生意。",
+      "identInfos": [
+        "仿古建筑，历史超百年",
+        "非正式会员年费60镑",
+        "成员多为东拜朗退伍军官",
+        "军方上层社交场所"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 851,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这正是‘东拜朗退伍军官俱乐部’所在。"
+        },
+        {
+          "chapterSeq": 851,
+          "extractReason": "UPDATE",
+          "evidenceText": "你不仅没在东拜朗服过役，而且连发生在那里的战斗都未参与过，甚至不是军人出身，所以没法成为正式会员。不过，即使是非正式成员，也能让你自由进出这里"
+        },
+        {
+          "chapterSeq": 851,
+          "extractReason": "UPDATE",
+          "evidenceText": "没有入会费，每年60镑的年费。"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者在圣安东尼大主教领导下调查查尼斯门潜入事件，索斯特红手套小队排查嫌疑人，锁定格尔曼·斯帕罗。伦纳德私下调查将道恩·唐泰斯、夏洛克·莫里亚蒂等联系起来。",
+      "identInfos": [
+        "黑夜女神教会非凡者队伍",
+        "负责贝克兰德安全",
+        "拥有红手套精英"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 846,
+          "extractReason": "UPDATE",
+          "evidenceText": "索斯特环顾一圈道：经过清点，所有的神秘学材料都没有丢失，包括各种魔药主材料和非凡特性……"
+        },
+        {
+          "chapterSeq": 850,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣安东尼阁下借助圣堂的帮助，确认潜入者就是格尔曼·斯帕罗"
+        }
+      ]
+    },
+    {
+      "name": "军方",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "军方通过加尔文上校等在东拜朗俱乐部接触克莱恩，邀请其参与军火走私生意，将淘汰武器卖到西拜朗。",
+      "identInfos": [
+        "鲁恩军方",
+        "国防部"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 851,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "加尔文点了点头，又提出了一个问题：你和那里的部落，那里的反抗军熟悉吗？"
+        },
+        {
+          "chapterSeq": 851,
+          "extractReason": "UPDATE",
+          "evidenceText": "是这样的，我们每年都会淘汰很多枪支和火炮，而直接销毁或者做别的处理，要么太浪费，要么成本太高，不是好的办法。不知道你有没有兴趣购买一批，将它们卖到西拜朗，卖到因蒂斯人统治的区域，卖给那些部落和反抗军？"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的人皮手套，在迷雾小镇与A先生蘑菇怪物融合后升级，可放牧七个灵魂，获得多种新能力，包括腐蚀、疾病、强制入梦等，但负面效果增强，每天需吃一个活人，会赞颂真实造物主，怕蘑菇。",
+      "identInfos": [
+        "人皮手套",
+        "可放牧灵魂",
+        "升级后放牧上限为七个"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 843,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩弯下腰背，小心翼翼地拾取起那人皮手套。"
+        },
+        {
+          "chapterSeq": 843,
+          "extractReason": "UPDATE",
+          "evidenceText": "除了五根手指，掌心和掌背也能分别对应一个被放牧的灵魂了……而且目前七个位置都已占满，某些相似的非凡特性有融合的迹象……本身好像还多了血肉魔法方面的能力……切换灵魂的速度有变快不少……得每天吃一个人，否则会以主人为食"
+        },
+        {
+          "chapterSeq": 843,
+          "extractReason": "UPDATE",
+          "evidenceText": "它将有机会和强度勉强放牧一位序列4的圣者。"
+        },
+        {
+          "chapterSeq": 843,
+          "extractReason": "UPDATE",
+          "evidenceText": "现在，‘蠕动的饥饿’每天都得吃一个活人，否则将吞食佩戴者，另外，它会时不时在佩戴者的精神里赞颂‘真实造物主’，带来思绪的混乱与脑袋的疼痛，除了这两个方面的问题，它还害怕蘑菇，周围5米内出现蘑菇将无法使用任何能力。"
+        }
+      ]
+    },
+    {
+      "name": "黑曜石石板",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "逃离迷雾小镇的关键物品，需镶嵌在教堂墙壁凹陷处，配合开门符号使用。潘娜蒂亚持有，后克莱恩获得并使用。",
+      "identInfos": [
+        "黑色石板",
+        "用于开启逃离之门"
+      ],
+      "aliases": [
+        {
+          "alias": "黑曜石",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 840,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "潘娜蒂亚从衣物内侧拿出了一块深邃奇异的黑曜石。这黑曜石的轮廓，与教堂雕像后方墙壁上的凹陷完全一致！"
+        },
+        {
+          "chapterSeq": 842,
+          "extractReason": "UPDATE",
+          "evidenceText": "那扇墙壁迅速发出光亮，渐渐变得透明，能看见外面铺着的石板、有破洞的墙壁和半空漂浮的云气。随着‘绝望魔女’潘娜蒂亚退到一旁，‘格尔曼·斯帕罗’将木偶、羊皮纸和骨灰罐都交给左手拿住，伸出右掌，并指成笔，在那透明的墙壁上，描绘起那个由诸多隐秘符号组成的竖眼。"
+        }
+      ]
+    },
+    {
+      "name": "诡法师魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "查拉图给予的序列4诡法师魔药配方，包括主材料、辅助材料和晋升仪式，克莱恩在灰雾上占卜确认真实。",
+      "identInfos": [
+        "序列4诡法师配方",
+        "包含仪式：导演戏剧谋杀半神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 839,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "没有问题，只要你愿意相信我给的是真配方。等你拿回那块黑曜石，我就将‘诡法师’的魔药配方连同‘开门’的符号一起给你。"
+        },
+        {
+          "chapterSeq": 841,
+          "extractReason": "UPDATE",
+          "evidenceText": "查拉图拿起羽毛笔，刷刷在羊皮纸上书写出文字和符号，然后卷了起来，递给‘格尔曼·斯帕罗’：那个‘开门’符号，以及你要的‘诡法师’魔药配方。"
+        },
+        {
+          "chapterSeq": 845,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列4：诡法师。主要材料：诡术邪怪的主眼，灵界掠夺者的真实魂体。辅助材料：诡术邪怪的血液200毫升，灵界掠夺者的粉尘30克，红毛桦的树皮10克，金色葡萄藤一截，指头大小的自制橡皮面具一张。晋升仪式：主要依靠自身的力量和策划，在众多观众的目睹下，导演一出盛大的戏剧，以此谋杀一位半神或同等的超凡生物，然后，在戏剧的尾声部分，服食魔药。"
+        }
+      ]
+    },
+    {
+      "name": "开门符号",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "查拉图给的特殊符号，用于打开逃离之门，但被证明是陷阱，与安提哥努斯笔记提供的符号有细微差异。",
+      "identInfos": [
+        "由众多隐秘符号组成的竖眼",
+        "查拉图版本有弯月和折线互换"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 839,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那个‘开门’符号和安提哥努斯家族笔记借助‘厄运布偶’提供的复杂符号大体一致，是一个由诸多神秘花纹和隐秘象征组成的竖眼！但是，两者在细节上有一点差别，一个弯月花纹和一个折线标志互换了位置！"
+        },
+        {
+          "chapterSeq": 842,
+          "extractReason": "UPDATE",
+          "evidenceText": "他最后一笔落下，道道纯净辉芒蹿升，沿着那复杂竖眼的纹路流淌，汇聚迸发，放出光明！"
+        }
+      ]
+    },
+    {
+      "name": "查拉图的骨灰罐",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "查拉图让克莱恩带走并撒入塞伦佐河的骨灰罐，但在开门后骨灰消失，成为空罐。",
+      "identInfos": [
+        "锡白色罐子",
+        "查拉图的骨灰"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 842,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他话音刚落，整个身体突然裂成了数不清的细小光点，向着四周扩散，融入了虚空之中，似乎早就已经腐朽，已经成灰。而他坐的地方，留下了一个锡白的罐子，表面花纹古朴，没什么特异。"
+        },
+        {
+          "chapterSeq": 844,
+          "extractReason": "UPDATE",
+          "evidenceText": "锡白色罐子里的骨灰全部不见了！一点也没有残留！"
+        }
+      ]
+    },
+    {
+      "name": "愚者牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "在迷雾小镇古老宫殿巨大王座下发现的一张塔罗牌，序列0：愚者，罗塞尔形象，克莱恩因无法获取而遗憾。",
+      "identInfos": [
+        "塔罗牌愚者",
+        "序列0",
+        "罗塞尔大帝形象"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 842,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "它表面同样是罗塞尔，这位大帝戴着华丽的头饰，穿着五彩的衣物，扛着挂有行李的手杖，似乎正要远行。他表情充满憧憬，旁边跟了一条小狗，最上角则有璀璨星辉勾勒文字：序列0：愚者！"
+        }
+      ]
+    },
+    {
+      "name": "天之母亲雕像",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "迷雾小镇教堂内的石像，女性形象，肋部和腰部有兽腿，与橡皮擦天使面容一致，被查拉图称为古神后裔。",
+      "identInfos": [
+        "女性石像",
+        "半魔狼半人形",
+        "与橡皮擦天使面容相同"
+      ],
+      "aliases": [
+        {
+          "alias": "橡皮擦天使雕像",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 837,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "它整体呈女性人类形象，但肋部和腰处分别长出了两条兽腿，上面覆盖着短粗坚硬的黑毛。另外，石像周围有环绕黑色细带，那就像延伸而出的一根根触手。这石像的脚下，则有一个个魂灵沉睡，仿佛簇拥着它的星群。克莱恩目光移动，望向那尊石像的头部，看见了一张秀美的脸庞。这……克莱恩的眸光一下凝固。那张脸庞他并不陌生，因为他就是被对方‘送’到这里来的！"
+        },
+        {
+          "chapterSeq": 839,
+          "extractReason": "UPDATE",
+          "evidenceText": "祂是一位古神的后裔。"
+        }
+      ]
+    }
+  ]
+}

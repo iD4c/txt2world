@@ -1,0 +1,379 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 394,
+      "toChapterSeq": 400,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "周明瑞借出“全黑之眼”给戴里克，助其揭露被“真实造物主”污染的队友并摆脱嫌疑，巩固了塔罗会内稳定的主从互助关系。"
+    },
+    {
+      "fromChapterSeq": 394,
+      "toChapterSeq": 394,
+      "characterA": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "盟友",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "阿尔杰详细指导戴里克如何利用“全黑之眼”揭露队友污染并利用监控者作证，体现塔罗会成员间的策略协助。"
+    },
+    {
+      "fromChapterSeq": 394,
+      "toChapterSeq": 394,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "周明瑞委托埃姆林寻找“无面人”材料，延续之前建立的互利交易关系。"
+    },
+    {
+      "fromChapterSeq": 402,
+      "toChapterSeq": 403,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "艾伦医生因威尔梦魇求助，周明瑞陪其挖掘出威尔腐烂尸体，后占卜确认威尔假死脱身，可能为“水银之蛇”途径序列1，周明瑞决定不深入掺和。"
+    },
+    {
+      "fromChapterSeq": 405,
+      "toChapterSeq": 406,
+      "characterA": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "A先生获得神启后悬赏寻找“愚者”信徒，周明瑞得知后低调应对，双方形成间接追查关系。"
+    },
+    {
+      "fromChapterSeq": 411,
+      "toChapterSeq": 413,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "斯图亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "因连环杀人案共事而结成的侦探搭档关系，在本chunk中共同面临恶魔犬主人的报复，斯图亚特最终被精神控制拔枪指向周明瑞。"
+    },
+    {
+      "fromChapterSeq": 411,
+      "toChapterSeq": 413,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "艾辛格·斯坦顿",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "因连环杀人案侦破而合作的侦探搭档，斯坦顿遇袭失踪后，周明瑞参与调查并成为报复目标。"
+    },
+    {
+      "fromChapterSeq": 410,
+      "toChapterSeq": 410,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "老科勒",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "周明瑞委托老科勒打探阿兹克被悬赏的消息，老科勒作为东区线人提供情报，维持雇佣合作关系。"
+    },
+    {
+      "fromChapterSeq": 403,
+      "toChapterSeq": 404,
+      "characterA": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "劳伦斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "劳伦斯预感死亡，委托佛尔思将遗物送至普利兹港渔民协会多里安处，佛尔思执行了其遗嘱。"
+    },
+    {
+      "fromChapterSeq": 404,
+      "toChapterSeq": 408,
+      "characterA": {
+        "name": "佛尔思",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "多里安·格雷",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "师",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "佛尔思按劳伦斯遗嘱将遗物交给多里安，多里安以占星确认后主动提出充当她的神秘学导师，建立师徒纽带。"
+    },
+    {
+      "fromChapterSeq": 407,
+      "toChapterSeq": 407,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "下级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "乌特拉夫斯基主教",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "relationSummary": "乌特拉夫斯基主教以“心魇蜡烛”强迫埃姆林每天劳动一小时，双方存在控制与反抗关系，本chunk中埃姆林提及曾尝试击败神父失败。"
+    },
+    {
+      "fromChapterSeq": 408,
+      "toChapterSeq": 408,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "伦纳德作为“红手套”成员调查塔罗仪式案时，将“愚者”尊名与塔罗牌联系并提出假设，间接涉及周明瑞，但二者本chunk无直接互动。"
+    },
+    {
+      "fromChapterSeq": 410,
+      "toChapterSeq": 410,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "周明瑞得知阿兹克被悬赏寻找，委托老科勒打探消息，延续之前的盟友互助关系，体现其保护意图。"
+    },
+    {
+      "fromChapterSeq": 401,
+      "toChapterSeq": 401,
+      "characterA": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "洛薇雅吞下画有“愚者”象征符号的纸张并暗中向“真实造物主”祈祷，试图利用“愚者”概念为真实造物主提供线索，间接关联周明瑞的隐秘存在。"
+    },
+    {
+      "fromChapterSeq": 396,
+      "toChapterSeq": 400,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被监视者"
+        }
+      },
+      "relationSummary": "科林作为白银城首席，对戴里克保持监视，审问他关于“全黑之眼”和献祭仪式的事情，最终决定继续观察，双方为命令与服从的上下级关系。"
+    }
+  ]
+}

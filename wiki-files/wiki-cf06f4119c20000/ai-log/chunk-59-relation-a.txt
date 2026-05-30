@@ -1,0 +1,354 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1150,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与特莉丝共同破坏乔治三世的成神仪式，特莉丝在“一号遗迹”强行接纳原初魔女力量攻击陵寝，配合克莱恩的混乱策略导致乔治三世陨落。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1148,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩吹响口琴召唤蕾妮特，蕾妮特使用“昨日重现”符咒化身巨大布娃娃帮助对抗赫密斯，为克莱恩创造破坏陵寝的混乱。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1147,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "赫密斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "赫密斯在梦境解除后直面克莱恩，蕾妮特将其变成兔子，但赫密斯巨龙化反攻，克莱恩趁乱召唤天使对抗。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1148,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "查拉图本体在历史孔隙伏击克莱恩，召唤罗塞尔大帝等投影追击，克莱恩被迫逃入《格罗塞尔游记》脱身。"
+    },
+    {
+      "fromChapterSeq": 1149,
+      "toChapterSeq": 1149,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "亚当",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在诚实大厅遭遇亚当，亚当告知乔治三世陨落导致世界大战全面爆发，克莱恩接受结局并承诺降低伤害后离去。"
+    },
+    {
+      "fromChapterSeq": 1150,
+      "toChapterSeq": 1150,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "阿蒙利用克莱恩遗失的秘偶“赢家”恩尤尼追踪至贝克兰德旅馆，戴单片眼镜现身，意图不明。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1147,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "隐秘天使",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩四次尝试后成功召唤黑夜教会隐秘天使的历史投影，隐秘天使出现后帮助将陵寝移入隐秘世界，逼退斯厄阿手臂。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1147,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "斯厄阿",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "斯厄阿在遗迹中出手攻击，被克莱恩召唤的隐秘天使逼退，短暂对抗。"
+    },
+    {
+      "fromChapterSeq": 1150,
+      "toChapterSeq": 1150,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "阿里安娜",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩从历史迷雾返回现实时遭遇查拉图触手，阿里安娜本体出现使用隐秘能力掩护其传送逃离。"
+    },
+    {
+      "fromChapterSeq": 1150,
+      "toChapterSeq": 1150,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "福根之犬",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩在历史迷雾中奔逃时，福根之犬冲出阻挡查拉图，为其争取逃离时间。"
+    },
+    {
+      "fromChapterSeq": 1150,
+      "toChapterSeq": 1150,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "恩佐",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "奴仆",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "恩佐原为克莱恩的秘偶“赢家”，被阿蒙利用追踪克莱恩至贝克兰德旅馆，阿蒙借此现身。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1147,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "罗塞尔·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "查拉图召唤罗塞尔大帝的历史投影追击克莱恩，投影参与天使混战。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1147,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "威廉·奥古斯都一世",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "查拉图召唤威廉一世的历史投影追击克莱恩，投影参与天使混战。"
+    },
+    {
+      "fromChapterSeq": 1147,
+      "toChapterSeq": 1147,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "光之天使",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "查拉图召唤光之天使的历史投影追击克莱恩，投影参与天使混战。"
+    }
+  ]
+}

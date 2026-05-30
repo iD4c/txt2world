@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 813,
+      "toChapterSeq": 814,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "合作者"
+        }
+      },
+      "relationSummary": "共同探索原始岛屿的远古太阳神教堂遗迹，在墓葬厅协同战斗，分配战利品，展现塔罗会成员间的合作与信任。"
+    },
+    {
+      "fromChapterSeq": 815,
+      "toChapterSeq": 815,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "情报分享者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "情报接收者"
+        }
+      },
+      "relationSummary": "克莱恩在灰雾上研究“暴君”牌后，抄录风暴途径全序列配方与仪式给阿尔杰。"
+    },
+    {
+      "fromChapterSeq": 821,
+      "toChapterSeq": 821,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "物品出售者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "物品购买者"
+        }
+      },
+      "relationSummary": "塔罗会上，“世界”将“混乱导师”非凡特性以8000镑售予“正义”奥黛丽，供其制作神奇物品。"
+    },
+    {
+      "fromChapterSeq": 821,
+      "toChapterSeq": 821,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "物品出售者"
+        }
+      },
+      "characterB": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "物品购买者"
+        }
+      },
+      "relationSummary": "塔罗会上，“世界”将“德鲁伊”非凡特性以8000镑售予“隐者”嘉德丽雅，供弗兰克·李使用。"
+    },
+    {
+      "fromChapterSeq": 821,
+      "toChapterSeq": 821,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "配方提供者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "配方接收者"
+        }
+      },
+      "relationSummary": "克莱恩将“海洋歌者”非凡特性转让给阿尔杰制作神奇物品，并分享“暴君”牌中的序列配方。"
+    },
+    {
+      "fromChapterSeq": 821,
+      "toChapterSeq": 821,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "治疗委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "治疗提供者"
+        }
+      },
+      "relationSummary": "克莱恩预约奥黛丽以“心理医生”能力治疗自己的精神问题。"
+    },
+    {
+      "fromChapterSeq": 817,
+      "toChapterSeq": 818,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "命运提醒者"
+        }
+      },
+      "relationSummary": "舞会上威尔提醒克莱恩命运偏移，因遇天使但暂无危险，建议与海柔尔聊梦境。"
+    },
+    {
+      "fromChapterSeq": 819,
+      "toChapterSeq": 820,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "情报提供者"
+        }
+      },
+      "characterB": {
+        "name": "军情九处黄金面具男",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "情报接收者"
+        }
+      },
+      "relationSummary": "休向军情九处汇报被跟踪及恍惚情况，黄金面具男邀请休正式加入军情九处。"
+    },
+    {
+      "fromChapterSeq": 823,
+      "toChapterSeq": 823,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "交易方"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "交易方"
+        }
+      },
+      "relationSummary": "克莱恩梦中与威尔会面，转告交易筹码，威尔选择弱小期恢复实力办法，约定脐带血交易。"
+    },
+    {
+      "fromChapterSeq": 824,
+      "toChapterSeq": 824,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩请求贝尔纳黛帮助伪装秘偶塞尼奥尔被封印核心侵蚀的状态，贝尔纳黛使用“安眠号角”完成。"
+    },
+    {
+      "fromChapterSeq": 826,
+      "toChapterSeq": 827,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "潜入者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "relationSummary": "克莱恩伪装潜入教堂时偶遇伦纳德，双方因体内天使帕列斯与克莱恩的相互忌惮而各自克制，未发生冲突。"
+    }
+  ]
+}

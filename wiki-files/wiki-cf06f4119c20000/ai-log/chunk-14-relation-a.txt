@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 286,
+      "toChapterSeq": 286,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "兰尔乌斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "周明瑞在下水道拦截兰尔乌斯，经过激烈战斗将其击杀，完成复仇。期间兰尔乌斯失去神性后表现偷盗者能力，周明瑞使用沉眠符咒限制对方后扭断其脖子。"
+    },
+    {
+      "fromChapterSeq": 274,
+      "toChapterSeq": 274,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "周明瑞在非凡聚会中为戴里克购买飓风之斧，并通过献祭仪式将斧头转交给他。戴里克收到斧头表示满意。"
+    },
+    {
+      "fromChapterSeq": 275,
+      "toChapterSeq": 293,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "奥黛丽委托休寻找兰尔乌斯。休在东区酒馆找到威廉姆斯委托其调查，并乔装调查码头区，最终在码头工会发现兰尔乌斯踪迹并通报。"
+    },
+    {
+      "fromChapterSeq": 282,
+      "toChapterSeq": 285,
+      "characterA": {
+        "name": "兰尔乌斯",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "奥黛丽委托休寻找兰尔乌斯，并在休发现其踪迹后向愚者汇报，最终指示通报值夜者。兰尔乌斯与奥黛丽无直接互动，但兰尔乌斯是奥黛丽委托寻找的目标。"
+    },
+    {
+      "fromChapterSeq": 283,
+      "toChapterSeq": 286,
+      "characterA": {
+        "name": "兰尔乌斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "周明瑞伪装记者采访兰尔乌斯以确认其身份时，兰尔乌斯未识破其真实身份。随后周明瑞指定值夜者举报并旁观围捕。最终在下水道战斗中将兰尔乌斯击杀。"
+    },
+    {
+      "fromChapterSeq": 284,
+      "toChapterSeq": 285,
+      "characterA": {
+        "name": "克雷斯泰·塞西玛",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "兰尔乌斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌视",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克雷斯泰·塞西玛带队围捕兰尔乌斯，使用封印物构建镜中世界，击杀保护兰尔乌斯的极光会成员。兰尔乌斯趁机逃脱。"
+    },
+    {
+      "fromChapterSeq": 275,
+      "toChapterSeq": 277,
+      "characterA": {
+        "name": "威廉姆斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "休雇用威廉姆斯寻找兰尔乌斯，预付5苏勒并承诺线索10镑赏金。威廉姆斯在调查过程中被极光会巨人杀害。"
+    },
+    {
+      "fromChapterSeq": 278,
+      "toChapterSeq": 279,
+      "characterA": {
+        "name": "保镖小姐",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "保镖小姐自称爆破专家，免费帮助周明瑞封堵威廉姆斯街地下遗迹入口，并约定次日共同勘探。两人合作完成爆破。"
+    },
+    {
+      "fromChapterSeq": 288,
+      "toChapterSeq": 288,
+      "characterA": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "克雷斯泰·塞西玛",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴莉因未被允许参与兰尔乌斯事件而愤怒，塞西玛作为上级解释是为排除不稳定因素。两人存在上下级关系。"
+    }
+  ]
+}

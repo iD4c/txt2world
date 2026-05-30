@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 234,
+      "toChapterSeq": 253,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩以“愚者”身份在塔罗会上颁布刺杀贝克朗大使的任务，奥黛丽接受并选择“心理医生”配方为报酬。随后奥黛丽委托A先生执行刺杀，并通过祈求向克莱恩汇报进展。"
+    },
+    {
+      "fromChapterSeq": 234,
+      "toChapterSeq": 253,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "塔罗会上，奥黛丽和阿尔杰均接受了克莱恩颁布的刺杀贝克朗大使的任务，奥黛丽选择报酬为“心理医生”配方，二人就此任务有所交流。"
+    },
+    {
+      "fromChapterSeq": 235,
+      "toChapterSeq": 250,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "贝克朗·让·马丹",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "上级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "贝克朗指使手下罗萨戈潜入克莱恩住处警告并后续刺杀克莱恩；克莱恩在塔罗会上颁布刺杀贝克朗的任务，最终贝克朗被A先生刺杀身亡。"
+    },
+    {
+      "fromChapterSeq": 234,
+      "toChapterSeq": 253,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩在塔罗会上从阿尔杰处获知密修会与因蒂斯关联的情报，并颁布刺杀贝克朗的任务，阿尔杰接受。"
+    },
+    {
+      "fromChapterSeq": 236,
+      "toChapterSeq": 236,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "克莱恩用“祈光人”配方与“太阳”交换巨龙情报，得知“空想之龙”与“噩梦之龙”能力，与封印物“0-08”吻合。"
+    },
+    {
+      "fromChapterSeq": 245,
+      "toChapterSeq": 253,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "中立",
+          "bond": "无",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "characterB": {
+        "name": "保镖小姐",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "保护者"
+        }
+      },
+      "relationSummary": "克莱恩通过马里奇雇佣保镖小姐保护自己三天，保镖小姐在罗萨戈袭击时协助，事后清理现场，并继续履行保护期。"
+    },
+    {
+      "fromChapterSeq": 248,
+      "toChapterSeq": 251,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "罗萨戈",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "罗萨戈受贝克朗指使，伪装法辛警长上门袭击克莱恩，控制住克莱恩和保镖小姐，最终被克莱恩用“污秽之语”符咒反击枪杀。克莱恩通灵获得“占卜家”后续序列配方。"
+    },
+    {
+      "fromChapterSeq": 244,
+      "toChapterSeq": 250,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "奥黛丽通过休和佛尔思委托A先生刺杀贝克朗，协商后以1万金镑成交，A先生成功刺杀并宣称负责。"
+    },
+    {
+      "fromChapterSeq": 244,
+      "toChapterSeq": 244,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "朋友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "奥黛丽委托好友休和佛尔思联系A先生刺杀贝克朗，休和佛尔思作为中介接受。"
+    }
+  ]
+}

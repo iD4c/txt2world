@@ -1,0 +1,1155 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗身份在刺杀疾病中将特雷茜失败后，利用海神能力逃脱，写信向阿兹克求助。他与阿兹克重返黑死号，遭遇不老魔女卡特琳娜·佩莱，得知阿兹克曾是死亡执政官，并获得死神文献拓印。阿兹克凭吊女儿墓后告别。克莱恩通过魔镜阿罗德斯找到罗伊·金下落，利用千纸鹤在梦中与命运之蛇威尔·昂赛汀沟通，确认其为生命学派议长，并告知胖药师达克威尔。他完成委托获100镑报酬，随后在香树叶酒吧遭遇巧言者米索尔·金，以格尔曼·斯帕罗人设直接攻击，利用龙威、扭曲、精神刺穿等能力击杀米索尔及巨力士奥兹尔，并放牧腐化男爵获得扭曲和贿赂-削弱能力。他释放心理医生灵魂以获取非凡特性准备交易给正义。军方宣扬其击杀以威慑海盗。",
+      "identInfos": [
+        "塔罗会创立者愚者，真名周明瑞",
+        "序列6无面人，以格尔曼·斯帕罗为冒险家身份",
+        "拥有蠕动的饥饿手套、海神权杖等封印物",
+        "占卜家途径，能借助灰雾进行占卜和献祭",
+        "塔罗会其他成员有正义、倒吊人、太阳等"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "冰冷的海水瞬间淹没了克莱恩，浸透了他身上的金红色长裙，让它沉甸甸的如同石头，拖着人体往下急沉。但与此同时，“蠕动的饥饿”也吃掉了那个海盗，减轻了整整一个人的重量。"
+        },
+        {
+          "chapterSeq": 584,
+          "extractReason": "UPDATE",
+          "evidenceText": "“疾病中将”可是出名的美人，之前见到的时候，比我想象得更有魅力，如果就这么死了，还是有点浪费啊，就应该把她关起来，永远监禁，无期徒刑……呸，她能有船长美丽？这样长相的，红剧场里多的是！达尼兹颇为矛盾地想着。"
+        },
+        {
+          "chapterSeq": 585,
+          "extractReason": "UPDATE",
+          "evidenceText": "胖药师肩膀上停着只眼睛圆鼓鼓的猫头鹰，一人一动物同时抬头，望向了克莱恩。短暂的观察后，胖药师露出了暧昧的笑容：“朋友，天气这么冷，就不要在外面做那种事情了，虽然那确实很刺激。”"
+        },
+        {
+          "chapterSeq": 585,
+          "extractReason": "UPDATE",
+          "evidenceText": "胖药师搓了搓手道：“我有个委托，不过，必须完成了才有报酬。”“多少报酬？”克莱恩捏了下鼻子。“100镑！”胖药师心疼地喊道，“帮我找一个人，他叫罗伊·金，他是我的老师，他让我到这里和他见面，但我等了几个月也没见到他，而且再也联络不上了。”"
+        },
+        {
+          "chapterSeq": 586,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克取下礼帽，看了那颇为陌生的脸孔一眼，毫不奇怪地呵呵笑道：“抱歉，我来得太匆忙了，我应该先出去敲门的。那批死神相关的文献具体是怎么回事？”"
+        },
+        {
+          "chapterSeq": 587,
+          "extractReason": "UPDATE",
+          "evidenceText": "难道那个恶灵就是“红天使”梅迪奇，曾经侍奉那位“造物主”的天使之王，“救赎蔷薇”的创立者之一？克莱恩瞬间产生了这么个联想，并倒推回去，寻找痕迹和线索："
+        },
+        {
+          "chapterSeq": 588,
+          "extractReason": "UPDATE",
+          "evidenceText": "“是你？”听到那略显惊讶和疑惑的女声时，克莱恩吓了一跳，还以为自己被谁看出了真面目。他旋即镇定，因为他现在已经变了模样，是已经死去的“飓风中将”齐林格斯，而齐林格斯里面是疯狂冒险家格尔曼·斯帕罗，格尔曼·斯帕罗里面是大侦探夏洛克·莫里亚蒂，夏洛克·莫里亚蒂里面才是克莱恩·莫雷蒂。"
+        },
+        {
+          "chapterSeq": 589,
+          "extractReason": "UPDATE",
+          "evidenceText": "有那么瞬间，克莱恩还以为“疾病中将”特雷茜会直接动手，因为对方的脸庞已经因愤怒而涨红，蔚蓝的眼眸幽黑了许多，仿佛风暴来临时的海面。但最终，特雷茜还是没有冲动和鲁莽，侧过脑袋，望向卡特琳娜·佩莱，等待这位“不老魔女”做出决定。"
+        },
+        {
+          "chapterSeq": 590,
+          "extractReason": "UPDATE",
+          "evidenceText": "清晨时分，灰雾之上。克莱恩具现出纸笔，斟酌着写下了占卜语句：“使用无线电收报机有危险。”仔细审查了两遍，他取下左腕袖口内的灵摆，开始占卜。"
+        },
+        {
+          "chapterSeq": 591,
+          "extractReason": "UPDATE",
+          "evidenceText": "他要利用那只千纸鹤与威尔·昂赛汀在梦中沟通！这对现在的我来说可能没什么作用，甚至隐藏有一定的危险，但如果威尔·昂赛汀真是生命学派那条“命运之蛇”，我提供相应的情报肯定能换来一定的好感……"
+        },
+        {
+          "chapterSeq": 592,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你前天才接受委托啊……”胖药师达克威尔不敢置信地反问道。我前天才接受委托和我什么时候找到人有必然联系吗？如果不是花了一天等“命运之蛇”威尔·昂赛汀定位过来，我还能提前24个小时……这就叫专业！克莱恩平淡回应道：“你可以选择不听。”"
+        },
+        {
+          "chapterSeq": 593,
+          "extractReason": "UPDATE",
+          "evidenceText": "分离非凡特性内失控者精神污染的办法……“隐者”嘉德丽雅看了“世界”一眼，猜测对方可能正拿着一到两件失控者遗留的非凡特性，而且其中一件大概率涉及“世界”的晋升，或者他关系密切者的晋升。"
+        },
+        {
+          "chapterSeq": 594,
+          "extractReason": "UPDATE",
+          "evidenceText": "“谁有，或者谁能拿到攻击力很强的神奇物品？”他询问的目标是“隐者”，因为这里只有纵横大海多年的“星之上将”可能满足他的需求，就连“倒吊人”与他熟识的那位工匠都不行，除非他能自行提供对应的序列6甚至序列5非凡特性。"
+        },
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林·怀特清了清喉咙道：“感谢‘倒吊人’先生的帮助，我已经是一名男爵了。我有一个疑问，身为血族，晋升男爵之后，是否需要像你们人类一样，用‘扮演法’促进所谓的消化，更好地掌握非凡特性？”"
+        },
+        {
+          "chapterSeq": 596,
+          "extractReason": "UPDATE",
+          "evidenceText": "一根根石柱撑起的宏伟宫殿里，克莱恩坐在高背椅上，手指轻敲斑驳长桌的边缘，首先将寻找“太阳”途径序列4“无暗者”的办法排除了。"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "兰尔乌斯大概率是序列8的“诈骗师”，这正好属于“偷盗者”途径，拥有相应聚会的“入场券”不是太让人无法理解和接受的事情，相反，这很符合逻辑……于“命运隐士”们的聚会上求购可以窃取别人非凡能力的神奇物品绝对要比其他圈子里容易很多……"
+        },
+        {
+          "chapterSeq": 598,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩在香树叶酒吧被“巧言者”米索尔·金观察，他遵循格尔曼人设直接攻击，利用“龙威”、“扭曲”、“精神刺穿”等能力击杀米索尔及“巨力士”奥兹尔，放牧“腐化男爵”获得“扭曲”和“贿赂-削弱”。"
+        },
+        {
+          "chapterSeq": 599,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！黄铜色的子弹穿过半个酒吧，射向了“巧言者”米索尔·金的身体。可就在它即将命中的时候，米索尔棕褐色的眼眸突然变得深暗。那枚子弹一下拐弯，略微朝上，准确命中了一个装满金黄色啤酒的玻璃杯。"
+        },
+        {
+          "chapterSeq": 600,
+          "extractReason": "UPDATE",
+          "evidenceText": "“龙威”汹涌而来，“巨力士”奥兹尔与他的属下同时一震，仿佛被人用巨锤狠狠砸了一下。霍然之间，他们有的向着四周狂奔，有的漫无目的逃窜，有的在原地不断打转，有的僵立不动浑身颤抖，反应分门别类，各有区别。"
+        },
+        {
+          "chapterSeq": 601,
+          "extractReason": "UPDATE",
+          "evidenceText": "灰雾之上，克莱恩后靠住高背椅，拿着“蠕动的饥饿”，沉默了好几秒钟。最后，他还是按照预定的步骤，释放了那位“心理医生”的灵魂。青铜长桌的侧方很快呈现出一道高挑的身影，这是位女士，面容较为模糊，痛苦与扭曲的感觉溢于言表。"
+        },
+        {
+          "chapterSeq": 602,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“一个叫格尔曼·斯帕罗的冒险家，之前一点名气都没有，谁知道竟然能干掉米索尔！”酒保没掩饰自己的震动和惊愕，“他还杀了奥兹尔，香树叶酒吧真正的老板，‘巨力士’奥兹尔！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "阿兹克收到克莱恩求助信后，带克莱恩重返黑死号，遭遇不老魔女卡特琳娜·佩莱，得知自己曾是拜朗帝国死亡执政官。他以拓印死神文献为交换，卡特琳娜未阻拦。他恢复记忆片段，带克莱恩凭吊已故女儿墓，随后告别继续旅程。",
+      "identInfos": [
+        "克莱恩的老师和好友",
+        "拜朗帝国死亡执政官，死神后裔",
+        "多次失忆，正在寻回记忆",
+        "拥有穿梭灵界能力"
+      ],
+      "aliases": [
+        {
+          "alias": "死亡执政官",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 586,
+          "extractReason": "UPDATE",
+          "evidenceText": "“抱歉，我来得太匆忙了，我应该先出去敲门的。那批死神相关的文献具体是怎么回事？”"
+        },
+        {
+          "chapterSeq": 587,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克取下礼帽，看了那颇为陌生的脸孔一眼，毫不奇怪地呵呵笑道：“抱歉，我来得太匆忙了，我应该先出去敲门的。那批死神相关的文献具体是怎么回事？”"
+        },
+        {
+          "chapterSeq": 588,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克站在厚厚的地毯上，迟疑了两秒道：“你认识我？”这语气很不确定啊……难道大佬之前有一段人生是和魔女度过的？不，不能这么想……克莱恩先是浮想联翩，旋即在心里认真地忏悔了一下。"
+        },
+        {
+          "chapterSeq": 589,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不老魔女”卡特琳娜·佩莱走向阿兹克，回忆起千年前共同对抗黑夜教会，并称他为“死亡执政官”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [586, 587, 588, 589]
+    },
+    {
+      "name": "卡特琳娜·佩莱",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "不老魔女卡特琳娜·佩莱在黑死号上现身，认出阿兹克为死亡执政官，提及千年前曾合作对抗黑夜教会。她以拓印死神文献为交换，未阻拦阿兹克。她透露死神文献内容涉及拜朗皇室复活死神的尝试，最终考虑人造死神。",
+      "identInfos": [
+        "不老魔女，魔女教派高层",
+        "至少序列4半神，活了超过1300年",
+        "曾与阿兹克在苍白之灾中合作",
+        "外貌清灵秀美，气质圣洁"
+      ],
+      "aliases": [
+        {
+          "alias": "不老魔女",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 588,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“卡特琳娜·佩莱？你，已经是‘不老魔女’了？”阿兹克迟疑问道。"
+        },
+        {
+          "chapterSeq": 589,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不老魔女”卡特琳娜·佩莱走向阿兹克，回忆起千年前共同对抗黑夜教会，并称他为“死亡执政官”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [588, 589]
+    },
+    {
+      "name": "特雷茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "疾病中将特雷茜在克莱恩刺杀失败后，派遣巧言者米索尔调查，并向卡特琳娜求助。在卡特琳娜与阿兹克交谈时，她克制愤怒，未冲动出手。她得知死神文献已上交教派，无法提供。克莱恩拒绝告知伊莲下落，她愤怒但未发作。",
+      "identInfos": [
+        "疾病中将，海盗将军之一",
+        "序列5痛苦魔女",
+        "黑死号船长，魔女教派成员",
+        "英气明艳，实力强大"
+      ],
+      "aliases": [
+        {
+          "alias": "疾病中将",
+          "type": "称号"
+        },
+        {
+          "alias": "疾病少女",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑死号上，特雷茜解除了重重防御，穿着染血的破烂衬衣，走到镶满钻石的手镯旁，弯腰将它拾起。“很谨慎的袭击者，我做刺客那段时间，也许还不如她，不，他……”特雷茜忽地咬牙切齿。"
+        },
+        {
+          "chapterSeq": 588,
+          "extractReason": "UPDATE",
+          "evidenceText": "特雷茜蔚蓝的眼睛眯了一下，先是迷迷蒙蒙，接着带上了愤怒：“你为了那批文献而来？”"
+        },
+        {
+          "chapterSeq": 589,
+          "extractReason": "UPDATE",
+          "evidenceText": "有那么瞬间，克莱恩还以为“疾病中将”特雷茜会直接动手，因为对方的脸庞已经因愤怒而涨红，蔚蓝的眼眸幽黑了许多，仿佛风暴来临时的海面。但最终，特雷茜还是没有冲动和鲁莽，侧过脑袋，望向卡特琳娜·佩莱，等待这位“不老魔女”做出决定。"
+        },
+        {
+          "chapterSeq": 602,
+          "extractReason": "UPDATE",
+          "evidenceText": "“一个叫格尔曼·斯帕罗的冒险家，能确认的是，他用了类似‘龙威’的非凡能力。”金发侍女报告米索尔死讯。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [583, 588, 589, 602]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "达尼兹在蔚蓝之风旅馆等待克莱恩返回，得知刺杀未成功。他协助克莱恩熬药、询问药师，并陪同前往。他参与反抗军援助任务，结束后返回黄金梦想号，在船上炫耀战绩。他召唤克莱恩的信使送信，被信使的怪异形态惊吓。",
+      "identInfos": [
+        "烈焰达尼兹，海盗赏金5500镑",
+        "冰山中将艾德雯娜的下属",
+        "黄金梦想号第四水手长",
+        "曾被克莱恩制服，后与其合作"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 584,
+          "extractReason": "UPDATE",
+          "evidenceText": "“蔚蓝之风”旅馆，豪华套房内。达尼兹开门看见是格尔曼·斯帕罗，忙警惕地左右望了一眼，然后才让开了条道路。“怎么样？狩猎成功了吗？”房门关上后，他又好奇又兴奋地问道。"
+        },
+        {
+          "chapterSeq": 586,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹悄然吸了口气，来到克莱恩身边，堆起笑容道：“没其他事情了吧？我可以回‘黄金梦想’号了吧？还有，你这几天的雇佣费怎么算？”"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹正想着接下来是否会得到船长的特别对待，闻言诧异地指了指自己。“我？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [584, 585, 586, 597]
+    },
+    {
+      "name": "艾尔兰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾尔兰船长告知克莱恩班西港被风暴教会抹平，并引荐军方联络人乌斯·肯特。他为克莱恩推荐胖药师达克威尔。",
+      "identInfos": [
+        "白玛瑙号客船船长",
+        "鲁恩军方联络人",
+        "与克莱恩有合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 584,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔兰呵呵笑道：“我可以给你推荐一位药师，比去医院和诊所有用。他的非凡职业就是这个，他的草药小店在红剧场斜对面的巷子里，呵，以贩卖壮阳药剂著称，但这不是他最擅长的领域。”"
+        },
+        {
+          "chapterSeq": 585,
+          "extractReason": "UPDATE",
+          "evidenceText": "“班西港那边好像有大事发生。”艾尔兰压低嗓音道。"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔兰找到个穿咖啡色夹克的男子，拍了下对方的肩膀，哈哈笑道：“怎么不喝烈朗齐？”他为克莱恩介绍军方联络人。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [584, 585, 597]
+    },
+    {
+      "name": "达克威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "胖药师达克威尔在拜亚姆开草药店，委托克莱恩寻找老师罗伊·金。克莱恩通过魔镜和梦境得知罗伊·金被军方关押，告知达克威尔，获得100镑报酬。达克威尔恐惧下准备逃离，但最终决定留下，并从杂货店获取骰子，发现其为危险封印物，决定前往奥拉维岛。",
+      "identInfos": [
+        "胖药师，生命学派成员",
+        "驯兽师，宠物为猫头鹰",
+        "老师罗伊·金被军方关押",
+        "在红剧场斜对面开草药店"
+      ],
+      "aliases": [
+        {
+          "alias": "胖药师",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 585,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "胖药师肩膀上停着只眼睛圆鼓鼓的猫头鹰，一人一动物同时抬头，望向了克莱恩。短暂的观察后，胖药师露出了暧昧的笑容：“朋友，天气这么冷，就不要在外面做那种事情了，虽然那确实很刺激。”"
+        },
+        {
+          "chapterSeq": 591,
+          "extractReason": "UPDATE",
+          "evidenceText": "“告知达克威尔。”威尔·昂赛汀在梦中留下信息。"
+        },
+        {
+          "chapterSeq": 592,
+          "extractReason": "UPDATE",
+          "evidenceText": "胖药师达克威尔睡眼惺忪地打开了房门。“……你没生病啊。”达克威尔端详了一阵道。克莱恩告知找到罗伊·金下落。"
+        },
+        {
+          "chapterSeq": 602,
+          "extractReason": "UPDATE",
+          "evidenceText": "达克威尔趴在那里，短暂竟忘了站起，脑袋似乎一片空白。自从他发育成熟，就基本没再遭遇过这种自己绊倒自己的事情，服食魔药，身体各个方面都有一定增强后，更是如此，结果今天竟莫名其妙地摔倒，简直无法理解。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [585, 591, 592, 602]
+    },
+    {
+      "name": "米索尔·金",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "巧言者米索尔·金奉疾病中将命令调查假伊莲事件，找到巨力士奥兹尔搜集情报，发现烈焰达尼兹与陌生冒险家混在一起。他在香树叶酒吧观察克莱恩时被认出，遭遇克莱恩攻击，在战斗中利用贿赂-削弱和扭曲能力抵抗，但最终被克莱恩用精神刺穿和左轮击杀。",
+      "identInfos": [
+        "巧言者，黑死号三副",
+        "序列6腐化男爵",
+        "前飓风中将下属",
+        "悬赏金额5400镑"
+      ],
+      "aliases": [
+        {
+          "alias": "巧言者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "“三副，你再去拜亚姆一趟，调查清楚反抗军从哪里找到的这个伊莲。”特雷茜沉声命令道。"
+        },
+        {
+          "chapterSeq": 598,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩没有掩饰，当即回望过去，看见了个眉毛很短，眼窝深陷，眸色棕褐的男子。“巧言者”米索尔·金……“疾病中将”旗舰黑死号的三副……克莱恩一下就认出了观察自己的人是谁。"
+        },
+        {
+          "chapterSeq": 599,
+          "extractReason": "UPDATE",
+          "evidenceText": "砰！黄铜色的子弹穿过半个酒吧，射向了“巧言者”米索尔·金的身体。可就在它即将命中的时候，米索尔棕褐色的眼眸突然变得深暗。那枚子弹一下拐弯，略微朝上，准确命中了一个装满金黄色啤酒的玻璃杯。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [583, 598, 599]
+    },
+    {
+      "name": "奥兹尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "巨力士奥兹尔是香树叶酒吧老板，为米索尔提供情报，并协助其调查。在克莱恩与米索尔战斗后，他带人前往地下区域，被克莱恩的龙威震慑，后被精神刺穿重创，最终被蠕动的饥饿吞噬。",
+      "identInfos": [
+        "巨力士，香树叶酒吧老板",
+        "前海盗，黑帮老大",
+        "协助米索尔调查"
+      ],
+      "aliases": [
+        {
+          "alias": "巨力士",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 584,
+          "extractReason": "UPDATE",
+          "evidenceText": "“打听出具体的情况了吗？”他接受船长“疾病中将”特雷茜的安排，重返拜亚姆，调查假伊莲的问题，为此，找到了当初帮他颁布任务的奥兹尔——他不可能直接去找反抗军询问，因为对方有不小的概率与假伊莲是合作关系，上门质问和直接去总督府拿自己的脑袋换悬赏没有任何区别。"
+        },
+        {
+          "chapterSeq": 600,
+          "extractReason": "UPDATE",
+          "evidenceText": "“龙威”汹涌而来，“巨力士”奥兹尔与他的属下同时一震，仿佛被人用巨锤狠狠砸了一下。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [584, 598, 600]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克调配出太阳神官魔药并晋升，获得多种类神术知识，准备担任巡逻小队队长。他在塔罗会上向世界提供分离非凡特性精神污染的办法，包括利用窃取能力物品和向白银城神奇物品祈求。",
+      "identInfos": [
+        "太阳戴里克，白银城少年",
+        "序列7太阳神官",
+        "塔罗会成员，信仰愚者",
+        "在神弃之地白银城成长"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 584,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克终于拿到了“隐者”女士承诺的光辉契灵树果实，调配出了“太阳神官”魔药。它色泽金黄，自带滚烫的温度，戴里克一口喝下时，喉咙都有被灼烧的感觉。"
+        },
+        {
+          "chapterSeq": 593,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克因为刚刚晋升，有很多事情处理，没能拿到新的古代神话资料，“愚者”克莱恩只能平静颔首。戴里克见状，松了口气，转头望向青铜长桌最底部：“‘世界’先生，我拿到你想要的分离非凡特性内失控者精神污染的办法了。”"
+        },
+        {
+          "chapterSeq": 593,
+          "extractReason": "UPDATE",
+          "evidenceText": "两种办法，一是利用可以窃取别人非凡能力的物品，将失控者残留的精神污染窃取出来，然后抢在窃取失效前，将非凡特性调配成魔药，这样一来，精神污染就不会返回，而是直接消散。二是布置仪式，向我们白银城那两件强大的神奇物品之一祈求，利用它的反馈粉碎非凡特性，让精神污染蒸发，之后，非凡特性会缓慢地自行聚集。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [584, 593]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "隐者嘉德丽雅第二次参加塔罗会，观察其他成员，发现倒吊人、月亮和太阳均在一周内晋升。她主动提供帮助，指出太阳途径的无暗者能净化非凡特性精神污染。她解释月亮途径的领域知识，指出吸血鬼属于月亮途径。",
+      "identInfos": [
+        "星之上将，海盗将军之一",
+        "摩斯苦修会成员",
+        "塔罗会隐者，序列5",
+        "知识渊博，冷静观察"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 592,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“星之上将”嘉德丽雅立在船长室的窗户边，静静看着照透薄雾的阳光，直至墙上的壁钟发出布谷布谷的声音。她瞄了眼时间，并快速换算成了鲁恩时，然后拉上窗帘，坐到了书桌后。"
+        },
+        {
+          "chapterSeq": 593,
+          "extractReason": "UPDATE",
+          "evidenceText": "分离非凡特性内失控者精神污染的办法……“隐者”嘉德丽雅看了“世界”一眼，猜测对方可能正拿着一到两件失控者遗留的非凡特性，而且其中一件大概率涉及“世界”的晋升，或者他关系密切者的晋升。"
+        },
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅环顾了一圈道：“血族男爵对应的是序列6‘魔药教授’？”“是的。”埃姆林难掩笑容地回答道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [592, 593, 594, 595]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "月亮埃姆林成功晋升血族男爵，在塔罗会上炫耀，询问扮演法。隐者嘉德丽雅告知他血族男爵对应魔药教授，需要扮演。他参与交易，购买血族遗产。",
+      "identInfos": [
+        "血族男爵，吸血鬼",
+        "塔罗会月亮",
+        "被愚者拉入塔罗会"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 592,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝克兰德，怀特家。埃姆林看着祭坛内出现的那枚血红色“宝石”，仿佛听见自身的血液在与它共鸣。感谢过“愚者”先生，他拿起那枚宝石，感应着里面流淌的特异，确信这就是一位血族男爵的遗物。"
+        },
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林·怀特清了清喉咙道：“感谢‘倒吊人’先生的帮助，我已经是一名男爵了。我有一个疑问，身为血族，晋升男爵之后，是否需要像你们人类一样，用‘扮演法’促进所谓的消化，更好地掌握非凡特性？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [592, 594, 595]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "正义奥黛丽在塔罗会上报告政府雇员考试第二轮结束，并询问世界心理医生非凡特性交易。她对隐者解释月亮途径感兴趣，询问吸血鬼属于哪条途径。她考虑购买格罗塞尔游记。",
+      "identInfos": [
+        "正义奥黛丽，贵族少女",
+        "塔罗会成员，观众途径",
+        "心理炼金会成员",
+        "推动政府雇员考试改革"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽补充道：“如果你认为这情报重要，不能做无偿的交流，我可以支付一定的报酬。”"
+        },
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽再次感慨政府雇员考试第二轮结束。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [592, 593, 594, 595]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "倒吊人阿尔杰在罗思德海域边缘狩猎蓝影隼，获得结晶羽毛。他使用精神之鞭戒指和血族男爵遗物辅助。他从太阳处免费获得分离非凡特性精神污染的方法，感到惭愧。",
+      "identInfos": [
+        "倒吊人，风暴教会水手",
+        "塔罗会成员，序列航海家",
+        "野心勃勃，渴望晋升"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 591,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊没有大意，立在远处，抬起左手，用拇指佩戴的那枚黑铁色戒指，对准了蓝影隼这可怕的非凡生物。"
+        },
+        {
+          "chapterSeq": 593,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”挑了下眉头，主动对“太阳”戴里克道：“我对这方面的知识也很感兴趣，我能用什么来交换它？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [591, 593]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "魔术师佛尔思接受世界委托，前往威廉姆斯街监视异常。她外出观察行人，搜集素材。",
+      "identInfos": [
+        "魔术师，作家",
+        "塔罗会成员",
+        "序列学徒"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 594,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我想委托你做一件事情。”“我？”佛尔思有点诧异。"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思用尽力气，终于战胜了壁炉带来的懒惰，她换了条深蓝色的厚棉布长裙，缠好浅灰色的围巾，戴上温暖的女士软帽，在温度不算太低但雾气弥漫寒意浸骨的天气里离开租住的房屋，乘坐马车抵达了威廉姆斯街。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [594, 597]
+    },
+    {
+      "name": "罗伊·金",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "罗伊·金是胖药师达克威尔的老师，生命学派成员，因涉及重要封印物被鲁恩军方秘密关押在总督府。他事先留下骰子作为线索，并指示达克威尔前往奥拉维岛。",
+      "identInfos": [
+        "生命学派成员，达克威尔的老师",
+        "外表年轻，实际六十岁以上",
+        "被军方关押在拜亚姆总督府"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 585,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“帮我找一个人，他叫罗伊·金，他是我的老师，他让我到这里和他见面，但我等了几个月也没见到他，而且再也联络不上了。”"
+        },
+        {
+          "chapterSeq": 590,
+          "extractReason": "UPDATE",
+          "evidenceText": "“自从‘生命学派’那条水银之蛇失踪，他们内部就出现了分裂，也遭遇了不少危险，有的甚至死在了‘玫瑰学派’手里。‘生命学派’以师徒传承的形式隐秘发展，但高层存在一个长老会，协调不同派系的争夺，第五纪以来，这个长老会的名称逐渐变得时髦，现在叫‘命运议会’，共有七位议员，那条水银之蛇就是议长。罗伊·金的老师是其中一位命运议员，在水银之蛇失踪后也出了问题，而在此之前，他将生命学派的某件重要封印物交给了罗伊·金，这就是罗伊·金被鲁恩军方秘密抓捕的原因。”"
+        }
+      ],
+      "lifeStatus": "被囚禁",
+      "appearanceChapterSeqs": [585, 590]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "命运之蛇威尔·昂赛汀通过千纸鹤在梦境中与克莱恩沟通，确认自己为生命学派议长，并指示克莱恩告知达克威尔。他提供线索，指出窃取能力物品的线索在克莱恩自己身上。",
+      "identInfos": [
+        "命运之蛇，水银之蛇",
+        "生命学派议长",
+        "正转生为艾伦医生胎儿"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 591,
+          "extractReason": "UPDATE",
+          "evidenceText": "千纸鹤的事情，克莱恩现在仍记忆犹新，因为当初威尔·昂赛汀这条“命运之蛇”就通过那件物品，定位了艾伦医生的星灵体，在他梦中遨游灵界时，向他灌输信息，形成启示，并衍化为特定的梦境。"
+        },
+        {
+          "chapterSeq": 596,
+          "extractReason": "UPDATE",
+          "evidenceText": "“请问哪里可以弄到窃取别人非凡能力的神奇物品？”克莱恩在千纸鹤上留言。"
+        }
+      ],
+      "lifeStatus": "沉睡中",
+      "appearanceChapterSeqs": [591, 596]
+    },
+    {
+      "name": "艾德雯娜·爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "冰山中将艾德雯娜通过降灵仪式与克莱恩沟通，表示自己没有窃取能力神奇物品，但会让三副留意。她让达尼兹布置仪式召唤克莱恩的信使，认为信使不是普通灵界生物。",
+      "identInfos": [
+        "冰山中将，海盗将军之一",
+        "黄金梦想号船长",
+        "知识与智慧之神教会成员",
+        "灵界生物研究者"
+      ],
+      "aliases": [
+        {
+          "alias": "冰山中将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 586,
+          "extractReason": "UPDATE",
+          "evidenceText": "“冰山中将”艾德雯娜·爱德华兹出现于船头。她头戴猎人帽，身着收腰的骑手衬衫加黑色外套。"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "“冰山中将”艾德雯娜立在书桌前，手握黑色的吸水钢笔，飞快书写着单词：“……我并没有类似的物品，约德森同样如此，他表示会帮你留意，但这需要足够的幸运。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [586, 597]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的信使蕾妮特·缇尼科尔在送信时出现，艾德雯娜认为她不是普通灵界生物。她每个脑袋咬住金币和信件，表现怪异。",
+      "identInfos": [
+        "克莱恩的灵界信使",
+        "外貌为无头穿长裙女子，提四个美丽脑袋",
+        "曾被艾德雯娜评价不是普通灵界生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹看见一个长发淡金，眼眸如血，容貌明艳的脑袋钻了出来。嘶，格尔曼·斯帕罗的信使很特别啊，灵界生物怎么可能完全和人一样，还是这么漂亮，只比船长差一点的女士，额……达尼兹的感慨突然噎住，因为他发现那脑袋并没有长在脖子上，而是被一只手握住发尾提着。"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "蕾妮特·缇尼科尔的另一个脑袋也咬住了祭坛上的金币。但她并没有立刻离去，剩余两个脑袋的四只猩红眼睛同时转动，望向了灵性之墙外的艾德雯娜·爱德华兹，上上下下地打量了好几遍。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [597]
+    },
+    {
+      "name": "乌斯·肯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "军方联络人乌斯·肯特与克莱恩建立联系，负责提供情报和支付报酬。他目睹克莱恩击杀米索尔和奥兹尔，震惊于其实力。",
+      "identInfos": [
+        "鲁恩军方联络人",
+        "在香树叶酒吧与克莱恩会面"
+      ],
+      "aliases": [
+        {
+          "alias": "肯特",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 597,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“乌斯·肯特，叫他肯特就行了。你们聊，我得回去准备了，明早就要出港。”艾尔兰介绍道。"
+        },
+        {
+          "chapterSeq": 600,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌斯·肯特表情有些扭曲地质问道：“艾尔兰，你给我介绍的究竟是什么怪物？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [597, 598, 600]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎等待哥哥班森参加政府雇员第二轮考试结束，询问考题难度。她建议班森购买体面衣服准备面试，并已买好食材庆祝。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "与班森居住在贝克兰德"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎拿着陶瓷茶匙，轻搅着放了柠檬的红茶，时不时侧头望一眼蒙着淡白雾气的窗外。她黑色的纱帽正放在旁边的座位上，面前摆着一盘最便宜的烤面包，但却没有咬动一口。"
+        },
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "“班森，如果你真有信心，就该考虑面试的事情了。你必须买一套足够体面的新衣服。”梅丽莎非常认真地看着哥哥道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [595]
+    },
+    {
+      "name": "班森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森参加政府雇员统一考试第二轮，自信算术特长能通过。他计划与妹妹庆祝，但被梅丽莎要求节约。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "参加政府雇员考试"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 595,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森刚摘掉有点陈旧的礼帽，还未来得及用手指梳理下颇高的发际线，就发现妹妹站了起来，有些紧张地问道：“考得，额，今天的考题难吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [595]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩计划让埃姆林持命运隐士徽章接触伦纳德·米切尔，寻求窃取能力神奇物品。伦纳德参与了巴布尔河谷的命运隐士聚会。",
+      "identInfos": [
+        "值夜者诗人同学",
+        "体内寄生有索罗亚斯德家族天使",
+        "参与了巴布尔河谷聚会"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "循着“命运隐士”们的聚会，他忽然想到了一个人：伦纳德·米切尔！诗人同学参与了巴布尔河谷的那场“命运隐士”聚会，不管出于什么目的，是执行公务，还是做私活，都有可能得到窃取别人非凡能力的神奇物品……可以找他借，或者买？这才是真正的线索？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [597]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会举行周会，成员交流情报和交易。太阳戴里克晋升太阳神官并分享分离精神污染方法；隐者嘉德丽雅观察成员并解释月亮途径；月亮埃姆林晋升男爵并询问扮演法；正义奥黛丽报告考试进展；世界格尔曼委托魔术师监视威廉姆斯街，并求购攻击性神奇物品。",
+      "identInfos": [
+        "愚者克莱恩创立的隐秘组织",
+        "成员在灰雾之上聚会",
+        "成员代号为塔罗牌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 592,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”小姐轻快活泼的问候声里，嘉德丽雅也向依旧笼罩于灰白雾气内的“愚者”先生做了致意。"
+        },
+        {
+          "chapterSeq": 593,
+          "extractReason": "UPDATE",
+          "evidenceText": "分离非凡特性内失控者精神污染的办法……“隐者”嘉德丽雅看了“世界”一眼。"
+        }
+      ]
+    },
+    {
+      "name": "魔女教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "疾病中将特雷茜遭遇刺杀后，向魔女教派高层卡特琳娜·佩莱求助。卡特琳娜现身黑死号，与阿兹克交涉。魔女教派与死神势力曾在苍白之灾中合作。",
+      "identInfos": [
+        "信仰原初魔女",
+        "成员多为魔女途径非凡者",
+        "与王室、极光会有合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 588,
+          "extractReason": "UPDATE",
+          "evidenceText": "那柔美的女声依旧不知从哪里传来：“我当然认识你，你也应该认识我。”阿兹克侧耳倾听了一下，摇头苦笑道：“很抱歉，我一次次失去了以往的记忆，正在寻回它们的途中。如果你能提醒我，帮助我唤醒更多的记忆，我会非常感激你的。”"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会对班西港采取行动，动用高层次力量，将班西港抹平。艾尔兰告知克莱恩结果，克莱恩推测教皇可能亲自出手。",
+      "identInfos": [
+        "正神教会之一，信仰风暴之主",
+        "以暴躁鲁莽著称"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 585,
+          "extractReason": "UPDATE",
+          "evidenceText": "“风暴教会终于对班西港动手了？克莱恩握拳抵嘴，咳嗽了两声，一点也不心虚非常坦然地问道：“什么情况？”"
+        },
+        {
+          "chapterSeq": 585,
+          "extractReason": "UPDATE",
+          "evidenceText": "“很长一段时间内，不会有班西港了。”艾尔兰叹息笑道。"
+        }
+      ]
+    },
+    {
+      "name": "生命学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "生命学派因水银之蛇失踪而分裂，命运议会共有七位议员。罗伊·金保管重要封印物，被鲁恩军方抓捕。威尔·昂赛汀确认为议长。",
+      "identInfos": [
+        "师徒传承的古老组织",
+        "掌握怪物和药师途径",
+        "命运议会议长为水银之蛇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 590,
+          "extractReason": "UPDATE",
+          "evidenceText": "自从‘生命学派’那条水银之蛇失踪，他们内部就出现了分裂，也遭遇了不少危险，有的甚至死在了‘玫瑰学派’手里。‘生命学派’以师徒传承的形式隐秘发展，但高层存在一个长老会，协调不同派系的争夺，第五纪以来，这个长老会的名称逐渐变得时髦，现在叫‘命运议会’，共有七位议员，那条水银之蛇就是议长。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在香树叶酒吧使用蠕动的饥饿放牧巧言者米索尔和巨力士奥兹尔，获得扭曲和贿赂-削弱能力。他在灰雾之上释放心理医生灵魂，准备交易非凡特性。蠕动的饥饿表现出对血肉的渴求。",
+      "identInfos": [
+        "齐林格斯遗留的封印物手套",
+        "能放牧最多五个灵魂",
+        "使用不同灵魂的非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "但与此同时，“蠕动的饥饿”也吃掉了那个海盗，减轻了整整一个人的重量。"
+        },
+        {
+          "chapterSeq": 599,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩静静感应了几秒，略感惊喜地发现这次抽到的能力相当实用，虽然只有两种，但却比之前“活尸”的三种还要好！"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在刺杀失败后，使用海神权杖为自己施加类法术效果，并向水底生物颁布命令帮助逃离。",
+      "identInfos": [
+        "卡维图瓦死亡后遗留的封印物",
+        "可掌控海洋与风暴",
+        "负面效果严重，置于灰雾之上"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "他回应“信徒”，给自己套了一层又一层的类法术效果，包括但不限于水下呼吸、自由行动、抵抗压力。最后，他使用纸天使干扰占卜，并向周围海域的水底生物颁布命令，让它们帮助并掩护格尔曼·斯帕罗逃离。"
+        }
+      ]
+    },
+    {
+      "name": "无线电收报机",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩将无线电收报机从灰雾之上取下，用于联系魔镜阿罗德斯，询问罗伊·金下落。阿罗德斯通过收报机绘制肖像并回答。",
+      "identInfos": [
+        "用于与魔镜阿罗德斯通讯",
+        "可置于灰雾之上积累气息"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 590,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩返回世界，忙碌着准备仪式，将无线电收报机带出了灰雾之上那片神秘空间。等待了大概半个小时，他终于听见无线电收报机发出哒哒哒的声音，一截虚幻的白纸随之吐出，上面有一行行鲁恩文：“我来了。伟大的主人，是您吗？”"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩吹响铜哨召唤白骨信使，将求助信送给阿兹克。信使表现异常，克莱恩告知已有自己的信使。",
+      "identInfos": [
+        "阿兹克给予的铜哨",
+        "用于召唤白骨信使送信"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "确认能占卜到黑死号的位置后，他吹响了铜哨。"
+        },
+        {
+          "chapterSeq": 584,
+          "extractReason": "UPDATE",
+          "evidenceText": "我已经有属于自己的信使了。”克莱恩对白骨信使道。"
+        }
+      ]
+    },
+    {
+      "name": "千纸鹤",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩利用威尔·昂赛汀的千纸鹤在梦中与命运之蛇沟通，获得提示。他在千纸鹤上书写问题，询问窃取能力物品线索。",
+      "identInfos": [
+        "威尔·昂赛汀折的纸鹤",
+        "可定位星灵体进行梦中沟通"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 591,
+          "extractReason": "UPDATE",
+          "evidenceText": "千纸鹤的事情，克莱恩现在仍记忆犹新，因为当初威尔·昂赛汀这条“命运之蛇”就通过那件物品，定位了艾伦医生的星灵体。"
+        },
+        {
+          "chapterSeq": 596,
+          "extractReason": "UPDATE",
+          "evidenceText": "他从钱夹里取出那只千纸鹤，小心翼翼地展开，用铅笔在上面写道：“请问哪里可以弄到窃取别人非凡能力的神奇物品？”"
+        }
+      ]
+    },
+    {
+      "name": "命运隐士徽章",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩激活命运隐士徽章，获得下一次聚会时间地点：1350年6月6日傍晚9点，塔索克河入海口。他计划让埃姆林持徽章接触伦纳德。",
+      "identInfos": [
+        "兰尔乌斯遗留的徽章",
+        "正面铭刻命运与隐匿符号",
+        "用于加入命运隐士聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 597,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩正要灌注灵性，激发徽章，将“信息”发送出去，同步得到最新的聚会时间和地点，却忽然有些迟疑。"
+        },
+        {
+          "chapterSeq": 597,
+          "extractReason": "UPDATE",
+          "evidenceText": "“1350年6月6日傍晚9点，塔索克河入海口。”克莱恩得知聚会时间地点。"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩曾在击杀怨魂史蒂夫后获得生物毒素瓶，在当前chunk中未直接出现，但作为克莱恩拥有的物品被提及。",
+      "identInfos": [
+        "从玫瑰学派怨魂处获得的战利品",
+        "可随机放毒和致病"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "他迅速让“蠕动的饥饿”变得苍白，并染上阴绿，四周的海水随之冻结，化作一层层白霜。"
+        }
+      ]
+    },
+    {
+      "name": "骰子",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "达克威尔从玛佩尔杂货店获得罗伊·金留下的乳白色骰子，发现其具有活着的特性，能导致使用者遭遇极端厄运或好运。骰子静止时点数为4，掷出1点会导致极端失败。达克威尔意识到这是生命学派的重要封印物。",
+      "identInfos": [
+        "罗伊·金留给达克威尔的封印物",
+        "乳白色六面骰子",
+        "具有活着的特性，可能自行转动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 602,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他接过一个很小的戒指盒，打开盖子，看见里面有个乳白色的六面骰子，朝上的点数是红色的4点。"
+        },
+        {
+          "chapterSeq": 602,
+          "extractReason": "UPDATE",
+          "evidenceText": "它有一定的活着的特性，你用得越多，它越容易苏醒，在你不注意的时候转动自己，哪怕没有空间。当它固定于‘1’后，请相信我，你会比直接死亡还痛苦，因为你做几乎所有事情都会失败，包括你最喜欢的床上运动。"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩考虑分离全黑之眼内真实造物主的精神污染，探索多种方法，包括寻找窃取能力物品、利用天使力量等。",
+      "identInfos": [
+        "罗萨戈遗留的占卜家途径封印物",
+        "被真实造物主精神污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 596,
+          "extractReason": "UPDATE",
+          "evidenceText": "第一种办法确实是我之前没想到的……廷根市查尼斯门后的封印物‘血管小偷’就能窃取目标的非凡能力，将精神污染视作其中一种，逻辑上没有问题……但问题在于，‘全黑之眼’内的精神污染不是普通非凡者的，来自邪神‘真实造物主’。"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "太阳胸针作为克莱恩拥有的强力净化物品被提及，他曾在战斗中使用。",
+      "identInfos": [
+        "克莱恩花费2000镑购买的封印物",
+        "具有强力净化驱邪能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 583,
+          "extractReason": "UPDATE",
+          "evidenceText": "虽然为了最好地扮演伊莲，不被“疾病中将”特雷茜发现破绽，他不仅未带其余神奇物品和钱包现金，就连刚制作的那些与水、风领域相关的符咒都丢在了灰雾之上。"
+        }
+      ]
+    }
+  ]
+}

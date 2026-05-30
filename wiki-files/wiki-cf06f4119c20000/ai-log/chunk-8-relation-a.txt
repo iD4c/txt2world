@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 162,
+      "toChapterSeq": 165,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩发现老尼尔行为异常后向队长报告，并参与处理其失控。老尼尔在失控边缘试图欺骗和恳求克莱恩离开，但克莱恩保持怀疑并最终目睹其死亡。"
+    },
+    {
+      "fromChapterSeq": 163,
+      "toChapterSeq": 165,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "下级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "邓恩作为队长，面对老尼尔的失控，用封印物“安静发丝”控制并最终与洛耀一起射杀了他。老尼尔在失控中对邓恩既有恳求又有愤怒对峙。"
+    },
+    {
+      "fromChapterSeq": 166,
+      "toChapterSeq": 168,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "克雷斯泰·塞西玛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "克雷斯泰作为高级执事对克莱恩进行晋升考查，并在考查后传授“扮演法”核心、提供“小丑”魔药配方和材料，帮助克莱恩成功晋升序列8。克莱恩以半真半假的回答通过测试。"
+    },
+    {
+      "fromChapterSeq": 169,
+      "toChapterSeq": 180,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩感谢阿兹克在莫尔斯小镇的帮助，并告知占卜发现死神陵寝。阿兹克决定暂时离开廷根引开可能的幕后黑手，并将召唤其信使的铜哨留给克莱恩，两人保持盟友关系。"
+    },
+    {
+      "fromChapterSeq": 173,
+      "toChapterSeq": 174,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "达斯特·古德里安",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "达斯特向克莱恩提供重要信息：疯人院患者胡德·欧根曾与诈骗犯兰尔乌斯有联系，且兰尔乌斯可能是“诈骗师”非凡者。克莱恩作为线人管理者接收情报。"
+    },
+    {
+      "fromChapterSeq": 174,
+      "toChapterSeq": 174,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "戴莉·西蒙妮",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩召唤戴莉的信使寄信，请教活人通灵技巧，以获取兰尔乌斯的线索。戴莉在本章未直接出场。"
+    },
+    {
+      "fromChapterSeq": 175,
+      "toChapterSeq": 176,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思·沃尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "休和佛尔思在调查齐林格斯过程中共同行动，遭遇危险时佛尔思使用神奇物品带休逃脱，两人持续搭档关系。"
+    },
+    {
+      "fromChapterSeq": 175,
+      "toChapterSeq": 176,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "苏茜",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "喜欢",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "苏茜作为信使与休和佛尔思接头，带回齐林格斯事件调查报告，奥黛丽从苏茜处接收情报。苏茜因误食魔药具有超凡能力，协助奥黛丽。"
+    },
+    {
+      "fromChapterSeq": 176,
+      "toChapterSeq": 180,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩以“愚者”身份向戴里克询问白银城的献祭仪式，获得详细流程和祈祷文，为自身试验献祭与赐予做准备。戴里克如实提供信息。"
+    }
+  ]
+}

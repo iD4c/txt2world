@@ -1,0 +1,1248 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "从莎伦处获知阿蒙家族陵墓及高序列强者悬赏调查侠盗黑皇帝的情报，将陵墓情报卖给机械之心换取金钱报酬。接受埃德萨克王子委托调查塔利姆猝死案，占卜发现塔利姆死于诅咒且背后涉及0级封印物或同层次强者。在塔罗会上以愚者身份警告勿提黄昏隐士会之名，并安排太阳再探堕落造物主神庙。获得机械之心2000镑报酬，凑齐无面人材料后成功晋升序列6无面人，能力大幅提升。在塔利姆葬礼上发现咒杀者竟是王子禁足的平民女子，对方身怀恐怖力量，决定彻底放弃调查。探索灰雾空间发现光之阶梯，猜测与序列提升相关。",
+      "identInfos": [
+        "夏洛克·莫里亚蒂大侦探",
+        "塔罗会愚者",
+        "值夜者前成员",
+        "占卜家途径无面人"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "侠盗黑皇帝",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "调查侠盗‘黑皇帝’的真实身份。"
+        },
+        {
+          "chapterSeq": 437,
+          "extractReason": "UPDATE",
+          "evidenceText": "类似诅咒的非凡手段？克莱恩瞬间做出了初步的判断。"
+        },
+        {
+          "chapterSeq": 443,
+          "extractReason": "UPDATE",
+          "evidenceText": "塔利姆确实死于突发的心脏疾病……他皱起眉头，露出疑惑、不解和思索的表情。"
+        },
+        {
+          "chapterSeq": 443,
+          "extractReason": "UPDATE",
+          "evidenceText": "梦见的是与之前截然不同的画面……一只手掌伸了过来，皮肤白皙细腻，光滑有致，五指修长纤美，骨肉均匀。最引人注意的是，这手掌的小指之上戴着枚镶嵌蓝宝石，造型别致的戒指。啪！那手掌的食指缭绕虚幻黑焰，点在了木偶的心脏位置。"
+        },
+        {
+          "chapterSeq": 444,
+          "extractReason": "UPDATE",
+          "evidenceText": "她左掌的小指位置，一颗蓝色的宝石隐隐约约呈现了出来。克莱恩的头皮一下发麻。他整个人都在发麻。"
+        },
+        {
+          "chapterSeq": 445,
+          "extractReason": "UPDATE",
+          "evidenceText": "你的选择是人类的本能，神不会责怪你的。"
+        },
+        {
+          "chapterSeq": 446,
+          "extractReason": "UPDATE",
+          "evidenceText": "您忠诚的仆人阿罗德斯向您报告探索的情况。"
+        },
+        {
+          "chapterSeq": 447,
+          "extractReason": "UPDATE",
+          "evidenceText": "人皮幽影的特性……它就差它了……克莱恩一阵欣喜。"
+        },
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩当即露出真心诚意的笑容：'好！'"
+        },
+        {
+          "chapterSeq": 451,
+          "extractReason": "UPDATE",
+          "evidenceText": "晋升序列6无面人，能力大幅提升。"
+        },
+        {
+          "chapterSeq": 451,
+          "extractReason": "UPDATE",
+          "evidenceText": "晚安，无面人。"
+        },
+        {
+          "chapterSeq": 453,
+          "extractReason": "UPDATE",
+          "evidenceText": "看见了一座阶梯，通往天国般的阶梯！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [434, 435, 436, 437, 438, 439, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "向克莱恩提供阿蒙家族陵墓及人皮幽影特性线索，并告知有高序列强者悬赏调查侠盗黑皇帝的真实身份。透露自己曾追踪陵墓导致朋友死亡。接受克莱恩分给她的情报费800镑和两根深海娜迦头发。告知图铎后裔拉夫特·庞德正在挖掘地下遗迹通道。",
+      "identInfos": [
+        "怨魂小姐",
+        "马里奇同伴",
+        "玫瑰学派成员",
+        "淡金发蓝眼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "马里奇参加的一个聚会里，曾经有人发现了一座古代贵族的陵墓……他的姓氏是：阿蒙。"
+        },
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "调查侠盗‘黑皇帝’的真实身份。"
+        },
+        {
+          "chapterSeq": 450,
+          "extractReason": "UPDATE",
+          "evidenceText": "把你上次提供的消息卖了个好价钱……800镑加两根深海娜迦的头发，总计价值在1000镑上下，这是你应该得到的。"
+        },
+        {
+          "chapterSeq": 450,
+          "extractReason": "UPDATE",
+          "evidenceText": "有人在挖掘通道去地下遗迹。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [434, 450]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "出售千面狩猎者脑部异变垂体和血液给克莱恩，交易金额1450镑。在丰收教堂交易时表现谨慎。因克莱恩用火焰跳跃消失而心疼皮箱和锡盒。",
+      "identInfos": [
+        "吸血鬼",
+        "丰收教堂信徒",
+        "曾被乌特拉夫斯基神父囚禁"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特伸手梳理了下头发，将皮箱提至胸前……先让我验证一下是不是我需要的那两件材料……1450镑。"
+        },
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "我的皮箱……我的锡盒……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [435]
+    },
+    {
+      "name": "乌特拉夫斯基神父",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在丰收教堂出现，作为埃姆林·怀特的庇护者，目睹了克莱恩与埃姆林的交易。",
+      "identInfos": [
+        "丰收教堂半巨人神父",
+        "大地母神教会成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "弯腰拿住手提箱，向斜后方退了几步，更加靠近了正专心祈祷的乌特拉夫斯基神父。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [435]
+    },
+    {
+      "name": "卡尔森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为机械之心成员，在幸运儿酒吧与克莱恩接头，接受其关于东区传播原初造物主信仰的举报。引见执事伊康瑟处理阿蒙陵墓情报。后接收塔利姆死亡案信息并转交代罚者。通知克莱恩去机械研究会挑选陵墓收获报酬。",
+      "identInfos": [
+        "机械之心成员",
+        "戴厚重眼镜"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "东区很多人在传播原初造物主信仰。"
+        },
+        {
+          "chapterSeq": 436,
+          "extractReason": "UPDATE",
+          "evidenceText": "你想要什么？"
+        },
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘机械之心’成员卡尔森才拉响了他家的门铃。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [435, 436, 437, 449]
+    },
+    {
+      "name": "伊康瑟·伯纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为机械之心执事，接受克莱恩关于阿蒙家族陵墓的情报，并承诺报酬。组织探索陵墓，主持战斗清理。探索中发现阿蒙陵墓为空且壁画揭示阿蒙与亚当为远古太阳神后裔。事后让克莱恩挑选报酬，最终给予2000镑。",
+      "identInfos": [
+        "机械之心执事",
+        "头发蓬松",
+        "携带魔镜阿罗德斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 436,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘机械之心’的执事伊康瑟·伯纳德就带着卡尔森返回了酒吧。你的要求没有问题。"
+        },
+        {
+          "chapterSeq": 446,
+          "extractReason": "UPDATE",
+          "evidenceText": "您忠诚的仆人阿罗德斯向您报告探索的情况。"
+        },
+        {
+          "chapterSeq": 448,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙……亚当……"
+        },
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊康瑟明显松了口气，理了下头发，微笑回答道：'1500镑。不过，我们鼓励你选金钱，所以，总计2000镑。'"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [436, 446, 447, 448, 449]
+    },
+    {
+      "name": "塔利姆·杜蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在克拉格俱乐部与克莱恩交谈后猝死，疑似诅咒。生前是埃德萨克王子的朋友，帮助克莱恩介绍投资。死后引发克莱恩调查，葬礼上出现可疑女子。",
+      "identInfos": [
+        "马术教师",
+        "贵族后裔",
+        "埃德萨克王子朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 436,
+          "extractReason": "UPDATE",
+          "evidenceText": "扑通的重重跌倒声……塔利姆·杜蒙特倒在地上，左手死死地按着心脏位置，身体不断抽搐。"
+        },
+        {
+          "chapterSeq": 439,
+          "extractReason": "UPDATE",
+          "evidenceText": "对塔利姆死亡之事的调查并没有经过我，莫里亚蒂先生，我希望你帮我找出真相。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [436, 437, 438, 439, 443, 444]
+    },
+    {
+      "name": "埃德萨克·奥古斯都",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "拉斯廷伯爵，三王子，委托克莱恩调查塔利姆死因。提供经费和塔利姆遗物。对平民女子有情愫并将其禁足于庄园。在塔利姆葬礼后询问调查进展，对朋友之死表示悲伤。",
+      "identInfos": [
+        "鲁恩三王子",
+        "拉斯廷伯爵",
+        "奥古斯都家族成员"
+      ],
+      "aliases": [
+        {
+          "alias": "埃德萨克王子",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 438,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是国王陛下的第五个孩子，拉斯廷伯爵，埃德萨克·奥古斯都王子殿下。"
+        },
+        {
+          "chapterSeq": 439,
+          "extractReason": "UPDATE",
+          "evidenceText": "对塔利姆死亡之事的调查并没有经过我，莫里亚蒂先生，我希望你帮我找出真相。"
+        },
+        {
+          "chapterSeq": 444,
+          "extractReason": "UPDATE",
+          "evidenceText": "虽然很遗憾，但我还是想说塔利姆是因为突发心脏疾病去世的。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [438, 439, 444, 453]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上报告尼根公爵案细节，愚者警告勿提黄昏隐士会之名。为世界求购人皮幽影特性，通过心理炼金会渠道成功获得，并帮倒吊人交易风眷者配方。自己求购心理医生材料。已晋升序列7心理医生（未在本chunk明示，但提及配方和材料）。父亲书房发现东区调查报告。",
+      "identInfos": [
+        "正义小姐",
+        "霍尔伯爵女儿",
+        "塔罗会成员",
+        "心理炼金会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 439,
+          "extractReason": "UPDATE",
+          "evidenceText": "我新得到了三页罗塞尔日记。"
+        },
+        {
+          "chapterSeq": 441,
+          "extractReason": "UPDATE",
+          "evidenceText": "我求购三种材料，镜龙的眼睛一对，它的血液50毫升，以及长者之树的果实。"
+        },
+        {
+          "chapterSeq": 442,
+          "extractReason": "UPDATE",
+          "evidenceText": "凡有言，必被知……谨遵您的吩咐。"
+        },
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "人皮幽影的特性2500镑，‘风眷者’的魔药配方3000镑。"
+        },
+        {
+          "chapterSeq": 451,
+          "extractReason": "UPDATE",
+          "evidenceText": "对方担忧特性不吻合……由我保管。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [439, 441, 442, 449, 451]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上为世界卖出狼人非凡特性获1200镑，找到深海娜迦头发线索。为魔术师解释非凡特性遗传问题。自己求购风眷者配方，后通过正义以黄金面具交换获得。在慷慨之城筹备晋升序列5。",
+      "identInfos": [
+        "倒吊人先生",
+        "风暴教会非凡者",
+        "幽蓝复仇者号船长"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 441,
+          "extractReason": "UPDATE",
+          "evidenceText": "你的‘狼人’非凡特性卖出去了……还有，我找到了深海娜迦头发的线索。"
+        },
+        {
+          "chapterSeq": 442,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列6和序列5会自然地遗传一部分……"
+        },
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "我愿意用这件神奇物品交换‘风眷者’魔药配方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [439, 441, 442, 449]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上被安排再探堕落造物主神庙。在白银城跟随首席科林·伊利亚特出发探索，途中回忆父母教导的黑暗生存法则。",
+      "identInfos": [
+        "太阳先生",
+        "白银城居民",
+        "塔罗会成员"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 442,
+          "extractReason": "UPDATE",
+          "evidenceText": "我又被安排探索任务了。"
+        },
+        {
+          "chapterSeq": 445,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格背负皮制的囊袋，手提‘飓风之斧’，与近十名队友一起站在门洞之外。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [439, 441, 442, 445]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上询问同层次非凡特性积累过多的解决方法，得知需靠扮演消化或生育。告知自己被迫再服食一份学徒魔药。承诺搜集十页罗塞尔日记给愚者。发现A先生聚会据点被打击。",
+      "identInfos": [
+        "魔术师小姐",
+        "畅销小说作家",
+        "亚伯拉罕家族学生"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 442,
+          "extractReason": "UPDATE",
+          "evidenceText": "你们有办法解决同层次非凡特性积累太多的问题吗？"
+        },
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思已将自己有了老师并重新服用了一份‘学徒’魔药的事情告诉了好友休·迪尔查。"
+        },
+        {
+          "chapterSeq": 440,
+          "extractReason": "UPDATE",
+          "evidenceText": "我也会尽快搜集十页罗塞尔日记给您。"
+        },
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "这里有过一场激烈的战斗……谁在对付A先生？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [435, 439, 440, 442]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "与佛尔思同往A先生聚会发现据点被毁。接受军情九处委托求购审讯者材料，得知配方主材料，怀疑与自身晋升材料来源有关。透露家族破落真相：父亲被控叛乱处死，决心恢复家族名誉。",
+      "identInfos": [
+        "赏金猎人",
+        "破落贵族后裔",
+        "佛尔思好友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "她和佛尔思是来参加A先生召集的非凡者聚会的。"
+        },
+        {
+          "chapterSeq": 452,
+          "extractReason": "UPDATE",
+          "evidenceText": "我接受这个委托。"
+        },
+        {
+          "chapterSeq": 452,
+          "extractReason": "UPDATE",
+          "evidenceText": "我的家族属于宫廷贵族……被判处绞刑，剥夺了爵位和封地。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [435, 452]
+    },
+    {
+      "name": "霍拉米克·海顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蒸汽与机械教会贝克兰德教区大主教，半神半人。率领机械之心探索阿蒙家族陵墓，以炼制人偶替代自身规避危险，成功处理幽灵画框等危机。发现主墓室为空，揭示阿蒙与亚当壁画后将其摧毁。打开通往深渊的石门。",
+      "identInfos": [
+        "蒸汽教会大主教",
+        "半神半人",
+        "通识者途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 446,
+          "extractReason": "UPDATE",
+          "evidenceText": "大主教……这就是蒸汽与机械教会贝克兰德教区的大主教，半神半人的霍拉米克·海顿？"
+        },
+        {
+          "chapterSeq": 447,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍拉米克一步一步前行，靠近着那个奇怪的画框。"
+        },
+        {
+          "chapterSeq": 448,
+          "extractReason": "UPDATE",
+          "evidenceText": "没有尸体。"
+        },
+        {
+          "chapterSeq": 448,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙……亚当……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [446, 447, 448]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "其家族陵墓被机械之心探索，发现主墓室为空，仅留肖像画。壁画揭示阿蒙与亚当为远古太阳神后裔，被十二翼天使抱上山。陵墓内有时间掠夺陷阱。阿蒙可能借道深渊离开。",
+      "identInfos": [
+        "渎神者",
+        "阿蒙家族成员",
+        "戴单片眼镜",
+        "时之虫"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "他的姓氏是：阿蒙。"
+        },
+        {
+          "chapterSeq": 448,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一副肖像画，画的是一位嘴角含笑的年轻男子。他黑眼睛，黑卷发。他宽额头，瘦脸庞。他挂着水晶单片眼镜。他戴着黑色的尖顶软帽。阿蒙！"
+        },
+        {
+          "chapterSeq": 448,
+          "extractReason": "UPDATE",
+          "evidenceText": "山脉下方，两个背生十二翼的天使，各自抱着一个婴儿……左侧的婴儿有微卷的黑发……阿蒙。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [434, 448]
+    },
+    {
+      "name": "亚当",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在阿蒙陵墓壁画中被提及，与阿蒙同为远古太阳神后裔，被十二翼天使抱上山。身份神秘。",
+      "identInfos": [
+        "远古太阳神后裔",
+        "阿蒙兄弟"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 448,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "右侧的那个则长着淡金的头发……亚当……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [448]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城六人议事团首席，猎魔者。率领探索小队前往堕落造物主神庙，携带双直剑和多种金属小瓶。",
+      "identInfos": [
+        "白银城首席",
+        "猎魔者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 445,
+          "extractReason": "UPDATE",
+          "evidenceText": "来者正是白银城‘六人议事团’首席，科林·伊利亚特，一位强大的‘猎魔者’。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [445]
+    },
+    {
+      "name": "伊思兰特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的心理学教师，心理炼金会成员。代表组织与奥黛丽交易人皮幽影特性和风眷者配方，接受2500镑和黄金面具。",
+      "identInfos": [
+        "心理炼金会成员",
+        "奥黛丽的心理学教师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "人皮幽影的特性2500镑，‘风眷者’的魔药配方3000镑。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [449, 451]
+    },
+    {
+      "name": "多里安·格雷",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思的老师，亚伯拉罕家族成员，教导扮演法，给予戏法大师配方，让佛尔思自寻材料。",
+      "identInfos": [
+        "亚伯拉罕家族成员",
+        "佛尔思老师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "她的老师多里安·格雷离开前教导了她扮演法，并给了她一份‘戏法大师’的魔药配方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [435]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "大侦探，智慧之眼。帮助克莱恩打听塔利姆案件，得知案件被王室要走。",
+      "identInfos": [
+        "智慧之眼",
+        "大侦探"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 437,
+          "extractReason": "UPDATE",
+          "evidenceText": "这个案子不是‘代罚者’处理的，王室以塔利姆·杜蒙特是贵族后裔的名义，将案子要了过去。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [437]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "线人，向克莱恩汇报阿兹克悬赏情报、东区人员离开等消息。带克莱恩去金斗篷街调查。",
+      "identInfos": [
+        "东区线人",
+        "前流浪汉"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 445,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克·艾格斯的悬赏来自于几个黑帮的老大和某些情报贩子。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [445]
+    },
+    {
+      "name": "迈克·约瑟夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "记者，参加塔利姆葬礼，表达哀悼。",
+      "identInfos": [
+        "记者",
+        "克莱恩朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 444,
+          "extractReason": "UPDATE",
+          "evidenceText": "记者迈克和外科医生艾伦靠拢了过来……真是让人遗憾啊。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [444]
+    },
+    {
+      "name": "艾伦医生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "外科医生，参加塔利姆葬礼，表达哀悼。",
+      "identInfos": [
+        "外科医生",
+        "克莱恩朋友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 444,
+          "extractReason": "UPDATE",
+          "evidenceText": "一贯冷冷淡淡的艾伦摘下眼镜……他是一个热情的家伙，不该有这样的结局。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [444]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过政府雇员统一考试，计划新年带梅丽莎迁居贝克兰德。",
+      "identInfos": [
+        "克莱恩哥哥",
+        "政府雇员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 452,
+          "extractReason": "UPDATE",
+          "evidenceText": "通过！而且是靠前的位置！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [452]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "得知班森通过考试，计划迁居贝克兰德，准备转学至工业与技术大学。",
+      "identInfos": [
+        "克莱恩妹妹",
+        "技术学校学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 452,
+          "extractReason": "UPDATE",
+          "evidenceText": "通过！……这真是太好了……你得开始准备一月底的第二轮考试了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [452]
+    },
+    {
+      "name": "拉夫特·庞德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "图铎王朝后裔，从男爵。正在挖掘通道至地下遗迹。",
+      "identInfos": [
+        "图铎后裔",
+        "从男爵"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 450,
+          "extractReason": "UPDATE",
+          "evidenceText": "有人在挖掘通道去地下遗迹……那个什么从男爵？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [450]
+    }
+  ],
+  "factions": [
+    {
+      "name": "机械之心",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "接受克莱恩提供的阿蒙家族陵墓情报，组织探索队由大主教霍拉米克率领，采用炮火洗地式清理，缴获人皮幽影特性、幽灵画框等物品。事后支付克莱恩2000镑报酬。探索中发现阿蒙陵墓为空，壁画揭示阿蒙与亚当为远古太阳神后裔，大主教摧毁壁画。进入深渊石门。",
+      "identInfos": [
+        "蒸汽与机械之神教会非凡者小队",
+        "擅长使用非凡武器和卷轴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 446,
+          "extractReason": "UPDATE",
+          "evidenceText": "开始行动，神会庇佑我们的。"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "本周聚会上，正义报告尼根公爵案细节，愚者警告勿提黄昏隐士会之名；倒吊人为世界卖出狼人特性并找到深海娜迦头发；太阳被安排再探堕落造物主神庙；魔术师询问特性积累问题；正义为世界求购人皮幽影特性，倒吊人以神奇物品交换风眷者配方；讨论非凡特性遗传等知识。",
+      "identInfos": [
+        "愚者召集的神秘组织",
+        "成员以塔罗牌为代号"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 439,
+          "extractReason": "UPDATE",
+          "evidenceText": "尊敬的‘愚者’先生，我新得到了三页罗塞尔日记。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过伊思兰特向奥黛丽出售人皮幽影特性（2500镑）和风眷者魔药配方（3000镑），接受黄金面具作为交换。奥黛丽加入该组织并预支心理医生配方。",
+      "identInfos": [
+        "隐秘组织",
+        "研究心灵领域和集体潜意识"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "人皮幽影的特性和‘风眷者’的魔药配方，我们都有。"
+        }
+      ]
+    },
+    {
+      "name": "阿蒙家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "第四纪图铎王朝五大家族之一，被誉为渎神者，自称远古太阳神后裔。其陵墓位于白崖镇斯特福德河湾，内有人皮幽影等怪物，主墓室为空仅留阿蒙肖像画。壁画揭示阿蒙与亚当为远古太阳神后裔。",
+      "identInfos": [
+        "第四纪渎神者家族",
+        "掌握时间领域"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "陵墓的主人属于第四纪的图铎王朝，家族名称是阿蒙。"
+        },
+        {
+          "chapterSeq": 448,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙……亚当……"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "A先生据点被官方打击，新闻称极光会据点被发现，恐怖组织遭遇沉重打击。",
+      "identInfos": [
+        "信仰真实造物主的隐秘组织",
+        "恐怖组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "《极光会据点被发现，恐怖组织遭遇沉重打击》"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过面具男委托休求购治安官和审讯者材料，并告知审讯者配方主材料。疑似悬赏阿兹克·艾格斯。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "处理超凡事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 452,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘审讯者’魔药的主材料是，闪纹黑蛇的角，湖中之灵的粉尘。"
+        }
+      ]
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上被愚者警告不可提及名称，凡有言必被知。驱使欲望使徒刺杀尼根公爵的幕后组织。",
+      "identInfos": [
+        "隐秘组织",
+        "凡有言必被知"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 442,
+          "extractReason": "UPDATE",
+          "evidenceText": "在外界，不要提那个组织的名称，也不要写下来。凡有言，必被知。"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "派出由首席科林率领的探索小队再探堕落造物主神庙。成员需携带蜡烛防范黑暗。",
+      "identInfos": [
+        "神弃之地幸存者聚居地",
+        "六人议事团统治"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 445,
+          "extractReason": "UPDATE",
+          "evidenceText": "来者正是白银城‘六人议事团’首席，科林·伊利亚特。"
+        }
+      ]
+    },
+    {
+      "name": "奥古斯都家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "鲁恩王室，信仰风暴之主。埃德萨克王子委托克莱恩调查塔利姆死因。家族纹章为审判之剑。",
+      "identInfos": [
+        "鲁恩王室",
+        "天使家族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 438,
+          "extractReason": "UPDATE",
+          "evidenceText": "那纹章的主体是一把竖直向下的剑，剑的柄部则有一个红色的皇冠……代表王室奥古斯都家族的‘审判之剑’！"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "无面人魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩收集齐材料后调配晋升序列6无面人。主材料：千面狩猎者脑部异变垂体、人皮幽影特性。辅助材料：千面狩猎者血液、黑色曼陀罗汁液等。服食后脸部融化，最终长出肉芽，成功后获得改变外貌能力。",
+      "identInfos": [
+        "占卜家途径序列6魔药",
+        "服食后可改变外貌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 451,
+          "extractReason": "UPDATE",
+          "evidenceText": "无面人：主要材料，千面狩猎者的脑部异变垂体，人皮幽影的特性……晋升序列6，成为了‘无面人’！"
+        }
+      ]
+    },
+    {
+      "name": "人皮幽影特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "无面人魔药主材料之一。机械之心在阿蒙陵墓中缴获一颗，克莱恩通过心理炼金会渠道购得另一颗。在陵墓中表现为人皮攻击方式。",
+      "identInfos": [
+        "无面人魔药主材料",
+        "形如映照人脸钻石"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "曾经有人发现了一座古代贵族的陵墓……有发现人皮幽影活动的痕迹。"
+        },
+        {
+          "chapterSeq": 446,
+          "extractReason": "UPDATE",
+          "evidenceText": "人皮幽影的特性已聚集成型，它就像一颗硕大的钻石。"
+        },
+        {
+          "chapterSeq": 451,
+          "extractReason": "UPDATE",
+          "evidenceText": "人皮幽影的特性……‘无面人’……主要材料……"
+        }
+      ]
+    },
+    {
+      "name": "千面狩猎者脑部异变垂体",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "无面人魔药主材料之一，从埃姆林·怀特处购得。外观似剥壳胡桃，有大脑纹路，不断变化外形。",
+      "identInfos": [
+        "无面人魔药主材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "里面的物品仿佛剥掉外壳的胡桃，呈黄棕色，有大脑纹路般的凸起和凹陷。"
+        }
+      ]
+    },
+    {
+      "name": "千面狩猎者血液",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "无面人魔药辅助材料，购自埃姆林·怀特。颜色随光线变化。剩余20毫升留作他用。",
+      "identInfos": [
+        "无面人魔药辅助材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 435,
+          "extractReason": "UPDATE",
+          "evidenceText": "千面狩猎者的血液……能随光线变化修改自身颜色。"
+        }
+      ]
+    },
+    {
+      "name": "深海娜迦头发",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "无面人魔药辅助材料，需3根。倒吊人从慷慨之城找到，100镑一根。克莱恩分两根给莎伦。",
+      "identInfos": [
+        "无面人魔药辅助材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 441,
+          "extractReason": "UPDATE",
+          "evidenceText": "我找到了深海娜迦头发的线索，一根100镑，而你一共是要5根。"
+        }
+      ]
+    },
+    {
+      "name": "幽灵画框",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿蒙家族陵墓内封印物，能将灵体封入画中。机械之心大主教用人偶破解后缴获。被黑布包裹。",
+      "identInfos": [
+        "阿蒙家族封印物",
+        "封印灵体"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 447,
+          "extractReason": "UPDATE",
+          "evidenceText": "它应该就是资料记载里属于阿蒙家族的‘幽灵画框’，只要走进它的范围，被它映照入内，灵体就会瞬间脱离血肉，成为一张肖像画。"
+        }
+      ]
+    },
+    {
+      "name": "黄金面具",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "神奇物品，倒吊人用于交换风眷者配方。佩戴后变得冷静，获得恢复力、速度、力量及黑魔法能力，副作用是逐渐冷酷。",
+      "identInfos": [
+        "神奇物品",
+        "佩戴后面具"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "只要戴上这张面具，使用者就将变得极为冷静……最终将自己当成神灵。"
+        }
+      ]
+    },
+    {
+      "name": "风眷者魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "倒吊人求购的序列6魔药配方，通过心理炼金会以黄金面具交换获得。主材料：蓝影隼结晶羽毛、龙眼海雕眼珠。",
+      "identInfos": [
+        "序列6魔药配方",
+        "风暴途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 451,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列6，‘风眷者’，主材料：蓝影隼的六根结晶羽毛，龙眼海雕的眼珠一对……"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "提及为克莱恩拥有的神奇物品，未在本chunk中使用或详细描述。",
+      "identInfos": [
+        "神奇物品",
+        "太阳领域"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘太阳胸针’？这是我自己要用的，能有效弥补我的短板……"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩拥有的神奇物品，与灵体状态相配，可用于单挑一群非凡者。未在本chunk使用。",
+      "identInfos": [
+        "神奇物品",
+        "毒素"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "生物毒素瓶？这和我的灵体状态非常配，用得好甚至能让我单挑一群非凡者……"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩拥有的神奇物品，涉及门先生隐秘，价值与人皮幽影特性相差较远。",
+      "identInfos": [
+        "神奇物品",
+        "涉及门先生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘万能钥匙’？涉及‘门’先生，有太多的隐秘……"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩拥有的序列5秘偶大师主材料，等待太阳找到去除污染方法。未在本chunk使用。",
+      "identInfos": [
+        "序列5主材料",
+        "被污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘全黑之眼’？肯定不行，这是序列5‘秘偶大师’的主材料……"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "亵渎之牌，见不得光。克莱恩从博物馆盗走，高序列女性强者悬赏调查侠盗黑皇帝可能与此有关。",
+      "identInfos": [
+        "亵渎之牌",
+        "黑皇帝途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 434,
+          "extractReason": "UPDATE",
+          "evidenceText": "调查侠盗‘黑皇帝’的真实身份……确认盗走‘亵渎之牌’的窃贼是一个灵体……"
+        }
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "魔镜，向克莱恩直播机械之心探索阿蒙陵墓过程，自称忠实的仆人。能记录并回放场景。",
+      "identInfos": [
+        "神奇物品魔镜",
+        "有较高智慧和恶趣味"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 446,
+          "extractReason": "UPDATE",
+          "evidenceText": "您忠诚的仆人阿罗德斯向您报告探索的情况。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩拥有的联络阿兹克的道具，仅能召唤信使。未在本chunk使用。",
+      "identInfos": [
+        "召唤阿兹克信使",
+        "铜哨"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 449,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克先生的铜哨？它目前只有召唤信使的作用……"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "在回忆中提及的克莱恩早期经历的物品。",
+      "identInfos": [
+        "第四纪安提哥努斯家族笔记"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 444,
+          "extractReason": "UPDATE",
+          "evidenceText": "安提哥努斯家族笔记……"
+        }
+      ]
+    }
+  ]
+}

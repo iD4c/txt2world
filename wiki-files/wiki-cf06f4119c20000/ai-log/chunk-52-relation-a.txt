@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1007,
+      "toChapterSeq": 1008,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩请求奥黛丽帮忙催眠海柔尔等被寄生者，消除恐怖记忆和单片眼镜喜好，并引导他们向黑夜女神祈祷净化。奥黛丽完成治疗后，克莱恩承诺赠送一枚“窃运者”符咒作为诊金。"
+    },
+    {
+      "fromChapterSeq": 1007,
+      "toChapterSeq": 1008,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩写信给伦纳德询问“时之虫”的其他用途，并提及帕列斯提出的合作开启雅各家族宝藏的计划，伦纳德转达帕列斯的回复。"
+    },
+    {
+      "fromChapterSeq": 1011,
+      "toChapterSeq": 1011,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "中立",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "“神秘女王”贝尔纳黛",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "中立",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩与贝尔纳黛在贝克兰德大桥见面，贝尔纳黛透露罗塞尔可能未彻底陨落，因为第九座秘密陵寝未被发现，并提到罗塞尔曾警告“小心观众”。她感谢愚者提供血液助嘉德丽雅晋升，并解释“窥秘人”序列3为“预言大师”。"
+    },
+    {
+      "fromChapterSeq": 1018,
+      "toChapterSeq": 1021,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "谢尔曼",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "冷淡",
+          "bond": "朋友",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "休在监视斯特福德子爵时发现其与旧友谢尔曼有染，而谢尔曼已通过魔女途径变为女性化名雪曼。休追上马车认出对方后答应离开，但谢尔曼挣扎后未杀休。后续休和佛尔思卷入仓库冲突，休杀死失控的雪曼。两人曾是旧友，但因立场变化产生对峙。"
+    },
+    {
+      "fromChapterSeq": 1019,
+      "toChapterSeq": 1021,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "斯特福德子爵",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "休和佛尔思跟踪斯特福德子爵至仓库，目睹其欲用“光辉十字架”净化雪曼，出手阻止并擒获斯特福德子爵。休审讯得知其效忠国王乔治三世，并获知前宫廷侍卫长梅森·迪尔因发现国王秘密被处决。斯特福德子爵在说出秘密前崩溃身亡。"
+    },
+    {
+      "fromChapterSeq": 1022,
+      "toChapterSeq": 1024,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "阿里安娜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩通过祈祷将国王嫌疑告知黑夜女神，阿里安娜前来，计划在玫歌庄园伏击丘纳斯·科尔格。阿里安娜提供隐秘辅助并为丘纳斯施加厄运，配合克莱恩完成伏击。"
+    },
+    {
+      "fromChapterSeq": 1022,
+      "toChapterSeq": 1024,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "下级",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "丘纳斯·科尔格",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩为调查大雾霾真相，在玫歌庄园设伏制服丘纳斯·科尔格。战斗中克莱恩利用秘偶群和厄运转移，最终将其重伤并转化为秘偶，准备审讯获取国王秘密。丘纳斯是克莱恩的敌对目标，曾试图反抗但失败。"
+    },
+    {
+      "fromChapterSeq": 1017,
+      "toChapterSeq": 1021,
+      "characterA": {
+        "name": "休·迪尔查",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "休和佛尔思跟踪雪曼并卷入仓库冲突，整个过程被克莱恩通过灰雾观察。克莱恩未直接介入，但事后结合斯特福德子爵供词推断出国王为大雾霾元凶。两人作为塔罗会成员存在合作关系，休是“审判”，接受愚者领导。"
+    },
+    {
+      "fromChapterSeq": 1010,
+      "toChapterSeq": 1010,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "欧内斯·博雅尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林在丰收教堂以子爵身份戏弄欧内斯，并思考将战利品分配。欧内斯作为被惩戒对象，目前处于受埃姆林制约的状态，但双方并非敌人，而是惩戒行动后形成的临时层级关系。"
+    }
+  ]
+}

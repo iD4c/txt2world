@@ -1,0 +1,179 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 603,
+      "toChapterSeq": 611,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "达克威尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩接受达克威尔的保镖委托，护送其前往奥拉维岛，途中处理概率之骰引发的灾难并成功抵达。"
+    },
+    {
+      "fromChapterSeq": 606,
+      "toChapterSeq": 606,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "威尔·昂赛汀",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩通过千纸鹤向威尔询问概率之骰的处理方法，威尔告知其名称、途径、唯一性及恐吓方案。"
+    },
+    {
+      "fromChapterSeq": 609,
+      "toChapterSeq": 612,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托埃姆林向伦纳德求购能窃取非凡能力的手套“火种”，埃姆林完成交易，克莱恩获得手套并清除天使气息。"
+    },
+    {
+      "fromChapterSeq": 609,
+      "toChapterSeq": 609,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林持命运隐士徽章拜访伦纳德，求购神奇物品；伦纳德察觉其为非凡者，用梦境考验后开价7000镑出售“火种”手套。"
+    },
+    {
+      "fromChapterSeq": 611,
+      "toChapterSeq": 611,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "瑞乔德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "瑞乔德封印概率之骰后，因伤无法支付现金，通过附加幸运让达克威尔赢钱支付克莱恩尾款。"
+    },
+    {
+      "fromChapterSeq": 614,
+      "toChapterSeq": 614,
+      "characterA": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "塔罗会上，嘉德丽雅透露阿蒙为造物主之子、另一子为亚当，并确认时之虫可用于仪式或符咒，为克莱恩提供重要知识。"
+    },
+    {
+      "fromChapterSeq": 617,
+      "toChapterSeq": 620,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "艾弥留斯·利维特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩接受冒险家互助会委托，假扮海军上将艾弥留斯作为替身，签订临时契约并获得高级符咒“第九律”，开始真实扮演。"
+    }
+  ]
+}

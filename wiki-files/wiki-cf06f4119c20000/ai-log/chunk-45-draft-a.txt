@@ -1,0 +1,1908 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "以道恩·唐泰斯身份参与“鲁恩慈善助学基金”活动，与奥黛丽默契交流。伦纳德入梦讨论卡隆自杀案，推测幕后黑手为心理炼金会中高序列“观众”。通过莎伦委托，利用《格罗塞尔游记》和阿兹克铜哨，在鲁恩军方与玫瑰学派半神争夺图坦西斯二世木乃伊的混乱中盗走木乃伊，借此大幅消化“秘偶大师”魔药。得知阿蒙抵达贝克兰德寻找“愚者”组织，通知伦纳德体内天使帕列斯，计划暂离避险。通过军火交易搭上军方飞空艇前往西拜朗，伪装躲避阿蒙。塔罗会上分享阿蒙情报、阅读罗塞尔日记，并在俱乐部偶遇疑似“黑皇帝”途径半神丘纳斯·科尔格，发现其与大雾霾事件关联。",
+      "identInfos": [
+        "塔罗会首领“愚者”",
+        "身份包括道恩·唐泰斯、格尔曼·斯帕罗、夏洛克·莫里亚蒂",
+        "占卜家途径序列5“秘偶大师”",
+        "持有《格罗塞尔游记》和阿兹克铜哨",
+        "信使为蕾妮特·缇尼科尔"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 873,
+          "extractReason": "UPDATE",
+          "evidenceText": "进了佩斯菲尔街22号的大门，奥黛丽一眼就看见了从侧面走廊出来的道恩·唐泰斯。这位外表不错很有风度的绅士穿着黑色的正装，拿着一根镶金手杖，正与身旁的基金会工作人员交流着什么。"
+        },
+        {
+          "chapterSeq": 873,
+          "extractReason": "UPDATE",
+          "evidenceText": "我这不是故意过来，提前说服奥黛丽小姐的吗？有了“正义”的加入，我就可以确保在理事会上没有反对意见了"
+        },
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有事情希望能得到你的帮助，详细情况面谈。” “莎伦”"
+        },
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "“担心是玫瑰学派针对我们的陷阱。 “如果没有，1000镑，如果有，我们负责吸引注意，你拿走那具木乃伊，这视危险不同，5000镑到10000镑不等。”"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙！ “渎神者”阿蒙！"
+        },
+        {
+          "chapterSeq": 879,
+          "extractReason": "UPDATE",
+          "evidenceText": "他今晚行动计划的核心要素之一就是那枚阿兹克铜哨！ 盗取图坦西斯二世木乃伊是很困难，但我可以让它自己跑过来！"
+        },
+        {
+          "chapterSeq": 882,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩这个计划并非环环相扣，精巧到让人赞叹的那种……只要龙卷风能成功打翻棺柩，只能莎伦小姐按照吩咐，保持住无规则的运动轨迹……他弯腰行礼，一方面是拾取泥土顺便，相当于谢幕，另一方面则是为了按住胸口的《格罗塞尔游记》"
+        },
+        {
+          "chapterSeq": 883,
+          "extractReason": "UPDATE",
+          "evidenceText": "借助这次的消化，他能操纵的秘偶数目终于提升到了两个，极限距离可以达到200米……初步控制目标和将对方彻底转化为傀儡的时间，分别缩短为10秒和两分半钟，范围扩大为10米。"
+        },
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "我最近实在是太忙了，可以预见的是，接下来会更忙，可能得去一趟南大陆，处理某些事情。"
+        },
+        {
+          "chapterSeq": 888,
+          "extractReason": "UPDATE",
+          "evidenceText": "这人……克莱恩思绪电转间，精神霍然变得紧绷，已是记起了熟悉感的来源： 这是那晚和“疯船长”康纳斯见面的半神！ 疑似为王室某个派系效力，主导着人口贩卖的那位半神！"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "不是……“隐者”嘉德丽雅咀嚼着“愚者”先生的回答……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        873,
+        874,
+        875,
+        876,
+        877,
+        878,
+        879,
+        880,
+        881,
+        882,
+        883,
+        884,
+        885,
+        886,
+        887,
+        888,
+        889,
+        890,
+        891,
+        892
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "参与“鲁恩慈善助学基金”成立仪式，与道恩·唐泰斯（克莱恩）达成默契。在基金会理事会上支持克莱恩的助学基金建议。开始参与基金会的宣传和审核工作，亲自去公立初等学校了解贫困学生状况。在塔罗会上得知阿蒙抵达贝克兰德，担忧并询问是否告知教会，被愚者告知“不用管祂”。解读愚者关于罗塞尔日记的回答，对卡隆自杀案幕后黑手为心理炼金会委员感到意外。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "霍尔伯爵之女",
+        "观众途径序列6“心理医生”",
+        "“鲁恩慈善助学基金”理事"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 873,
+          "extractReason": "UPDATE",
+          "evidenceText": "进了佩斯菲尔街22号的大门，奥黛丽一眼就看见了从侧面走廊出来的道恩·唐泰斯。"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙！“时天使”阿蒙……古老的天使之王……“正义”奥黛丽一阵颤栗一阵担忧，看了眼有些茫然有些恐惧的“魔术师”佛尔思和“月亮”先生，忍不住望向青铜长桌最上首，开口问道： “尊敬的‘愚者’先生，我能想办法将这件事情告知教会吗？”"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽则认为，“那个岛”是心理学层面的自我意识之岛……而星空代指灵性天空，代指星界……“愚者”先生给的答案就相当奇怪了，似乎在说，罗塞尔大帝什么都不相信，包括他自己。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        873,
+        874,
+        886,
+        887,
+        889,
+        890,
+        892
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在克莱恩午睡时侵入其梦境，讨论卡隆自杀案，推测幕后真凶可能是心理炼金会中高序列“观众”。告知克莱恩可将因斯·赞格威尔的消息投递至平斯特街7号，并询问如何联络克莱恩。收到克莱恩关于阿蒙抵达贝克兰德的警告信，与体内寄生天使帕列斯·索罗亚斯德商议，决定借“红手套”任务离开贝克兰德以躲避阿蒙。写信告知克莱恩即将离开，并通过信使送出。",
+      "identInfos": [
+        "黑夜教会“红手套”",
+        "前值夜者成员",
+        "体内寄生有“偷盗者”途径天使帕列斯·索罗亚斯德",
+        "克莱恩·莫雷蒂的诗人同学"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 873,
+          "extractReason": "UPDATE",
+          "evidenceText": "迷迷蒙蒙的梦境里，克莱恩忽然清醒，有所警觉。 有人正尝试侵入他的梦境！ ……他就看见墨发碧瞳衬衣随意垂落的伦纳德从窗外翻了进来。"
+        },
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "感谢您的指点……我什么都没说……你的前同事让我询问你，如果他有发现因斯·赞格威尔的踪迹，该怎么告知你？"
+        },
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "平斯特街7号，伦纳德·米切尔走到书桌前，摊开了信纸……啪！伦纳德丢下钢笔，将信纸揉成一团，准确地丢进了桌脚的垃圾桶内。"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔双手交握，身体略微前倾地说道： “我们还原了卡隆临死前看到的画面……"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙已至……伦纳德的瞳孔霍然放大。 与此同时，他第一次听见了体内寄生者的“鼻息”。"
+        },
+        {
+          "chapterSeq": 885,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有任务，即将离开贝克兰德。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        873,
+        874,
+        875,
+        876,
+        885
+      ]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "写信给克莱恩，请求其协助盗取图坦西斯二世木乃伊，以作为晋升序列4“木偶”的仪式材料。通过阿罗德斯魔镜占卜，确认木乃伊实为鲁恩军方针对玫瑰学派的陷阱。与克莱恩、马里奇合作，成功在四位半神混战中盗走木乃伊。事后支付报酬，对克莱恩表示感谢。",
+      "identInfos": [
+        "玫瑰学派节制派叛逃者",
+        "序列5“怨魂”",
+        "师从前玫瑰学派天使蕾妮特·缇尼科尔",
+        "与马里奇结伴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有事情希望能得到你的帮助，详细情况面谈。” “莎伦”"
+        },
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "“图坦西斯二世曾经是高序列强者……于我们而言，它有着额外的意义，非常重要的意义，我们这次的目标就是得到这具图坦西斯二世木乃伊。”"
+        },
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "“担心是玫瑰学派针对我们的陷阱。 “如果没有，1000镑，如果有，我们负责吸引注意，你拿走那具木乃伊，这视危险不同，5000镑到10000镑不等。”"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "“图坦西斯二世木乃伊是鲁恩军方针对玫瑰学派的陷阱，对吗？”……“对。”"
+        },
+        {
+          "chapterSeq": 879,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你有‘镜面闪现’有效距离最远是多少？” “300米。”"
+        },
+        {
+          "chapterSeq": 883,
+          "extractReason": "UPDATE",
+          "evidenceText": "“谢谢。 “相应的报酬我会用寄信的方式给你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        875,
+        877,
+        878,
+        879,
+        881,
+        882,
+        883
+      ]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "与莎伦一同请求克莱恩协助盗取图坦西斯二世木乃伊。在行动中负责携带镜子、沿路丢弃以提供“镜面闪现”跳板。听从克莱恩指挥，成功参与木乃伊盗取。",
+      "identInfos": [
+        "玫瑰学派节制派叛逃者",
+        "序列6“活尸”",
+        "与莎伦结伴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "头发有点乱糟糟的马里奇身穿白衬衣、黑马甲和黑裤子，正拿着长杆，弯腰在那里打桌球。"
+        },
+        {
+          "chapterSeq": 878,
+          "extractReason": "UPDATE",
+          "evidenceText": "带了多少面镜子？” “九面。”马里奇一一展示了准备，然后指着自己的眼睛道，“它也算。”"
+        },
+        {
+          "chapterSeq": 879,
+          "extractReason": "UPDATE",
+          "evidenceText": "“跑！” 马里奇一直等待命令，闻言霍然弹起，冲出了仓库，往着码头外面狂奔而去。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        875,
+        877,
+        878,
+        879,
+        881,
+        882,
+        883
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "分身抵达贝克兰德，寻找信仰“愚者”的组织。在伊恩处留下素描形象：黑发微卷、瘦脸、戴单片眼镜。克莱恩与伦纳德等人知晓后大为紧张，帕列斯·索罗亚斯德推测分身可能不止一个，且阿蒙极其危险。",
+      "identInfos": [
+        "“渎神者”",
+        "“时天使”",
+        "天使之王",
+        "“偷盗者”途径",
+        "佩戴单片眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "渎神者",
+          "type": "称号"
+        },
+        {
+          "alias": "时天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一个黑色头发微卷，额头较宽，脸颊消瘦，眼珠深黑，戴着单片眼镜的年轻男子。 阿蒙！ “渎神者”阿蒙！"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "根据祂的习惯和风格，毫不掩饰自身存在的或许只有一个，但实际上，围绕着这个“灯塔”还有几个，十几个，甚至上百个分身。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        875,
+        876,
+        877,
+        884,
+        889,
+        890
+      ]
+    },
+    {
+      "name": "图坦西斯二世",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为古代高地王国第十九任国王法老木乃伊，被鲁恩军方从南大陆运至普利兹港，成为诱捕玫瑰学派半神麦哈姆斯的陷阱。木乃伊本身是诅咒化身，有自行变为活尸的可能。在克莱恩导演的混乱中，被其用《格罗塞尔游记》盗走，最终交给莎伦作为晋升序列4的仪式材料。",
+      "identInfos": [
+        "古代高地王国第十九任国王",
+        "法老",
+        "木乃伊",
+        "诅咒化身"
+      ],
+      "aliases": [
+        {
+          "alias": "法老",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "图坦西斯二世曾经是高序列强者，不过，在他死后，相应的特性已经被回收，只有躯体留下，制作成了木乃伊。"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "图坦西斯二世木乃伊是鲁恩军方针对玫瑰学派的陷阱，对吗？”……“对。”"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "“它充满诅咒，是诅咒的化身，存在自行变为活尸的可能。”"
+        },
+        {
+          "chapterSeq": 881,
+          "extractReason": "UPDATE",
+          "evidenceText": "一具通体缠绕着偏黄褐色亚麻布条的尸体也滚了出来，表面已浸染上暗红带油污的液体。 这正是图坦西斯二世死后制成的木乃伊"
+        },
+        {
+          "chapterSeq": 883,
+          "extractReason": "UPDATE",
+          "evidenceText": "“祝你们之后一切顺利。”克莱恩由衷地回应道。 （莎伦获得木乃伊）"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        875,
+        877,
+        878,
+        881,
+        882,
+        883
+      ]
+    },
+    {
+      "name": "麦哈姆斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派半神，高地反抗军首领，参与争夺图坦西斯二世木乃伊。在普利兹港与鲁恩军方半神激战，最终木乃伊被克莱恩盗走。",
+      "identInfos": [
+        "玫瑰学派重要成员",
+        "绰号“沉默者”",
+        "“神孽”斯厄阿的学生",
+        "高地反抗军首领"
+      ],
+      "aliases": [
+        {
+          "alias": "沉默者",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 880,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他是位有南北大陆混血儿感的中年男子……克莱恩一眼就认出这是玫瑰学派的重要成员，高地反抗军的首领之一，麦哈姆斯，绰号“沉默者”。"
+        },
+        {
+          "chapterSeq": 880,
+          "extractReason": "UPDATE",
+          "evidenceText": "“沉默者”麦哈姆斯往上托了一下手掌，所有瞄准他即将射击的枪支、炮口全部抬了起来，打在了空处。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        877,
+        878,
+        880,
+        881,
+        882,
+        884
+      ]
+    },
+    {
+      "name": "扎特温",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派半神，与麦哈姆斯一同参与木乃伊争夺，持有“偷盗者”途径封印物（黑色手套）。在行动中受伤，返回藏身处时，被阿蒙分身窃走手套，事后察觉，却因恐惧而逃离。",
+      "identInfos": [
+        "玫瑰学派半神",
+        "持有“偷盗者”途径封印物（黑色手套）"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 880,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "就在这时，克莱恩看见了一只手，一只戴着黑色手套的手。 它藏在阴暗处，向着图坦西斯二世木乃伊所在的棺柩隔空抓了一下。"
+        },
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "扎特温的眼眸与肤色接近，属于浅棕……他想了想道： “渴望着卡德夫木乃伊，并愿意在半神战斗时冒险的，一只手都能够数清楚……"
+        },
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "扎特温……愕然发现左掌戴着的那只黑色手套不见了！ 不见了！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        880,
+        881,
+        884
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德体内寄生的“偷盗者”途径天使。得知阿蒙抵达贝克兰德后，推测来的只是分身，并解释阿蒙的危险性。建议暂时观察，不主动行动。后因伦纳德借任务离开贝克兰德而轻松。",
+      "identInfos": [
+        "“偷盗者”途径天使",
+        "寄生于伦纳德·米切尔体内",
+        "第四纪存活至今"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "昵称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脑海内，那略显苍老的嗓音回应道： “没谁进门。”"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙已至……伦纳德的瞳孔霍然放大。 与此同时，他第一次听见了体内寄生者的“鼻息”。"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脑海内，帕列斯·索罗亚斯德呵了一声道： “没用的，这甚至可能就是阿蒙想要达到的目的。"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脑海内，那略显苍老的嗓音隔了两三秒才回荡起来： “来的应该不是阿蒙的本体，而是祂的分身。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        876,
+        877,
+        885
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "作为克莱恩的信使，传递莎伦的求助信，并接受克莱恩的送信委托。在克莱恩要求下，将阿蒙已至的消息送至伦纳德处。后在克莱恩支付金币时被提及欠款。伦纳德召唤信使时，被要求支付一枚金币，引起帕列斯注意。",
+      "identInfos": [
+        "克莱恩的信使",
+        "原玫瑰学派天使",
+        "莎伦的老师",
+        "状态奇怪，提着自己四个金发红眼脑袋的无头女性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "看见信使小姐蕾妮特·缇尼科尔从虚空中走出，手里提着的其中一个金发红眼脑袋正咬着一封薄薄的信。"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "“将信送到平斯特街7号，嗯，直接投入信箱，不用交给收信人。”……蕾妮特·缇尼科尔左手提着的一个金发红眼脑袋扬了起来，半吸半凑地将信封和金币咬在了口中"
+        },
+        {
+          "chapterSeq": 885,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿阴沉繁复长裙的蕾妮特·缇尼科尔迅速走了出来，手里提着的四个脑袋同时转动，望向伦纳德·米切尔，依次开口道： “是……”“你……”“要……”“寄信？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        874,
+        875,
+        876,
+        885
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "收到克莱恩（通过“愚者”）的指派，前往西拜朗调查梅桑耶斯和卡塔米两个土著将军势力范围内的玫瑰学派活动。因任务危险而害怕，但最终接受，并获借“太阳胸针”。",
+      "identInfos": [
+        "“黄金梦想号”船员",
+        "绰号“烈焰”",
+        "格尔曼·斯帕罗的线人"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "“……请转告达尼兹，让他立刻赶去西拜朗，摸清楚梅桑耶斯和卡塔米两个土著将军各自势力范围内的情况，尤其注意是否有玫瑰学派活动的痕迹……”"
+        },
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "“直接给了这么贵重的物品……给格尔曼·斯帕罗做事，还是很不错嘛……不过，他好像说的是借？”达尼兹拿起那根胸针，只觉周围的湿润炎热又加重了一点。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        874
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "作为军情九处线人，接到调查任务：X先生被杀案与普利兹港木乃伊窃案可能为同一伙人所为。回家与佛尔思讨论此事，提醒注意。",
+      "identInfos": [
+        "军情九处线人",
+        "赏金猎人",
+        "佛尔思的密友"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "“快回来的时候，看见了军情九处的见面标志，很急。” “这次是什么事情？”佛尔思饶有兴致地放下了手中的杂志。 “上次X先生被杀案的延续。”休一边弯腰换上居家拖鞋，一边随口说道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        884
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "从休口中得知军情九处在调查X先生被杀案与木乃伊窃案，怀疑为同一伙人所为，内心担忧。在塔罗会上，接受“世界”委托，从亚伯拉罕家族获取灵界卡尔德隆城的情报，报价350镑。同时与“月亮”埃姆林交易古老怨灵诅咒物线索。",
+      "identInfos": [
+        "塔罗会“魔术师”",
+        "畅销书作家",
+        "亚伯拉罕家族后裔"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "……我的“莱曼诺旅行笔记”上还有一个“龙卷风”呢……格尔曼·斯帕罗先生？他窃取法老木乃伊做什么……佛尔思强行笑道： “也许是风暴教会做的呢？”"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思挤出笑容： “没有问题，我会帮你询问的。” “需要多少报酬？”……“350镑。”"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林怏怏转回了脑袋，忽地想起一事，忙对“魔术师”小姐道： “古老怨灵的诅咒物和残余灵性有线索了……300镑。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        884,
+        890,
+        892
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "以魔镜形态被克莱恩召唤，回答莎伦关于木乃伊的问题。主动向克莱恩提供卡隆自杀案幕后操纵者为赫温·兰比斯，并告知阿蒙已至贝克兰德。被克莱恩命令监控艾伦·克瑞斯医生家待产情况。表现出对克莱恩的忠诚与讨好。",
+      "identInfos": [
+        "“魔镜”",
+        "遵守等价原则的隐秘存在",
+        "自称“您忠诚的渺小的谦卑的仆人”"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 877,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "随着克莱恩最后一笔落下，三号桌球室内，光线陡然黯淡了一点。 小巧的补妆镜表面，水波般的纹路一圈圈荡开，最终变得幽深黯淡。 紧接着，一个又一个血淋淋的单词凸显了出来： “提出你们的问题。”"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "全身镜表面，银色光芒的流动霍然变得轻快，组成了一个又一个新的单词： “伟大的主人，您还有什么吩咐？”"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“王室顾问，赫温·兰比斯，心理炼金会评议团委员之一。”"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“伟大的主人，阿蒙如您预料，已经来到贝克兰德。 “因为祂来的是分身，所以我能够看见。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        877,
+        878,
+        889
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在艾伦医生家盥洗室与克莱恩会面。克莱恩告知将前往南大陆，询问其出生时间以便交易脐带血。威尔表示生日尚未确定，建议克莱恩派人监控出生。克莱恩询问阿兹克命运，并警告阿蒙已至，威尔认为阿蒙与乌洛琉斯敌对，对自己有利。",
+      "identInfos": [
+        "“命运之蛇”",
+        "水银之蛇途径天使",
+        "正转世为艾伦医生之子",
+        "为避免乌洛琉斯追踪而不断重启"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 886,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这次又是什么事情？”威尔·昂赛汀用清亮的嗓音质问道。 ……“您应该已经听到了，我要去南大陆了。 “我不想错过您的降生，所以想问一下您打算用哪天做生日？” ……“我不知道。”……“我已经看好了三个生日……"
+        },
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "“阿蒙和乌洛琉斯那条蠢蛇是绝对的死敌……祂憎恨着‘真实造物主’，时刻想着将对方拉下神座……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        886,
+        887
+      ]
+    },
+    {
+      "name": "丘纳斯·科尔格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "军情九处少将副处长，疑似“黑皇帝”途径半神。在“东拜朗退伍军官俱乐部”被克莱恩认出，后者回忆起他曾与“疯船长”康纳斯见面，并涉及人口贩卖，可能与大雾霾事件相关。克莱恩通过魔镜确认其身份。",
+      "identInfos": [
+        "军情九处少将副处长",
+        "疑似“黑皇帝”途径半神",
+        "可能与贝克兰德大雾霾事件及人口贩卖有关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 888,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是那晚和“疯船长”康纳斯见面的半神！ 疑似为王室某个派系效力，主导着人口贩卖的那位半神！"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他叫丘纳斯·科尔格，出身军情九处，目前是少将副处长，对外宣称只有‘律师’途径的序列5，但执掌着一件厉害的封印物。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        888,
+        889
+      ]
+    },
+    {
+      "name": "加尔文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "鲁恩军方上校，与克莱恩（道恩·唐泰斯）进行军火交易。接收克莱恩的1万金镑前期款项，安排克莱恩搭乘军方飞空艇前往迪西海湾，再转往西拜朗。约定6月20日后通过电报联系。",
+      "identInfos": [
+        "鲁恩军方上校",
+        "东拜朗退伍军官俱乐部成员",
+        "与道恩·唐泰斯进行军火交易"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你真是一位有行动力的绅士……我的想法是这样，我先去南大陆，去西拜朗……”……“明天晚餐后，我派人去接你，军方有一艘飞空艇要运送物资和人员去迪西海湾……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        887
+      ]
+    },
+    {
+      "name": "马赫特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "议员，道恩·唐泰斯的介绍人，参与军火交易，陪同克莱恩在俱乐部用餐并引荐。",
+      "identInfos": [
+        "议员",
+        "道恩·唐泰斯在俱乐部的介绍人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "“之前那个房间。” “好的。”克莱恩顺势起身，先去有保险柜的房间，取出了装有1万金镑钞票的小皮箱，然后才前往上两次与加尔文上校见面的那个起居室。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        886,
+        887,
+        888
+      ]
+    },
+    {
+      "name": "理查德森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩（道恩·唐泰斯）的贴身男仆，出生于南大陆，掌握都坦语。主动请缨陪同克莱恩前往西拜朗，被克莱恩婉拒，转而安排其留在贝克兰德处理社交、投资等事务，得到重用。",
+      "identInfos": [
+        "道恩·唐泰斯的贴身男仆",
+        "出生于南大陆，懂都坦语"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩正要开门吩咐贴身男仆理查德森给自己准备一杯冰水"
+        },
+        {
+          "chapterSeq": 888,
+          "extractReason": "UPDATE",
+          "evidenceText": "“先生，我出生在南大陆，掌握着都坦语，对当地的各种习俗都非常了解，应该能帮助到您。”……“您给了我获得经验，成长起来的机会，我想，我想我应该是能帮上忙的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        874,
+        876,
+        886,
+        888
+      ]
+    },
+    {
+      "name": "瓦尔特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩（道恩·唐泰斯）的管家，被吩咐前往马赫特议员家和艾伦医生家预约拜访，负责通知马车准备等事务。",
+      "identInfos": [
+        "道恩·唐泰斯的管家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 886,
+          "extractReason": "UPDATE",
+          "evidenceText": "“请管家先生过来一趟。”……戴着白手套的瓦尔特上至三楼……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        886
+      ]
+    },
+    {
+      "name": "伊恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“勇敢者酒吧”的情报贩子，克莱恩询问最近消息时，告知有人在打听信仰“愚者”的组织，并画出了阿蒙的素描。",
+      "identInfos": [
+        "“勇敢者酒吧”情报贩子",
+        "为莎伦和马里奇工作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "鲜红眼睛的伊恩探头一瞧，顿时露出了笑容： “先生，请进。”……“有人在打听信仰‘愚者’的组织……”……“那是一个黑色头发微卷，额头较宽，脸颊消瘦，眼珠深黑，戴着单片眼镜的年轻男子。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        875
+      ]
+    },
+    {
+      "name": "洛维莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "“鲁恩慈善助学基金”工作人员，向奥黛丽介绍基金会的初步方案和工作流程。",
+      "identInfos": [
+        "“鲁恩慈善助学基金”工作人员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 873,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "被称为洛维莎的女士不到三十，同样有一头金发……笑容很是阳光，亲和力相当不错。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        873
+      ]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "值夜者执事，“红手套”队长，告知伦纳德等人灵教团人造死神计划取得进展，并安排他们前往南大陆执行任务，预支戴莉魔药晋升“看门人”。",
+      "identInfos": [
+        "值夜者执事",
+        "“红手套”队长"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 885,
+          "extractReason": "UPDATE",
+          "evidenceText": "他们这支“红手套”的队长，值夜者执事，索斯特走了进来。……“根据那三位灵教团成员的供词……灵教团在复活死神还是人造死神上出现了分裂……将人造死神的部分实验放在了贝克兰德！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        885
+      ]
+    },
+    {
+      "name": "赫温·兰比斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "被阿罗德斯揭露为卡隆自杀案的幕后操纵者，身份为王室顾问、心理炼金会评议团委员。引发克莱恩对心理炼金会动机的担忧。",
+      "identInfos": [
+        "王室顾问",
+        "心理炼金会评议团委员",
+        "卡隆自杀案幕后操纵者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 889,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“王室顾问，赫温·兰比斯，心理炼金会评议团委员之一。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        889
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上向“世界”格尔曼·斯帕罗解释“工匠”因染病和窥探者而延迟制作神奇物品，承诺亲自解决。与“隐者”嘉德丽雅就援助“工匠”一事暗中角力。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会“代罚者”",
+        "序列5“海洋歌者”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰当即望向了青铜长桌最下方的“世界”格尔曼·斯帕罗，斟酌着语言道： “抱歉，你的那件神奇物品可能还得等待一阵。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        889,
+        892
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上提供三页罗塞尔日记，并替“神秘女王”贝尔纳黛询问“罗塞尔大帝心灵与精神的归宿在哪里”。主动提出可帮助“倒吊人”解决“工匠”麻烦，展现侵略性。",
+      "identInfos": [
+        "塔罗会“隐者”",
+        "“星之上将”",
+        "摩斯苦修会成员",
+        "“神秘女王”贝尔纳黛的下属"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅收起对当前时代对南北大陆、五大海洋的担忧，望向青铜长桌最上首道： “‘尊敬’的愚者先生，这次又有三页新的日记。”"
+        },
+        {
+          "chapterSeq": 891,
+          "extractReason": "UPDATE",
+          "evidenceText": "“尊敬的‘愚者’先生，我想知道，罗塞尔大帝心灵与精神的归宿在哪里，在那个岛上，还是星空的深处？”"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "如果你解决不了那个麻烦，我可以帮忙。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        889,
+        891,
+        892
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在塔罗会上得知阿蒙抵达贝克兰德，因曾被阿蒙寄生而深感恐惧。向“月亮”埃姆林表示序列5人造吸血鬼非凡特性尚未攒够功勋。",
+      "identInfos": [
+        "塔罗会“太阳”",
+        "白银城居民",
+        "信仰“愚者”"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙！“渎神者”阿蒙？“太阳”戴里克一下被唤起了不太美好的记忆。"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林略显急切地侧头看向“太阳”： “序列5人造吸血鬼的非凡特性有了吗？” “我还没有攒够功勋。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        889,
+        892
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在塔罗会上得知阿蒙抵达贝克兰德后担心贝克兰德再出乱子。与“魔术师”交易古老怨灵诅咒物线索，报价300镑。询问“太阳”序列5人造吸血鬼非凡特性。",
+      "identInfos": [
+        "塔罗会“月亮”",
+        "血族成员",
+        "序列6“吸血鬼”"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 890,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林这个时候才消化完天使之王，“渎神者”阿蒙出现在贝克兰德的事情……贝克兰德又要出什么事情了？"
+        },
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林略显急切地侧头看向“太阳”： “序列5人造吸血鬼的非凡特性有了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        890,
+        892
+      ]
+    },
+    {
+      "name": "艾伦·克瑞斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩拜访他，表面咨询南大陆所需药物，实际借他家盥洗室与威尔·昂赛汀会面。克莱恩委托阿罗德斯监控其妻子生产情况。",
+      "identInfos": [
+        "医生",
+        "威尔·昂赛汀的转世父亲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 886,
+          "extractReason": "UPDATE",
+          "evidenceText": "“唐泰斯先生，你的管家并未告诉我你有什么事情。”因妻子距离生产也就一个月的样子，艾伦医生最近推掉了不少工作……"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“在我离开贝克兰德后，留意艾伦·克瑞斯医生家里的状况，一旦他的妻子生产，记得于我召唤你时，主动告诉我。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        886,
+        889
+      ]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "通过“隐者”嘉德丽雅向“愚者”询问“罗塞尔大帝心灵与精神的归宿在哪里”，得到“都不是”的回答。未直接出场，仅被提及。",
+      "identInfos": [
+        "“神秘女王”",
+        "罗塞尔大帝之女",
+        "“黎明号”船长"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 891,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他心灵与精神的归宿在哪里，在那个岛上，还是星空的深处？”……这成为了“神秘女王”贝尔纳黛挑选日记的标准。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        891
+      ]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在罗塞尔日记中被提及。未出场。",
+      "identInfos": [
+        "序列1“诡秘侍者”？",
+        "占卜家途径高序列"
+      ],
+      "aliases": [],
+      "evidences": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "X先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "被提及为极光会神使，被杀案与木乃伊窃案可能有关联。",
+      "identInfos": [
+        "极光会神使",
+        "已死亡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "“上次X先生被杀案的延续。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        884
+      ]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩通过伦纳德询问如何传递其踪迹，伦纳德给出投递地址。",
+      "identInfos": [
+        "前值夜者大主教",
+        "持有封印物0-08",
+        "克莱恩的仇人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你的前同事让我询问你，如果他有发现因斯·赞格威尔的踪迹，该怎么告知你？” “将消息以信的形式投递到平斯特街7号。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        874
+      ]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "在索斯特队长的提及中，将被预支魔药晋升“看门人”，协助红手套南大陆任务。",
+      "identInfos": [
+        "值夜者",
+        "前通灵者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 885,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这个任务，我们会获得戴莉女士的协助，而教会将用预支的方式给她魔药，帮她准备仪式，让她能在出发前成为‘看门人’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        885
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "鲁恩慈善助学基金",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "举行成立仪式和第一次理事会。克莱恩（道恩·唐泰斯）提出加快宣传和银行账户管理等建议，在奥黛丽支持下通过。奥黛丽参与基金会工作，亲自去学校宣传。",
+      "identInfos": [
+        "贝克兰德慈善组织",
+        "旨在帮助贫困学生",
+        "理事包括奥黛丽·霍尔、道恩·唐泰斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 873,
+          "extractReason": "UPDATE",
+          "evidenceText": "进了佩斯菲尔街22号的大门……“鲁恩慈善助学基金”工作人员……"
+        },
+        {
+          "chapterSeq": 873,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有两个建议： “一是今天就组织人员去各个周日学校…… “第二个建议，发放的助学基金最好放在对应的银行账户上……”"
+        }
+      ]
+    },
+    {
+      "name": "玫瑰学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "半神麦哈姆斯与扎特温参与争夺图坦西斯二世木乃伊。节制派叛逃者莎伦、马里奇寻求木乃伊晋升。组织内部放纵派主导，但存在节制派余党。",
+      "identInfos": [
+        "南大陆隐秘组织",
+        "放纵派主导",
+        "信仰“被缚之神”或“欲望母树”",
+        "与鲁恩军方、克莱恩等冲突"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "“担心是玫瑰学派针对我们的陷阱。”"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "图坦西斯二世木乃伊是鲁恩军方针对玫瑰学派的陷阱，对吗？”……“对。”"
+        },
+        {
+          "chapterSeq": 880,
+          "extractReason": "UPDATE",
+          "evidenceText": "“沉默者”麦哈姆斯是玫瑰学派的重要成员……"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩军方",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "以图坦西斯二世木乃伊为饵，设陷阱诱捕玫瑰学派半神。出动至少两位半神、蒸汽战车、士兵等，最终木乃伊被盗。与克莱恩进行军火交易，安排飞空艇送其去西拜朗。",
+      "identInfos": [
+        "鲁恩王国军事力量",
+        "设有军情九处等非凡机构",
+        "参与南大陆殖民与非凡事务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "“后天，将有一艘来自南大陆的船抵达普利兹港，它与鲁恩军方存在密切关系。"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "图坦西斯二世木乃伊是鲁恩军方针对玫瑰学派的陷阱，对吗？”……“对。”"
+        },
+        {
+          "chapterSeq": 880,
+          "extractReason": "UPDATE",
+          "evidenceText": "码头周围的鲁恩士兵和蒸汽战车……"
+        },
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "“明天晚餐后，我派人去接你，军方有一艘飞空艇要运送物资和人员去迪西海湾……”"
+        }
+      ]
+    },
+    {
+      "name": "阿蒙家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙分身抵达贝克兰德，寻找信仰“愚者”的组织，并与帕列斯·索罗亚斯德存在敌对关系。",
+      "identInfos": [
+        "“偷盗者”途径天使之王阿蒙及其分身",
+        "与“真实造物主”敌对"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙已至……"
+        },
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "“偷盗者”途径的天使，帕列斯·索罗亚斯德！这也许是阿蒙能否成为序列0真神的关键……"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "少将副处长丘纳斯·科尔格为疑似“黑皇帝”途径半神。调查X先生被杀案与木乃伊窃案，通过线人休搜集情报。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "涉及非凡事务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "“快回来的时候，看见了军情九处的见面标志，很急。”……“上次X先生被杀案的延续。”"
+        },
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他叫丘纳斯·科尔格，出身军情九处，目前是少将副处长……”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "其神使X先生被杀案与木乃伊窃案被怀疑是同一伙人所为，军情九处和风暴教会共同调查。",
+      "identInfos": [
+        "信仰“真实造物主”的隐秘组织"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "极光会X先生被人在自己召集的聚会里直接杀死……同一个区域短期内连续出现了两次不属于官方组织的‘龙卷风’，不会是巧合……有必要联合风暴教会一起调查。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "因X先生被杀案和普利兹港木乃伊窃案中均出现半神层次“龙卷风”，与军情九处联合调查。",
+      "identInfos": [
+        "正神教会之一",
+        "掌握“水手”途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "风暴教会掌握着‘水手’途径的高序列配方和大部分非凡特性……同一个区域短期内连续出现了两次不属于官方组织的‘龙卷风’，不会是巧合……有必要联合风暴教会一起调查。"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "佛尔思被委托从其家族获取灵界卡尔德隆城情报。",
+      "identInfos": [
+        "古老家族",
+        "传承“学徒”途径",
+        "佛尔思·沃尔出身家族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 892,
+          "extractReason": "UPDATE",
+          "evidenceText": "“从亚伯拉罕家族那里拿到灵界卡尔德隆城的情报，最重要的是定位。”"
+        }
+      ]
+    },
+    {
+      "name": "灵教团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者审问发现灵教团在人造死神计划上取得进展，并曾在贝克兰德实验。红手套小队被派往南大陆调查。",
+      "identInfos": [
+        "起源南大陆的隐秘组织",
+        "分裂为复活死神派和人造死神派"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 885,
+          "extractReason": "UPDATE",
+          "evidenceText": "“根据那三位灵教团成员的供词，以及教会过去搜集的那些资料，我们可以初步判定，灵教团在复活死神还是人造死神上出现了分裂……将人造死神的部分实验放在了贝克兰德！"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "其评议团委员赫温·兰比斯被揭露为卡隆自杀案幕后操纵者。",
+      "identInfos": [
+        "隐秘组织",
+        "专注于心理学和观众途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“王室顾问，赫温·兰比斯，心理炼金会评议团委员之一。”"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "卡隆自杀案引起值夜者介入调查。索斯特队长率领“红手套”小队审问灵教团，并准备前往南大陆。伦纳德借任务离开贝克兰德。",
+      "identInfos": [
+        "黑夜女神教会非凡者部队"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 885,
+          "extractReason": "UPDATE",
+          "evidenceText": "他表面没有任何异常，内心却在想着阿蒙的事情……他们这支“红手套”的队长，值夜者执事，索斯特走了进来。"
+        }
+      ]
+    },
+    {
+      "name": "东拜朗退伍军官俱乐部",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩在此与加尔文上校进行军火交易前期付款，并偶遇丘纳斯·科尔格。",
+      "identInfos": [
+        "位于贝克兰德的俱乐部",
+        "成员多为退伍军官"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "傍晚时分，东拜朗退伍军官俱乐部内。 克莱恩没立刻见到驴脸的加尔文上校……"
+        }
+      ]
+    },
+    {
+      "name": "黄昏隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "在罗塞尔日记中被提及，是最古老最隐秘的组织，由赫密斯等建立，神秘首领疑似亚当。日记揭示其操纵时代潮流，处决不服从者。",
+      "identInfos": [
+        "最古老隐秘组织",
+        "信仰最初造物主复活",
+        "首领疑似“空想天使”亚当"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 890,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我又参与了那个最古老最隐秘组织的聚会……什么叫符合时代的潮流？……他们宣称，等到一切的终结出现，最初那位造物主将从死亡里复苏……”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "《格罗塞尔游记》",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩利用其特性，将涂抹了图坦西斯二世木乃伊体液的泥土抹在封皮上，强行将木乃伊拉入书中世界，从而盗走木乃伊。",
+      "identInfos": [
+        "一本深棕色封皮书籍",
+        "可将血液或体液涂抹其上以吸入目标至书中世界"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 882,
+          "extractReason": "UPDATE",
+          "evidenceText": "只要将还未干涸的，还有灵性残留的血液抹在它的封皮表面，它就能将对应的目标强行拉入书中世界！ 而图坦西斯二世木乃伊黄金棺柩内那些液体就包含有血液！"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩用其吸引死尸，作为计划核心之一，制造木乃伊异动，引导半神注意力。",
+      "identInfos": [
+        "阿兹克·艾格斯赠予克莱恩的铜哨",
+        "能吸引并刺激活尸、幽影等亡灵"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 879,
+          "extractReason": "UPDATE",
+          "evidenceText": "他今晚行动计划的核心要素之一就是那枚阿兹克铜哨！ 盗取图坦西斯二世木乃伊是很困难，但我可以让它自己跑过来！"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的手套形态封印物，记录有“龙卷风”和“纸人天使”能力。在行动中释放半神层次龙卷风，掀翻木乃伊棺柩。后因要离开贝克兰德，克莱恩前往海上为其觅食。",
+      "identInfos": [
+        "人皮手套形态封印物",
+        "可通过吞噬灵魂记录非凡能力",
+        "每天需吃一个人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩立刻布置仪式，准备将“蠕动的饥饿”从灰雾之上带回现实世界……依旧得每天吃一个人……"
+        },
+        {
+          "chapterSeq": 879,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩也调整了“蠕动的饥饿”内记录的能力，以“纸人天使”配合“龙卷风”，而非“闪电风暴”。"
+        }
+      ]
+    },
+    {
+      "name": "窃运者符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩用“时之虫”制作的半神层次高级符咒，作为行动准备之一。担心引来阿蒙而平时不携带。",
+      "identInfos": [
+        "半透明小型黑水晶卡牌状",
+        "由“时之虫”制成",
+        "能制造半神层次“窃运”效果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“窃运者”符咒。 克莱恩用“时之虫”制作的半神层次高级符咒！"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在行动前取出，用于记录“龙卷风”和“闪电风暴”。平时放置于灰雾之上。",
+      "identInfos": [
+        "强力封印物",
+        "能掌控海洋与风暴",
+        "负面效果严重"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "他又招来了“蠕动的饥饿”和“海神权杖”，戴上前者，拿起后者，记录起“闪电风暴”和“龙卷风”。"
+        }
+      ]
+    },
+    {
+      "name": "防诅咒黄金珠",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "莎伦给予克莱恩的古代高地王国风格黄金珠子，用于压制和消弭图坦西斯二世木乃伊的诅咒。克莱恩将其塞入木乃伊口中。",
+      "identInfos": [
+        "古代高地王国风格",
+        "专为图坦西斯二世木乃伊准备",
+        "能有效压制和消弭诅咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 883,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩当即从自己灵体内部拿出了一颗很有古代高地王国风格的黄金珠子……这是来自莎伦，专为图坦西斯二世木乃伊准备，能有效压制和消弭诅咒……"
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩随身携带的武器，但本章未直接使用，仅作为常备物品提及。",
+      "identInfos": [
+        "一把神奇左轮",
+        "格尔曼·斯帕罗常用武器"
+      ],
+      "aliases": [
+        {
+          "alias": "丧钟",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "翻魔法书会影响“丧钟”左轮和“窃运者”符咒的使用……"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩借给达尼兹的暗金色太阳鸟形状胸针，用于在南大陆应对死灵类敌人。",
+      "identInfos": [
+        "暗金色太阳鸟形状胸针",
+        "“太阳”途径神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 874,
+          "extractReason": "UPDATE",
+          "evidenceText": "一根暗金色的，太阳鸟形状的胸针飞了出来，落至祭坛。 这是“太阳胸针”！"
+        }
+      ]
+    },
+    {
+      "name": "安魂师非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩从变异版“蠕动的饥饿”中释放出的非凡特性，用于压制图坦西斯二世木乃伊带来的亡灵。",
+      "identInfos": [
+        "深黑色事物，核心有纯粹光点",
+        "“收尸人”途径序列5非凡特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 883,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是他从变异版“蠕动的饥饿”内释放的那个“安魂师”的非凡特性，核心位置有纯粹光点，整体就像缀着繁星的夜幕。"
+        }
+      ]
+    },
+    {
+      "name": "千纸鹤",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "威尔·昂赛汀给予克莱恩的联络工具，已破损但仍能定位。克莱恩询问是否可用，威尔表示仍可用来通知。",
+      "identInfos": [
+        "威尔·昂赛汀制作的纸鹤",
+        "可用于联络和定位"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那只千纸鹤虽然不能写了，但还可以帮助我定位你，有什么事情，我会通知你的！”"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "“隐者”嘉德丽雅在塔罗会上提供三页新日记，内容涉及黄昏隐士会、深渊腐蚀、倍芒小教堂等。克莱恩从中获取远古太阳神分食、亚当存在等情报。",
+      "identInfos": [
+        "罗塞尔大帝遗留的日记",
+        "用中文书写",
+        "包含大量第四纪及之前的历史秘辛"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 889,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅……望向青铜长桌最上首道： “‘尊敬’的愚者先生，这次又有三页新的日记。”"
+        },
+        {
+          "chapterSeq": 890,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我又参与了那个最古老最隐秘组织的聚会……”"
+        }
+      ]
+    },
+    {
+      "name": "黑色手套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "玫瑰学派半神扎特温持有的“偷盗者”途径封印物，曾在战斗中用于窃取木乃伊。后被阿蒙分身窃走。",
+      "identInfos": [
+        "“偷盗者”途径封印物",
+        "黑色手套形态"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 880,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩看见了一只手，一只戴着黑色手套的手。 它藏在阴暗处，向着图坦西斯二世木乃伊所在的棺柩隔空抓了一下。"
+        },
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "扎特温……愕然发现左掌戴着的那只黑色手套不见了！ 不见了！"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思持有的神奇物品，上面记录有“龙卷风”等能力。因X先生被杀案被提及可能使用该笔记中的“龙卷风”。",
+      "identInfos": [
+        "佛尔思·沃尔的魔法书",
+        "可抄录非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 884,
+          "extractReason": "UPDATE",
+          "evidenceText": "……我的“莱曼诺旅行笔记”上还有一个“龙卷风”呢……格尔曼·斯帕罗先生？他窃取法老木乃伊做什么……"
+        }
+      ]
+    },
+    {
+      "name": "图坦西斯二世木乃伊",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "古代高地王国第十九任国王图坦西斯二世的木乃伊，被鲁恩军方作为陷阱诱饵。实为诅咒化身，可自行变为活尸。在多方争夺中被克莱恩用《格罗塞尔游记》盗走，最终交给莎伦用于晋升仪式。",
+      "identInfos": [
+        "法老木乃伊",
+        "缠满黄褐色亚麻布条",
+        "戴着金底彩纹面具",
+        "不含非凡特性但极富灵性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 875,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这艘船装载着不少从星星高原、帕斯河谷、哈加提草原掠夺来的财宝和文物，其中，有一具木乃伊，它是古代高地王国第十九任国王，图坦西斯二世。"
+        },
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "“它充满诅咒，是诅咒的化身，存在自行变为活尸的可能。”"
+        },
+        {
+          "chapterSeq": 882,
+          "extractReason": "UPDATE",
+          "evidenceText": "图坦西斯二世木乃伊已经在克莱恩手上，在《格罗塞尔游记》里！"
+        }
+      ]
+    },
+    {
+      "name": "信使纸鹤",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "威尔·昂赛汀曾给予克莱恩的纸鹤，已不能书写但可定位，用于紧急联络。",
+      "identInfos": [
+        "威尔·昂赛汀制作的纸鹤",
+        "可定位和传递信息"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 887,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那只千纸鹤虽然不能写了，但还可以帮助我定位你，有什么事情，我会通知你的！”"
+        }
+      ]
+    },
+    {
+      "name": "钢制补妆镜",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "莎伦的宫廷风格补妆镜，用于阿罗德斯魔镜占卜。",
+      "identInfos": [
+        "宫廷风格补妆镜",
+        "作为魔镜占卜媒介"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 877,
+          "extractReason": "UPDATE",
+          "evidenceText": "他话音刚落，一面巴掌大的补妆镜就出现在了球桌上。 宫廷风格的补妆镜……"
+        }
+      ]
+    },
+    {
+      "name": "荆棘冠冕",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "鲁恩军方女性半神戴在头上的封印物，能释放“光之海洋”等强力效果，副作用需插刺入颈。",
+      "identInfos": [
+        "荆棘编织成的冠冕",
+        "能释放纯净光芒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 880,
+          "extractReason": "UPDATE",
+          "evidenceText": "她同样戴着金色面具，头顶是一个荆棘编织成的冠冕。 这冠冕之上，纯净的光辉飞快流淌……"
+        },
+        {
+          "chapterSeq": 883,
+          "extractReason": "UPDATE",
+          "evidenceText": "晚礼服女士拿起面前的荆棘冠冕，将上面的尖刺插入了自己的脖子……"
+        }
+      ]
+    },
+    {
+      "name": "布娃娃",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "“沉默者”麦哈姆斯使用的诅咒物品，能够以目标为原型变化并施加诅咒，曾抵挡“处决”命令。",
+      "identInfos": [
+        "旧布做成，沾污迹血点",
+        "眼珠被挖去",
+        "可诅咒敌人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 880,
+          "extractReason": "UPDATE",
+          "evidenceText": "他取出了一个布娃娃。 那娃娃似乎由旧布做成，沾有明显的污迹和血点，眼睛不知被谁挖去，留下了两个空洞。"
+        }
+      ]
+    },
+    {
+      "name": "冒险家口琴",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩用来召唤信使蕾妮特·缇尼科尔的物品。",
+      "identInfos": [
+        "克莱恩的召唤工具"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 876,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩掏出冒险家口琴，凑至嘴边，用力吹了一下。 蕾妮特·缇尼科尔出现的同时……"
+        },
+        {
+          "chapterSeq": 888,
+          "extractReason": "UPDATE",
+          "evidenceText": "他想到的最好解决办法只有一个： 那就是吹响口琴，召唤信使小姐……"
+        }
+      ]
+    },
+    {
+      "name": "亵渎之牌暴君",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "在本次chunk中未直接出场，仅在chunkSummary和nextChunkSummary中有所提及，但在当前chunk原文中未出现。",
+      "identInfos": [
+        "风暴途径序列0亵渎之牌"
+      ],
+      "aliases": [],
+      "evidences": []
+    }
+  ]
+}

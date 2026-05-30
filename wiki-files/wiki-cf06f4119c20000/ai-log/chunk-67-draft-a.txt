@@ -1,0 +1,1200 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩联合阿里安娜封印“0-02”特伦索斯特黄铜书，通过诱导其产生悖论使规则失效，最终将其扔入霍纳奇斯山脉古老宫殿换取“愚者”牌。他继续以“奇迹魔术师”梅林·赫尔墨斯身份流浪，在贝尔丹城和康斯顿城实现人们愿望以消化“奇迹师”魔药。他研究“愚者”牌获知“诡秘侍者”和“愚者”配方与仪式。在康斯顿处理望远镜污染事件，发现“天体研修会”与星空污染有关，并以愿望重建康斯顿城后离开。他协助贝尔纳黛在原始岛屿封印被污染的罗塞尔，利用“源堡”力量维持封印。",
+      "identInfos": [
+        "源堡主人",
+        "愚者",
+        "奇迹师",
+        "梅林·赫尔墨斯",
+        "格尔曼·斯帕罗",
+        "道恩·唐泰斯",
+        "夏洛克·莫里亚蒂",
+        "占卜家途径天使"
+      ],
+      "aliases": [
+        {
+          "alias": "梅林·赫尔墨斯",
+          "type": "别名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1287,
+          "extractReason": "UPDATE",
+          "evidenceText": "见克莱恩一时说不出话来，战神教会大牧首拉里昂神情愈发庄严：\n“而且，神灵的陨落只是暂时，祂终将归来，从我体内复苏。”\n……克莱恩听得眉头微皱，竟不知对面那位天使是太多的锚出现动摇，以至于精神状态有了异常，用不了多久就会失控，还是受到“战神”影响太深，在某种意义上成为了对方的“后手”。"
+        },
+        {
+          "chapterSeq": 1289,
+          "extractReason": "UPDATE",
+          "evidenceText": "他用“0-02”换来了“愚者”牌……这张牌的表面是戴着华丽头饰，穿着五彩衣物，扛着手杖和行李的罗塞尔·古斯塔夫，他眼神里满是对未来的憧憬之情，身后跟了条小狗。\n而牌面左上角，璀璨星辉勾勒出了几个单词：\n“序列0：愚者！”"
+        },
+        {
+          "chapterSeq": 1291,
+          "extractReason": "UPDATE",
+          "evidenceText": "“序列1：诡秘侍者。\n……晋升仪式：建立一个纯粹由秘偶组成的城镇……\n“序列0：愚者。\n……晋升仪式：愚弄一次时间、历史或者命运。”"
+        },
+        {
+          "chapterSeq": 1298,
+          "extractReason": "UPDATE",
+          "evidenceText": "康斯顿居民震撼于眼前奇迹时，克莱恩已提着行李箱，带着“魔镜”阿罗德斯，离开了这座城市。\n弄出这么大动静后，他担心被查拉图锁定位置，没敢继续停留。"
+        },
+        {
+          "chapterSeq": 1306,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩利用那份“诡秘侍者”非凡特性和“源堡”的力量，直接将新生和死亡“嫁接”在了一起……接着，克莱恩伸出右手，调动“源堡”的力量……于身前勾勒出了“愚者”高背椅后的神秘符号……这直接关联“愚者”和“源堡”的符号就将引来新的力量，再次完成嫁接。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1287, 1288, 1289, 1290, 1291, 1293, 1295, 1296, 1297, 1298, 1299, 1300, 1301, 1302, 1303, 1304, 1305, 1306]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿里安娜与克莱恩合作封印“0-02”特伦索斯特黄铜书。她尝试隐秘泥土让“0-02”坠入地心，但被新规则阻止。在克莱恩制造悖论后，她抓住机会触碰“0-02”并扔给克莱恩，成功将其带走。",
+      "identInfos": [
+        "黑夜教会苦修士首领",
+        "隐秘之僕",
+        "天使"
+      ],
+      "aliases": [
+        {
+          "alias": "隐秘之僕",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1287,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿里安娜微微摇头，转而问道：\n“拉里昂是怎么说的？”\n……阿里安娜沉默地观察了一阵后，突然说道：\n“我试着‘隐秘’那张桌子下的泥土，让‘0-02’坠入地心，你提高警惕，防止意外。”"
+        },
+        {
+          "chapterSeq": 1289,
+          "extractReason": "UPDATE",
+          "evidenceText": "下一秒钟，克莱恩的历史投影已是崩溃大半，见状机械地探出右手，抓住这“亵渎之牌”，将它扔向了后方。\n……紧接着，克莱恩的历史投影将手中的“特伦索斯特黄铜书”扔向了那团恐怖的蠕虫堆。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1287, 1288, 1289, 1290]
+    },
+    {
+      "name": "拉里昂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "战神教会大牧首拉里昂因“0-02”活化被困，拒绝与克莱恩合作。克莱恩多次用“幕布”封锁灵界阻止其逃脱，最终拉里昂虽冲出，但被蕾妮特等拦截，遗留黑色山羊角后逃离。",
+      "identInfos": [
+        "战神教会大牧首",
+        "天使",
+        "战士途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1287,
+          "extractReason": "UPDATE",
+          "evidenceText": "见克莱恩一时说不出话来，战神教会大牧首拉里昂神情愈发庄严：\n“而且，神灵的陨落只是暂时，祂终将归来，从我体内复苏。”"
+        },
+        {
+          "chapterSeq": 1290,
+          "extractReason": "UPDATE",
+          "evidenceText": "“祂……”“逃出了……”“灵界……”这位信使小姐剩余三个脑袋依次说道。\n“不愧是曾经的大牧首。”早就有所察觉的克莱恩一点也不意外地感叹道。\n然后，他指了指那根黑色山羊角：\n“这是拉里昂留下的？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1287, 1289, 1290]
+    },
+    {
+      "name": "拜尔斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "贝尔丹本地非凡者拜尔斯受克莱恩救助，被派入市立图书馆翻动“0-02”以寻找封印线索。他成功完成任务，后被克莱恩用赫温·兰比斯封印相关记忆。",
+      "identInfos": [
+        "贝尔丹本地人",
+        "水手途径非凡者",
+        "被梅林·赫尔墨斯救助"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1287,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那是他之前救助的四位非凡者之一，贝尔丹本地人拜尔斯！\n“你进去，快速翻动那本黄铜书。”克莱恩指着长方形桌子上的“0-02”，平静对拜尔斯说道。"
+        },
+        {
+          "chapterSeq": 1288,
+          "extractReason": "UPDATE",
+          "evidenceText": "拜尔斯虽然见证过菲尔的断手、韦伯的吊死、“魔法师”先生的虫聚成掌，对“0-02”带来的惊悚异变有一定的认知……还是鼓起了勇气，快步靠近了那张长方形的桌子……他直接探出右掌，抓起了“0-02”前面那些黄铜书页，并快速翻动。"
+        },
+        {
+          "chapterSeq": 1290,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是克莱恩曾经拥有过的秘偶赫温·兰比斯，他打算用这位“操纵师”封印拜尔斯接触“0-02”的那段记忆。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1287, 1288, 1290]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "蕾妮特·缇尼科尔拦截试图逃离灵界的拉里昂，获得其遗留的黑色山羊角作为战利品。克莱恩从中分离非凡特性，取序列8“格斗家”作为情报费。",
+      "identInfos": [
+        "信使小姐",
+        "提四个金发红眼脑袋的无头女子",
+        "玫瑰学派节制派天使"
+      ],
+      "aliases": [
+        {
+          "alias": "信使小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1290,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这个时候，提着四个金发红眼脑袋，穿着阴沉繁复长裙的蕾妮特·缇尼科尔咬着一根黑色的山羊角，走出了虚空。\n“祂……”“逃出了……”“灵界……”这位信使小姐剩余三个脑袋依次说道。\n……“是的。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1290]
+    },
+    {
+      "name": "罗伊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗伊是克莱恩在贝尔丹救助的非凡者之一，许愿获得下一份魔药，克莱恩赠予他“格斗家”非凡特性。",
+      "identInfos": [
+        "贝尔丹非凡者",
+        "战士途径",
+        "许愿获得魔药"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1290,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你不是希望获得下一份魔药吗？现在可以许愿了。”\n罗伊眼露惊喜，有点忐忑地问道：\n“还能再许愿吗？”\n……克莱恩随即将“战士”途径序列8“格斗家”的非凡特性扔给了他"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1290]
+    },
+    {
+      "name": "帕莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "帕莎是克莱恩在贝尔丹救助的非凡者之一，曾许愿请求保护。克莱恩带他们离开贝尔丹完成愿望。",
+      "identInfos": [
+        "贝尔丹非凡者",
+        "被梅林·赫尔墨斯救助"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1290,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“接下来，你们跟着我离开贝尔丹，这不是说这里还有危险，而是我得抓紧时间完成你们的愿望。”\n一个是罗伊希望克莱恩能够帮助他们离开贝尔丹的愿望，一个是帕莎请克莱恩保护他们，让他们活着离开贝尔丹的愿望。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1290]
+    },
+    {
+      "name": "菲尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "菲尔是在贝尔丹被克莱恩救助的非凡者之一，曾因“0-02”规则断手，后被克莱恩带离。",
+      "identInfos": [
+        "贝尔丹非凡者",
+        "曾被0-02规则断手"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1288,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "拜尔斯虽然见证过菲尔的断手、韦伯的吊死、“魔法师”先生的虫聚成掌……"
+        },
+        {
+          "chapterSeq": 1290,
+          "extractReason": "UPDATE",
+          "evidenceText": "将罗伊、帕莎和菲尔请出这个出租屋后，克莱恩操纵赫温·兰比斯做了一系列的心灵领域操作……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1288, 1290]
+    },
+    {
+      "name": "韦伯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "韦伯是贝尔丹的外乡人，因违反“0-02”规则被吊死。",
+      "identInfos": [
+        "贝尔丹外乡人",
+        "被0-02规则吊死"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1288,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "拜尔斯虽然见证过菲尔的断手、韦伯的吊死、“魔法师”先生的虫聚成掌……"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1288]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思晋升序列4“秘法师”，在仪式中利用“恶魔油画”封印半神生物。晋升后与“门”先生对话，得知解除诅咒的两个仪式。她将信息汇报给“愚者”，并转告老师多里安部分真相。",
+      "identInfos": [
+        "塔罗会成员，代号“魔术师”",
+        "学徒途径序列4秘法师",
+        "亚伯拉罕家族成员的学生"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1293,
+          "extractReason": "UPDATE",
+          "evidenceText": "“秘法师”的晋升仪式相对来说，较为简单……那个仪式要求晋升者封印一个半神层次的，有明确敌意的生物……"
+        },
+        {
+          "chapterSeq": 1294,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你用的是来自亚伯拉罕们的非凡特性。”\n……“你可以称呼我‘门’先生。\n……“我是被放逐在永恒的黑夜里……”"
+        },
+        {
+          "chapterSeq": 1295,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”小姐最后看见的深红大地、金字塔式建筑、不同位置星空又代表着什么？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1293, 1294, 1295]
+    },
+    {
+      "name": "多里安·格雷·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "多里安为学生佛尔思调配“秘法师”魔药，提供“恶魔油画”辅助晋升。他要求佛尔思在满月时听“门”先生的话语。佛尔思晋升后，他将部分真相告知家族成员，与维尔杜产生分歧。",
+      "identInfos": [
+        "佛尔思的老师",
+        "亚伯拉罕家族成员",
+        "信仰愚者"
+      ],
+      "aliases": [
+        {
+          "alias": "多里安",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1293,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果你能成功晋升，我只有一个要求。”多里安拿着“恶魔油画”，郑重对佛尔思说道，“那就是在满月的夜晚，听一听‘门’先生究竟在说什么，问一问祂那样做的理由。”"
+        },
+        {
+          "chapterSeq": 1298,
+          "extractReason": "UPDATE",
+          "evidenceText": "多里安·格雷将学生佛尔思转告的“门”先生话语完整描述了一遍……“多年的放逐和封印已经让始祖疯掉了，只偶尔能恢复清醒……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1293, 1298]
+    },
+    {
+      "name": "伯特利·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“门”先生伯特利在佛尔思晋升后与其对话，自称半疯，提供两种解除诅咒的仪式。克莱恩用“深红月冕”和“万能钥匙”制造满月环境，听见其清醒时呼喊“不要救我”，判断其可能已被外神污染。",
+      "identInfos": [
+        "门先生",
+        "亚伯拉罕家族先祖",
+        "天使之王",
+        "被放逐于永恒黑夜"
+      ],
+      "aliases": [
+        {
+          "alias": "门先生",
+          "type": "称号"
+        },
+        {
+          "alias": "伯特利殿下",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1294,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你可以称呼我‘门’先生。\n……“我是亚伯拉罕家族的先祖，伯特利殿下……”\n……“我被放逐在永恒的黑夜里，遭受着不会停息的风暴阻拦……”"
+        },
+        {
+          "chapterSeq": 1295,
+          "extractReason": "UPDATE",
+          "evidenceText": "这声音呼喊的内容是：\n“不要救我……不要救我……”"
+        }
+      ],
+      "lifeStatus": "被囚禁",
+      "appearanceChapterSeqs": [1294, 1295]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克带领白银城探路小队抵达拜亚姆，在码头见到“倒吊人”阿尔杰后平静下来。达尼兹安排他们入住旅馆，展示自来水、煤气灯等外界事物。戴里克返回白银城报告，首席决定全体搬迁。白银城和月城居民在愚者帮助下移居外界。",
+      "identInfos": [
+        "塔罗会成员，代号“太阳”",
+        "白银城长老",
+        "光之祭司"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1291,
+          "extractReason": "UPDATE",
+          "evidenceText": "“慷慨之城”拜亚姆已近在白银城探路者小队眼前。\n戴里克领着利亚瓦尔和坎蒂丝等人来到甲板上，眺望向了这次“旅行”的目的地。"
+        },
+        {
+          "chapterSeq": 1292,
+          "extractReason": "UPDATE",
+          "evidenceText": "他目光一扫间，突然看见海边灯塔上立着位男子……视线交汇中，戴里克一下变得平静，不再忐忑。"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克和坎蒂丝、吉诺德见到了首席韦特·希尔蒙和“六人议事团”其余成员，捡重点将自身小队在外界的见闻描述了一遍。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1291, 1292, 1299]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹作为“愚者”使者，负责接待白银城探路小队，安排他们在拜亚姆的住宿和后续城市建设。他因鲸油被“偷吃”而恼怒，但获得补偿。",
+      "identInfos": [
+        "愚者使者",
+        "海神教会神使",
+        "原海盗"
+      ],
+      "aliases": [
+        {
+          "alias": "神使大人",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1291,
+          "extractReason": "UPDATE",
+          "evidenceText": "“狗屎！”达尼兹听到船员的回报后，忍不住骂了一声，“他们竟然把鲸油给吃掉了？你们怎么不阻止？”"
+        },
+        {
+          "chapterSeq": 1292,
+          "extractReason": "UPDATE",
+          "evidenceText": "统一换上了圆领衫、棕夹克、阔脚裤、深色鸭舌帽的白银城众人跟着神使达尼兹大人走下船只……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1291, 1292]
+    },
+    {
+      "name": "利亚瓦尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "利亚瓦尔是白银城探路小队成员，抵达拜亚姆后因穿着不便抱怨。在移居外界后，他与妻女重逢，分享奶糖。",
+      "identInfos": [
+        "白银城探路者",
+        "半巨人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1292,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“这样穿着真别扭，不太适合战斗……”走着走着，利亚瓦尔活动了下手脚，压低嗓音对戴里克长老道。"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们，我们有新家了……”\n……“这是神使大人分给我们的，奶糖，他们，他们都说很好吃……”利亚瓦尔脸上堆起了笑容。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1292, 1299]
+    },
+    {
+      "name": "坎蒂丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "坎蒂丝是白银城探路小队成员，与戴里克一起返回白银城报告外界情况。",
+      "identInfos": [
+        "白银城探路者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1292,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“可，可是，他们都在看我们……”坎蒂丝快速环顾了一圈，小声说道。"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你和我一起回白银城，将这里的情况告诉首席和‘六人议事团’其他长老。\n“嗯，吉诺德，你也一起，利亚瓦尔，你负责维持这里的秩序。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1292, 1299]
+    },
+    {
+      "name": "韦特·希尔蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城首席韦特·希尔蒙听取戴里克汇报后，下令全体居民集合，准备向“愚者”祈祷搬迁。他安排等待月城居民会合后再转移。",
+      "identInfos": [
+        "白银城首席",
+        "六人议事团成员"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "戴里克和坎蒂丝、吉诺德见到了首席韦特·希尔蒙和“六人议事团”其余成员……头顶纹着暗青符号，身高超过两米五的韦特·希尔蒙……感叹道：\n“你们的经历就像是一场美梦……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299]
+    },
+    {
+      "name": "阿达尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "阿达尔是月城居民，在听到大祭司召唤后激动地准备离开，背着分配到的蘑菇粉和非凡特性。",
+      "identInfos": [
+        "月城居民"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿达尔、辛和鲁斯等人听到了大祭司响彻整个城邦的声音，一下变得异常激动。\n他们几乎同时站起，将早就准备好的兽皮包袱背到了身后。\n那里面有他们分配到的蘑菇粉、蘑菇干和一张张怪物皮革、数量不等状态不同的非凡特性。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299]
+    },
+    {
+      "name": "辛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "辛是月城居民，与阿达尔等人一起准备搬迁。",
+      "identInfos": [
+        "月城居民"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿达尔、辛和鲁斯等人听到了大祭司响彻整个城邦的声音，一下变得异常激动。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299]
+    },
+    {
+      "name": "鲁斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "鲁斯是月城居民，与阿达尔等人一起准备搬迁。",
+      "identInfos": [
+        "月城居民"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿达尔、辛和鲁斯等人听到了大祭司响彻整个城邦的声音，一下变得异常激动。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299]
+    },
+    {
+      "name": "尼姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "月城大祭司尼姆宣布神谕，带领居民向“愚者”祈祷，之后被转移到白银城与白银城居民会合，共同移居外界。",
+      "identInfos": [
+        "月城大祭司",
+        "黑夜途径半神"
+      ],
+      "aliases": [
+        {
+          "alias": "大祭司",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "没过多久，整个月城的居民全部到齐，大祭司尼姆走上高台，难掩笑容地开口道：\n“各位，我得到了神谕。\n‘愚者’先生即将帮助我们离开这片被诅咒的大地，重获新生。"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "“六人议事团”首席韦特·希尔蒙对月城首领，据说叫尼姆的大祭司点了点头……尼姆担心出现意外，立刻回应道：\n“准备好了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“倒吊人”阿尔杰在灯塔上注视白银城探路小队的船只，与戴里克视线交汇，给予其平静。",
+      "identInfos": [
+        "塔罗会成员，代号“倒吊人”",
+        "风暴教会成员",
+        "海洋歌者"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1292,
+          "extractReason": "UPDATE",
+          "evidenceText": "他目光一扫间，突然看见海边灯塔上立着位男子，他身穿绣风暴符号的长袍，头发深蓝近黑，如同绞成一团的海草，脸庞线条粗犷而深刻。\n视线交汇中，戴里克一下变得平静，不再忐忑。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1292]
+    },
+    {
+      "name": "埃里克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃里克是“红手套”队长，序列5“灵巫”。在处理康斯顿城403室异常时，他和队员被压制非凡能力，后得梅林·赫尔墨斯（克莱恩）救助。",
+      "identInfos": [
+        "红手套队长",
+        "灵巫",
+        "值夜者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1296,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "埃里克是在之前那场战争的后期成为“红手套”队长，并晋升为序列5“灵巫”的。\n他见证过前任和前前任队长的身亡……"
+        },
+        {
+          "chapterSeq": 1296,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，埃里克充血的眼睛内映照出了一只普普通通的手掌，它握住把手，轻轻往外一拉。\n哐当！\n403室的深棕大门又一次关闭了……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1296, 1297]
+    },
+    {
+      "name": "约翰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "约翰是康斯顿城403室的原主人，天文学爱好者，加入“天体研修会”后通过望远镜看到不该看的事物而死亡，尸体异变为怪物。",
+      "identInfos": [
+        "天文学爱好者",
+        "康斯顿居民",
+        "天体研修会成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1296,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“他自称约翰，是一位天文学爱好者，喜欢在夜晚用专门的望远镜研究星空。”"
+        },
+        {
+          "chapterSeq": 1297,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他自称约翰，是一位天文学爱好者……战争结束后加入了一个叫做‘天体研修会’的学术组织……约翰好像在寻求看见真实星空，的办法。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1296, 1297]
+    },
+    {
+      "name": "韦尔奇·麦格文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩到康斯顿墓园祭拜原身大学同学韦尔奇·麦格文。韦尔奇的父亲与克莱恩交谈，拒绝帮助。",
+      "identInfos": [
+        "克莱恩原身的大学同学",
+        "因安提哥努斯家族笔记死亡",
+        "父亲是间海郡银行家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1297,
+          "extractReason": "UPDATE",
+          "evidenceText": "这墓碑的主人叫做：\n“韦尔奇·麦格文”。\n这是克莱恩原身的大学同学，因为买到了安提哥努斯家族笔记，诡异地死于廷根，这间接导致了周明瑞“穿越”。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1297]
+    },
+    {
+      "name": "韦尔奇的父亲",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "韦尔奇的父亲在儿子墓前遇到克莱恩，拒绝帮助，表示愿自己实现能实现的，不能实现的祈求神灵。后在康斯顿城被重建的奇迹中看到城市恢复。",
+      "identInfos": [
+        "间海郡银行家",
+        "韦尔奇·麦格文的父亲"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1297,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“叔叔，我是韦尔奇的朋友，最近刚好经过康斯顿城。”\n韦尔奇的父亲微微点头，嗓音低沉地说道：\n“他是个喜欢交朋友的人，我只认识其中一部分。”"
+        },
+        {
+          "chapterSeq": 1298,
+          "extractReason": "UPDATE",
+          "evidenceText": "黎明的光辉照耀下，他霍然看见了林立如森的烟囱和高炉，看见了一栋又一栋高大的建筑。\n曾经的康斯顿城完整地重现在了他的眼前，沐浴着橘红的晨曦。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1297, 1298]
+    },
+    {
+      "name": "维尔杜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "维尔杜是亚伯拉罕家族序列7非凡者，主张帮助“门”先生脱困以解除诅咒，与多里安·格雷产生分歧。他声称愿为此牺牲。",
+      "identInfos": [
+        "亚伯拉罕家族序列7",
+        "戴金边眼镜",
+        "主张解救门先生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1298,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“维尔杜，你疯了吗？让一位已疯狂的天使之王回归，会毁掉整个家族的！”多里安忍不住斥责了对方一句。\n叫做维尔杜的那个男人看了眼其余家族成员，沉下脸孔道：\n“所以，必须尽快，趁始祖还有部分意识清醒的时候……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1298]
+    },
+    {
+      "name": "贝尔纳黛·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛驾驶“黎明号”找到原始岛屿，探索中遭遇各种诡异。她与亡故骑士爱德华兹交谈，发现其早已死亡，并在“黑皇帝”陵寝内遭遇活化、污染等危险。最终面对被污染的罗塞尔，含泪协助封印父亲。",
+      "identInfos": [
+        "神秘女王",
+        "罗塞尔之女",
+        "要素黎明首领",
+        "预言大师"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        },
+        {
+          "alias": "公主殿下",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "进入没有安全航道的海域后，“神秘女王”贝尔纳黛似乎丧失了对时间的感知……"
+        },
+        {
+          "chapterSeq": 1301,
+          "extractReason": "UPDATE",
+          "evidenceText": "爱德华兹……一直看守着这里，等待祂复活。\n……“好。”贝尔纳黛……借助“无形仆役”……回应道。"
+        },
+        {
+          "chapterSeq": 1303,
+          "extractReason": "UPDATE",
+          "evidenceText": "“离开这里！”\n……贝尔纳黛被推出十几米后，轻松站稳了脚跟，但却没遵循那声音的命令……她立在那里，怔怔望着中央高台，望着那道黑色的身影，表情里流露出了难以掩饰也不想掩饰的悲伤。"
+        },
+        {
+          "chapterSeq": 1306,
+          "extractReason": "UPDATE",
+          "evidenceText": "“封印我！”\n封印……“神秘女王”贝尔纳黛无声重复了一遍那个单词，蔚蓝的眼眸飞快变得湿润……她坚定地……抬起了自己的右手，将它按在了那张苍白的金属面具上。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299, 1300, 1301, 1302, 1303, 1304, 1305, 1306]
+    },
+    {
+      "name": "爱德华兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "罗塞尔时期的骑士爱德华兹在原始岛屿“复活”，看守“黑皇帝”陵寝。他与贝尔纳黛交谈后意识到自己早已死亡，自残后离开。其状态是岛屿秩序漏洞。",
+      "identInfos": [
+        "罗塞尔的骑士",
+        "冰山中将艾德雯娜的祖先",
+        "在原始岛屿复活"
+      ],
+      "aliases": [
+        {
+          "alias": "爱德华兹叔叔",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1301,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他穿着罗塞尔时期的奢华衣物，头发全白，容貌苍老，有一双浅蓝色的，极度冷漠和木然的眼睛。\n爱德华兹。\n这是大帝陨落后还活了一段时间的那位骑士，“冰山中将”艾德雯娜的祖先。"
+        },
+        {
+          "chapterSeq": 1302,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我似乎，似乎，已经死了……”\n爱德华兹转过脑袋，用那双浅蓝色的眼眸望向了贝尔纳黛的“无形仆役”……他……扬起了手中的铁黑色斧头。\n噗！\n他那把斧头狠狠劈到了自己的头顶……"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [1301, 1302, 1303]
+    },
+    {
+      "name": "罗塞尔·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "罗塞尔在原始岛屿“黑皇帝”陵寝内以黑影形态存在，已被“原始月亮”污染。他与贝尔纳黛短暂交流后要求被封印。在克莱恩和“苍白的死亡”帮助下，被成功封印沉眠。",
+      "identInfos": [
+        "黑皇帝",
+        "贝尔纳黛的父亲",
+        "穿越者",
+        "被原始月亮污染"
+      ],
+      "aliases": [
+        {
+          "alias": "凯撒",
+          "type": "别名"
+        },
+        {
+          "alias": "罗塞尔大帝",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1305,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "下一秒，黑色身影上裂开了更多的缝隙，它们从头部一直往下，于身体不同部位开出了血红的花朵。\n这让罗塞尔就像只剩下了一层阴影，里面包裹着一团散发出纯粹光辉的血红事物。\n灰雾之上的克莱恩看到这一幕，自然就联想到了高空中的那轮红月。"
+        },
+        {
+          "chapterSeq": 1306,
+          "extractReason": "UPDATE",
+          "evidenceText": "“封印我！”\n……罗塞尔抓住机会，略微挺直了身体，望着贝尔纳黛，颇为艰难地喊道……\n……罗塞尔的身影随即消逝，那裂开的鲜红缝隙一道接一道合拢。\n等待于这位大帝前方的是夜色一样安宁的沉眠。"
+        }
+      ],
+      "lifeStatus": "被封印",
+      "appearanceChapterSeqs": [1305, 1306]
+    },
+    {
+      "name": "吉诺德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "吉诺德是白银城探路者，与戴里克、坎蒂丝一起返回白银城报告。",
+      "identInfos": [
+        "白银城探路者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“嗯，吉诺德，你也一起，利亚瓦尔，你负责维持这里的秩序。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1299]
+    }
+  ],
+  "factions": [
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城探路小队在戴里克带领下抵达拜亚姆，开始建设新家园。戴里克返回报告后，首席韦特·希尔蒙下令全体居民准备搬迁。最终全体居民向“愚者”祈祷，被转移到外界新居住地。",
+      "identInfos": [
+        "神弃之地幸存者城邦",
+        "信仰愚者",
+        "居民多为半巨人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1292,
+          "extractReason": "UPDATE",
+          "evidenceText": "属于反抗军的大型海船靠岸后，统一换上了圆领衫、棕夹克、阔脚裤、深色鸭舌帽的白银城众人跟着神使达尼兹大人走下船只……"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "“让所有人带好必须的物品到训练场集合。\n“为了防止意外，我们直接向‘愚者’先生祈求，请祂将我们转移过去。”"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "几秒后，白银城训练场上的所有人都消失了。\n……白银城和月城的居民们来到了凝固着黄昏光芒的巨人王宫殿前方。"
+        }
+      ]
+    },
+    {
+      "name": "月城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "月城居民在大祭司尼姆带领下向“愚者”祈祷，被转移到白银城与白银城居民会合，随后共同移居外界。他们长期生存于神弃之地，许多人出现畸变。",
+      "identInfos": [
+        "神弃之地古代遗民城邦",
+        "信仰愚者",
+        "居民多有畸形"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "神弃之地，月城。\n阿达尔、辛和鲁斯等人听到了大祭司响彻整个城邦的声音，一下变得异常激动。\n……大祭司尼姆走上高台，难掩笑容地开口道：\n“‘愚者’先生即将帮助我们离开这片被诅咒的大地，重获新生。”"
+        },
+        {
+          "chapterSeq": 1299,
+          "extractReason": "UPDATE",
+          "evidenceText": "“六人议事团”首席韦特·希尔蒙对月城首领，据说叫尼姆的大祭司点了点头……尼姆担心出现意外，立刻回应道：\n“准备好了。”"
+        }
+      ]
+    },
+    {
+      "name": "天体研修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "约翰加入的学术组织“天体研修会”，疑似引导成员通过望远镜观看真实星空，导致污染和死亡。被克莱恩和值夜者定义为危险组织。",
+      "identInfos": [
+        "指向星空的邪教组织",
+        "研究真实星空",
+        "导致成员污染死亡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1297,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“二，他很早就是天文学爱好者，战争结束后加入了一个叫做‘天体研修会’的学术组织，但我们之前并没有搜集到关于这个组织的任何资料；三，约翰好像在寻求看见真实星空，的办法。”"
+        },
+        {
+          "chapterSeq": 1297,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们会尽快把这起案子上报给大主教，将‘天体研修会’定义为危险组织。”"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "亚伯拉罕家族成员多里安·格雷将“门”先生话语告知族人，出现分歧。维尔杜主张解救先祖，多里安等倾向于信仰“愚者”。家族诅咒源于“门”先生的满月呓语。",
+      "identInfos": [
+        "学徒途径家族",
+        "受满月诅咒",
+        "先祖为伯特利·亚伯拉罕"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1298,
+          "extractReason": "UPDATE",
+          "evidenceText": "“维尔杜，你疯了吗？让一位已疯狂的天使之王回归，会毁掉整个家族的！”多里安忍不住斥责了对方一句。\n……多里安……叹了口气道：\n“维尔杜一直在研究各种神秘学资料，希望能找到彻底解决家族诅咒的办法……”"
+        },
+        {
+          "chapterSeq": 1298,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果这件事情需要牺牲者，那就由我来担任。”\n……多里安目送着他离去，好半天才叹息道……"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "特伦索斯特黄铜书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "“0-02”封印物，源于被“失序之国”污染的“审判者”唯一性。在贝尔丹活化制定规则，克莱恩通过制造悖论使其进入死循环，最终将其扔入霍纳奇斯山脉古老宫殿与安提哥努斯家族半个“愚者”交换“愚者”牌。之后“0-02”在宫殿内陷入无尽循环。",
+      "identInfos": [
+        "0级封印物",
+        "代号0-02",
+        "源于审判者唯一性",
+        "制定规则并强制执行"
+      ],
+      "aliases": [
+        {
+          "alias": "0-02",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1288,
+          "extractReason": "UPDATE",
+          "evidenceText": "“……‘特伦索斯特黄铜书’源于被‘失序之国’污染的‘审判者’‘唯一性’……”"
+        },
+        {
+          "chapterSeq": 1289,
+          "extractReason": "UPDATE",
+          "evidenceText": "一次一次又一次，“特伦索斯特黄铜书”陷入了无尽的循环。"
+        }
+      ]
+    },
+    {
+      "name": "愚者牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "“亵渎之牌”之一，记载序列1“诡秘侍者”和序列0“愚者”的配方与仪式。克莱恩用“0-02”从安提哥努斯家族宫殿换得，容纳后位格提升。",
+      "identInfos": [
+        "亵渎之牌",
+        "记载愚者途径序列1和0配方",
+        "罗塞尔制作"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1289,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这张牌的表面是戴着华丽头饰，穿着五彩衣物，扛着手杖和行李的罗塞尔·古斯塔夫……\n而牌面左上角，璀璨星辉勾勒出了几个单词：\n“序列0：愚者！”"
+        },
+        {
+          "chapterSeq": 1291,
+          "extractReason": "UPDATE",
+          "evidenceText": "“序列1：诡秘侍者。\n……晋升仪式：建立一个纯粹由秘偶组成的城镇……\n“序列0：愚者。\n……晋升仪式：愚弄一次时间、历史或者命运。”"
+        }
+      ]
+    },
+    {
+      "name": "恶魔油画",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "亚伯拉罕家族的1级封印物，可封印半神层次生物。佛尔思借用它释放并重新封印一只疯狂半神生物以完成“秘法师”晋升仪式。",
+      "identInfos": [
+        "1级封印物",
+        "亚伯拉罕家族制品",
+        "封印半神生物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1293,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“恶魔油画”本身只有关押和封印效果，并不具备主动影响目标的能力……"
+        },
+        {
+          "chapterSeq": 1293,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思心中一喜，毫不犹豫地再次念出咒文，关闭了“恶魔油画”的外层封印。"
+        }
+      ]
+    },
+    {
+      "name": "贤者额饰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛的0级封印物，核心为钻石竖眼，可让人化身信息洪流。贝尔纳黛在陵寝内使用它对抗活化和污染，但使用后会导致非凡特性融入身体，有失控风险。",
+      "identInfos": [
+        "0级封印物",
+        "钻石竖眼饰品",
+        "可化身信息洪流"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1303,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“贤者额饰。”……这饰品的核心是一只“钻石”镶嵌成的竖眼，它闪烁着纯净的光芒……这是件“0”级封印物……"
+        },
+        {
+          "chapterSeq": 1304,
+          "extractReason": "UPDATE",
+          "evidenceText": "她额头中央的“贤者额饰”主动脱离了她的身体，漂浮到了半空……“贤者额饰”也获得了一定的活着的特性。"
+        }
+      ]
+    },
+    {
+      "name": "苍白的死亡",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "贝尔纳黛的0级封印物，苍白面具，可使佩戴者逐渐死亡。贝尔纳黛用它抑制活化，并最终用来封印被污染的罗塞尔。",
+      "identInfos": [
+        "0级封印物",
+        "苍白面具",
+        "罗塞尔制作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1304,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是她拥有的第三件，也是最后一件“0”级封印物，是罗塞尔大帝晚年从南大陆返回后制作的物品，叫做“苍白的死亡”。\n它的负面效果是让佩戴者一点点死去，直至变成尸体，成为它的奴隶。"
+        },
+        {
+          "chapterSeq": 1306,
+          "extractReason": "UPDATE",
+          "evidenceText": "她坚定地，毫不动摇地抬起了自己的右手，将它按在了那张苍白的金属面具上。\n“苍白的死亡”表面，金属瞬间柔化，重组出新的脸孔……"
+        }
+      ]
+    },
+    {
+      "name": "朗基努斯之枪",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "贝尔纳黛通过“神秘再现”召唤的古老长枪，曾沾染某位伟大存在血液，能伤害神灵。但在“黑皇帝”陵寝内因秩序扭曲攻击方向错误。",
+      "identInfos": [
+        "古老长枪",
+        "沾染神灵血液",
+        "神秘再现产物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1305,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“朗基努斯之枪”！\n这把枪曾经出现于无法追溯的古老年代，沾染上了某位伟大存在的血液，此时通过“神秘再现”，降临到了“黑皇帝”陵寝内。"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺的旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩以“世界”身份租赁的笔记，用于记录和模拟非凡能力。他通过多次记录掌握了“空间隐藏”等法术。",
+      "identInfos": [
+        "可记录非凡能力的笔记",
+        "塔罗会交易物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1305,
+          "extractReason": "UPDATE",
+          "evidenceText": "至于“空间隐藏”是从哪里学来的，当然是刚刚晋升的“魔术师”佛尔思。\n之前，克莱恩以“世界”格尔曼·斯帕罗的名义，租赁了“莱曼诺的旅行笔记”……"
+        }
+      ]
+    },
+    {
+      "name": "魔镜阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的封印物魔镜，在封印“0-02”事件中负责监控布告牌律令消失情况。克莱恩离开康斯顿城时随身携带。",
+      "identInfos": [
+        "魔镜",
+        "克莱恩的封印物",
+        "可回答问题"
+      ],
+      "aliases": [
+        {
+          "alias": "阿罗德斯",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1288,
+          "extractReason": "UPDATE",
+          "evidenceText": "至于监控“特伦索斯特黄铜书”，务求不出现意外的任务，当然是交给阿罗德斯，虽然这面魔镜没法直接看“0-02”，但它可以关注布告牌，从上面律令的消失判断事情的进展。"
+        },
+        {
+          "chapterSeq": 1290,
+          "extractReason": "UPDATE",
+          "evidenceText": "做完这件事情，克莱恩谨慎地拿出“魔镜”，望向它道：\n“阿罗德斯，这件事情还有别的隐患存留吗？”"
+        }
+      ]
+    },
+    {
+      "name": "星之杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的封印物，在“黑皇帝”陵寝内被用来模拟“时钟”能力、“空间隐藏”等，帮助贝尔纳黛对抗黑影。",
+      "identInfos": [
+        "克莱恩的封印物",
+        "黑色手杖",
+        "顶端镶嵌宝石"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1305,
+          "extractReason": "UPDATE",
+          "evidenceText": "灰雾之上，宫殿内部的克莱恩在那道黑影凸显于贝尔纳黛身前的时候，就已经察觉，毫不犹豫抬起了手中握着的“星之杖”。"
+        }
+      ]
+    }
+  ]
+}

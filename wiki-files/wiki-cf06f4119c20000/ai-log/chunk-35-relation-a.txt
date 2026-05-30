@@ -1,0 +1,329 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 683,
+      "toChapterSeq": 683,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "莫索纳",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩将莫索纳转化为傀儡，控制其搜集犯罪文件并举行献祭仪式，随后让“蠕动的饥饿”吞噬了他。"
+    },
+    {
+      "fromChapterSeq": 683,
+      "toChapterSeq": 686,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "吉尔希艾斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩在酒吧主动攻击吉尔希艾斯，经过激战将其击杀，并放牧其灵魂获得多种能力。"
+    },
+    {
+      "fromChapterSeq": 688,
+      "toChapterSeq": 690,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "安德森·胡德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩帮助安德森找到瑞乔德议员，解除了其厄运诅咒。安德森透露拜亚姆有神奇左轮。"
+    },
+    {
+      "fromChapterSeq": 689,
+      "toChapterSeq": 690,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "瑞乔德",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩委托瑞乔德解除安德森的厄运诅咒，并询问“欲望母树”信息，瑞乔德成功完成。"
+    },
+    {
+      "fromChapterSeq": 691,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "达尼兹向克莱恩求救寻找艾德雯娜，克莱恩带领他进入书中世界，并让达尼兹诵念愚者尊名，使其成为愚者信徒。"
+    },
+    {
+      "fromChapterSeq": 691,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "安德森·胡德",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩说服安德森进入书中世界协助寻找艾德雯娜，安德森在威胁下同意。"
+    },
+    {
+      "fromChapterSeq": 691,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "艾德雯娜·爱德华兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "艾德雯娜失踪后，克莱恩进入书中世界救援，并带领众人战胜冰霜巨龙，最终成功救出艾德雯娜。"
+    },
+    {
+      "fromChapterSeq": 691,
+      "toChapterSeq": 691,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "蕾妮特·缇尼科尔作为信使传递达尼兹的求救信，并透露查探过艾德雯娜失踪情况，认为奇怪。"
+    },
+    {
+      "fromChapterSeq": 696,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "莫贝特·索罗亚斯德",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "莫贝特向克莱恩介绍所罗门帝国历史、偷盗者途径序列、阿蒙家族等信息，克莱恩通过提问获取大量知识。"
+    },
+    {
+      "fromChapterSeq": 696,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "斯诺曼",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "斯诺曼告知克莱恩天使之王萨斯利尔和亚当的信息，提及亚当时引发异动。"
+    },
+    {
+      "fromChapterSeq": 698,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "夏塔丝",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "夏塔丝应克莱恩请求透露精灵王后高希纳姆信息，并承诺给予“海洋歌者”配方，最终在临终前将配方写给克莱恩。"
+    },
+    {
+      "fromChapterSeq": 696,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "格罗塞尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "格罗塞尔热情欢迎克莱恩一行人，并与克莱恩并肩对抗冰霜巨龙，最终战死。"
+    },
+    {
+      "fromChapterSeq": 698,
+      "toChapterSeq": 702,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "尤里斯安",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "尤里斯安作为书中世界的“北方之王”攻击众人，克莱恩与之交战，并最终通过操纵灵体之线协助击杀。"
+    }
+  ]
+}

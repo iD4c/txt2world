@@ -1,0 +1,254 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "克莱恩与莎伦在废弃小教堂共同应对拉夫特·庞德挖掘遗迹的事件，莎伦提出装神弄鬼吓走庞德，克莱恩用无面人能力模拟莎伦声音配合。面对恶灵附身庞德时，两人共同拒绝解除封印的提议，并约定克莱恩为莎伦留意后续魔药配方和材料，互道新年祝福。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "愚者通过塔罗会为太阳提供“救赎蔷薇”和“吞尾者乌洛琉斯”等关键信息，引导戴里克和科林打破时间循环。愚者承诺帮助太阳获取“太阳神官”配方以净化非凡特性污染，维持了稳定的教导与求助关系。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "埃姆林奉血族始祖启示向愚者祈求，愚者将其拉入塔罗会，赐予代号“月亮”，解除其心理暗示，并接受他用血族历史作为交换。愚者要求埃姆林保密，称此为隐秘交易，埃姆林认同并主动加入阵营。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被求助者"
+        }
+      },
+      "characterB": {
+        "name": "特里斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "在红蔷薇庄园，特莉丝突然现身请求克莱恩举报她，并透露自己被操纵被迫改名“特莉丝奇克”、不受控杀死塔利姆，克莱恩意识到“奇克”是原初魔女真名而极度恐惧，但特莉丝同时将其绑住带走。此互动揭示了0-08操纵特莉丝生下原初魔女子嗣的重大隐秘。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "未知",
+          "hierarchy": "无",
+          "favorability": "未知",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩通过塔罗会以“愚者”身份间接影响白银城探索，提供“救赎蔷薇”和命运天使信息，帮助科林打破循环，但科林对此并不知情。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "拉夫特·庞德",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与莎伦伪装恶灵与庞德对话，庞德误以为他们是恶灵并主动合作，提出解除封印的请求，克莱恩借此获得“红祭司”亵渎之牌线索。"
+    },
+    {
+      "fromChapterSeq": 466,
+      "toChapterSeq": 466,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "被追击者"
+        }
+      },
+      "characterB": {
+        "name": "因斯·赞格威尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "追击者"
+        }
+      },
+      "relationSummary": "阿兹克与因斯·赞格威尔及其帮凶遭遇，克莱恩为逃离地底，化身因斯外貌骗取守卫信任，最终借助光门逃脱。此事件再次强化双方敌对关系。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "埃德萨克·奥古斯都",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "未知",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "愚者点出埃德萨克王子可能被魔女迷惑，奥黛丽意识事态严重，决定向父母打听消息并推动教会调查，最终向母亲坦白非凡者身份并透露魔女隐患。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "倒吊人夸大埃德萨克王子案的危险性，激励正义深入调查，正义从倒吊人处获取进一步信息以推动教会介入。"
+    },
+    {
+      "fromChapterSeq": 454,
+      "toChapterSeq": 473,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "尼拜斯·奥德拉",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "尼拜斯假借始祖启示要求埃姆林向愚者祈祷以测试愚者，愚者接纳入会并解除埃姆林心理暗示，间接回应了血族的试探。"
+    }
+  ]
+}

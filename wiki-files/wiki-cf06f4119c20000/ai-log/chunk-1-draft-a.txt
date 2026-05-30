@@ -1,0 +1,844 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩从罗塞尔日记中得知魔药的关键是“消化”与“扮演”，并了解到罗塞尔是穿越者同胞。他选择成为“占卜家”非凡者，服食魔药后获得灵视等能力，并开始学习神秘学知识，包括灵摆占卜、象征符号等。他利用“扮演”概念向值夜者申请报销加入占卜俱乐部的费用，在塔罗会上将“消化”与“扮演”的道理作为预付报酬分享给“正义”和“倒吊人”，并委托他们搜集罗塞尔日记。克莱恩一家搬家到水仙花街联排房屋，他继续练习射击和神秘学，并得知“占卜家”后续序列不全。伦纳德·米切尔对他自杀未遂提出质疑，怀疑笔记与他本人可能仍存在联系。",
+      "identInfos": [
+        "穿越者，原主为历史系毕业生",
+        "值夜者文职人员，非凡者“占卜家”",
+        "塔罗会首领“愚者”",
+        "与安提哥努斯家族笔记事件相关",
+        "妹妹梅丽莎，哥哥班森"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 21,
+          "extractReason": "UPDATE",
+          "evidenceText": "“一月四日，为什么我的孩子们会那么蠢？我说过一万遍了，不要被那些神棍忽悠，不，那些神棍或许自己也被忽悠了，魔药的关键不是掌握，是消化！不是挖掘，是扮演！而魔药的名称也不仅仅是核心象征，还是具体意象，更是消化的‘钥匙’！”"
+        },
+        {
+          "chapterSeq": 28,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你希望成为一位非凡者吗？只能从不完整序列里挑选起始的非凡者。”"
+        },
+        {
+          "chapterSeq": 30,
+          "extractReason": "UPDATE",
+          "evidenceText": "“占卜家！”"
+        },
+        {
+          "chapterSeq": 32,
+          "extractReason": "UPDATE",
+          "evidenceText": "他移动目光，仔细打量着老尼尔，可突然之间，却看见对方背后的虚空里有一双没长睫毛、冷漠无情、趋于透明的眼睛！"
+        },
+        {
+          "chapterSeq": 34,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不是掌握，是消化。不是挖掘，是扮演。魔药的名称不只是象征，还是意象，更是消化的‘钥匙’。”"
+        },
+        {
+          "chapterSeq": 39,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果让你们自杀是为了灭口，抹去线索，那为什么不直接让你当场毁掉那本笔记？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "老尼尔向克莱恩展示并讲解了罗塞尔的日记，透露了魔药的“消化”与“扮演”概念。他为克莱恩配制了“占卜家”魔药，并教导克莱恩冥想、灵视和神秘学基础知识，包括灵摆占卜和象征符号。他还暗示克莱恩可以申请报销加入占卜俱乐部的费用。",
+      "identInfos": [
+        "值夜者小队成员，非凡者“窥秘人”",
+        "穿着古典黑袍，白色头发，暗红眼眸",
+        "负责武器、材料和文献库",
+        "掌握仪式魔法和神秘学知识"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 21,
+          "extractReason": "UPDATE",
+          "evidenceText": "“就这些，你看看吧。”老尼尔笑着将那三张纸推到了克莱恩面前。"
+        },
+        {
+          "chapterSeq": 31,
+          "extractReason": "UPDATE",
+          "evidenceText": "“纯水就是反复蒸馏过的水，刚好我之前有制作，不用浪费时间了。”老尼尔边介绍，边熟稔地拿过长桌上一个有刻度的密封大玻璃瓶。"
+        },
+        {
+          "chapterSeq": 32,
+          "extractReason": "UPDATE",
+          "evidenceText": "“好的，继续现在的状态，把你的双手抬起，放在眼前，食指相对，但不要碰到。”"
+        },
+        {
+          "chapterSeq": 40,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这是占卜里的垂摆法，又叫灵摆法，依靠本身星灵体与灵界、星空的联系，借助一些自然材质与灵性的沟通，比如水晶、宝石和特殊金属，来占卜事物的好坏……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        21,
+        31,
+        32,
+        33,
+        40
+      ]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "邓恩·史密斯是值夜者队长，序列7“梦魇”。他给予克莱恩成为非凡者的机会，允许其从“窥秘人”、“收尸人”、“占卜家”中选择。在克莱恩选择“占卜家”后，他安排老尼尔配制魔药。他还告知克莱恩值夜者对密修会的行动结果，并建议克莱恩提高灵感以寻找笔记。",
+      "identInfos": [
+        "值夜者小队队长",
+        "序列7“梦魇”",
+        "灰眸幽深，发际线偏高",
+        "能进入他人梦境"
+      ],
+      "aliases": [
+        {
+          "alias": "队长",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 22,
+          "extractReason": "UPDATE",
+          "evidenceText": "“队长曾经进过我的梦……”克莱恩左右各看了一眼，再次压低嗓音道。"
+        },
+        {
+          "chapterSeq": 28,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你希望成为一位非凡者吗？只能从不完整序列里挑选起始的非凡者。”邓恩·史密斯收敛笑容，表情庄重而严肃道。"
+        },
+        {
+          "chapterSeq": 30,
+          "extractReason": "UPDATE",
+          "evidenceText": "邓恩·史密斯的灰眸直视着克莱恩的眼睛，足足一分钟没有说话。……“告诉我你的答案。”克莱恩毫不犹豫地回答：“占卜家！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "name": "罗珊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗珊是值夜者小队的文职人员，负责接待。她告诉克莱恩“不眠者”、“午夜诗人”、“梦魇”等序列信息，并提到“窥秘人”、“通灵者”等序列。她曾因父亲牺牲而对非凡者抱有复杂情绪，但依然提供信息给克莱恩。",
+      "identInfos": [
+        "值夜者小队文职人员，棕发女孩",
+        "负责接待和轮值武器库",
+        "父亲曾是“不眠者”，已牺牲",
+        "性格开朗，有点话多"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 22,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我听队长和老尼尔都讲过，因为超凡物种的减少和消亡，高序列的强者在如今这个时代几乎已经没有了……我们廷根市加郊区，有好几十万人，非凡者才三十多个……”"
+        },
+        {
+          "chapterSeq": 22,
+          "extractReason": "UPDATE",
+          "evidenceText": "“属于我们教会的完整序列的起始是‘不眠者’，序列9‘不眠者’！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        22,
+        26,
+        30,
+        39
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伦纳德·米切尔是值夜者成员，序列8“午夜诗人”，有诗人气质。他对克莱恩表示怀疑，认为克莱恩身上存在特殊之处，并提出了关于克莱恩自杀未遂与安提哥努斯家族笔记可能关联的质疑。",
+      "identInfos": [
+        "值夜者成员，序列8“午夜诗人”",
+        "黑发绿瞳，有诗人气质",
+        "曾搜查克莱恩家",
+        "对克莱恩的自杀未遂持怀疑态度"
+      ],
+      "aliases": [
+        {
+          "alias": "午夜诗人",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 21,
+          "extractReason": "UPDATE",
+          "evidenceText": "“伦纳德·米切尔，序列8的‘午夜诗人’。”"
+        },
+        {
+          "chapterSeq": 39,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果让你们自杀是为了灭口，抹去线索，那为什么不直接让你当场毁掉那本笔记？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        21,
+        39
+      ]
+    },
+    {
+      "name": "梅丽莎",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎是克莱恩的妹妹，节俭持家，对哥哥找到新工作和搬家感到高兴，但依然坚持节约。她与克莱恩、班森一起庆祝，并最终同意搬家到水仙花街联排房屋。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "黑发褐眸，有酒窝",
+        "节俭，数学好",
+        "与克莱恩、班森感情深厚"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 23,
+          "extractReason": "UPDATE",
+          "evidenceText": "披着柔顺黑发的梅丽莎推门而入，鼻子微不可见地抽动了一下，她的目光扫过根本没点燃的炉子，眼中的神采突然黯淡了少许。"
+        },
+        {
+          "chapterSeq": 24,
+          "extractReason": "UPDATE",
+          "evidenceText": "“克莱恩，我们住得其实还算不错，我偶尔抱怨没有自己的盥洗室也只是习惯……我很喜欢斯林太太的面包房。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        23,
+        24,
+        27,
+        29,
+        30,
+        40
+      ]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森是克莱恩和梅丽莎的兄长，发际线偏高，面容老相，但实际只有25岁。他擅长幽默和谈判，成功说服房东弗兰奇解除租房合约，并与弟弟妹妹一起搬入水仙花街联排房屋。",
+      "identInfos": [
+        "克莱恩和梅丽莎的兄长",
+        "25岁，发际线偏高，黑发褐瞳",
+        "擅长幽默嘲讽和谈判",
+        "周薪1镑10苏勒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 26,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位男子正是他和梅丽莎的兄长，班森·莫雷蒂，今年才25岁，因发际线后退，面容老相，看起来都快30了。"
+        },
+        {
+          "chapterSeq": 29,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森往前走了一步，呵呵笑道：“弗兰奇先生，您应该很清楚，您应当赚得更多。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        26,
+        27,
+        29,
+        30
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽·霍尔是塔罗会成员，代号“正义”，贵族少女。她在塔罗会上获得“观众”魔药配方，并从“愚者”那里得知“扮演”与“消化”的关键。她准备收集材料制作魔药，并开始使用宠物狗苏茜作为助手。",
+      "identInfos": [
+        "塔罗会成员，代号“正义”",
+        "贵族少女，金发高挑",
+        "对神秘学感兴趣",
+        "即将成为“观众”非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 34,
+          "extractReason": "UPDATE",
+          "evidenceText": "“根据协议，我将告诉你‘观众’这份魔药的配方了。”"
+        },
+        {
+          "chapterSeq": 36,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽嘴角上翘，露出灿烂如同阳光的笑容：“苏茜，你的任务完成得很好！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰·威尔逊是塔罗会成员，代号“倒吊人”，疑似风暴教会非凡者。他在塔罗会上将“观众”魔药配方告诉“正义”，并从“愚者”那里得知“扮演”与“消化”的关键。他还分享了“安提哥努斯家族”被黑夜女神教会覆灭的消息。",
+      "identInfos": [
+        "塔罗会成员，代号“倒吊人”",
+        "疑似风暴教会非凡者",
+        "粗犷深刻，蓝黑头发",
+        "探索序列“航海家”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰想了想道：“自称‘路德维尔上将’的那位大海盗，又开始了探索苏尼亚海东方尽头的航行。”"
+        },
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "“安提哥努斯家族正是被黑夜女神教会覆灭的。”"
+        },
+        {
+          "chapterSeq": 36,
+          "extractReason": "UPDATE",
+          "evidenceText": "在那片黄褐色的抬头位置，深蓝色墨水书写出了一行赫密斯文：“7，航海家。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "name": "阿兹克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "阿兹克是霍伊大学历史系教员，皮肤古铜色，眼眸沧桑。在克莱恩告知韦尔奇和娜娅的案件与安提哥努斯家族笔记有关时，他觉得这个姓氏很熟悉，但想不起在哪里听说过。",
+      "identInfos": [
+        "霍伊大学历史系教员",
+        "古铜皮肤，黑色头发，褐色眼眸",
+        "与科恩资深副教授私交好",
+        "对安提哥努斯家族熟悉但想不起"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 24,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克先是发怔，继而吸了口气，用拿着报纸的左手揉动太阳穴道：“安提哥努斯……感觉很熟悉……但怎么都想不起来在哪里听说过……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        24
+      ]
+    },
+    {
+      "name": "昆汀·科恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "昆汀·科恩是霍伊大学历史系资深副教授，克莱恩的导师，满头银发，眸子深蓝。他对克莱恩放弃面试表示理解，并鼓励学生探索历史。",
+      "identInfos": [
+        "霍伊大学历史系资深副教授",
+        "克莱恩的导师",
+        "满头银发，眸子深蓝，轮廓深刻"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 24,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他转过身去，看见了一位满头银发，轮廓深刻，但皱纹不多的老者，他眼窝凹陷，眸子深蓝，黑色燕尾服笔挺。……这位老者正是霍伊大学历史系的资深副教授，他的导师，昆汀·科恩先生。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        24
+      ]
+    },
+    {
+      "name": "格拉西斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "格拉西斯是占卜俱乐部的新成员，初学者，为克莱恩做了塔罗占卜。克莱恩用灵视发现他肺部气场黯淡，建议他看医生。",
+      "identInfos": [
+        "占卜俱乐部会员，初学者",
+        "淡黄头发，暗绿瞳孔，戴单片眼镜",
+        "为克莱恩占卜物品下落"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 38,
+          "extractReason": "UPDATE",
+          "evidenceText": "“格拉西斯先生，我建议你尽快看一下医生，主要是肺部的问题。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        38
+      ]
+    },
+    {
+      "name": "布莱特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "布莱特是值夜者的文职人员之一，与罗珊调换值班顺序，以庆祝结婚十五周年纪念日。",
+      "identInfos": [
+        "值夜者文职人员",
+        "戴半高礼帽，蓄黑须",
+        "结婚十五年"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 39,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“布莱特，我们的同事，他想和我调换值班的顺序，将后天晚上空出来，他要和他夫人去北区大剧院看《傲慢者》，庆祝他们的结婚十五周年纪念日，真是一位浪漫的绅士啊。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        39
+      ]
+    },
+    {
+      "name": "温蒂·斯林",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "温蒂·斯林是斯林面包房的店主，克莱恩的旧邻居。她请克莱恩试喝新调制的甜冰茶，并安慰他不要被烦恼困扰。",
+      "identInfos": [
+        "斯林面包房店主，克莱恩旧邻居",
+        "头发灰白，和蔼",
+        "原南方人，随丈夫来廷根"
+      ],
+      "aliases": [
+        {
+          "alias": "斯林太太",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 37,
+          "extractReason": "UPDATE",
+          "evidenceText": "“小克莱恩。”克莱恩疑惑转头，发现自己走到了“斯林面包房”的门口，头发灰白的温蒂太太正带着柔和的笑容扬手招呼。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        37
+      ]
+    },
+    {
+      "name": "斯卡特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "斯卡特是“廷根市改善住房公司”的职员，负责接待克莱恩一家，带他们看房并最终签约。",
+      "identInfos": [
+        "廷根市改善住房公司职员",
+        "白衬衣黑马甲，笑容和蔼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 29,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "负责接待他们的是位笑容和蔼的中年，没穿正装，没戴帽子，白衬衣，黑马甲。……“你们可以称呼我斯卡特……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        29,
+        30
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "值夜者是黑夜女神教会的非凡者小队，负责处理超自然事件。在本章中，他们接纳克莱恩成为文职人员，并给予他成为非凡者的机会。成员包括队长邓恩·史密斯（序列7“梦魇”）、老尼尔（“窥秘人”）、伦纳德·米切尔（“午夜诗人”）等。他们掌握了“不眠者”、“窥秘人”、“占卜家”等序列魔药配方。",
+      "identInfos": [
+        "黑夜女神教会下属非凡者小队",
+        "负责处理超自然事件",
+        "总部在圣赛琳娜教堂地下",
+        "掌握多种序列魔药配方"
+      ],
+      "aliases": [
+        {
+          "alias": "特殊行动部第七小组",
+          "type": "别名"
+        },
+        {
+          "alias": "黑荆棘安保公司",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 21,
+          "extractReason": "UPDATE",
+          "evidenceText": "牛皮枪袋触感扎实，带子有扣，旁边半个手掌大小的徽章以铁色为底，有镶银的“阿霍瓦郡警察厅”“特殊行动部第七小组”文字"
+        },
+        {
+          "chapterSeq": 22,
+          "extractReason": "UPDATE",
+          "evidenceText": "“属于我们教会的完整序列的起始是‘不眠者’，序列9‘不眠者’！”"
+        },
+        {
+          "chapterSeq": 28,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我们的‘窥秘人’魔药配方和不连接的部分后续是从‘摩斯苦修会’得到的”"
+        }
+      ]
+    },
+    {
+      "name": "密修会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "密修会是建立于第四纪的古老组织，与所罗门帝国和堕落贵族有关。安提哥努斯家族笔记正来源于他们，因成员疏忽被韦尔奇得到。他们派人追寻笔记，但被值夜者抓获，并被迫放弃行动。",
+      "identInfos": [
+        "第四纪古老组织",
+        "与所罗门帝国和堕落贵族有关",
+        "丢失安提哥努斯家族笔记",
+        "被值夜者抓捕部分成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 28,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“一个叫做‘密修会’的古老组织，他们建立于第四纪，和所罗门帝国，和当时部分堕落贵族有关，呵，安提哥努斯家族的笔记正是来源于他们，因为一位成员的疏忽，才进入古物市场，被韦尔奇得到，他们不得不派人到处追寻。”"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会是由“愚者”克莱恩组建的神秘组织，成员目前包括“正义”奥黛丽·霍尔和“倒吊人”阿尔杰·威尔逊。本周聚会上，“愚者”分享了魔药的“消化”与“扮演”秘密，并委托搜集罗塞尔大帝的秘密日记。成员之间交换了“观众”魔药配方、鬼鲨血等超凡物品和信息。",
+      "identInfos": [
+        "由“愚者”组建的神秘组织",
+        "成员代号“正义”“倒吊人”",
+        "每周一聚会，地点在灰雾之上",
+        "交易超凡物品和信息"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 34,
+          "extractReason": "UPDATE",
+          "evidenceText": "“根据协议，我将告诉你‘观众’这份魔药的配方了。”"
+        },
+        {
+          "chapterSeq": 34,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不是掌握，是消化。不是挖掘，是扮演。魔药的名称不只是象征，还是意象，更是消化的‘钥匙’。”"
+        },
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "“帮我搜集罗塞尔·古斯塔夫的秘密日记，哪怕只有一页。”"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑夜女神教会是信仰黑夜女神的正统教会，掌握完整序列“不眠者”。在廷根的总部是圣赛琳娜教堂，值夜者是其下属非凡者小队。他们曾覆灭安提哥努斯家族。",
+      "identInfos": [
+        "信仰黑夜女神的正统教会",
+        "掌握完整序列“不眠者”",
+        "总部圣赛琳娜教堂",
+        "曾覆灭安提哥努斯家族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "“安提哥努斯家族正是被黑夜女神教会覆灭的。”"
+        },
+        {
+          "chapterSeq": 22,
+          "extractReason": "UPDATE",
+          "evidenceText": "“属于我们教会的完整序列的起始是‘不眠者’，序列9‘不眠者’！”"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "安提哥努斯家族是第四纪的家族，其笔记引发了一系列事件。该家族于第四纪尾声或第五纪初期被黑夜女神教会覆灭。笔记与“诡异”“可怕”相关，可能涉及邪恶存在。",
+      "identInfos": [
+        "第四纪家族",
+        "被黑夜女神教会覆灭",
+        "家族笔记引发血案",
+        "与“诡异”“可怕”相关"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 24,
+          "extractReason": "UPDATE",
+          "evidenceText": "“韦尔奇得到了一本第四纪所罗门帝国安提哥努斯家族的笔记。”"
+        },
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "“安提哥努斯家族正是被黑夜女神教会覆灭的。”"
+        }
+      ]
+    },
+    {
+      "name": "廷根市改善住房公司",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "廷根市改善住房公司是提供中下阶层住房的机构，采用“百分之五的慈善”模式。莫雷蒂家通过他们租到水仙花街2号的联排房屋。",
+      "identInfos": [
+        "提供中下阶层住房的机构",
+        "采用“百分之五的慈善”模式",
+        "莫雷蒂家租住其房屋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 29,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我们一起去‘廷根市改善住房公司’，看他们那里有没有便宜又不错的联排房屋出租”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "占卜家魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“占卜家”魔药是序列9魔药，配方为：100毫升纯水+13滴夜香草汁液+7片金薄荷叶子+3滴毒堇汁+9克龙血草粉末+10毫升拉瓦章鱼血液+50克星水晶。克莱恩服食后成为“占卜家”非凡者，获得灵视、灵摆占卜等能力。魔药由老尼尔在炼金室配制。",
+      "identInfos": [
+        "序列9魔药",
+        "配方包含星水晶、拉瓦章鱼血液等",
+        "克莱恩服食后成为“占卜家”",
+        "在值夜者炼金室由老尼尔配制"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 31,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“占卜家”：100毫升纯水+13滴夜香草汁液+7片金薄荷叶子……9克龙血草粉末……拉瓦章鱼的血液，10毫升……星水晶，50克。"
+        },
+        {
+          "chapterSeq": 31,
+          "extractReason": "UPDATE",
+          "evidenceText": "老尼尔用黑木勺从大铁锅内舀出了粘稠的深蓝色液体，它们有着奇怪的特性，彼此相连，绝不分离……“好了，你的‘占卜家’魔药。”"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "安提哥努斯家族笔记是第四纪安提哥努斯家族的遗留物品，用赫密斯文书写。它引发韦尔奇、娜娅自杀和克莱恩的自杀未遂，目前下落不明。值夜者和密修会都在寻找它。笔记可能与邪恶存在有关。",
+      "identInfos": [
+        "第四纪安提哥努斯家族遗留",
+        "赫密斯文书写",
+        "引发韦尔奇等自杀事件",
+        "目前下落不明"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 24,
+          "extractReason": "UPDATE",
+          "evidenceText": "“韦尔奇得到了一本第四纪所罗门帝国安提哥努斯家族的笔记”"
+        },
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "“安提哥努斯家族正是被黑夜女神教会覆灭的。”"
+        },
+        {
+          "chapterSeq": 39,
+          "extractReason": "UPDATE",
+          "evidenceText": "“如果让你们自杀是为了灭口，抹去线索，那为什么不直接让你当场毁掉那本笔记？”"
+        }
+      ]
+    },
+    {
+      "name": "观众魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "“观众”是序列9魔药，配方由“倒吊人”阿尔杰提供给“正义”奥黛丽：80毫升纯水+5滴秋水仙精华+13克牛齿芍药粉末+7瓣精灵花+一对成年曼哈尔鱼的眼睛+35毫升羊角黑鱼的血液。奥黛丽准备收集材料制作。",
+      "identInfos": [
+        "序列9魔药",
+        "配方包含曼哈尔鱼眼睛、羊角黑鱼血液等",
+        "“倒吊人”提供给“正义”",
+        "“正义”奥黛丽准备制作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 34,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“观众”，序列9魔药，80毫升纯水，加5滴秋水仙精华，加13克牛齿芍药粉末，加7瓣精灵花，加一对成年曼哈尔鱼的眼睛，加35毫升羊角黑鱼的血液。"
+        }
+      ]
+    },
+    {
+      "name": "猎魔子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "猎魔子弹是值夜者使用的特殊子弹，外表银白，有复杂花纹，底部铭刻黑暗圣徽，用于对付非凡怪物。克莱恩领取了十发。",
+      "identInfos": [
+        "银白色特殊子弹",
+        "铭刻黑暗圣徽",
+        "用于对付非凡怪物",
+        "克莱恩领取十发"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 21,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“猎魔子弹”则用小铁盒盛放，形状和正常手枪子弹相同，但外表银白，细看有复杂眩目的花纹，底部甚至铭刻有“黑底群星红半月”的小圣徽。"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔的日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "罗塞尔的日记（部分）用中文简体字书写，记录了魔药的“消化”“扮演”关键、他对序列选择的后悔以及部分历史事件。克莱恩从中得知穿越者同胞的存在，并委托塔罗会成员搜集更多日记。",
+      "identInfos": [
+        "罗塞尔大帝用简体中文写的日记",
+        "记载魔药“消化”“扮演”关键",
+        "克莱恩可以阅读",
+        "值夜者收藏有三页"
+      ],
+      "aliases": [
+        {
+          "alias": "罗塞尔大帝的秘密日记",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 21,
+          "extractReason": "UPDATE",
+          "evidenceText": "“一月四日……魔药的关键不是掌握，是消化！不是挖掘，是扮演！……”"
+        },
+        {
+          "chapterSeq": 35,
+          "extractReason": "UPDATE",
+          "evidenceText": "“帮我搜集罗塞尔·古斯塔夫的秘密日记，哪怕只有一页。”"
+        }
+      ]
+    },
+    {
+      "name": "左轮手枪",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩领取的左轮手枪，用于防身和练习射击。他在射击俱乐部练习，并将猎魔子弹装入转轮。",
+      "identInfos": [
+        "克莱恩的配枪",
+        "使用黄铜子弹和猎魔子弹",
+        "克莱恩在射击俱乐部练习"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 23,
+          "extractReason": "UPDATE",
+          "evidenceText": "他找出那支铜色转轮、木制握把的手枪。……克莱恩将有复杂花纹和黑暗圣徽的银色“猎魔子弹”一枚一枚塞入了转轮。"
+        }
+      ]
+    },
+    {
+      "name": "灵摆",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "灵摆是占卜工具，由银链和水晶构成，用于灵摆占卜。老尼尔教导克莱恩使用方法，并提到武器库中有黄水晶和纯银灵摆。",
+      "identInfos": [
+        "占卜工具，银链和水晶构成",
+        "用于判断好坏、是否等",
+        "老尼尔教导克莱恩使用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 40,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“这是占卜里的垂摆法，又叫灵摆法，依靠本身星灵体与灵界、星空的联系，借助一些自然材质与灵性的沟通，比如水晶、宝石和特殊金属，来占卜事物的好坏……”"
+        }
+      ]
+    }
+  ]
+}

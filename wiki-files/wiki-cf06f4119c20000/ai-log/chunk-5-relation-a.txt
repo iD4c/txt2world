@@ -1,0 +1,229 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 101,
+      "toChapterSeq": 103,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "西里斯·阿瑞匹斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "relationSummary": "克莱恩追查安提哥努斯笔记交易第三人，发现西里斯·阿瑞匹斯，双方冲突，西里斯失控被克莱恩射杀。"
+    },
+    {
+      "fromChapterSeq": 110,
+      "toChapterSeq": 111,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "阿兹克向克莱恩透露自己失忆并拥有特殊能力，请求帮助寻找来历线索，克莱恩答应，两人建立互信合作关系。"
+    },
+    {
+      "fromChapterSeq": 110,
+      "toChapterSeq": 110,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "塔罗会上，愚者接收正义提交的罗塞尔日记，并维持与正义的合作关系。"
+    },
+    {
+      "fromChapterSeq": 110,
+      "toChapterSeq": 110,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "塔罗会上，倒吊人向愚者提供仲裁人序列信息，以换取愚者帮助调查国王开战意图。"
+    },
+    {
+      "fromChapterSeq": 111,
+      "toChapterSeq": 111,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "塔罗会上，正义向倒吊人询问学徒能力和仲裁人序列，倒吊人要求以调查国王开战意图为交换。"
+    },
+    {
+      "fromChapterSeq": 106,
+      "toChapterSeq": 106,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思·沃尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "佛尔思在沙龙中请求奥黛丽帮助营救被关押的同伴休，奥黛丽决定通过法律手段援助。"
+    },
+    {
+      "fromChapterSeq": 114,
+      "toChapterSeq": 114,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "控制者"
+        }
+      },
+      "characterB": {
+        "name": "达斯特·古德里安",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被控制者"
+        }
+      },
+      "relationSummary": "克莱恩以值夜者身份直接接触达斯特，揭穿其心理炼金会成员身份，发展为线人，要求定期报告并举报危害者，达斯特被迫合作。"
+    },
+    {
+      "fromChapterSeq": 115,
+      "toChapterSeq": 117,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与伦纳德同组调查廷根市异常死亡事件，合作勘查劳维斯太太死亡现场。"
+    },
+    {
+      "fromChapterSeq": 115,
+      "toChapterSeq": 117,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "弗莱",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与弗莱同组调查死亡事件，弗莱提出教唆者嫌疑，两人共同探查劳维斯太太和济贫院案件。"
+    }
+  ]
+}

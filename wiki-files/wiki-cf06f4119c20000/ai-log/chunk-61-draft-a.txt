@@ -1,0 +1,1530 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在神弃之地分析‘奇迹师’魔药配方，决定帮助白银城逃离神弃之地以完成仪式，并担忧‘暗天使’萨斯利尔和阿蒙的威胁。他探索诺斯古城，遭遇‘圣言天使’斯提弗袭击，利用‘风暴之主’真名击退对方，并遭遇阿蒙分身。他决定以自身为饵引出乌黯魔狼获取非凡特性，同时调查其过去行踪。在塔罗会上，他以‘愚者’身份安抚成员，解释乔治三世陨落真相，组织狩猎‘秘之圣者’布提斯。他向黑夜女神祈祷获乌黯魔狼情报，向风暴之主祈祷遭雷劈，通过佛尔思召唤的历史投影返回贝克兰德获取情报后继续探索神弃之地，计划向东寻找西大陆线索。",
+      "identInfos": [
+        "源堡主人",
+        "格尔曼·斯帕罗",
+        "道恩·唐泰斯",
+        "夏洛克·莫里亚蒂",
+        "穿越者",
+        "占卜家途径序列3",
+        "源堡掌握者",
+        "愚者",
+        "与阿蒙对抗",
+        "曾用名周明瑞"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "别名"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "别名"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "别名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "周明瑞",
+          "type": "曾用名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘让一段遗落的历史重回当前时代……重回，而不是重现……这两者的含义完全不同啊，不是我写出第四纪或者第三纪的真实历史，将它们传播出去，就算完成仪式……’克莱恩握着钢笔的右手停顿了下来，本能就分析起‘奇迹师’魔药的内容。"
+        },
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩的眼睛一下发亮，低语出声道：‘这个思路，真的只有‘偷盗者’途径的天使才能第一时间想到……未必不可行啊！’"
+        },
+        {
+          "chapterSeq": 1176,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩成功‘欺诈’了那神秘学规则，在虚假的复活点借助之前留存的自身血液，完成了复活！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176,
+        1177,
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190
+      ]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙在克莱恩复活后持续追踪，派遣分身至诺斯古城监视乌黯魔狼遗留物，与克莱恩的历史投影交谈，暗示克莱恩寻找乌黯魔狼的游戏，并透露‘源堡’会带来根源侵蚀。祂在神弃之地游荡一千多年，多次设伏，但被克莱恩利用多个复活点规避。",
+      "identInfos": [
+        "时天使",
+        "天使之王",
+        "偷盗者途径",
+        "远古太阳神之子",
+        "渎神者",
+        "欺诈之神",
+        "恶作剧之神",
+        "戴单片眼镜"
+      ],
+      "aliases": [
+        {
+          "alias": "时天使",
+          "type": "称号"
+        },
+        {
+          "alias": "渎神者",
+          "type": "称号"
+        },
+        {
+          "alias": "欺诈之神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1177,
+          "extractReason": "UPDATE",
+          "evidenceText": "布满深深沟壑的荒芜平原上，阿蒙们分别站在不同的地方，张开嘴巴，用巨人语诵念道：‘灵界与源堡的眷者；源自古代的诡秘；漫长历史的见证；贝克兰德魔术和戏剧表演的保护者；伟大的格尔曼·斯帕罗……’"
+        },
+        {
+          "chapterSeq": 1183,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙毫无恼怒之色地笑着摇了摇头：‘你会为此后悔的，我原本打算，如果我赢了，就用一份‘奇迹师’非凡特性加一份‘诡秘侍者’非凡特性和你交换‘源堡’，并且给你一段时间提前转移你组织的那个隐秘聚会。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1171,
+        1175,
+        1176,
+        1177,
+        1183
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德在塔罗会上以‘星星’身份表示会查资料帮克莱恩脱困，实为询问体内帕列斯·索罗亚斯德。他得到帕列斯建议用‘欺瞒’符咒欺诈规则，并转告克莱恩。他参与狩猎‘秘之圣者’布提斯行动，承诺必要时调动官方势力。之后，他按大主教命令释放埃姆林·怀特。",
+      "identInfos": [
+        "塔罗会成员代号‘星星’",
+        "黑夜女神教会值夜者",
+        "体内寄生天使帕列斯·索罗亚斯德",
+        "克莱恩前同事"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1174,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘星星’伦纳德呵呵一笑道：‘希望你们不要走到这一步。我的报酬也是战利品吧。’"
+        },
+        {
+          "chapterSeq": 1180,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德受安东尼·史蒂文森大主教的召唤，沿着盘旋的楼梯，在透过彩绘玻璃照进来的阳光中，一步步上行。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1173,
+        1174,
+        1180,
+        1181
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在塔罗会上接受加快消化‘梦境行者’魔药和参与狩猎‘秘之圣者’布提斯的任务，获得‘操纵师’配方。她为‘命运之蛇’威尔·昂赛汀的眷者献祭冰淇淋，积极消化魔药，在梦境中旅行，于冬礼日弥撒的万人情绪共鸣中服食魔药，成功晋升序列4‘操纵师’。",
+      "identInfos": [
+        "塔罗会成员代号‘正义’",
+        "贵族小姐",
+        "霍尔伯爵之女",
+        "心理炼金会成员",
+        "序列4‘操纵师’"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "那条银白的巨蛇鲜红眼眸微动道：‘确实，‘诡秘侍者’满额应该有三位。但在第二纪，在古神弗雷格拉还存活的年代，第三份‘诡秘侍者’非凡特性就形同失踪……’奥黛丽轻轻点头道：‘我明白了，我会把这些情况转告给道恩·唐泰斯先生的。’"
+        },
+        {
+          "chapterSeq": 1190,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽睁开了眼睛，弯下腰背，从金毛大狗苏茜背着的那个皮制小包内取出了一瓶魔药。那魔药浮着数不清的光之碎片，就如同集体潜意识大海的具现。奥黛丽没有犹豫，在这样的场景下，拧开瓶盖，咕噜一口喝掉了里面的液体。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1173,
+        1174,
+        1177,
+        1178,
+        1187,
+        1189,
+        1190
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思在塔罗会上接受狩猎‘秘之圣者’布提斯任务，作为鱼饵参与。她向老师多里安·格雷询问‘星之虫’下落，被克莱恩强制训练‘记录’各种高阶能力，消化完‘记录官’魔药，成功晋升序列5‘旅行家’。",
+      "identInfos": [
+        "塔罗会成员代号‘魔术师’",
+        "作家",
+        "亚伯拉罕家族学徒",
+        "序列5‘旅行家’"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思张了张嘴巴，脸刷地就涨红了。"
+        },
+        {
+          "chapterSeq": 1188,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思无声吐了口气，不再犹豫，抬高那瓶魔药，咕噜喝进了口中。瞬息之间，她感觉自己体内和眼前泛起了一道又一道光，它们横冲直撞，打开了一扇又一扇虚幻的门。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1173,
+        1174,
+        1179,
+        1184,
+        1187,
+        1188,
+        1190
+      ]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "嘉德丽雅在塔罗会上询问乔治三世之死真相和七神态度，接受组织狩猎‘秘之圣者’布提斯的任务，作为主导者。她为奥黛丽提供老年心灵巨龙血液，离开‘未来号’前往贝克兰德准备行动。",
+      "identInfos": [
+        "塔罗会成员代号‘隐者’",
+        "星之上将",
+        "摩斯苦修会成员",
+        "序列4‘神秘学家’"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1173,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘隐者’话音刚落，‘正义’奥黛丽等人就精神一振，集中起了注意力。这正是他们想了解的事情。"
+        },
+        {
+          "chapterSeq": 1187,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘星之上将’嘉德丽雅手里拿着一叠塔罗牌，对水手长妮娜等人道：‘我接下来一段时间会待在鲁恩，你们要看住弗兰克，不让他做奇怪的实验。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1173,
+        1174,
+        1186,
+        1187,
+        1190
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会上因不虔诚被轻柔敲打，后租赁‘无暗十字’。他按克莱恩建议寻找精灵遗迹，在梦境中遭遇‘天灾女王’高希纳姆，被许诺帮助成为半神，需从《天灾之书》取物送往西大陆。他喝下黄金酒杯中的液体，获得线索。",
+      "identInfos": [
+        "塔罗会成员代号‘倒吊人’",
+        "风暴教会水手长",
+        "有精灵血统"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1185,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰额头布满冷汗地缓慢爬了起来，只见帐篷内不知什么时候多了一道身影。这是一位女性，头发黑亮，五官精致，耳朵稍尖，眼眸幽邃，轮廓线条柔和，身穿繁复古朴的长裙……"
+        },
+        {
+          "chapterSeq": 1186,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰伸手接过，低头一看，发现那黄金酒杯内有一汪蔚蓝的液体，虚假，梦幻，不够真实。‘喝下它，然后去罗思德群岛西弥姆岛附近的海域，找到这座珊瑚宫殿，里面有你想得到的事物。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1174,
+        1185,
+        1186
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在塔罗会上获‘愚者’同意祝福首席，后接受克莱恩的血液金属管作为虚假复活点，见证克莱恩复活。他向克莱恩提供牛奶蘑菇食物。",
+      "identInfos": [
+        "塔罗会成员代号‘太阳’",
+        "白银城居民",
+        "光之祭司"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1172,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘世界’先生来了神弃之地……‘愚者’先生借助他的身体和那个可怕的阿蒙做了一次争斗？‘太阳’戴里克先是一惊，旋即感受到了强烈的喜悦。"
+        },
+        {
+          "chapterSeq": 1176,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克眼前突然一片深黑，有种房间内的蜡烛已燃烧殆尽的感觉。……那深沉的黑暗里，一点点光之碎片迸了出来，仿佛透明蠕动的诸多虫豸。戴里克接收的那根金属细管随之自行破碎，鲜红的血液从中浮出，漂到半空，不断裂变，与光之碎片们结合在了一起。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1175,
+        1176
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林在塔罗会上询问如何摆脱保护性关押，得到‘愚者’预言本周释放。之后他被伦纳德释放，状态不佳，需输血治疗。",
+      "identInfos": [
+        "塔罗会成员代号‘月亮’",
+        "血族子爵",
+        "丰收教堂成员"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1174,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘月亮’埃姆林彻底松了口气，诚恳地感谢了‘愚者’先生。"
+        },
+        {
+          "chapterSeq": 1181,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到大主教的吩咐，伦纳德先是怔了一下，旋即就于心里发出了一声感慨：‘愚者’先生的预言真准啊……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1173,
+        1174,
+        1181
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休在塔罗会上接受参与狩猎‘秘之圣者’布提斯的外围情报搜集任务。她加入军情九处异常事务法庭，扮演‘法官’，帮助好友佛尔思晋升。",
+      "identInfos": [
+        "塔罗会成员代号‘审判’",
+        "军情九处成员",
+        "序列6‘法官’"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1174,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘审判’休认真地想了想，发现自己提不出什么有用的意见，只好选择旁观与学习。"
+        },
+        {
+          "chapterSeq": 1188,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘还不错，被安排到了异常事务法庭，有了些扮演的想法，魔药消化的进度开始加快了。’休‘嗯’了一声道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1172,
+        1173,
+        1174,
+        1179,
+        1184,
+        1187,
+        1188
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "科林·伊利亚特在得到‘愚者’祝福许诺后，布置仪式，服食‘银骑士’魔药，成功晋升序列3。他利用六种强大生物遗骸作为仪式定位，理解‘锚’的概念，获得‘愚者’给予的随机性祝福，晋升后实力大增。",
+      "identInfos": [
+        "白银城首席",
+        "猎魔者",
+        "序列3‘银骑士’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格来到了圆塔顶部，见到了首席科林·伊利亚特。‘首席阁下，我已经得到了祝福的许诺。’戴里克相当坦荡和直接地说道。头发花白，脸有陈旧伤痕的科林·伊利亚特明显松了口气，缓慢点头道：‘这样就好，这样就好。’"
+        },
+        {
+          "chapterSeq": 1176,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特完成了晋升，除了头部还没长出竖直独眼，已相当于一个神话生物。这时，他抬起右手，往侧方挥了一下。白银城外一座小丘处，银色锐芒凭空爆发，撕裂了周围的一切，让那座小丘分成了两半。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1175,
+        1176
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀在奥黛丽梦境中回答‘奇迹师’魔药主材料问题，透露六份可能的来源，并请求奥黛丽为其眷者献祭冰淇淋。",
+      "identInfos": [
+        "命运之蛇",
+        "命途途径天使",
+        "生命学派议长",
+        "婴儿形态"
+      ],
+      "aliases": [
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1177,
+          "extractReason": "UPDATE",
+          "evidenceText": "这巨蛇没有鳞片，身上布满符号和花纹，它们形成了一个又一个彼此相连的，有不同标识的转轮。此时，巨蛇正用鲜红而冰冷的眼睛注视着奥黛丽，低沉开口道：‘道恩·唐泰斯有什么事情？’"
+        },
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "银白的巨蛇居高临下地看着奥黛丽，张开一片血红的嘴巴道：‘密修会首领查拉图服食的序列1魔药来自一位‘诡秘侍者’……’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1177,
+        1178
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯·索罗亚斯德通过伦纳德建议克莱恩使用‘欺瞒’符咒欺诈复活规则，认为概率很低但比欺诈阿蒙容易。他嘲讽伦纳德天真的想法，提出雅各家族宝藏可作陷阱。",
+      "identInfos": [
+        "偷盗者途径序列1天使",
+        "寄生在伦纳德体内",
+        "索罗亚斯德家族先祖"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1174,
+          "extractReason": "UPDATE",
+          "evidenceText": "返回自己的身体后，伦纳德立即压低嗓音，将克莱恩的困境描述了一遍，末了道：‘老头，你有什么好的建议？’‘我的建议？还是求‘愚者’提供帮助吧。’帕列斯·索罗亚斯德一点犹豫都没有就回答道。"
+        },
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕列斯·索罗亚斯德‘嘿’了一声，‘这能有什么好处？没有就算了。’伦纳德一时语塞，隔了几秒才道：‘至少能让你心情好。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1174,
+        1175,
+        1180,
+        1189
+      ]
+    },
+    {
+      "name": "斯提弗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯提弗是‘圣言天使’，真实造物主座旁侍者，在神弃之地追寻乌黯魔狼。他在诺斯古城袭击克莱恩，利用言灵能力制造困境，被克莱恩以‘列奥德罗’真名引雷击退，受伤未死。",
+      "identInfos": [
+        "圣言天使",
+        "真实造物主眷者",
+        "八翼天使",
+        "救赎蔷薇成员"
+      ],
+      "aliases": [
+        {
+          "alias": "圣言天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1182,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那佝偻着身体的神职人员用一种俯视般的态度回答道：‘我是主神座旁的侍者，圣言天使斯提弗，我代主行走于这过去之地，追寻潜藏于黑暗中的亵渎者。’"
+        },
+        {
+          "chapterSeq": 1182,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩话音刚落，‘圣言天使’斯提弗眼眸中就映出了一道又一道银白炽亮的闪电。它们覆盖了整座诺斯古城，击穿了笼罩教堂的黑暗，将所有的堕落、隐秘、阴暗、不洁和邪恶撕得粉碎。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1182
+      ]
+    },
+    {
+      "name": "乌黯魔狼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌黯魔狼是‘愿望之神’，标准天使，在神弃之地潜藏几千年，曾占据诺斯古城。祂在发现阿蒙和真实造物主注视后，匆忙迁徙，舍弃所有秘偶，行踪不明。克莱恩通过魔狼雕像碎片调查其过去。",
+      "identInfos": [
+        "愿望之神",
+        "乌黯魔狼科塔尔",
+        "占卜家途经序列2或序列1",
+        "古神弗雷格拉从神",
+        "在神弃之地潜藏"
+      ],
+      "aliases": [
+        {
+          "alias": "愿望之神",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1181,
+          "extractReason": "UPDATE",
+          "evidenceText": "这教堂内竖立着一尊长有八条腿，覆盖幽暗短毛的魔狼雕像。雕像的头顶有一搓灰白的毛发，漆黑的瞳孔占据了眼睛至少四分之三。‘不是弗雷格拉……第三纪时偶尔出现的那头乌黯魔狼，愿望之神？祂在神弃之地几千年，终于找到了那份序列1非凡特性？’"
+        },
+        {
+          "chapterSeq": 1183,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙轻轻颔首道：‘不只是我，祂还察觉到了‘倒吊人’的注视，祂在神弃之地潜藏了几千年，对这些事情非常敏感。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1181,
+        1183
+      ]
+    },
+    {
+      "name": "高希纳姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "高希纳姆是‘天灾女王’，精灵王后，在苏尼亚岛原始森林梦境中接触阿尔杰，许诺助其成为半神，条件是进入《天灾之书》取物送往西大陆。她透露西大陆在末日前会重现，但需‘愚者’帮助。",
+      "identInfos": [
+        "天灾女王",
+        "精灵王后",
+        "天使位格",
+        "掌握《天灾之书》"
+      ],
+      "aliases": [
+        {
+          "alias": "天灾女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1185,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是一位女性，头发黑亮，五官精致，耳朵稍尖，眼眸幽邃，轮廓线条柔和，身穿繁复古朴的长裙……‘……您是精灵王后，‘天灾女王’高希纳姆？’阿尔杰念头一闪，主动问道。"
+        },
+        {
+          "chapterSeq": 1186,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘天灾女王’高希纳姆审视了他几秒道：‘等你有资格和机会接触那本《天灾之书》时，从里面取出一件别人不会注意的事物，将它带去西大陆。’"
+        }
+      ],
+      "lifeStatus": "活着（特殊状态）",
+      "appearanceChapterSeqs": [
+        1185,
+        1186
+      ]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达尼兹通过祈祷联系克莱恩，转告格尔曼·斯帕罗安全消息，并接到献祭美食给‘海神’的任务。他与安德森因信使蕾妮特·缇尼科尔互动，获得‘铁血骑士’配方。",
+      "identInfos": [
+        "火焰之心",
+        "格尔曼·斯帕罗团队",
+        "序列5‘阴谋家’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1179,
+          "extractReason": "UPDATE",
+          "evidenceText": "迷雾海某座岛屿上，正等着‘黄金梦想号’来接的达尼兹侧头看了安德森一眼，嘿嘿笑道：‘我要召唤格尔曼·斯帕罗的信使了。’"
+        },
+        {
+          "chapterSeq": 1179,
+          "extractReason": "UPDATE",
+          "evidenceText": "他堆起笑容，递出金币道：‘女士，格尔曼·斯帕罗让我转告您，他已经没事了，现在在神弃之地。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1179
+      ]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安德森从达尼兹处获得‘铁血骑士’配方，决定回家乡在战争中组建队伍以完成仪式。他设计题目考验达尼兹智商，自称害怕信使蕾妮特·缇尼科尔。",
+      "identInfos": [
+        "猎人途径",
+        "格尔曼·斯帕罗团队"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1179,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森挑了下眉毛，‘啧’了一声道：‘你有资格服食‘阴谋家’魔药了。’"
+        },
+        {
+          "chapterSeq": 1179,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森忽然失笑道：‘你为什么不怀疑我这种害怕是故意表现出来的？单纯只是为了找个合理的借口避开，免得听见不该听见的事情。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1179,
+        1179
+      ]
+    },
+    {
+      "name": "多里安·格雷·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "多里安·格雷·亚伯拉罕收到佛尔思询问‘星之虫’的信件，回复没有并留意求购者需求。",
+      "identInfos": [
+        "亚伯拉罕家族传人",
+        "佛尔思的老师"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "已外出‘旅行’了一次的佛尔思终于收到了她老师多里安·格雷·亚伯拉罕的回信。‘目前没有‘星之虫’……让我留意求购‘星之虫’的人还需要什么……’佛尔思浏览着老师的来信，无声松了口气。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1184
+      ]
+    },
+    {
+      "name": "安东尼·史蒂文森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "安东尼·史蒂文森作为黑夜教会贝克兰德教区大主教，在冬礼日主持安眠弥撒，安抚民众。他下令释放埃姆林·怀特。",
+      "identInfos": [
+        "黑夜教会贝克兰德教区大主教",
+        "圣者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1180,
+          "extractReason": "UPDATE",
+          "evidenceText": "安东尼·史蒂文森看了开门的伦纳德一眼道：‘可以把查尼斯门后那个吸血鬼放了。’"
+        },
+        {
+          "chapterSeq": 1190,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑夜教会贝克兰德教区的大主教，圣者安东尼·史蒂文森，穿着黑底红纹的长袍走上了高台。他环顾一圈，抬起右手，在胸口顺时针点了四下：‘赞美女神！’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1180,
+        1190
+      ]
+    },
+    {
+      "name": "蕾妮特·缇尼科尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "蕾妮特·缇尼科尔作为克莱恩的信使，被佛尔思召唤后带她前往灵界深处布置晋升‘旅行家’所需的四个特殊坐标，收费800金币。",
+      "identInfos": [
+        "无头信使",
+        "玫瑰学派节制派天使",
+        "提四个金发红眼脑袋"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1188,
+          "extractReason": "UPDATE",
+          "evidenceText": "然后，一位身穿阴沉繁复长裙，提四个金发红眼脑袋的女士从虚空里走了出来，八只眼睛同时望向了格尔曼·斯帕罗。格尔曼·斯帕罗微微点头，指了下佛尔思道：‘这位女士需要去灵界深处布置四个特殊坐标，您帮一下她。’"
+        },
+        {
+          "chapterSeq": 1188,
+          "extractReason": "UPDATE",
+          "evidenceText": "蕾妮特·缇尼科尔那四个金发红眼的脑袋依次开口道：‘需要……’‘付钱……’‘八百……’‘金币……’"
+        }
+      ],
+      "lifeStatus": "活着（灵体状态）",
+      "appearanceChapterSeqs": [
+        1188
+      ]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "查拉图是密修会首领，序列1‘诡秘侍者’，占有‘奇迹师’非凡特性。克莱恩在分析材料时提到他，并称其为潜在的威胁。",
+      "identInfos": [
+        "密修会首领",
+        "序列1‘诡秘侍者’",
+        "占卜家途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "一份在霍纳奇斯山脉主峰那半个‘愚者’身上，和‘唯一性’在一起，一份在查拉图那里，还有一份，按照伦纳德的说法，‘真实造物主’有线索"
+        },
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "密修会首领查拉图服食的序列1魔药来自一位‘诡秘侍者’，也就是说，他多占有了一份‘奇迹师’非凡特性"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1171,
+        1178
+      ]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿罗德斯作为魔镜被佛尔思召唤回答问题，透露亚伯拉罕家族保有‘旅法师’配方和封印物，极光会也有一件。在提问环节，它提出羞耻问题刁难佛尔思，被克莱恩阻止惩罚后仓皇离开。",
+      "identInfos": [
+        "魔镜",
+        "喜欢问羞耻问题",
+        "知晓很多秘密"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "那镜子表面忽有水波荡起，凝聚出了暗红的古弗萨克文字：‘你们召唤了伟大的阿罗德斯，你们必须遵守相应的规则。提出一个问题就要回答一个问题，若是撒谎或拒绝回答，将遭受惩罚。’"
+        },
+        {
+          "chapterSeq": 1179,
+          "extractReason": "UPDATE",
+          "evidenceText": "镜子表面，暗红的单词陡然染上了银白，飞快更替为新的内容：‘今天的问答游戏就到这里结束，再见！’"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在战斗中丧失‘蠕动的饥饿’手套，只能从历史孔隙召唤投影使用。他在贝克兰德借助其能力‘传送’。",
+      "identInfos": [
+        "克莱恩惯用的神奇物品手套",
+        "可放牧多个灵魂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》，‘丧钟’左轮，‘蠕动的饥饿’，‘窃运者’符咒，‘阳炎’符咒，‘控灵子弹’，秘偶丘纳斯和他的装备，秘偶恩尤尼和他的戒指，冒险家口琴……不能再想了"
+        },
+        {
+          "chapterSeq": 1188,
+          "extractReason": "UPDATE",
+          "evidenceText": "紧接着，他理了下衣物，按了按帽子，快步走向了圣赛缪尔教堂，于大祈祷厅内找了个靠边的位置坐下。……他利用‘蠕动的饥饿’，又是一个‘传送’，来到了位于乔伍德区的圣风大教堂附近。"
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在战斗中丧失‘丧钟’左轮，但可从历史孔隙召唤其投影使用。",
+      "identInfos": [
+        "铁黑色左轮",
+        "克莱恩使用的武器"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》，‘丧钟’左轮，‘蠕动的饥饿’，‘窃运者’符咒，‘阳炎’符咒，‘控灵子弹’，秘偶丘纳斯和他的装备，秘偶恩尤尼和他的戒指，冒险家口琴……不能再想了"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩丧失《格罗塞尔游记》原本，不确定能否从历史孔隙召唤投影。",
+      "identInfos": [
+        "神秘书本",
+        "克莱恩的封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》，‘丧钟’左轮，‘蠕动的饥饿’，‘窃运者’符咒，‘阳炎’符咒，‘控灵子弹’，秘偶丘纳斯和他的装备，秘偶恩尤尼和他的戒指，冒险家口琴……不能再想了，阿兹克铜哨之前就丢到了灰雾之上"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在塔罗会上展示‘无暗十字’并租赁给‘太阳’戴里克。佛尔思被要求‘记录’克莱恩召唤此物的能力。",
+      "identInfos": [
+        "远古太阳神遗物",
+        "可净化污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1174,
+          "extractReason": "UPDATE",
+          "evidenceText": "刚进入自由交流环节，‘月亮’埃姆林就忍耐不住，望向了青铜长桌最上首：‘尊敬的‘愚者’先生，您是否可以给我一个提示，该怎么样摆脱保护性关押？’"
+        },
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩解除对‘无暗十字’的维持，又一次将手伸入历史迷雾，拿出了一把铁黑色的左轮。"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在灰雾上使用‘海神权杖’展示‘闪电风暴’能力供佛尔思记录。",
+      "identInfos": [
+        "顶部镶嵌青蓝色宝石的白骨权杖",
+        "克莱恩持有的风暴途径物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "下一秒钟，她看见‘世界’格尔曼·斯帕罗举起了一根顶部镶嵌满青蓝色宝石的白骨权杖。光芒骤亮中，一道道闪电从虚空里‘跃’出，纠缠在一起，化成了一座散发出毁灭气息的雷霆森林。"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思被要求用‘莱曼诺旅行笔记’再记录一次‘历史孔隙影像召唤’，以确保成功。",
+      "identInfos": [
+        "佛尔思的记录工具",
+        "可用于记录非凡能力"
+      ],
+      "aliases": [
+        {
+          "alias": "莱曼诺的旅行笔记",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘你明天再来‘记录’一次这个能力，用‘莱曼诺的旅行笔记’。’克莱恩嗓音平缓地说道。"
+        }
+      ]
+    },
+    {
+      "name": "天灾之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "高希纳姆要求阿尔杰从《天灾之书》中取出一件不引人注意的事物送往西大陆。",
+      "identInfos": [
+        "封印物",
+        "关联精灵王后",
+        "可能为‘0’级"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1185,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘天灾女王’高希纳姆审视了他几秒道：‘等你有资格和机会接触那本《天灾之书》时，从里面取出一件别人不会注意的事物，将它带去西大陆。’"
+        }
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "苏茜作为奥黛丽的金毛大狗，在晋升仪式中背着魔药包协助，并见证奥黛丽成功晋升序列4。",
+      "identInfos": [
+        "金毛大狗",
+        "奥黛丽的宠物和助手",
+        "序列6‘催眠师’"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1189,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽披着黑色的斗篷，带着背皮制小包的金毛大狗苏茜，脸庞素净地行于贵族之间……"
+        },
+        {
+          "chapterSeq": 1190,
+          "extractReason": "UPDATE",
+          "evidenceText": "金毛大狗苏茜也在弥撒里闭上了眼睛，用人类的语言于心中诵念出那句话语，并没有察觉到周围有任何异变。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1189,
+        1190
+      ]
+    },
+    {
+      "name": "源堡",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩初步掌握‘源堡’，可调动序列2力量。他利用‘源堡’的‘偷盗者’途径力量，配合‘欺瞒子弹’欺诈复活规则成功，并推测其跨越三条途径，能产生聚合效应。阿蒙觊觎‘源堡’，称其会带来根源侵蚀。",
+      "identInfos": [
+        "灰雾之上的神秘空间",
+        "克莱恩穿越来源",
+        "包含占卜家、学徒、偷盗者途径力量",
+        "阿蒙觊觎之物"
+      ],
+      "aliases": [
+        {
+          "alias": "灰雾",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "在初步掌握‘源堡’后，他已能在这里调动起序列2天使层次的力量。"
+        },
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "借助‘欺瞒子弹’这个媒介，我也许可以撬动‘源堡’另外的力量……既然‘占卜家’领域，我已经能使用一些‘奇迹’方面的能力，那‘偷盗者’途径的力量有天使层次的威能是非常合理的推断"
+        }
+      ]
+    },
+    {
+      "name": "命运隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯·索罗亚斯德建议将雅各家族宝藏消息透露给命运隐士会成员，让他们充当探路石。",
+      "identInfos": [
+        "非凡者聚会",
+        "帕列斯·索罗亚斯德提及"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1180,
+          "extractReason": "UPDATE",
+          "evidenceText": "不过，我现在更倾向于把宝藏的消息透露出去，让那个聚会里的人自行去冒险，去探索，而我们守在附近，观察情况，从他们手中抽取需要的事物。"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城首席科林·伊利亚特晋升‘银骑士’，戴里克见证克莱恩复活。克莱恩计划帮助白银城逃离神弃之地以完成‘奇迹师’仪式，但担忧阿蒙和‘暗天使’的威胁。",
+      "identInfos": [
+        "神弃之地人类城邦",
+        "信仰造物主",
+        "寻求逃离"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "那就是让白银城众人逃离神弃之地，重返南北大陆，让那遗落了两三千年的历史降临于当前时代！"
+        },
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格来到了圆塔顶部，见到了首席科林·伊利亚特。"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "极光会圣者布提斯被克莱恩列为狩猎目标，以获取‘星之虫’和‘旅法师’配方线索。斯提弗作为极光会天使袭击克莱恩。",
+      "identInfos": [
+        "真实造物主教会",
+        "拥有‘秘之圣者’布提斯",
+        "掌握‘学徒’途径封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1173,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘世界’格尔曼·斯帕罗笑了笑道：‘猎杀极光会‘秘之圣者’布提斯。’"
+        },
+        {
+          "chapterSeq": 1182,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯提弗……这是‘真实造物主’的眷者，‘命运天使’的手下，‘救赎蔷薇’的成员？"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "亚伯拉罕家族保有‘星之虫’、‘旅法师’配方和两件‘学徒’途径封印物。克莱恩希望通过赠送布提斯脑袋换取善意。",
+      "identInfos": [
+        "古老家族",
+        "掌握‘学徒’途径",
+        "佛尔思的师承家族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚伯拉罕家族还保有‘学徒’途径序列2‘旅法师’的魔药配方，以及对应的强大封印物，两件。极光会也有一件。"
+        }
+      ]
+    },
+    {
+      "name": "救赎蔷薇",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯提弗作为救赎蔷薇成员在神弃之地追寻乌黯魔狼，表明该组织与极光会、真实造物主关系密切。",
+      "identInfos": [
+        "与真实造物主相关",
+        "斯提弗所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1182,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是‘真实造物主’的眷者，‘命运天使’的手下，‘救赎蔷薇’的成员？"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "军情九处招募休加入，设置异常事务法庭，休在此扮演‘法官’。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "负责非凡事务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位军情九处的联络官今天提议我正式加入他们，说新的国王继位，以前许多事情不需要再担忧了，像他和我这种人也有机会得到重用了。"
+        }
+      ]
+    },
+    {
+      "name": "妮娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "妮娜是‘未来号’水手长，接受嘉德丽雅吩咐看住弗兰克，防止他做危险实验。她自称最成熟稳重，有弗萨克血统。",
+      "identInfos": [
+        "未来号水手长",
+        "金发绑高马尾",
+        "有弗萨克血统"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1187,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到船长的吩咐，妮娜撇了撇嘴巴，指着窗外道：‘弗兰克的实验有不奇怪的吗？’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1187
+      ]
+    },
+    {
+      "name": "弗兰克·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗兰克·李是‘未来号’成员，经常做奇怪实验，被妮娜和嘉德丽雅警惕。克莱恩曾考虑找他生命炼成新身体，但担心变成蘑菇人。",
+      "identInfos": [
+        "未来号成员",
+        "喜欢做奇怪实验",
+        "可能擅长生命炼成"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1187,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘星之上将’嘉德丽雅手里拿着一叠塔罗牌，对水手长妮娜等人道：‘我接下来一段时间会待在鲁恩，你们要看住弗兰克，不让他做奇怪的实验。’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1187
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "命运隐士会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕列斯·索罗亚斯德建议将雅各家族宝藏消息透露给命运隐士会成员，让他们充当探路石。",
+      "identInfos": [
+        "非凡者聚会",
+        "帕列斯·索罗亚斯德提及"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1180,
+          "extractReason": "UPDATE",
+          "evidenceText": "不过，我现在更倾向于把宝藏的消息透露出去，让那个聚会里的人自行去冒险，去探索，而我们守在附近，观察情况，从他们手中抽取需要的事物。"
+        }
+      ]
+    },
+    {
+      "name": "救赎蔷薇",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯提弗作为救赎蔷薇成员在神弃之地追寻乌黯魔狼，表明该组织与极光会、真实造物主关系密切。",
+      "identInfos": [
+        "与真实造物主相关",
+        "斯提弗所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1182,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是‘真实造物主’的眷者，‘命运天使’的手下，‘救赎蔷薇’的成员？"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "白银城首席科林·伊利亚特晋升‘银骑士’，戴里克见证克莱恩复活。克莱恩计划帮助白银城逃离神弃之地以完成‘奇迹师’仪式，但担忧阿蒙和‘暗天使’的威胁。",
+      "identInfos": [
+        "神弃之地人类城邦",
+        "信仰造物主",
+        "寻求逃离"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "那就是让白银城众人逃离神弃之地，重返南北大陆，让那遗落了两三千年的历史降临于当前时代！"
+        },
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格来到了圆塔顶部，见到了首席科林·伊利亚特。"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "极光会圣者布提斯被克莱恩列为狩猎目标，以获取‘星之虫’和‘旅法师’配方线索。斯提弗作为极光会天使袭击克莱恩。",
+      "identInfos": [
+        "真实造物主教会",
+        "拥有‘秘之圣者’布提斯",
+        "掌握‘学徒’途径封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1173,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘世界’格尔曼·斯帕罗笑了笑道：‘猎杀极光会‘秘之圣者’布提斯。’"
+        },
+        {
+          "chapterSeq": 1182,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯提弗……这是‘真实造物主’的眷者，‘命运天使’的手下，‘救赎蔷薇’的成员？"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "亚伯拉罕家族保有‘星之虫’、‘旅法师’配方和两件‘学徒’途径封印物。克莱恩希望通过赠送布提斯脑袋换取善意。",
+      "identInfos": [
+        "古老家族",
+        "掌握‘学徒’途径",
+        "佛尔思的师承家族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "亚伯拉罕家族还保有‘学徒’途径序列2‘旅法师’的魔药配方，以及对应的强大封印物，两件。极光会也有一件。"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "军情九处招募休加入，设置异常事务法庭，休在此扮演‘法官’。",
+      "identInfos": [
+        "鲁恩军方情报机构",
+        "负责非凡事务"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "那位军情九处的联络官今天提议我正式加入他们，说新的国王继位，以前许多事情不需要再担忧了，像他和我这种人也有机会得到重用了。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿罗德斯作为魔镜被佛尔思召唤回答问题，透露亚伯拉罕家族保有‘旅法师’配方和封印物，极光会也有一件。在提问环节，它提出羞耻问题刁难佛尔思，被克莱恩阻止惩罚后仓皇离开。",
+      "identInfos": [
+        "魔镜",
+        "喜欢问羞耻问题",
+        "知晓很多秘密"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1178,
+          "extractReason": "UPDATE",
+          "evidenceText": "那镜子表面忽有水波荡起，凝聚出了暗红的古弗萨克文字：‘你们召唤了伟大的阿罗德斯，你们必须遵守相应的规则。提出一个问题就要回答一个问题，若是撒谎或拒绝回答，将遭受惩罚。’"
+        },
+        {
+          "chapterSeq": 1179,
+          "extractReason": "UPDATE",
+          "evidenceText": "镜子表面，暗红的单词陡然染上了银白，飞快更替为新的内容：‘今天的问答游戏就到这里结束，再见！’"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在战斗中丧失‘蠕动的饥饿’手套，只能从历史孔隙召唤投影使用。他在贝克兰德借助其能力‘传送’。",
+      "identInfos": [
+        "克莱恩惯用的神奇物品手套",
+        "可放牧多个灵魂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》，‘丧钟’左轮，‘蠕动的饥饿’，‘窃运者’符咒，‘阳炎’符咒，‘控灵子弹’，秘偶丘纳斯和他的装备，秘偶恩尤尼和他的戒指，冒险家口琴……不能再想了"
+        },
+        {
+          "chapterSeq": 1188,
+          "extractReason": "UPDATE",
+          "evidenceText": "他利用‘蠕动的饥饿’，又是一个‘传送’，来到了位于乔伍德区的圣风大教堂附近。"
+        }
+      ]
+    },
+    {
+      "name": "丧钟左轮",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在战斗中丧失‘丧钟’左轮，但可从历史孔隙召唤其投影使用。",
+      "identInfos": [
+        "铁黑色左轮",
+        "克莱恩使用的武器"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》，‘丧钟’左轮，‘蠕动的饥饿’，‘窃运者’符咒，‘阳炎’符咒，‘控灵子弹’，秘偶丘纳斯和他的装备，秘偶恩尤尼和他的戒指，冒险家口琴……不能再想了"
+        }
+      ]
+    },
+    {
+      "name": "格罗塞尔游记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩丧失《格罗塞尔游记》原本，不确定能否从历史孔隙召唤投影。",
+      "identInfos": [
+        "神秘书本",
+        "克莱恩的封印物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1171,
+          "extractReason": "UPDATE",
+          "evidenceText": "《格罗塞尔游记》，‘丧钟’左轮，‘蠕动的饥饿’，‘窃运者’符咒，‘阳炎’符咒，‘控灵子弹’，秘偶丘纳斯和他的装备，秘偶恩尤尼和他的戒指，冒险家口琴……不能再想了，阿兹克铜哨之前就丢到了灰雾之上"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在塔罗会上展示‘无暗十字’并租赁给‘太阳’戴里克。佛尔思被要求‘记录’克莱恩召唤此物的能力。",
+      "identInfos": [
+        "远古太阳神遗物",
+        "可净化污染"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1174,
+          "extractReason": "UPDATE",
+          "evidenceText": "刚进入自由交流环节，‘月亮’埃姆林就忍耐不住，望向了青铜长桌最上首：‘尊敬的‘愚者’先生，您是否可以给我一个提示，该怎么样摆脱保护性关押？’"
+        },
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩解除对‘无暗十字’的维持，又一次将手伸入历史迷雾，拿出了一把铁黑色的左轮。"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在灰雾上使用‘海神权杖’展示‘闪电风暴’能力供佛尔思记录。",
+      "identInfos": [
+        "顶部镶嵌青蓝色宝石的白骨权杖",
+        "克莱恩持有的风暴途径物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "下一秒钟，她看见‘世界’格尔曼·斯帕罗举起了一根顶部镶嵌满青蓝色宝石的白骨权杖。光芒骤亮中，一道道闪电从虚空里‘跃’出，纠缠在一起，化成了一座散发出毁灭气息的雷霆森林。"
+        }
+      ]
+    },
+    {
+      "name": "莱曼诺旅行笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思被要求用‘莱曼诺旅行笔记’再记录一次‘历史孔隙影像召唤’，以确保成功。",
+      "identInfos": [
+        "佛尔思的记录工具",
+        "可用于记录非凡能力"
+      ],
+      "aliases": [
+        {
+          "alias": "莱曼诺的旅行笔记",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1184,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘你明天再来‘记录’一次这个能力，用‘莱曼诺的旅行笔记’。’克莱恩嗓音平缓地说道。"
+        }
+      ]
+    },
+    {
+      "name": "天灾之书",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "高希纳姆要求阿尔杰从《天灾之书》中取出一件不引人注意的事物送往西大陆。",
+      "identInfos": [
+        "封印物",
+        "关联精灵王后",
+        "可能为‘0’级"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1185,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘天灾女王’高希纳姆审视了他几秒道：‘等你有资格和机会接触那本《天灾之书》时，从里面取出一件别人不会注意的事物，将它带去西大陆。’"
+        }
+      ]
+    },
+    {
+      "name": "源堡",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩初步掌握‘源堡’，可调动序列2力量。他利用‘源堡’的‘偷盗者’途径力量，配合‘欺瞒子弹’欺诈复活规则成功，并推测其跨越三条途径，能产生聚合效应。阿蒙觊觎‘源堡’，称其会带来根源侵蚀。",
+      "identInfos": [
+        "灰雾之上的神秘空间",
+        "克莱恩穿越来源",
+        "包含占卜家、学徒、偷盗者途径力量",
+        "阿蒙觊觎之物"
+      ],
+      "aliases": [
+        {
+          "alias": "灰雾",
+          "type": "别称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "在初步掌握‘源堡’后，他已能在这里调动起序列2天使层次的力量。"
+        },
+        {
+          "chapterSeq": 1175,
+          "extractReason": "UPDATE",
+          "evidenceText": "借助‘欺瞒子弹’这个媒介，我也许可以撬动‘源堡’另外的力量……既然‘占卜家’领域，我已经能使用一些‘奇迹’方面的能力，那‘偷盗者’途径的力量有天使层次的威能是非常合理的推断"
+        }
+      ]
+    }
+  ]
+}

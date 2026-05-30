@@ -1,0 +1,37 @@
+{
+  "name": "txt2world-client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "clean": "rimraf dist .vite node_modules/.cache",
+    "dev": "vite",
+    "build": "node --max-old-space-size=4096 node_modules/vite/bin/vite.js build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@material/material-color-utilities": "^0.3.0",
+    "axios": "^1.7.2",
+    "d3": "^7.9.0",
+    "file-saver": "^2.0.5",
+    "jquery": "^3.7.1",
+    "js-base64": "^3.7.7",
+    "jsencrypt": "^3.3.2",
+    "jsonpath": "^1.1.1",
+    "lodash": "^4.17.21",
+    "pinia": "^3.0.1",
+    "sass": "^1.79.5",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vue": "^3.4.21",
+    "vue-router": "4.0.13",
+    "vuetify": "^3.7.2"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-legacy": "^6.0.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "postcss-preset-env": "^10.1.1",
+    "rimraf": "^6.0.1",
+    "vite": "^6.0.0"
+  }
+}

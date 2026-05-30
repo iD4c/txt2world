@@ -1,0 +1,504 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1245,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "周明瑞委托蕾妮特·缇尼科尔协助对抗玫瑰学派放纵系，蕾妮特作为前“节制派”天使，同意提供帮助。双方合作牵制“神孽”斯厄阿和一位“巫王”，并共同对付乌黯魔狼科塔尔，建立基于任务的信任关系。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1235,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "埃姆林和莎伦临时组队，共同袭击玫瑰学派“巫王”卡拉曼。埃姆林使用“纯白之视”偷袭，莎伦附身卡拉曼并干扰其行动，两人配合击杀目标。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1235,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "周明瑞主动攻击另一“巫王”以牵制玫瑰学派力量，为莎伦和埃姆林袭击卡拉曼创造机会。莎伦依赖周明瑞的计划和莱妮特的援助完成目标。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1235,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "周明瑞为埃姆林创造狩猎卡拉曼的机会，净化“巫王”非凡特性后赐予埃姆林，帮助他获得晋升伯爵的功绩。埃姆林视周明瑞为愚者眷顾的赐予者。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1235,
+      "characterA": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "师",
+          "narrativeRole": "保护者"
+        }
+      },
+      "characterB": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "徒",
+          "narrativeRole": "被保护者"
+        }
+      },
+      "relationSummary": "蕾妮特是莎伦的老师，在战斗中本体援助莎伦，帮助她成功击杀卡拉曼。两人存在明确的师徒纽带。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1233,
+      "characterA": {
+        "name": "蕾妮特·缇尼科尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "斯厄阿",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "蕾妮特与“神孽”斯厄阿因阵营对立直接交战，蕾妮特试图用诅咒攻击斯厄阿，斯厄阿作为玫瑰学派放纵系半神召唤“被缚之神”投影对抗。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1233,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "斯厄阿",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞以历史投影牵制“神孽”斯厄阿，指挥天使投影围攻，双方为对立阵营，无私人关系。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1235,
+      "characterA": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡拉曼",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "埃姆林作为血族狩猎目标，与玫瑰学派“巫王”卡拉曼直接交战，并成功将其击杀以获得非凡特性和功勋。"
+    },
+    {
+      "fromChapterSeq": 1233,
+      "toChapterSeq": 1235,
+      "characterA": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卡拉曼",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "莎伦与卡拉曼存在阵营对立，她附身卡拉曼并协助埃姆林将其杀死，无私人关系，仅任务敌对。"
+    },
+    {
+      "fromChapterSeq": 1238,
+      "toChapterSeq": 1238,
+      "characterA": {
+        "name": "嘉德丽雅",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "贝尔纳黛·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "贝尔纳黛将“许愿神灯”托付给嘉德丽雅，并嘱托如果自己不幸死亡，嘉德丽雅将成为神灯持有者并许愿拿回遗产。两人之间存在信任与托付关系。"
+    },
+    {
+      "fromChapterSeq": 1239,
+      "toChapterSeq": 1240,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "爱慕",
+          "bond": "女",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "霍尔伯爵",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "喜欢",
+          "bond": "父",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "奥黛丽目睹饥荒惨状后，深夜跪在父母床前感谢他们给予的良好品格，父女之间亲情浓厚。霍尔伯爵也在游行情景中带头捐粮，体现贵族责任感，父女二人彼此信赖。"
+    },
+    {
+      "fromChapterSeq": 1239,
+      "toChapterSeq": 1239,
+      "characterA": {
+        "name": "斯塔琳·萨默尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "爱慕",
+          "bond": "夫妻",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "卢克·萨默尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "爱慕",
+          "bond": "夫妻",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "斯塔琳为获取食物向富豪卖身，卢克因饥饿试图抢劫但最终放弃，回家后两人相拥，彼此依靠。夫妻关系在战乱和饥饿中体现深刻纽带。"
+    },
+    {
+      "fromChapterSeq": 1242,
+      "toChapterSeq": 1245,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "乌黯魔狼",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞为获取“奇迹师”材料，主动狩猎乌黯魔狼科塔尔，双方发生激战，周明瑞最终重创科塔尔并夺得“幕布”。科塔尔并不知晓周明瑞真实身份，仅为猎物与猎手的关系。"
+    },
+    {
+      "fromChapterSeq": 1246,
+      "toChapterSeq": 1246,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞以“海神”身份指示达尼兹利用战争机会压迫鲁恩谈判，寻求罗思德人自治。达尼兹执行神谕，双方存在稳定的上下级合作。"
+    },
+    {
+      "fromChapterSeq": 1246,
+      "toChapterSeq": 1246,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "首席科林·伊利亚特率领白银城探索小队再次前往“巨人王庭”，戴里克作为队员参与，两人存在明确的组织上下级和长期合作探索关系。"
+    },
+    {
+      "fromChapterSeq": 1246,
+      "toChapterSeq": 1246,
+      "characterA": {
+        "name": "科林·伊利亚特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "科林与洛薇雅同为白银城六人议事团成员，此次共同探索“巨人王庭”，存在稳定的组织关系与长期合作。"
+    },
+    {
+      "fromChapterSeq": 1246,
+      "toChapterSeq": 1246,
+      "characterA": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "洛薇雅",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "队友",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "戴里克与洛薇雅作为白银城探索小队成员共同参与“巨人王庭”探索，两人存在同队合作关系。之前对洛薇雅有疑虑，但当前合作任务中维持和平。"
+    },
+    {
+      "fromChapterSeq": 1248,
+      "toChapterSeq": 1248,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "亚恩·考特曼",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞以“愚者”身份展示神迹，迫使“海王”亚恩·考特曼考虑反抗军谈判，双方初步建立基于实力的合作意愿，但并非稳定从属。"
+    },
+    {
+      "fromChapterSeq": 1248,
+      "toChapterSeq": 1248,
+      "characterA": {
+        "name": "烈焰达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "亚恩·考特曼",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "达尼兹代表反抗军与“海王”亚恩·考特曼谈判，双方就罗思德群岛自治进行交涉，尚无私人关系，仅为公事接触。"
+    },
+    {
+      "fromChapterSeq": 1248,
+      "toChapterSeq": 1250,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "格罗塞尔",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "周明瑞安葬格罗塞尔的骨灰于巨人王庭，使其获得安宁，体现了周明瑞对亡者的尊重，但两者并无生前直接互动。"
+    }
+  ]
+}

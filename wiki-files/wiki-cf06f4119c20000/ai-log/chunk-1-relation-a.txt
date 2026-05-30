@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 21,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩加入值夜者后，邓恩作为队长安排任务、提供成为非凡者的机会并给予指导；克莱恩配合行动，两人建立起上下级合作关系，信任逐步加深。"
+    },
+    {
+      "fromChapterSeq": 21,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "老尼尔配制占卜家魔药帮助克莱恩成为非凡者，并系统教导他灵视、灵摆占卜、象征学等神秘学知识，是克莱恩的导师。"
+    },
+    {
+      "fromChapterSeq": 33,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "在塔罗会中，克莱恩以“愚者”身份向“正义”奥黛丽分享扮演法作为预付报酬，奥黛丽则提供政府情报，并视克莱恩为智慧出众的导师；两人建立起定期交流、互惠互助的隐秘搭档关系。"
+    },
+    {
+      "fromChapterSeq": 33,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "线索接收者"
+        }
+      },
+      "relationSummary": "在塔罗会中，克莱恩以“愚者”身份向“倒吊人”阿尔杰分享扮演法，并委托其搜集罗塞尔日记；阿尔杰则分享海盗情报，两人形成互利合作关系。"
+    },
+    {
+      "fromChapterSeq": 21,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "同级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "relationSummary": "伦纳德对克莱恩的自杀未遂和安提哥努斯笔记事件持续怀疑，多次以意味深长的方式试探；克莱恩保持合作但有所防备，两人表面同为值夜者成员，实则存在信任裂痕。"
+    },
+    {
+      "fromChapterSeq": 21,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩作为兄长，与妹妹梅丽莎共同生活，彼此关心；克莱恩用新工作收入改善家庭生活，梅丽莎则节俭持家，兄妹关系亲密稳固。"
+    },
+    {
+      "fromChapterSeq": 21,
+      "toChapterSeq": 40,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "班森·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "喜欢",
+          "bond": "弟",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与大哥班森关系和睦，共同承担家庭责任；班森幽默务实，支持克莱恩的新工作，两人一起筹备搬家事宜。"
+    },
+    {
+      "fromChapterSeq": 24,
+      "toChapterSeq": 24,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "昆汀·科恩",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩回廷根大学告知取消面试时与导师科恩副教授短暂会面，维持着普通的师生关系。"
+    },
+    {
+      "fromChapterSeq": 24,
+      "toChapterSeq": 24,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要线索来源"
+        }
+      },
+      "characterB": {
+        "name": "阿兹克·艾格斯",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "线索接收者"
+        }
+      },
+      "relationSummary": "克莱恩与历史教员阿兹克会面，透露韦尔奇和娜娅案件与安提哥努斯家族笔记有关；阿兹克对“安提哥努斯”感到熟悉但想不起，这一互动为后续揭示阿兹克身份埋下伏笔。"
+    },
+    {
+      "fromChapterSeq": 37,
+      "toChapterSeq": 37,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "格拉西斯",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在占卜俱乐部接受格拉西斯占卜，并利用灵视发现其肺部问题，建议就医；这一互动仅体现为一次性善举，但克莱恩从中获得扮演占卜家的灵感。"
+    },
+    {
+      "fromChapterSeq": 36,
+      "toChapterSeq": 36,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "温蒂·斯林",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩路过铁十字街时被斯林太太赠送甜冰茶，短暂的友好邻里互动，无持续关系。"
+    }
+  ]
+}

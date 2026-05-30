@@ -1,0 +1,1119 @@
+{
+  "characters": [
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思因担忧劳伦斯占卜发现自己的秘密，向愚者祷告求助。克莱恩通过人工梦游仪式和纸天使为其干扰占卜，她看见十二翼漆黑羽翼的天使包裹自身，对愚者更敬畏。随后，在塔罗聚会上，她得知罗塞尔日记的价值后懊恼自己错失收集机会，并关心“太阳”的遭遇。",
+      "identInfos": ["塔罗会成员，代号“魔术师”", "畅销作家", "序列9“学徒”", "满月诅咒受愚者庇护", "好友休·迪尔查"],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 374,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思眼前忽然弥漫起无边无际的灰白雾气，而高空则降下了一张虚幻的黄褐色羊皮纸。她看见了上面书写有知识，心中霍然安定。"
+        },
+        {
+          "chapterSeq": 374,
+          "extractReason": "UPDATE",
+          "evidenceText": "半梦半醒的佛尔思则仿佛看见了一位威严庄重的天使，看见对方用许多对漆黑的羽翼一层又一层地包裹住自己！"
+        },
+        {
+          "chapterSeq": 375,
+          "extractReason": "UPDATE",
+          "evidenceText": "“愚者”先生有天使侍奉，并不让人惊讶，从“正义”小姐、“倒吊人”先生偶尔用“祂”来代指，就可以想象得到，从祂能够隔绝满月呓语的影响，就可以推测得到……可是，我的请求仅仅是干扰一下劳伦斯先生的占卜，祂竟然直接让天使庇佑我，这，这太奢侈了吧？"
+        },
+        {
+          "chapterSeq": 391,
+          "extractReason": "UPDATE",
+          "evidenceText": "“罗塞尔日记？是罗塞尔用独特符号书写，别人根本看不懂的那些笔记？它们竟然是日记？‘倒吊人’的语气很笃定，而‘愚者’先生没有反驳……我遇到过好多，但都因为不感兴趣，未曾买下，啊对，奥黛丽小姐那里有不少！她是这方面的狂热爱好者！可是，可是，她那只狗在上周，不，也许是上上周，我记不太清楚了，总之，它把许多图书和笔记都咬碎了，其中就包括所有的罗塞尔大帝日记！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [374, 375, 382, 390, 391, 392, 393]
+    },
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以愚者身份回应佛尔思祷告，通过人工梦游仪式、纸天使和黑皇帝牌为其干扰占卜。他占卜确认黛西被卡平集团绑架，决定主动表演解救。制定计划后，他潜入别墅，用生物毒素瓶削弱敌人，利用煤气爆炸制造混乱，在激烈战斗中击杀凯蒂、帕克，逼退赫拉斯，救出黛西等少女，并在卡平尸体上留下审判与皇帝塔罗牌，塑造“侠盗黑皇帝”形象。事后，他处理收尾，反思总结魔术师守则，并在塔罗聚会上以愚者身份展示黑皇帝牌，分享知识，继续布局。",
+      "identInfos": ["穿越者，源名周明瑞", "塔罗会首领“愚者”", "序列7“魔术师”", "前值夜者，假死脱身", "化身夏洛克·莫里亚蒂", "持有“黑皇帝”牌与灰雾空间"],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "代号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 374,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩左手按住青铜长桌表面的“黑皇帝”牌，让它与自身灵体相连，带来了位格的提高，就像以前用“阳炎符咒”和阿兹克铜哨坚实灵体，提升层次一样。紧接着，他右手腕部一抖，将那张纸人丢了出去。那纸人霍然变大，背后长出了十二对纸张裁剪出的黑色天使翅膀，羽毛栩栩如生。"
+        },
+        {
+          "chapterSeq": 375,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩手指轻敲着古老长桌的边缘，迅速做出了决定。拯救黛西，对付卡平这件事情对他而言，目前最困难的是，完全不了解对方，不知道那栋别墅内究竟有几位非凡者，分别属于哪条途径哪个序列。这就让克莱恩没法做针对性的准备。而对“魔术师”来说，第一条守则就是，“不做无准备的表演”！"
+        },
+        {
+          "chapterSeq": 376,
+          "extractReason": "UPDATE",
+          "evidenceText": "他迅速中断通灵仪式，再次自己召唤自己，自己响应自己。几秒之后，灵体状的他从蜡烛火光里飞了出了，又一次漂浮于这个房间内。没有任何犹豫，灵体状的克莱恩猛然上前，附身于了那个昏迷的男子。"
+        },
+        {
+          "chapterSeq": 377,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩掏出金壳怀表，看了眼具体的时间，然后拿出圣夜粉，用灵性之墙封锁住了房间。做完这一切，他迅速布置好祭台，举行起仪式：“我！”“我以我的名义召唤：”“不属于这个时代的愚者，灰雾之上的神秘主宰，执掌好运的黄黑之王。”"
+        },
+        {
+          "chapterSeq": 378,
+          "extractReason": "UPDATE",
+          "evidenceText": "头戴漆黑皇冠，身覆密实盔甲的克莱恩站至门口，调整了几秒，向前迈出了脚步。他宛若实质的身体，就那样无声无息地穿过了大门，进入了卡平的别墅。"
+        },
+        {
+          "chapterSeq": 379,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩熟练团身，就地翻滚，敏捷地躲过了凯蒂的抽击，听见了鞭子打在地上的脆响。凯蒂正要横扫长鞭，喉咙突然一痒，咳嗽了两声，错过了连续进攻的机会。这是她所中毒素的表征！"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "看见凯蒂抬起左轮，即将射击，看见赫拉斯又要宣判自己“死亡”，克莱恩微微一笑，啪地打了个响指。赫拉斯突然惊觉，有了某种危险预感。可这个时候，他已看见侧方的壁炉内亮起了一朵火焰，并猛地点燃了周围的空气。轰隆！一声巨响中，赫拉斯的眼睛被瞬间充斥满房间的火焰完全占据，就像看见了一场盛大的烟火表演。"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩回到破烂焦黑的餐厅后，他取出了塔罗牌里所有的主牌，随即走到卡平尸体的旁边。接着，他专门抽离两张，将剩余的那些哗啦啦洒到了卡平的身上。做完这一步，他把专门抽出的那两张塔罗牌，正面朝上地覆盖至卡平的双眼。"
+        },
+        {
+          "chapterSeq": 381,
+          "extractReason": "UPDATE",
+          "evidenceText": "他随即看向面前摆放的两件物品，它们都散发着较为强烈的灵性光彩。其中一件是浅蓝色的半透明六棱柱，里面时有丝丝光芒划过，就仿佛来自于意识深处的闪电，这是女士凯蒂遗留的非凡特性。另外一件属于之前战斗里没能发挥作用的帕克，他的非凡特性凝缩成了一团，如同小孩的拳头。这“拳头”由三种颜色组成，铁黑和暗红缠绕着大片的银白。"
+        },
+        {
+          "chapterSeq": 381,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩认为，以上是“魔术师守则”最核心的两条，把握住了它们就把握住了关键，剩下那些则是对它们的补充和完善。“3.多做主动的表演；4.尽量得到观众的喝彩；5.掌控住目标的注意力。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393]
+    },
+    {
+      "name": "劳伦斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "劳伦斯是亚伯拉罕家族成员，年近八十，因家族诅咒和灾难而悲观绝望。他在咖啡馆回忆家族苦难，担心佛尔思占卜发现秘密。",
+      "identInfos": ["亚伯拉罕家族成员", "年近八十", "家族灾难幸存者", "疑似学徒途径非凡者"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 374,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他本身已年近八十，所有孩子都死在了布提斯带来的那场灾难中。光是回想这些，他就悲从中来，无可断绝。最让他痛苦的是，看不到报仇的希望，看不到家族荣耀重现的曙光。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [374]
+    },
+    {
+      "name": "黛西",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "黛西被卡平集团绑架，后经克莱恩解救逃出。她在教堂安置后返家，向家人描述被黑衣盔甲英雄救出的经过。记者迈克采访她时，她配合讲述经历。",
+      "identInfos": ["东区浆洗女工丽芙的小女儿", "十三四岁", "免费学校导生", "曾遭卡平绑架"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 375,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩看见浆洗女工丽芙的小女儿，那位被蒸汽屡次烫伤却还是坚持着熨烫衣物的十三四岁女孩被一个穿厚重夹克，戴灰黑鸭舌帽的男子从后面用手帕捂住了嘴巴，强行拖入了偏僻巷子的岔路。"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "黛西等少女先被外面的爆炸声惊到，过了一阵，又愕然地发现牢门莫名敞开，却无人进来，自己似乎随时可以离开。"
+        },
+        {
+          "chapterSeq": 383,
+          "extractReason": "UPDATE",
+          "evidenceText": "黛西放下担心，转而回答起姐姐的问题：“不，不是警察，那里突然发生了爆炸，锁住我们的门也被奇怪地打开了，我们就那样跑了出来，但有看见屋顶站着一位先生，或者女士。他穿着黑色的盔甲，戴着皇冠一样的头盔，还有披风，就那样静静地注视着我们，那些坏蛋没有一个来阻止我们，追赶我们。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [375, 380, 383, 387, 390]
+    },
+    {
+      "name": "卡平",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "卡平是贝克兰德人口贩子，富豪，涉嫌拐卖少女并与非凡者赫拉斯、凯蒂、帕克勾结。晚餐时遭克莱恩袭击，因生物毒素和煤气爆炸重伤，最终被塔罗牌覆盖脸部，显示“审判”与“皇帝”牌，象征被审判。其保险柜财物被洗劫，地下监牢被解。",
+      "identInfos": ["贝克兰德人口贩子富豪", "被侠盗黑皇帝杀死", "涉及奴隶贸易和少女拐卖", "与非凡者赫拉斯等人勾结"],
+      "aliases": [
+        {
+          "alias": "卡平先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 376,
+          "extractReason": "UPDATE",
+          "evidenceText": "“卡平先生……”戴鸭舌帽的男子先向那个有些发福的中年男士问好，接着又对另一个人道，“帕克先生……”"
+        },
+        {
+          "chapterSeq": 377,
+          "extractReason": "UPDATE",
+          "evidenceText": "傍晚时分，哪怕在家里也打着正式领结的卡平眯起眼睛，看着面前的手下，语速缓慢却让人不寒而栗地问道：“法比安死了？”"
+        },
+        {
+          "chapterSeq": 377,
+          "extractReason": "UPDATE",
+          "evidenceText": "卡平的额头突然沁出了一滴滴汗水：“不，没有，赫拉斯先生，您误会了。”"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "卡平身上洒满塔罗牌的卡平，看见了这位人口贩子脸上盖着的两张主牌。那分别是天使吹响号角的“审判”牌和身穿盔甲头戴冠冕的“皇帝”牌！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [375, 376, 377, 378, 379, 380, 381, 382, 383]
+    },
+    {
+      "name": "赫拉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "赫拉斯是卡平别墅内的非凡者，至少序列6，途径类似“黑皇帝”，掌握禁闭、囚禁等律令能力，戴铁黑色手套增强实力。在战斗中与克莱恩对峙，因煤气爆炸受伤，最终选择逃跑，下落不明。",
+      "identInfos": ["卡平别墅的非凡者首领", "至少序列6", "使用律令类非凡能力", "戴白色发套，冷漠中年绅士"],
+      "aliases": [
+        {
+          "alias": "赫拉斯先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 376,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这绅士有一张瘦长严肃的脸庞，嘴巴自然抿着，给人一种异常冷漠的感觉。他顺着黄金表链，掏出同色怀表，按开看了一眼，随即沉声开口道：“看着我。”戴鸭舌帽的男人不敢违背地抬起脑袋，望向前方道：“是，赫拉斯先生。”"
+        },
+        {
+          "chapterSeq": 378,
+          "extractReason": "UPDATE",
+          "evidenceText": "他抬起右手，指向那道常人看不见的黑色身影，口中念出了一个古赫密斯语单词：“囚禁！”"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "抓住这个机会，赫拉斯猛然转身，头也不回地向着外面奔逃。哪怕身上覆盖的火焰还在燃烧，他也没浪费一点时间去处理。他知道自己的状况极差，有失控的危险，而毒素的效果要不了多久就会达到极致，两者相加，他不认为自己还有战胜那个入侵者的可能，哪怕地下区域入口，还有位序列7的贝里斯可以帮忙，也同样如此！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [376, 377, 378, 379, 380]
+    },
+    {
+      "name": "凯蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "凯蒂是卡平别墅的女非凡者，序列7“审讯者”，使用鞭子和左轮手枪战斗。在克莱恩袭击中被空气子弹击中头部死亡，遗留非凡特性。",
+      "identInfos": ["卡平别墅的非凡者之一", "序列7“审讯者”", "使用鞭子和左轮手枪", "脸上有陈旧伤疤"],
+      "aliases": [
+        {
+          "alias": "凯蒂女士",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 376,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "女子戴着中间翘起的棕色软帽，身穿单薄的白色衬衣和背带长裤，脚踏一双及至膝盖的牛皮色靴子。她的脸上有几道陈旧的伤疤，嘴角始终噙着残忍的笑意。戴鸭舌帽的男子又惊又怕地低头，嗫嚅着出声道：“凯蒂女士……”"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩打了个响指，射出了一枚空气子弹。那子弹射入了凯蒂的脑袋，结束了她的种种痛苦。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [376, 378, 379, 380]
+    },
+    {
+      "name": "帕克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕克是卡平别墅的非凡者，序列8“治安官”，在战斗中因毒素和克莱恩突袭最先失去战力，后与卡平纠缠死于煤气爆炸，遗留非凡特性。",
+      "identInfos": ["卡平别墅的非凡者之一", "序列8“治安官”", "面容老相，棕眸有神", "最先被克莱恩冻僵"],
+      "aliases": [
+        {
+          "alias": "帕克先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 376,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "另外一个一米七十出头，长得颇为老气，有着些许抬头纹，他鼻梁高挺，棕眸有神，看起来没什么威慑力。“卡平先生……”戴鸭舌帽的男子先向那个有些发福的中年男士问好，接着又对另一个人道，“帕克先生……”"
+        },
+        {
+          "chapterSeq": 378,
+          "extractReason": "UPDATE",
+          "evidenceText": "忽然，帕克的肩膀不知被谁拍了一下。阴冷的感觉汹涌袭来，他顿时僵硬在了原地，就像被冰霜完全覆盖住，被低温浸入了骨头里，而他耳畔则响起了熟悉的低沉嗓音：“囚禁！”帕克瞬间被透明墙壁组成的监牢困在了门边，但克莱恩并未附身他，直接穿了过去，及时避开了赫拉斯的法术效果。"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "翻倒餐桌的旁边，帕克和卡平被撞到了墙角，脑袋凹陷破裂，整体变得焦黑。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [376, 378, 379, 380]
+    },
+    {
+      "name": "贝里斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "贝里斯是卡平别墅的非凡者，序列7，看守地下区域入口，使用高压蒸汽步枪。爆炸后试图逃跑，遭克莱恩怨灵尖啸影响但成功逃脱。",
+      "identInfos": ["卡平别墅的非凡者", "序列7", "看守地下监牢", "使用高压蒸汽步枪"],
+      "aliases": [
+        {
+          "alias": "贝里斯先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 376,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这络腮胡大汉有一双冰冷慑人的蓝色眼睛，手里拿着细绒布，正认真地擦拭着摆在桌上的灰白色复杂步枪。那步枪又粗又长，通过管道连接着一个硕大的同色机械箱。这是高压蒸汽步枪！这是军事管制品！“贝里斯先生……”戴鸭舌帽的男子早有准备地低头问好。"
+        },
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "留着络腮胡的贝里斯一直关注着外面的动静，但不敢擅离职守，怕被入侵者的同伙趁机闯入地牢。此时此刻，端着高压蒸汽步枪并开启了灵视的他被那声巨响吓到，变得异常紧绷。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [376, 380]
+    },
+    {
+      "name": "艾斯·斯内克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾斯·斯内克是风暴教会枢机主教、贝克兰德教区大主教、“神之歌者”，在卡平别墅爆炸后赶至现场调查，辨认出现场有塔罗牌仪式。",
+      "identInfos": ["风暴教会枢机主教", "贝克兰德教区大主教", "神之歌者", "高序列强者"],
+      "aliases": [
+        {
+          "alias": "斯内克枢机主教",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一个戴黑色软帽，银眸异常严肃的老者，他身穿绣着风暴符号的黑色长袍，正是风暴教会枢机主教，贝克兰德教区大主教，“神之歌者”艾斯·斯内克。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [380, 381, 382]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休接到黄金面具男的紧急任务，要求调查最近谁打听过卡平，并得知卡平已死，尸体被塔罗牌覆盖。她最初拒绝任务因讨厌卡平，但得知卡平死后接受。她与佛尔思讨论此事，怀疑与塔罗会有关。",
+      "identInfos": ["赏金猎人", "塔罗会成员佛尔思的好友", "矮个子，毛糙金发", "序列9非凡者，缺治安官材料"],
+      "aliases": [
+        {
+          "alias": "休小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 381,
+          "extractReason": "UPDATE",
+          "evidenceText": "休换了个地方，标记出了见面的时间和地点。半个小时后，一个偏僻但四通八达的巷子里，暗中观察了好一阵子的休走出躲藏的地方，走向了那位戴着黄金面具的男人。"
+        },
+        {
+          "chapterSeq": 381,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴黄金面具的男人点了点头：“是的。我拒绝这个任务，我很讨厌他！”休当即回绝道。对面的男人呵了一声：“不是替卡平做事。因为他已经死了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [381, 382]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽从父亲处得知侠盗黑皇帝事件，确认是愚者眷属所为，并计划从军情九处朋友处打听详情。她组织下午茶聚会，通过康斯·李尔森获取现场细节，推测愚者在对抗邪神。塔罗聚会上，她为倒吊人要求私下得知黑皇帝牌感到遗憾，并关心太阳的遭遇。她接到伊思兰特邀请，准备加入心理炼金会外围研讨会。",
+      "identInfos": ["塔罗会成员，代号“正义”", "霍尔伯爵之女，贵族少女", "序列8“读心者”", "心理炼金会外围成员"],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "奥黛丽小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 383,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到那熟悉的场景描述，奥黛丽几乎可以确认这是“愚者”先生的眷者做的。她顿时有了强烈的代入感、参与感和自豪感。"
+        },
+        {
+          "chapterSeq": 384,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不像是击杀‘飓风中将’齐林格斯的那位，也不像是在下水道里解决兰尔乌斯那位……窃取‘黑皇帝’牌，制造了卡平案的是‘愚者’先生第三位眷者？仅是贝克兰德，祂就至少有三位眷者……”"
+        },
+        {
+          "chapterSeq": 388,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊思兰特终于斟酌着开口道：“奥黛丽小姐，我们有组织一个这方面的研讨会，许多成员对心理学与神秘学的交叉领域有较为专业的研究，你是否有兴趣加入？”“当然！”奥黛丽毫不犹豫就点头回答，完美符合自己预定的天真好奇少女的人设。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [382, 383, 384, 388, 390, 391, 392, 393]
+    },
+    {
+      "name": "艾伦·克瑞斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾伦医生因噩梦困扰再次雇佣克莱恩，两人前往威尔·昂赛汀家未果。他透露千纸鹤带来噩梦，克莱恩入梦发现高塔与银白巨蛇，推测与命运、水银之蛇有关。值夜者入梦调查后，艾伦的千纸鹤被值夜者调换，克莱恩引导他求助教会。",
+      "identInfos": ["知名外科医生", "威尔·昂赛汀的主治医师", "曾遭受逆位命运之轮影响", "频繁做噩梦"],
+      "aliases": [
+        {
+          "alias": "艾伦医生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 386,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我昨晚做了个噩梦，我梦到了那个孩子，威尔·昂赛汀！” “他的左小腿长了一圈奇怪的瘤体，恰好形成了一个环形，严重压迫到了血管。”艾伦医生回忆道，“但那个孩子竟然没什么太痛苦的表情，只是显得有些害怕，我们最初想保守治疗，但情况迅速恶化了。”"
+        },
+        {
+          "chapterSeq": 386,
+          "extractReason": "UPDATE",
+          "evidenceText": "　　艾伦回忆着说道：“有些细节和过程我已经记不起来了，我印象最深刻的是一座漆黑高耸的尖塔，上面盘着一条银白色的巨蛇，它正缓缓蠕动着，用冰冷的无情的红色眼睛看着我。”"
+        },
+        {
+          "chapterSeq": 389,
+          "extractReason": "UPDATE",
+          "evidenceText": "　　克莱恩若有所思地点头道：“艾伦医生，看来威尔·昂赛汀并不是有意让你倒霉，他事后有做弥补，罗塞尔大帝发明的千纸鹤本身就有给予美好祝愿的意思，而他还说这会给你带来好运。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [384, 385, 386, 387, 389, 390]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "老科勒作为克莱恩的线人，协助传递消息，带克莱恩去丽芙家。克莱恩让他不要透露自己曾免费帮忙寻人的事，并建议他买保险。",
+      "identInfos": ["克莱恩的东区线人", "前工人", "每周15苏勒报酬"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 387,
+          "extractReason": "UPDATE",
+          "evidenceText": "“老科勒。”刷地一下，老科勒翻身坐起，惊喜地靠向门边：“您果然来了，昨天给您送了那封信后，我就猜到您今天会来找我，所以我没去码头，一直等在家里。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [383, 387]
+    },
+    {
+      "name": "丽芙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "丽芙是黛西和弗莱娅的母亲，浆洗女工。女儿被解救后，她感谢侦探和记者，接受克莱恩的2镑报酬。",
+      "identInfos": ["黛西和弗莱娅的母亲", "东区浆洗女工"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 383,
+          "extractReason": "UPDATE",
+          "evidenceText": "丽芙也从洗衣盆后站起，将手在自己的衣物上擦了擦，抹着眼睛道：“黛西，你这几天去了哪里？”"
+        },
+        {
+          "chapterSeq": 387,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拿出早就准备好的2镑零钱，递给了丽芙：“明天会有位记者来采访黛西，这是他预先给的报酬，不过你们不要当着他的面提，要不然很多事情不好处理，呵呵，他明天说不定还会再给一些，但没有这么多了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [383, 387]
+    },
+    {
+      "name": "弗莱娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗莱娅是黛西的姐姐，浆洗女工。妹妹被解救后，她激动拥抱，后询问细节，听黛西描述黑衣英雄。",
+      "identInfos": ["黛西的姐姐", "东区浆洗女工"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 383,
+          "extractReason": "UPDATE",
+          "evidenceText": "弗莱娅放下手中的活计，像一只敏捷的小鹿，躲过半空的衣服和地上的杂物，飞快跑到了门边，重重抱住了妹妹。接着，她松开手，流着眼泪，又惊喜又担忧地上下打量起黛西：“你没事吧？太好了，你终于回来了！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [375, 383]
+    },
+    {
+      "name": "达克·瑞金斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达克是白银城探索小队成员，戴里克的好友，从堕落造物主神庙探索回来后性格变得异常，笑容公式化，疑似被污染。戴里克向首席汇报其变化。",
+      "identInfos": ["白银城探索小队成员", "戴里克好友", "序列8“角斗者”", "被堕落造物主污染"],
+      "aliases": [
+        {
+          "alias": "达克",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 385,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位叫做达克的少年个头中等，身材微胖，以力量见长，乐观而开朗，脸上常常挂着让人亲近的笑容，目前是“巨人”途径的序列8“角斗者”。"
+        },
+        {
+          "chapterSeq": 385,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到他的声音，达克走了几步，靠近墙边，微笑着回答道：“没有，一直都很顺利。”看着他挑不出毛病的微笑，戴里克突然遍体发凉，就像夜晚露宿于废弃的塔顶或毁灭的城市里一样，四周一片漆黑，暗流积蓄。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [385, 386, 393]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "科林·伊利亚特是白银城“六人议事团”首席，高序列强者。他处理了阿蒙分身事件，对戴里克的汇报表面不重视但暗中监控。戴里克担忧他怀疑自己。",
+      "identInfos": ["白银城首席", "六人议事团成员", "高序列强者", "猎杀过许多恶魔和怪物"],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 386,
+          "extractReason": "UPDATE",
+          "evidenceText": "这位法令纹很深，蓝眸沧桑，白发凌乱的高大老者背对两把交叉着悬挂于墙上的直剑，穿着惯常的亚麻色衬衣和棕色外套，很难让人相信，他是一位猎杀过诸多恶魔和怪物的强者。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [386, 392, 393]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克发现探索小队异常，向首席汇报未果。他在塔罗聚会上讲述遭遇阿蒙附身并被愚者天使净化的经过，获得倒吊人建议如何利用时之虫和制造冲突洗清嫌疑。他担忧白银城被堕落造物主污染。",
+      "identInfos": ["塔罗会成员，代号“太阳”", "白银城少年", "序列8“光之祭司”", "曾被阿蒙分身附体"],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 385,
+          "extractReason": "UPDATE",
+          "evidenceText": "他决定去看一下，里面有他不少熟人。"
+        },
+        {
+          "chapterSeq": 386,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克知道自己是怎么回到家里的，只记得那份难以言喻的恐惧。和过往相比，达克·瑞金斯的性格与表现没有太大的不同，但又确实有了让人不安的改变，戴里克害怕白银城被邪神“堕落造物主”盯上，害怕自己还没有成为“太阳”，将白银城从长达两千多年的诅咒中拯救出来，给这里的居民希望与阳光，它就已经被彻底毁灭。"
+        },
+        {
+          "chapterSeq": 392,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克如实描述道：“那个失控者被首席解决的时候，我看见了阿蒙的影子，应该是他，他长这个样子。”征求到“愚者”先生的同意后，戴里克具现出了一个光幕，上面描绘着阿蒙的形象：黑色古典长袍，同色尖顶软帽，水晶制成的单片眼镜，宽额头，瘦脸庞，黑眼珠，黑卷发……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [385, 386, 390, 391, 392, 393]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "洛薇雅是白银城“六人议事团”长老，序列5“牧羊人”。她带领探索小队返回后，戴里克发现她状态转好，疑似被污染。",
+      "identInfos": ["白银城长老", "序列5“牧羊人”", "探索小队领队", "疑似被堕落造物主污染"],
+      "aliases": [
+        {
+          "alias": "洛薇雅长老",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 385,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格眼前霍然一亮，看见了大气艳丽，似乎只有三十来岁的洛薇雅长老，也看见了两位同年龄段的熟人。"
+        },
+        {
+          "chapterSeq": 393,
+          "extractReason": "UPDATE",
+          "evidenceText": "包括“牧羊人”洛薇雅长老状态突然转好的事情。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [385, 393]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗聚会上用三页罗塞尔日记换取黑皇帝牌信息，得知其序列0身份。他分析太阳的处境，建议利用时之虫和制造冲突洗清嫌疑，并分享关于时之虫的知识。他消化完航海家魔药，规划晋升。",
+      "identInfos": ["塔罗会成员，代号“倒吊人”", "风暴教会非凡者", "序列6“航海家”", "见识广博，善于分析"],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 391,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰侧头望向上首，谦卑地开口道：“尊敬的‘愚者’先生，我搜集到了三页新的罗塞尔日记。” 克莱恩微笑回应道：“你想用它们换取什么？”望了“愚者”先生手边覆盖着的那张纸牌一眼，“倒吊人”阿尔杰压抑住满腔的热切道：“我想知道您旁边那张牌是什么。”"
+        },
+        {
+          "chapterSeq": 392,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰皱眉打断了“太阳”的话语，“你说你刚经历了这么一场又诡异又可怕的事情，就被‘首席’放回家了？而你刚回到家里，没做别的事情，就开始向‘愚者’先生祈祷？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [391, 392, 393]
+    },
+    {
+      "name": "迈克·约瑟夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "迈克雇佣克莱恩陪同采访被解救的东区少女，计划揭露卡平罪恶。采访后他考虑成立救助基金帮助受害者。",
+      "identInfos": ["《每日观察报》记者", "蓝眼迷人", "理想主义者", "克莱恩的委托人"],
+      "aliases": [
+        {
+          "alias": "迈克",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 384,
+          "extractReason": "UPDATE",
+          "evidenceText": "迈克跟着站起，伸手和他握了握道：“不，是我想再次雇佣你。” “又有什么事情？”克莱恩对艾伦医生行了一礼，坐到了他们这桌。迈克呵呵笑道：“你应该看报纸了吧？卡平被侠盗‘黑皇帝’干掉了，他的罪恶也被揭发出来了，这真是一件让人高兴的事情！"
+        },
+        {
+          "chapterSeq": 390,
+          "extractReason": "UPDATE",
+          "evidenceText": "临上马车前，他忽然吐了口气道：“我想在这篇报道上呼吁，呼吁政府把卡平的地产拿出来，成立一个救助基金，用每年的收益稳定地帮助这些被解救的少女，帮助其他因卡平而受到伤害的人，让她们有机会挣脱当前的困境。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [384, 387, 390]
+    },
+    {
+      "name": "康斯·李尔森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "康斯是军情九处成员，在奥黛丽的下午茶聚会上透露卡平案现场有非凡战斗痕迹，提到毒素、替身、怨灵尖啸等细节。",
+      "identInfos": ["军情九处贵族子弟", "奥黛丽的好友", "提供卡平案情报"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 384,
+          "extractReason": "UPDATE",
+          "evidenceText": "瘦高的年轻绅士康斯喝了口咖啡道：“我不做正面的回答，我只是告诉你们一些事实：发生战斗的餐厅内除了有煤气爆炸的痕迹，还通过各种办法检查出了毒素、替身、怨灵尖啸、神圣力量凝聚的子弹等元素，对了，那位‘黑皇帝’，不，那位侠盗，处于幽灵状态。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [384]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "威尔是艾伦医生的病人，左小腿长瘤被截，曾送千纸鹤给艾伦，但千纸鹤成为噩梦媒介。他表现出与命运、水银之蛇相关的神秘背景，可能处于被银白巨蛇威胁的困境。他已搬家，位置被占卜显示与艾伦重叠。",
+      "identInfos": ["艾伦医生的病人", "十岁出头男孩", "左小腿截肢", "持有塔罗牌", "可能与命运途径有关"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 386,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他的左小腿长了一圈奇怪的瘤体，恰好形成了一个环形，严重压迫到了血管。”艾伦医生回忆道，“但那个孩子竟然没什么太痛苦的表情，只是显得有些害怕，我们最初想保守治疗，但情况迅速恶化了。”"
+        },
+        {
+          "chapterSeq": 388,
+          "extractReason": "UPDATE",
+          "evidenceText": "浓郁的黑暗中，他突然发现前方的角落里蜷缩着一道人影。那人影察觉到艾伦医生过来，忙支撑着站起，单腿跳着靠近。直到那人影近在咫尺，克莱恩才看清楚了他的样子，虎头虎脑，十岁出头，满脸稚气，带着明显的害怕神色。这人影身高一米四左右，左小腿空空荡荡，俨然便是那个动了手术的小孩威尔·昂赛汀。"
+        },
+        {
+          "chapterSeq": 389,
+          "extractReason": "UPDATE",
+          "evidenceText": "　　他将千纸鹤置于手杖杖头，同时握住了它们，然后眼眸转深，低声自语道：“威尔·昂赛汀现在的位置。”占卜语句反复七遍后，房间内忽然有微风打旋，带着吹拂灵魂般的凉意。克莱恩松开了右掌，手杖先是稳稳站立，继而带着千纸鹤倒了下去，斜着指向睡床。 “那里……”克莱恩微皱眉头，换了个位置，重复起刚才的占卜，并顺利得到了反馈。而两次占卜的指向交叉点是，艾伦医生！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [385, 386, 388, 389]
+    },
+    {
+      "name": "阿蒙（分身）",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙分身曾附体戴里克，后被愚者派遣天使净化，留下时之虫。其形象为戴尖顶软帽、单片眼镜的年轻男子。",
+      "identInfos": ["“渎神者”阿蒙", "远古太阳神后裔", "时之虫分身", "单片眼镜黑卷发"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 392,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克具现出了一个光幕，上面描绘着阿蒙的形象：黑色古典长袍，同色尖顶软帽，水晶制成的单片眼镜，宽额头，瘦脸庞，黑眼珠，黑卷发……"
+        },
+        {
+          "chapterSeq": 393,
+          "extractReason": "UPDATE",
+          "evidenceText": "“时之虫……阿蒙制造分身的载体……”“太阳”戴里克小声自语，似乎解开了不少疑惑。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [392, 393]
+    },
+    {
+      "name": "伊思兰特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伊思兰特是奥黛丽的心理医生，邀请奥黛丽加入心理炼金会外围研讨会。",
+      "identInfos": ["奥黛丽的心理医生", "心理炼金会成员", "长发及腰"],
+      "aliases": [
+        {
+          "alias": "伊思兰特医生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 388,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊思兰特终于斟酌着开口道：“奥黛丽小姐，我们有组织一个这方面的研讨会，许多成员对心理学与神秘学的交叉领域有较为专业的研究，你是否有兴趣加入？” “当然！”奥黛丽毫不犹豫就点头回答，完美符合自己预定的天真好奇少女的人设。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [388]
+    },
+    {
+      "name": "塔利姆·杜蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "塔利姆是克拉格俱乐部常客，马术教师。他向克莱恩讲述自己朋友爱上平民女子的故事已解决。",
+      "identInfos": ["贵族马术教师", "克拉格俱乐部常客", "克莱恩的牌友"],
+      "aliases": [
+        {
+          "alias": "塔利姆",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 385,
+          "extractReason": "UPDATE",
+          "evidenceText": "“其实也不是什么太严重的事情，是我当时想得太多。简单来说，就是一位身份显赫的年轻绅士爱上了一个平民女子，你知道的，类似地位的男子必须娶贵族小姐，呵，对他而言，连富豪的女儿也不行。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [384, 385]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在本次剧情中通过成员活动展现：佛尔思求助愚者；克莱恩以愚者身份展示黑皇帝牌；太阳汇报遭遇阿蒙与污染事件；正义得知卡平案为愚者眷属所为，塔罗会影响力初现，被外界视为以塔罗牌为象征的神秘组织。",
+      "identInfos": ["以愚者为首的秘密组织", "成员以塔罗牌为代号", "在灰雾之上聚会", "对抗邪神，维护正义"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 381,
+          "extractReason": "UPDATE",
+          "evidenceText": "“所以，我建议你还是接下这个任务，看得出来你的雇主很有诚意。”休沉吟了一阵道：“我也想看看能不能找出那个侠盗‘黑皇帝’。”她没说的是，这也许是她找到塔罗会线索的唯一机会。"
+        },
+        {
+          "chapterSeq": 383,
+          "extractReason": "UPDATE",
+          "evidenceText": "一个以塔罗牌为象征的组织！"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "休被黄金面具男（疑似极光会成员）委托调查卡平案知情者。",
+      "identInfos": ["信仰真实造物主的隐秘组织", "成员常戴面具", "与塔罗会为敌"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 381,
+          "extractReason": "UPDATE",
+          "evidenceText": "它属于A先生召集的那个聚会里，假托他人之手，将“治安官”配方卖给她的黄金面具男。它是紧急见面的标志！"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽被伊思兰特邀请加入心理炼金会外围研讨会。",
+      "identInfos": ["研究心理学与神秘学交叉的组织", "通过心理医生发展外围", "奥黛丽即将加入"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 388,
+          "extractReason": "UPDATE",
+          "evidenceText": "伊思兰特终于斟酌着开口道：“奥黛丽小姐，我们有组织一个这方面的研讨会，许多成员对心理学与神秘学的交叉领域有较为专业的研究，你是否有兴趣加入？”"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城探索小队从堕落造物主神庙返回后，部分成员出现被污染迹象。戴里克向首席汇报未获重视，内部潜在危机。塔罗会上讨论如何应对。",
+      "identInfos": ["位于神弃之地的城市", "被黑暗笼罩两千五百多年", "蒙受诅咒，死后变恶灵", "由六人议事团统治"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 385,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是白银城两千多年来摸索和总结出的经验，不算复杂，但相当管用。"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "劳伦斯回忆亚伯拉罕家族因诅咒、内部混乱和极光会袭击而衰败，成员离散。",
+      "identInfos": ["古老的学徒途径家族", "受诅咒困扰", "先祖伯特利·亚伯拉罕失踪", "家族上层近乎全灭"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 374,
+          "extractReason": "UPDATE",
+          "evidenceText": "自从分拆为小家庭，散居于各地后，长老会对家族成员的掌控度就降到了最低点，大量的亚伯拉罕为了规避诅咒带来的影响，不愿意去晋升，始终保持在序列8或序列9，甚至根本不尝试成为非凡者，只想作为有一定知识一定财富的普通人，平静美好地度过一生。"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "枢机主教艾斯·斯内克调查卡平案，代罚者现场处置。",
+      "identInfos": ["信仰风暴之主的正神教会", "设有代罚者执行非凡事务", "贝克兰德教区大主教为艾斯·斯内克"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 380,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是一个戴黑色软帽，银眸异常严肃的老者，他身穿绣着风暴符号的黑色长袍，正是风暴教会枢机主教，贝克兰德教区大主教，“神之歌者”艾斯·斯内克。"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者介入威尔·昂赛汀事件，入梦艾伦和克莱恩调查千纸鹤，并调换千纸鹤。",
+      "identInfos": ["黑夜女神教会非凡者小队", "负责处理超凡事件", "对克莱恩进行入梦调查"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 389,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿灰色大衣的男士摘掉帽子，坐到他的对面，闲聊般问道：“艾伦今天早上来找过你？” 克莱恩克制住叹息的冲动，微笑回答道：“是的。”他已经想明白了值夜者为什么会突然入梦自己。面前的“梦魇”应该是一位值夜者小队队长，负责着威尔·昂赛汀事件，但一直没能找到有用的线索。"
+        }
+      ]
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "军情九处成员康斯·李尔森在奥黛丽下午茶上透露卡平案部分细节。",
+      "identInfos": ["军方特殊部门", "处理超凡事务", "成员康斯透露情报"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 384,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不，没有，赫拉斯先生，您误会了。”赫拉斯微微点头道：“你必须记住，我们在关键时期，如非必要，尽量不要惹事。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在行动中使用黑皇帝牌提升灵体位格，反预言反占卜，并在事后通过塔罗会展示给倒吊人。",
+      "identInfos": ["亵渎之牌", "序列0黑皇帝", "对应律师途径成神之路", "具有反预言反占卜特性"],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 377,
+          "extractReason": "UPDATE",
+          "evidenceText": "接着，他拿起“黑皇帝”牌，让灵体包裹住了它。霍然之间，克莱恩只觉自身灵体凝实得如有血肉，似乎已能拿起手枪，搬动桌椅！他周围随之弥漫起黑沉虚幻的雾气，而这雾气贴着表面，形成了一副充满威严感的盔甲。他脑袋之上多了一顶漆黑的皇冠，背后有了同色的长披风。此时此刻，克莱恩就像一位即将踏上征程的皇帝。黑皇帝。"
+        },
+        {
+          "chapterSeq": 391,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩悠闲地将那张亵渎之牌翻转，立了起来，让“倒吊人”能直接看见上面穿黑甲，戴皇冠，着披风的罗塞尔。这位大帝的肖像时常能见，“倒吊人”阿尔杰并不陌生，当即就认了出来，而更为重要的是，纸牌之上还有明晃晃的标识：“序列0，黑皇帝！”"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在卡平别墅战斗中使用生物毒素瓶释放无色无味毒素，削弱赫拉斯、凯蒂、帕克等人，并掩盖煤气味道。",
+      "identInfos": ["棕色半透明小瓶", "释放无色无味生物毒素", "克莱恩的战利品", "随机放毒有致病副作用"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 378,
+          "extractReason": "UPDATE",
+          "evidenceText": "他之所以重视时间点，要挑晚餐前来，就是因为此时此刻，主要人物聚集得最多，最整整齐齐，最利于发挥“生物毒素瓶”的作用！而初冬季节紧闭的门窗，会让“生物毒素瓶”见效更快，效果更好！"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩佩戴太阳胸针，在战斗中使用神圣誓约附加神圣伤害的空气子弹，并使用免疫恐惧能力对抗赫拉斯的威吓。",
+      "identInfos": ["暗金色太阳鸟胸针", "提供神圣誓约和免疫恐惧", "克莱恩花费2000镑购得"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 379,
+          "extractReason": "UPDATE",
+          "evidenceText": "温暖的力量瞬间充满了他的身体，赫拉斯带来的极度恐惧飞快消失不见。“太阳胸针”类法术效果之一，“免疫恐惧”！"
+        }
+      ]
+    },
+    {
+      "name": "千纸鹤",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀送给艾伦医生的千纸鹤，被用作噩梦定位媒介。克莱恩将其与值夜者调换品对比，发现值夜者手工较差，后携带正品灰雾占卜。",
+      "identInfos": ["威尔·昂赛汀折的千纸鹤", "作为噩梦定位媒介", "值夜者与克莱恩先后调换"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 386,
+          "extractReason": "UPDATE",
+          "evidenceText": "发现威尔·昂赛汀一家已经搬走后，我才想起，他在出院前，送了我这个东西，说，医生，这能给你带来好运。"
+        },
+        {
+          "chapterSeq": 389,
+          "extractReason": "UPDATE",
+          "evidenceText": "这，这千纸鹤折得比我那只还丑……这是克莱恩瞬间产生的想法。此时此刻，他很有掩住脸孔，叹息一声的冲动：这难道就是值夜者一脉相承的传统，手工活比较差？"
+        }
+      ]
+    },
+    {
+      "name": "铁黑色金属手套",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "赫拉斯佩戴的铁黑色金属手套，能增强他的威严和实力，让他如同主宰生命的大人物。",
+      "identInfos": ["赫拉斯的非凡物品", "增强威严和地位", "戴上后如同大人物"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 379,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他从暗袋里取出了一只铁黑色的金属手套，试图戴在左手。"
+        },
+        {
+          "chapterSeq": 379,
+          "extractReason": "UPDATE",
+          "evidenceText": "赫拉斯戴上了那个铁黑色的金属手套。瞬息之间，他似乎高大了一点，威严得如同能主宰别人生命的大人物。"
+        }
+      ]
+    },
+    {
+      "name": "高压蒸汽步枪",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "贝里斯使用的高压蒸汽步枪，军事管制品，又粗又长，通过管道连接机械箱。",
+      "identInfos": ["又粗又长的步枪", "连接机械箱", "军事管制品", "贝里斯使用"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 376,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那步枪又粗又长，通过管道连接着一个硕大的同色机械箱。这是高压蒸汽步枪！这是军事管制品！ “贝里斯先生……”戴鸭舌帽的男子早有准备地低头问好。"
+        }
+      ]
+    },
+    {
+      "name": "黑色鞭子",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "凯蒂使用的非凡鞭子，能拷问精神与灵魂，在爆炸中受损出现裂纹。",
+      "identInfos": ["黑色软鞭", "凯蒂的副手武器", "能伤害精神和灵魂", "爆炸中受损"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 378,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她的手中已多了一把左轮，一根黑色的软鞭。"
+        },
+        {
+          "chapterSeq": 379,
+          "extractReason": "UPDATE",
+          "evidenceText": "那根黑色的鞭子同样遭受了伤害，出现了诸多裂纹，并被点燃了少许，而她拥有的那些非凡子弹，在这场爆炸里无一幸免。"
+        }
+      ]
+    },
+    {
+      "name": "金壳怀表",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩使用金壳怀表确认时间，以把握行动时机。",
+      "identInfos": ["克莱恩的怀表", "用于看时间"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 377,
+          "extractReason": "UPDATE",
+          "evidenceText": "做了伪装的克莱恩掏出金壳怀表，看了眼具体的时间，然后拿出圣夜粉，用灵性之墙封锁住了房间。"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用万能钥匙在墙上开无形通道潜入艾伦医生家。",
+      "identInfos": ["能在墙上开无形通道", "克莱恩的物品"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 388,
+          "extractReason": "UPDATE",
+          "evidenceText": "抛了个硬币，做了次占卜后，克莱恩穿过外面的铁栅栏，绕到侧方，用“万能钥匙”在墙上开了个无形的通道，进入了已黑灯瞎火的走廊。"
+        }
+      ]
+    },
+    {
+      "name": "时之虫",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙分身被净化后遗留的半透明小虫，有十二道圆环。倒吊人指出它是阿蒙制造分身的载体，可能在神话中称为时之虫。太阳保留一条，用于后续计划。",
+      "identInfos": ["半透明小虫，十二道圆环", "阿蒙分身的载体", "神话中的时之虫", "可用于某种仪式"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 393,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰思索了一阵道：“它应该是阿蒙制造分身的载体。在神话传说里，有一种虫子和它的外形类似，都有十二道透明的圆环，叫做‘时之虫’，不过，从来没有谁见过‘时之虫’，不少人怀疑，这其实是一种序列魔药的名称。”"
+        }
+      ]
+    },
+    {
+      "name": "治安官非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕克遗留的非凡特性，由铁黑、暗红和银白三色缠绕成拳头状。克莱恩计划通过塔罗会卖给休。",
+      "identInfos": ["帕克遗留的非凡特性", "治安官序列材料", "铁黑、暗红、银白三色"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 381,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "另外一件属于之前战斗里没能发挥作用的帕克，他的非凡特性凝缩成了一团，如同小孩的拳头。这“拳头”由三种颜色组成，铁黑和暗红缠绕着大片的银白。"
+        }
+      ]
+    },
+    {
+      "name": "审讯者非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "凯蒂遗留的非凡特性，浅蓝色半透明六棱柱，内有闪电般光芒滑动。",
+      "identInfos": ["凯蒂遗留的非凡特性", "审讯者序列材料", "浅蓝色半透明六棱柱"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 381,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "其中一件是浅蓝色的半透明六棱柱，里面时有丝丝光芒划过，就仿佛来自于意识深处的闪电，这是女士凯蒂遗留的非凡特性。"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "倒吊人用三页罗塞尔日记换取黑皇帝牌信息。其中记录罗塞尔出海寻找西大陆，遭遇深渊等。第三页为伪造乱码。",
+      "identInfos": ["罗塞尔大帝用特殊符号书写的日记", "记录历史秘闻和探索经历", "塔罗会交易硬通货"],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 391,
+          "extractReason": "UPDATE",
+          "evidenceText": "“三月十五日，我果然是主角，仅凭一些考古线索和民俗传闻，就在迷雾海边缘的奥拉德克群岛附近找到了一艘所罗门帝国遗留的幽灵船，古老的‘黑王座号’！”"
+        },
+        {
+          "chapterSeq": 391,
+          "extractReason": "UPDATE",
+          "evidenceText": "“四月二十一日，我看见了深渊。”"
+        },
+        {
+          "chapterSeq": 391,
+          "extractReason": "UPDATE",
+          "evidenceText": "上面大量充斥着以下的语句：“啊日胡饥饿请了人府邸内。”这……克莱恩一下明白过来，这页应该是后人伪造的罗塞尔日记，他们根据原有的“符号”，自己胡乱拼凑出了一堆句子。"
+        }
+      ]
+    }
+  ]
+}

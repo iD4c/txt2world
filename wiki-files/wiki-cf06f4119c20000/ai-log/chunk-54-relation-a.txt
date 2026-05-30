@@ -1,0 +1,279 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1047,
+      "toChapterSeq": 1052,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "奥黛丽被赫温·兰比斯催眠要求调查休和佛尔思，向克莱恩求助。克莱恩召集塔罗会小聚会，制定误导计划，并提供‘窃运者’符咒。在赫温·兰比斯侵入心灵时，奥黛丽使用符咒脱险，并配合克莱恩将其击杀。奥黛丽因参与击杀半神彻底消化‘催眠师’魔药。"
+    },
+    {
+      "fromChapterSeq": 1050,
+      "toChapterSeq": 1051,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "赫温·兰比斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与赫温·兰比斯在格莱林特子爵府邸激战，克莱恩在奥黛丽与阿里安娜协助下将其击杀并转化为秘偶。"
+    },
+    {
+      "fromChapterSeq": 1051,
+      "toChapterSeq": 1051,
+      "characterA": {
+        "name": "阿里安娜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "阿里安娜在克莱恩与赫温·兰比斯战斗后出现，对赫温·兰比斯通灵审问，获取乔治三世成神秘密与心理炼金会推动战争的情报，并提取赫温·兰比斯的非凡特性。"
+    },
+    {
+      "fromChapterSeq": 1047,
+      "toChapterSeq": 1049,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "赫温·兰比斯",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "赫温·兰比斯催眠奥黛丽，命令她催眠休和佛尔思以调查其背后主使者。奥黛丽表面遵从，实际暗中求助克莱恩，并设局误导。赫温·兰比斯察觉异常后侵入奥黛丽心灵世界。"
+    },
+    {
+      "fromChapterSeq": 1055,
+      "toChapterSeq": 1056,
+      "characterA": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "搭档",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "埃姆林·怀特",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "无",
+          "bond": "盟友",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "莎伦与血族联合行动对付玫瑰学派成员，埃姆林作为血族联络人与马里奇碰头，通过‘玫瑰之誓’戒指共享感官，配合莎伦和马里奇突袭目标。"
+    },
+    {
+      "fromChapterSeq": 1055,
+      "toChapterSeq": 1056,
+      "characterA": {
+        "name": "莎伦",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "马里奇",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "莎伦与马里奇作为长期搭档，共同执行针对玫瑰学派成员查理·雷克的突袭行动。"
+    },
+    {
+      "fromChapterSeq": 1058,
+      "toChapterSeq": 1060,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩召集伦纳德共同进入《格罗塞尔游记》探索梦境，通过苦修士斯诺曼、贵族莫贝特·索罗亚斯德和精灵夏塔丝的梦境获取远古历史秘辛。"
+    },
+    {
+      "fromChapterSeq": 1058,
+      "toChapterSeq": 1060,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "relationSummary": "奥黛丽作为‘梦境行者’，引导克莱恩和伦纳德进入斯诺曼、莫贝特、夏塔丝的梦境，探索历史秘辛。"
+    },
+    {
+      "fromChapterSeq": 1055,
+      "toChapterSeq": 1056,
+      "characterA": {
+        "name": "米斯特拉尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "奥尔默",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "血族联合行动中，米斯特拉尔等人陷入红月陷阱，奥尔默公爵出手吸走红月辉芒，消弭异变。"
+    },
+    {
+      "fromChapterSeq": 1055,
+      "toChapterSeq": 1056,
+      "characterA": {
+        "name": "尼拜斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "奥尔默",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "血族联合行动中，尼拜斯等人陷入红月陷阱，奥尔默公爵出手吸走红月辉芒，消弭异变。"
+    },
+    {
+      "fromChapterSeq": 1059,
+      "toChapterSeq": 1059,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "下级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "莫贝特·索罗亚斯德",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "伦纳德在梦境中向莫贝特·索罗亚斯德探询帕列斯·索罗亚斯德及第四纪历史，莫贝特作为曾孙辈提供大量信息。"
+    }
+  ]
+}

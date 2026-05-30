@@ -1,0 +1,1277 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以愚者身份主持塔罗会，借出全黑之眼帮助太阳戴里克揭露被污染的探索小队，并指导其通过人工梦游和天使替身通过审问。他向塔罗会成员传授了部分罗塞尔秘密符号的含义，以方便他们搜集日记。他通过魔术师佛尔思得知极光会A先生在悬赏寻找愚者信徒，意识到真实造物主已察觉自身，但决定低调行事。他帮助艾伦医生调查梦境，在格林墓园外挖出威尔·昂赛汀的尸体。他委托吸血鬼埃姆林·怀特寻找无面人非凡材料，并成功卖出脚踏车股份获得1000镑。他卷入艾辛格·斯坦顿侦探遇袭案，收到恶魔犬主人的死亡恐吓信，并与其他私家侦探聚集商议对策。",
+      "identInfos": [
+        "塔罗会首领愚者",
+        "夏洛克·莫里亚蒂",
+        "序列7魔术师",
+        "源堡主人",
+        "穿越者"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有一件蕴含着‘真实造物主’精神污染的物品。”他指的是“秘偶大师”罗萨戈遗留的“全黑之眼”。"
+        },
+        {
+          "chapterSeq": 395,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是部分罗塞尔秘密符号的含义，算是免费的知识，以便你们更好地搜集日记。"
+        },
+        {
+          "chapterSeq": 402,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾伦指着那具尸体的双腿，嘴巴疯狂翕动却说不出话来。克莱恩忍着恶心，仔细望去，发现那小孩尸体的左腿明显缺了下半截。"
+        },
+        {
+          "chapterSeq": 404,
+          "extractReason": "UPDATE",
+          "evidenceText": "“千面狩猎者的脑部异变垂体，它的血液100毫升，人皮幽影特性，深海娜迦的头发五根，只要能拿到这里面任意一种，我都会支付报酬给你，视价格而定，价格越便宜，给你的报酬越多。”"
+        },
+        {
+          "chapterSeq": 410,
+          "extractReason": "UPDATE",
+          "evidenceText": "经过这样的交易，弗兰米成为了新建立的贝克兰德脚踏车公司最大的股东，占据47%的股份，他将负责后续的工厂化和推广销售，而公司的账上将有他投资的那1000镑，这是初始启动资金。"
+        },
+        {
+          "chapterSeq": 412,
+          "extractReason": "UPDATE",
+          "evidenceText": "你们都要死！"
+        }
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克（太阳）在塔罗会上借得全黑之眼，用以揭露探索小队被真实造物主污染的事实。他在白银城利用达克来访的机会，触发其异变，并通过献祭仪式将全黑之眼归还灰雾，同时制造阿蒙分身死亡的假象。事后他通过人工梦游和天使替身接受首席科林和精神分析师艾芙洛的审问，成功摆脱嫌疑。",
+      "identInfos": [
+        "塔罗会成员太阳",
+        "白银城少年",
+        "祈光人",
+        "父母死于恶灵"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [394, 396, 397, 398, 399, 400],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”望向“太阳”，嘶哑着笑了一声：“小家伙，我可以把那件物品借给你，但你又能付出什么作为报酬呢？”"
+        },
+        {
+          "chapterSeq": 398,
+          "extractReason": "UPDATE",
+          "evidenceText": "达克盯着戴里克，张开了嘴巴，嗓音阴冷而飘忽：“你在做什么……”"
+        }
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽（正义）在塔罗会上请求愚者帮助太阳，并主动提出解答魔术师关于非凡特性守恒定律的问题，以此换取报酬。她向成员讲述侠盗黑皇帝案件，确认愚者眷者所为。她参加心理炼金会学术聚会，展现出优秀的观察力，对斯蒂芬·汉普雷斯等人做出精准分析。",
+      "identInfos": [
+        "塔罗会成员正义",
+        "贵族小姐",
+        "读心者",
+        "霍尔家族"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [394, 395, 405],
+      "evidences": [
+        {
+          "chapterSeq": 395,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽主动开口道：“‘愚者’先生，我可以解答这个问题吗？相应的报酬由她直接给您。”"
+        },
+        {
+          "chapterSeq": 405,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有一位朋友快要晋升了，需要搜集相应的非凡材料，不知道你是否能帮得上吗？”"
+        }
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰（倒吊人）在塔罗会上为太阳提供详细计划，教其如何利用全黑之眼揭露探索小队异变并洗脱嫌疑。他怀疑侠盗黑皇帝案与奴隶失踪有关，并接受世界委托代卖狼人非凡特性。",
+      "identInfos": [
+        "塔罗会成员倒吊人",
+        "风暴教会非凡者",
+        "航海家",
+        "蓝发"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [394, 395],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不要太乐观，具体怎么做必须把握好，首先是挑选时机，不能让自身陷入险境，最好只有一个探索小队队员在场，而白银城其他居民不少，或者他们都处在被关押被封印的状态里……”"
+        }
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思（魔术师）在塔罗会上询问学徒途径所属家族，得知亚伯拉罕家族血脉诅咒。她抄录《灵界见闻》前两章献祭给愚者，并购买治安官非凡特性给好友休。她帮助亚伯拉罕家族成员劳伦斯处理后事，将遗物送至普利兹港多里安·格雷处，获得对方感谢和神秘学指导。她在A先生聚会得知极光会悬赏寻找愚者信徒。",
+      "identInfos": [
+        "塔罗会成员魔术师",
+        "畅销书作家",
+        "学徒途径",
+        "亚伯拉罕家族后裔"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [394, 395, 396, 397, 403, 404, 405, 408],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我想知道‘学徒’途径属于哪个家族？我愿意用《灵界见闻》其中一个章节做交换，这虽然被认为是狂想者的呓语，但根据我几次进出灵界的经历，它里面有不少描述是真实的。”"
+        },
+        {
+          "chapterSeq": 403,
+          "extractReason": "UPDATE",
+          "evidenceText": "“感谢你，沃尔小姐，请原谅一个将死之人无法行礼。”"
+        }
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "科林（首席）听取监控者阴影汇报戴里克举行请求赐予仪式并获得铁盒，决定再观察等待，认为阿蒙的目的可能关乎白银城希望。在探索小队异变暴露后，他与精神分析师艾芙洛共同审问戴里克，确认其无异常，但决定暗中持续监控。他安排洛薇雅长老入地牢接受调查。",
+      "identInfos": [
+        "白银城首席",
+        "猎魔者",
+        "六人议事团成员",
+        "头发花白，脸有伤疤"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "称呼"
+        },
+        {
+          "alias": "猎魔者",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [396, 399, 400],
+      "evidences": [
+        {
+          "chapterSeq": 396,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘首席’阁下，这肯定是那个神秘人指使的，我们必须采取行动了，不能再放任不管！否则，戴里克·伯格迟早会召唤来邪神或类似的存在，毁灭掉整个白银城！”"
+        }
+      ]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "洛薇雅长老在戴里克通过审问后对其露出柔和微笑。她扯断自己的手指，在纸上画下愚者的隐秘符号并吞食，低语“愚者？”，显示她可能与愚者有某种联系或试探。她主动向首席报告探索小队异常，但自身也被关入地牢接受调查。",
+      "identInfos": [
+        "白银城长老",
+        "牧羊人",
+        "六人议事团成员",
+        "紫纹黑袍，容貌艳丽"
+      ],
+      "aliases": [
+        {
+          "alias": "牧羊人",
+          "type": "称号"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [400, 401],
+      "evidences": [
+        {
+          "chapterSeq": 400,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛薇雅淡灰的眼眸扫过戴里克，脸上露出了一抹柔和的微笑。"
+        },
+        {
+          "chapterSeq": 400,
+          "extractReason": "UPDATE",
+          "evidenceText": "仔细审视了一遍，洛薇雅用这张纸包裹住断指，塞入口中，咬得啪嗒作响，然后尽数吞咽了下去。她只剩四个指头的右掌突有血肉在伤口处蠕动，并迅速长成了新的食指，略显苍白的食指。洛薇雅低下脑袋，看着自己的手掌，小声吐出了一个单词：“愚者？”"
+        }
+      ]
+    },
+    {
+      "name": "艾芙洛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾芙洛是白银城的精神分析师，拥有淡金色竖瞳，能进入他人心智，进行审问和探查。她与首席科林一起审问戴里克，确认其未撒谎且无被污染痕迹。",
+      "identInfos": [
+        "白银城精神分析师",
+        "淡金色竖瞳",
+        "观众途径"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [400],
+      "evidences": [
+        {
+          "chapterSeq": 400,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾芙洛容貌清秀，眼角却已有了些许皱纹，她微笑颔首，回应了戴里克，随即脚步轻快地坐到了对面。"
+        }
+      ]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "A先生是极光会神使，在获得真实造物主神启后，扯断手指进行仪式，得到寻找愚者信徒的神谕。他在自己组织的非凡者聚会上公开悬赏寻找信仰愚者的人，并警告不要用神秘语言念出愚者尊名。",
+      "identInfos": [
+        "极光会神使",
+        "牧羊人途径",
+        "组织非凡者聚会",
+        "贝克兰德"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [401, 404],
+      "evidences": [
+        {
+          "chapterSeq": 401,
+          "extractReason": "UPDATE",
+          "evidenceText": "他埋低脑袋，仔细看着自己刚写下来的话语，嘴角在阴影里一点点翘起。“唯服从您的神谕！”A先生谦卑地匍匐于地，似乎又找到了存在的意义。"
+        },
+        {
+          "chapterSeq": 401,
+          "extractReason": "UPDATE",
+          "evidenceText": "A先生让旁边的侍者举起了一块黑板，上面用鲁恩文写了几行单词：“不属于这个时代的愚者；灰雾之上的神秘主宰；执掌好运的黄黑之王。”"
+        }
+      ]
+    },
+    {
+      "name": "艾伦医生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾伦医生再次梦见威尔·昂赛汀，梦境指向格林墓园外一株脱皮桦树。他在克莱恩陪同下挖掘，发现威尔·昂赛汀高度腐烂的尸体，受到惊吓。后报警，在克莱恩建议下向黑夜女神祈祷。",
+      "identInfos": [
+        "医生",
+        "克莱恩的朋友",
+        "曾受威尔·昂赛汀噩梦困扰"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [402, 403],
+      "evidences": [
+        {
+          "chapterSeq": 402,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾伦推了推金边眼镜，顾不得打招呼，直截了当道：“夏洛克，我又做梦了！又梦见威尔·昂赛汀了！”"
+        }
+      ]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "威尔·昂赛汀的尸体在格林墓园外被发现，已高度腐烂，左腿下半截缺失。克莱恩通过占卜确认其未彻底死亡，怀疑是水银之蛇，正在逃避另一条水银之蛇的追捕。",
+      "identInfos": [
+        "神秘小孩",
+        "疑似水银之蛇",
+        "能通过千纸鹤影响他人命运",
+        "外貌为小孩，左腿残缺"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [402, 403, 404],
+      "evidences": [
+        {
+          "chapterSeq": 402,
+          "extractReason": "UPDATE",
+          "evidenceText": "那已经高度腐烂的小孩尸体！他的皮肤和血肉就跟快融化了一样，鼻子与嘴巴里则有许多虫子爬进爬出。"
+        },
+        {
+          "chapterSeq": 403,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩忍着恶心，仔细望去，发现那小孩尸体的左腿明显缺了下半截。"
+        }
+      ]
+    },
+    {
+      "name": "达克·瑞金斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "达克是被真实造物主污染的探索小队成员。他带着人皮头皮和手指幻化的零食去找戴里克，试图污染对方。在戴里克使用全黑之眼刺激后，他当场异变为怪物，被监控者控制，最终由父母亲手处决。",
+      "identInfos": [
+        "白银城探索小队队员",
+        "被真实造物主污染",
+        "戴里克的通识教育同学",
+        "身体异变为血色肉条怪物"
+      ],
+      "aliases": [],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [398, 399],
+      "evidences": [
+        {
+          "chapterSeq": 398,
+          "extractReason": "UPDATE",
+          "evidenceText": "达克·瑞金斯的变化，戴里克就不寒而栗，遍体皆生凉意。"
+        },
+        {
+          "chapterSeq": 399,
+          "extractReason": "UPDATE",
+          "evidenceText": "那个年轻人的身体已经崩溃，像是一摊肉泥，但他的脑袋却完好无损，只是长出了一条条血色的细须。"
+        }
+      ]
+    },
+    {
+      "name": "多里安·格雷",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "多里安·格雷是普利兹港渔民协会成员，亚伯拉罕家族成员。他接收了劳伦斯的遗物，感谢佛尔思的守信，并主动提出可以解答神秘学问题，成为佛尔思的神秘学导师。",
+      "identInfos": [
+        "亚伯拉罕家族成员",
+        "普利兹港渔民协会",
+        "神秘学专家",
+        "蓝眸，中等身材，臂膀夸张"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [408],
+      "evidences": [
+        {
+          "chapterSeq": 408,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这位先生身材中等，却有着夸张的臂膀，头发则梳理得相当整齐，与协会大部分人鸟窝般的发型截然不同。"
+        }
+      ]
+    },
+    {
+      "name": "劳伦斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "劳伦斯是亚伯拉罕家族成员，年近八十，因伤势和打击生命垂危。他在格林墓园遇到佛尔思，托付后事，将遗物笔记本和非凡特性交给佛尔思转交多里安·格雷，随后在旅馆自尽以保持人类尊严。",
+      "identInfos": [
+        "亚伯拉罕家族成员",
+        "年近八十",
+        "占星师",
+        "曾受重伤",
+        "在贝克兰德旅馆自尽"
+      ],
+      "aliases": [],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [403, 404],
+      "evidences": [
+        {
+          "chapterSeq": 403,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "就在这时，她听见了一道略显苍老的嗓音：“你真是一位又善良又好心的女士。”"
+        },
+        {
+          "chapterSeq": 404,
+          "extractReason": "UPDATE",
+          "evidenceText": "劳伦斯喘了口气道：“感谢你，沃尔小姐，请原谅一个将死之人无法行礼。”"
+        }
+      ]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林·怀特在丰收教堂服劳役，克莱恩委托他寻找无面人非凡材料。埃姆林透露自己一家曾试图打败乌特拉夫斯基神父但失败，并得知神父是大地母神眷者。他写信向血族高层求助，但被拒绝。",
+      "identInfos": [
+        "吸血鬼",
+        "血族",
+        "丰收教堂劳动",
+        "红眸",
+        "曾被心魇蜡烛种下暗示"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [406, 407],
+      "evidences": [
+        {
+          "chapterSeq": 406,
+          "extractReason": "UPDATE",
+          "evidenceText": "这吸血鬼的表情一下变得生动，下巴微扬，嘿了一声：“突然来这里，是有事情想找我帮忙吧？”"
+        }
+      ]
+    },
+    {
+      "name": "乌特拉夫斯基神父",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基神父是丰收教堂主教，原是强势海盗，改信大地母神。他被揭露为大地母神眷者，拥有心魇蜡烛等强大封印物，曾击败三位血族联手。",
+      "identInfos": [
+        "丰收教堂主教",
+        "大地母神眷者",
+        "黎明骑士",
+        "高大宛若巨人",
+        "原为海盗"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [406, 407],
+      "evidences": [
+        {
+          "chapterSeq": 407,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他们说，乌特拉夫斯基神父是‘大地母神’的眷者，他们不希望直接与对方发生冲突，正在研究别的解除心理暗示的办法，比如去苏尼亚海，迷雾海，狂暴海深处，寻找那些隐居很久的巨龙。”"
+        }
+      ]
+    },
+    {
+      "name": "伊思兰特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伊思兰特是奥黛丽的心理学老师，心理炼金会成员。她引领奥黛丽参加斯蒂芬·汉普雷斯组织的学术聚会，帮助奥黛丽融入心理炼金会。",
+      "identInfos": [
+        "心理学老师",
+        "心理炼金会成员",
+        "长发及腰"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [405],
+      "evidences": [
+        {
+          "chapterSeq": 405,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这位是这里的主人，斯蒂芬·汉普雷斯先生，家具商人。”长发及腰的伊思兰特介绍道。"
+        }
+      ]
+    },
+    {
+      "name": "斯蒂芬·汉普雷斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯蒂芬·汉普雷斯是心理炼金会成员，家具商人，温文尔雅，善于观察。他主持了一场学术聚会，对奥黛丽进行精准观察和分析，但其经济状况不佳，虚荣，喜欢男性。",
+      "identInfos": [
+        "心理炼金会成员",
+        "家具商人",
+        "有小胡子",
+        "深棕色眼睛",
+        "喜欢男性"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [405],
+      "evidences": [
+        {
+          "chapterSeq": 405,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“这位是这里的主人，斯蒂芬·汉普雷斯先生，家具商人。”长发及腰的伊思兰特介绍道。"
+        }
+      ]
+    },
+    {
+      "name": "弗兰米·凯奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "弗兰米·凯奇是蒸汽动力车大亨，有四分之一弗萨克血统。他投资脚踏车项目，以1000镑获得20%股份，并以1000镑收购克莱恩18%股份，成为贝克兰德脚踏车公司最大股东。",
+      "identInfos": [
+        "蒸汽动力车大亨",
+        "四分之一弗萨克血统",
+        "投资脚踏车",
+        "身材高大发胖"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [410],
+      "evidences": [
+        {
+          "chapterSeq": 410,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "其中一位正是克莱恩之前见过的蒸汽动力车大亨弗兰米·凯奇，他有着四分之一的弗萨克帝国血统，眼睛的蓝色很淡，身材高大却已经发胖，嘴里则叼着个烟斗。"
+        }
+      ]
+    },
+    {
+      "name": "帕切科·道恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "帕切科·道恩是弗兰米的律师兼合作伙伴，长相普通但给人亲切感。他可能有非凡能力，能影响他人，在谈判中被动激发了能力。",
+      "identInfos": [
+        "律师",
+        "弗兰米的合作伙伴",
+        "可能有非凡能力",
+        "长相普通，有亲切感"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [410],
+      "evidences": [
+        {
+          "chapterSeq": 410,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他旁边那位穿着厚重的黑色呢制大衣，缠了条灰色的围巾，长相没什么特色，属于最常见的黑发加棕眼，但却给人莫名的亲切感。"
+        }
+      ]
+    },
+    {
+      "name": "艾辛格·斯坦顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾辛格·斯坦顿是著名私家侦探，疑似非凡者。他组织侦探调查连环杀人案，后遭遇恶魔犬主人袭击，家中起居室发生激烈战斗，但他本人失踪，下落不明。",
+      "identInfos": [
+        "私家侦探",
+        "组织连环杀人案调查",
+        "疑似非凡者",
+        "家中遇袭失踪"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [411],
+      "evidences": [
+        {
+          "chapterSeq": 411,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾辛格·斯坦顿的助手微笑道：“下午好，莫里亚蒂侦探，斯坦顿先生正在起居室等你，你是要喝咖啡还是红茶？”"
+        }
+      ]
+    },
+    {
+      "name": "斯图亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯图亚特是私家侦探，克莱恩的崇拜者。他收到死亡恐吓信后找克莱恩商议，在与其他侦探聚集时情绪失控，突然拔枪瞄准克莱恩后脑。",
+      "identInfos": [
+        "私家侦探",
+        "克莱恩的崇拜者",
+        "参与连环杀人案调查",
+        "情绪失控拔枪"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [413],
+      "evidences": [
+        {
+          "chapterSeq": 413,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯图亚特突然拔枪，瞄准了克莱恩的后脑！他的眼神一片涣散，情绪似乎已彻底炸开。"
+        }
+      ]
+    },
+    {
+      "name": "卡斯兰娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "卡斯兰娜是私家侦探，眉毛浓密，脸颊肌肉下垂。她与其他侦探一同收到恐吓信，来找克莱恩商议对策。",
+      "identInfos": [
+        "私家侦探",
+        "参与连环杀人案调查",
+        "眉毛浓密"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [413],
+      "evidences": [
+        {
+          "chapterSeq": 413,
+          "extractReason": "UPDATE",
+          "evidenceText": "眉毛浓密，脸颊肌肉略有点下垂的卡斯兰娜望着克莱恩和他身后的斯图亚特，没有寒暄，直截了当地说道：“我们都收到了同样的恐吓信，你们应该也是吧？”"
+        }
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伦纳德正式成为红手套，加入索斯特小队。他在讨论塔罗仪式案件时，提出愚者可能与塔罗牌有关的大胆假设。",
+      "identInfos": [
+        "红手套",
+        "值夜者",
+        "诗人同学",
+        "墨发绿瞳"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [395, 402, 408, 409],
+      "evidences": [
+        {
+          "chapterSeq": 409,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德从卷宗里抬起脑袋，沉吟着说道：“这会不会和我们追查的两起塔罗仪式有关？‘愚者’是塔罗牌的最初，是最重要的主牌！”"
+        }
+      ]
+    },
+    {
+      "name": "戴莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉是前通灵者，现看守圣赛缪尔教堂地下卷宗室。她与索斯特交谈，透露近期有人在寻找愚者信徒。",
+      "identInfos": [
+        "前通灵者",
+        "值夜者",
+        "涂蓝色眼影和腮红",
+        "喜好猎奇"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [408],
+      "evidences": [
+        {
+          "chapterSeq": 408,
+          "extractReason": "UPDATE",
+          "evidenceText": "一位罩着黑色长袍，涂着蓝色眼影和腮红，有妖异美感的女子悠闲地坐在高背椅上，并未起身迎接，正是前“通灵者”戴莉。"
+        }
+      ]
+    },
+    {
+      "name": "索斯特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "索斯特是红手套小队队长，安魂师。他带领队伍追查恶魔召唤和塔罗仪式案件，与戴莉交谈获取信息。",
+      "identInfos": [
+        "红手套队长",
+        "安魂师",
+        "四十来岁",
+        "五官柔和"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [408, 409],
+      "evidences": [
+        {
+          "chapterSeq": 408,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "为首者是个四十来岁的男子，五官轮廓柔和，两鬓头发深长。他头戴浮夸的标准礼帽，手提一根镶金的黑色直杖，安静地跟在前方引路的值夜者背后。"
+        }
+      ]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "格莱林特子爵在A先生聚会求购皇冠水母毒液结晶，对愚者尊名表现出兴趣，但未意识到自己之前借出的书中藏有愚者尊名。他借款给休和佛尔思购买治安官特性。",
+      "identInfos": [
+        "子爵",
+        "非凡者聚会参与者",
+        "奥黛丽的朋友",
+        "借款给休和佛尔思"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [404],
+      "evidences": [
+        {
+          "chapterSeq": 404,
+          "extractReason": "UPDATE",
+          "evidenceText": "格莱林特子爵正望着那块黑板，饶有兴致地自语道：“这尊名很少见啊。但听起来就非常厉害！”"
+        }
+      ]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "休在A先生聚会看到愚者尊名，回忆起之前念诵尊名的经历。她向格莱林特子爵借款凑够600镑，通过佛尔思购买治安官非凡特性，准备晋升。",
+      "identInfos": [
+        "赏金猎人",
+        "佛尔思的好友",
+        "仲裁人途径",
+        "金色短发"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [397, 404],
+      "evidences": [
+        {
+          "chapterSeq": 404,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不属于这个时代的愚者……这不是我在那张纸上看到过的描述吗？我甚至有梦见一个邪灵！”与此同时，休也记起了那件让她心有余悸的事情。"
+        }
+      ]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "老科勒是克莱恩在东区的线人，每周提供情报获取报酬。他汇报了极光会寻找愚者信徒无进展、罢工组织、以及阿兹克·艾格斯被悬赏等消息。",
+      "identInfos": [
+        "克莱恩的东区线人",
+        "前流浪汉",
+        "每周15苏勒报酬"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [410, 411],
+      "evidences": [
+        {
+          "chapterSeq": 410,
+          "extractReason": "UPDATE",
+          "evidenceText": "“和之前一样，很多人还在找‘愚者’的信徒，哈哈，怎么会有人信‘愚者’？这并不是什么好称呼。”"
+        }
+      ]
+    },
+    {
+      "name": "雷帕德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "雷帕德是脚踏车发明家，与克莱恩、弗兰米达成协议，出让部分股份，成为贝克兰德脚踏车公司第二大股东。",
+      "identInfos": [
+        "发明家",
+        "脚踏车专利持有人"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [410],
+      "evidences": [
+        {
+          "chapterSeq": 410,
+          "extractReason": "UPDATE",
+          "evidenceText": "发明家雷帕德则在旁边发呆，只有别人问到时，才阐述下自己的意见。"
+        }
+      ]
+    },
+    {
+      "name": "于尔根律师",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "于尔根律师作为克莱恩的律师，参与脚踏车谈判，帮助处理艾辛格·斯坦顿案后的保释，并就克莱恩在谈判中过于爽快提出质疑。",
+      "identInfos": [
+        "律师",
+        "克莱恩的房东和朋友",
+        "多丽丝太太的孙子"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [410, 411, 412],
+      "evidences": [
+        {
+          "chapterSeq": 410,
+          "extractReason": "UPDATE",
+          "evidenceText": "于尔根相当严肃地说道：“你答应得太爽快了。”"
+        }
+      ]
+    },
+    {
+      "name": "塔利姆·杜蒙特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "塔利姆是马术教师，克莱恩在克拉格俱乐部的朋友。他替某位大人物向克莱恩转达委托，调查以塔罗牌为象征的组织，并提供5镑活动经费。",
+      "identInfos": [
+        "马术教师",
+        "克拉格俱乐部成员"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [408, 409],
+      "evidences": [
+        {
+          "chapterSeq": 408,
+          "extractReason": "UPDATE",
+          "evidenceText": "“就是你上次和迈克讨论的卡平事件，那位大人物对里面用塔罗牌做象征的组织很感兴趣，他说类似的案子不只这一起，他希望你找到相应的线索。”"
+        }
+      ]
+    },
+    {
+      "name": "克雷斯泰·塞西玛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "塞西玛是值夜者高级执事，在宁静教堂祝贺伦纳德正式成为红手套，并安排其加入索斯特小队。",
+      "identInfos": [
+        "值夜者高级执事",
+        "红手套培训负责人"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [402],
+      "evidences": [
+        {
+          "chapterSeq": 402,
+          "extractReason": "UPDATE",
+          "evidenceText": "“恭喜你，正式成为一名红手套，愿女神庇佑你。”塞西玛在胸口画了个绯红之月。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克·艾格斯被悬赏寻找，克莱恩从老科勒处得知。悬赏描述显示他有拜朗血统，曾是大学讲师。克莱恩怀疑是因斯·赞格威尔或灵教团所为。",
+      "identInfos": [
+        "克莱恩的历史教员朋友",
+        "疑似死神后裔",
+        "有拜朗血统",
+        "曾在霍伊大学任教"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [411],
+      "evidences": [
+        {
+          "chapterSeq": 411,
+          "extractReason": "UPDATE",
+          "evidenceText": "“一个叫做阿兹克·艾格斯的男人。”"
+        }
+      ]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "苏茜是奥黛丽的金毛大狗，已能说话，陪同奥黛丽参加心理炼金会学术聚会。",
+      "identInfos": [
+        "奥黛丽的宠物狗",
+        "误食观众魔药",
+        "能说话"
+      ],
+      "aliases": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [405],
+      "evidences": [
+        {
+          "chapterSeq": 405,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽带着金毛大狗苏茜，在心理学老师伊思兰特的引领下，进入了客厅。"
+        }
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会在本周聚会上处理太阳的求助，借出全黑之眼，并由倒吊人提供详细计划。正义解答非凡特性守恒定律，愚者传授部分罗塞尔符号含义。成员交流了侠盗黑皇帝案、学徒途径家族秘密等信息。",
+      "identInfos": [
+        "愚者领导的隐秘组织",
+        "成员以塔罗牌为代号",
+        "每周一聚会",
+        "主要成员包括正义、倒吊人、太阳、魔术师、世界"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“世界”轻轻颔首：“很好，我会请‘愚者’先生帮忙，将它借给你。”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "极光会A先生获得神启，开始悬赏寻找愚者信徒。他在自己组织的聚会上公开任务，并警告不要用神秘语言念出愚者尊名。极光会被称为恐怖组织，成员偏执疯狂。",
+      "identInfos": [
+        "信仰真实造物主",
+        "恐怖组织",
+        "成员偏执疯狂",
+        "以A先生等神使为骨干"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 401,
+          "extractReason": "UPDATE",
+          "evidenceText": "他埋低脑袋，仔细看着自己刚写下来的话语，嘴角在阴影里一点点翘起。“唯服从您的神谕！”A先生谦卑地匍匐于地，似乎又找到了存在的意义。"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城位于神弃之地，受诅咒困扰，居民死后会变恶灵。六人议事团统治，首席科林处理探索小队污染事件，洛薇雅长老被关入地牢。白银城有亲手杀死血亲的传统以防止恶灵。",
+      "identInfos": [
+        "神弃之地的城市",
+        "由六人议事团统治",
+        "居民受诅咒死后变恶灵",
+        "掌握巨人途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 400,
+          "extractReason": "UPDATE",
+          "evidenceText": "这就是笼罩在白银城每个人身上的古老诅咒，必须亲手杀死自己的血亲，才能阻止他在死后变成又可怕又诡异的恶灵。"
+        }
+      ]
+    },
+    {
+      "name": "心理炼金会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理炼金会由伊思兰特、斯蒂芬·汉普雷斯等成员组织学术聚会，讨论以太体、心智体、灵界与集体潜意识。奥黛丽通过观察和考验，即将正式加入。该组织研究心灵领域，目标与空想之龙有关。",
+      "identInfos": [
+        "研究心理学和神秘学的隐秘组织",
+        "成员包括伊思兰特、汉普雷斯等",
+        "目标与空想之龙有关",
+        "奥黛丽即将加入"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 405,
+          "extractReason": "UPDATE",
+          "evidenceText": "这次“学术”讨论中，伊思兰特、汉普雷斯等人故意提及了以太体和心智体，提及了灵界与集体潜意识，并给出了一些相对独特的观点，让奥黛丽逐渐弄清楚了平时积累的部分疑难。"
+        }
+      ]
+    },
+    {
+      "name": "净光兄弟会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "净光兄弟会是灵界七道净光及其拉拢的灵界生物组成的教导知识的秘密组织。七道净光分别是不同颜色的纯净光芒，蕴含无穷知识，时常化为人类导师。其中黄光威尼坦的特点是理性与适应，对应占星和祖母绿。",
+      "identInfos": [
+        "灵界秘密组织",
+        "由七道净光主导",
+        "教导知识",
+        "黄光威尼坦是成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 396,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "在神秘学领域，许多密契仪式指向的目标其实就是那七道净光，通过与它们秘密的契合，获得一定的知识，所以，不少神秘学专家称呼那七道净光为“师父”或“老师”。对此，那七道净光似乎很高兴，还拉着不少灵界生物，成立了一个专门教导人知识的秘密组织，“净光兄弟会”！"
+        }
+      ]
+    },
+    {
+      "name": "亚伯拉罕家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "亚伯拉罕家族在第四纪掌握学徒途径，长期承受血脉诅咒，以分散居住形式规避。家族成员劳伦斯在贝克兰德去世，遗物托付给佛尔思。家族仍有一定实力，但已衰败。",
+      "identInfos": [
+        "第四纪掌权家族",
+        "掌握学徒途径",
+        "承受血脉诅咒",
+        "成员分散居住"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“在第四纪，‘学徒’途径被亚伯拉罕家族掌握着，后来流入了与他们长期联姻的塔玛拉家族，在第五纪，也就是当前纪元，‘灵知会’也有‘学徒’和‘戏法大师’魔药配方，被广泛认为与亚伯拉罕、塔玛拉家族有关，当然，也有人怀疑‘灵知会’其实是‘魔女教派’伪装的。”"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者红手套小队追查恶魔召唤和塔罗仪式案件，伦纳德提出愚者与塔罗牌有关的假设。同时，他们在处理艾伦医生发现的威尔·昂赛汀尸体案。",
+      "identInfos": [
+        "黑夜女神教会非凡者组织",
+        "红手套是精锐小队",
+        "负责处理超自然事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 402,
+          "extractReason": "UPDATE",
+          "evidenceText": "“恭喜你，正式成为一名红手套，愿女神庇佑你。”塞西玛在胸口画了个绯红之月。"
+        }
+      ]
+    },
+    {
+      "name": "贝克兰德脚踏车公司",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "由弗兰米·凯奇投资建立的公司，负责脚踏车的工厂化和推广销售。弗兰米占股47%，雷帕德43%，克莱恩10%。",
+      "identInfos": [
+        "生产脚踏车的公司",
+        "弗兰米·凯奇为大股东",
+        "克莱恩有10%股份"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 410,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "经过这样的交易，弗兰米成为了新建立的贝克兰德脚踏车公司最大的股东，占据47%的股份，他将负责后续的工厂化和推广销售。"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族即吸血鬼，埃姆林·怀特写信向高层求助，但高层拒绝直接与大地母神眷者乌特拉夫斯基冲突，转而研究其他解除心理暗示的方法或寻求巨龙帮助。",
+      "identInfos": [
+        "吸血鬼种族",
+        "存在高贵的强大阁下",
+        "不愿与大地母神眷者直接冲突"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 407,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他们说，乌特拉夫斯基神父是‘大地母神’的眷者，他们不希望直接与对方发生冲突，正在研究别的解除心理暗示的办法，比如去苏尼亚海，迷雾海，狂暴海深处，寻找那些隐居很久的巨龙。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "全黑之眼是序列5秘偶大师遗留的物品，蕴含真实造物主精神污染。克莱恩将其借给太阳戴里克，用于刺激被污染的探索小队异变。戴里克使用后通过献祭仪式归还灰雾。克莱恩决定以后不再带出。",
+      "identInfos": [
+        "蕴含真实造物主精神污染",
+        "原属秘偶大师罗萨戈",
+        "序列5层次",
+        "黑色眼睛状"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我有一件蕴含着‘真实造物主’精神污染的物品。”他指的是“秘偶大师”罗萨戈遗留的“全黑之眼”。"
+        }
+      ]
+    },
+    {
+      "name": "《灵界见闻》",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "《灵界见闻》是亚伯拉罕家族先祖记录灵界漫游见闻的神秘学笔记，内容荒诞不经但部分真实。前两章描述了七道净光和净光兄弟会，以及黄光威尼坦的预言。阅读时会影响精神状态。",
+      "identInfos": [
+        "亚伯拉罕家族笔记",
+        "记录灵界见闻",
+        "内容逻辑混乱但部分真实",
+        "安丽萨太太遗物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 396,
+          "extractReason": "UPDATE",
+          "evidenceText": "《灵界见闻》就是安丽萨太太遗留给她的其中一本神秘学笔记，里面的内容逻辑混乱，荒诞不经，仅是阅读，都会让人变得暴躁，但因种种缘由身体三次进出灵界后，佛尔思发现这本笔记记录的也许不是呓语。"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "黑皇帝牌是罗塞尔制作的亵渎之牌之一，对应黑皇帝途径。克莱恩在帮助太阳时使用它提升位格，施展天使替身。它也是塔罗会成员倒吊人觊觎的物品。",
+      "identInfos": [
+        "亵渎之牌",
+        "对应黑皇帝途径",
+        "罗塞尔大帝制作",
+        "克莱恩持有"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 400,
+          "extractReason": "UPDATE",
+          "evidenceText": "然后，他抓起一张纸人，手腕一抖，扔了出去，扔向了“太阳”对应的深红星辰。那纸人与如水流淌的力量交汇，飞快膨胀成了一个有十二对二十四只漆黑羽翼的巨大天使。"
+        }
+      ]
+    },
+    {
+      "name": "治安官非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "治安官非凡特性是克莱恩从卡平别墅获得的战利品，对应仲裁人途径序列8。佛尔思以600镑为休购买，并通过献祭仪式获得。",
+      "identInfos": [
+        "序列8治安官魔药主材料",
+        "从卡平别墅非凡者身上获得",
+        "铁黑、暗红和银白三色小孩拳头状"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 397,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你的眷者希望以此得到多少金镑？”序列8对应的非凡材料每件在300镑左右……克莱恩微笑道：“600镑。”"
+        }
+      ]
+    },
+    {
+      "name": "心魇蜡烛",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "心魇蜡烛是乌特拉夫斯基神父持有的封印物，能种下心理暗示，非常邪异，曾击败三位血族联手。",
+      "identInfos": [
+        "封印物",
+        "乌特拉夫斯基神父持有",
+        "能种下心理暗示",
+        "非常邪异"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 407,
+          "extractReason": "UPDATE",
+          "evidenceText": "“打不过……我父亲和母亲差点也被抓起来，那根‘心魇蜡烛’非常邪异……”"
+        }
+      ]
+    },
+    {
+      "name": "采血器",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "采血器是乌特拉夫斯基神父持有的神奇物品，辅助他战斗。",
+      "identInfos": [
+        "神奇物品",
+        "乌特拉夫斯基神父持有"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 407,
+          "extractReason": "UPDATE",
+          "evidenceText": "有“心魇蜡烛”和“采血器”辅助的乌特拉夫斯基神父这么恐怖？"
+        }
+      ]
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "生物毒素瓶是克莱恩持有的神奇物品，能随机放毒和致病，有负面效果。克莱恩原计划出售，但因与灵体状态搭配而暂留。",
+      "identInfos": [
+        "克莱恩持有的神奇物品",
+        "能随机放毒和致病",
+        "源自玫瑰学派战斗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 394,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩本想将狼人非凡特性和生物毒素瓶之一卖掉，可考虑到后者与灵体状态的搭配程度，考虑到成员目前的财政状况，又暂时放弃了这个打算。"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "太阳胸针是克莱恩花费2000镑购得的神奇物品，提供强力净化驱邪能力，但需忍受持续炎热。",
+      "identInfos": [
+        "克莱恩持有的神奇物品",
+        "强力净化驱邪",
+        "有持续炎热的负面效果"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 406,
+          "extractReason": "UPDATE",
+          "evidenceText": "而“心魇蜡烛”这种封印物一看就很克制灵体啊……克莱恩理智摇了摇头：“不行。”"
+        }
+      ]
+    },
+    {
+      "name": "劳伦斯的笔记本",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "劳伦斯遗留的硬纸外壳铜绿色笔记本，封面有古弗萨克语“我来到，我看见，我记录”。内含多种纸张，写满奇异象征符号和魔法标识。劳伦斯托付佛尔思转交多里安·格雷。",
+      "identInfos": [
+        "铜绿色外壳笔记本",
+        "封面有古弗萨克语",
+        "内含神秘符号",
+        "亚伯拉罕家族遗物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 404,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那笔记本的硬纸外壳呈铜绿色，给人一种非常古老的感觉。它的表面用古弗萨克语书写有一段话：“我来到，我看见，我记录。”"
+        }
+      ]
+    },
+    {
+      "name": "劳伦斯的非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "劳伦斯死后遗留的眼睛大小钻石状非凡特性，对应未知序列，由佛尔思转交多里安·格雷。",
+      "identInfos": [
+        "眼睛大小的钻石状物品",
+        "劳伦斯遗留的非凡特性",
+        "对应未知序列"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 404,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "劳伦斯没有声息地躺在床上，似乎一下苍老了很多，身旁则放着一枚眼睛大小的“钻石”。"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "万能钥匙是克莱恩从乌特拉夫斯基神父那里获得的神奇物品，有迷路副作用。克莱恩曾因此与恶魔犬相遇。",
+      "identInfos": [
+        "克莱恩持有的神奇物品",
+        "能打开门",
+        "有迷路副作用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 412,
+          "extractReason": "UPDATE",
+          "evidenceText": "他很快否定了自己的抱怨。复仇先从能对付得了的人开始是最正常的选择，就像他来贝克兰德几个月，始终没想过找因斯·赞格威尔，却追着兰尔乌斯不放一样。"
+        }
+      ]
+    }
+  ]
+}

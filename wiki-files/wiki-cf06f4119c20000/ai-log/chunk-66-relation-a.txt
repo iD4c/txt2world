@@ -1,0 +1,304 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1267,
+      "toChapterSeq": 1267,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "戴里克·伯格",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩确认戴里克带领白银城探路小队成功走出神弃之地，其晋升仪式的最后一步完成，戴里克的行动直接帮助克莱恩消化魔药、晋升序列2。"
+    },
+    {
+      "fromChapterSeq": 1267,
+      "toChapterSeq": 1267,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "达尼兹",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "达尼兹作为神使驾驶‘海神’号迎接白银城探路小队，执行克莱恩的意志，帮助其完成晋升仪式。"
+    },
+    {
+      "fromChapterSeq": 1272,
+      "toChapterSeq": 1272,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "搭档",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "伦纳德向克莱恩透露神战快速结束及战败可能是诱饵等信息，两人延续长期合作的搭档关系。"
+    },
+    {
+      "fromChapterSeq": 1279,
+      "toChapterSeq": 1281,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿里安娜",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与阿里安娜在贝尔丹城联手应对‘0-02’活化事件，共同分析规则漏洞，协作试错以图封印‘特伦索斯特黄铜书’。"
+    },
+    {
+      "fromChapterSeq": 1280,
+      "toChapterSeq": 1281,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受托者"
+        }
+      },
+      "characterB": {
+        "name": "拉里昂",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "委托者"
+        }
+      },
+      "relationSummary": "克莱恩试图与拉里昂交易，以获取封印‘0-02’的方法，但拉里昂拒绝合作，嘲讽克莱恩无虔诚信仰。"
+    },
+    {
+      "fromChapterSeq": 1274,
+      "toChapterSeq": 1274,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "博诺瓦·古斯塔夫",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩为取回魔镜，与押送列车的博诺瓦·古斯塔夫交涉，博诺瓦误以为是黑夜教会要求而同意放行，双方仅有礼节性接触。"
+    },
+    {
+      "fromChapterSeq": 1275,
+      "toChapterSeq": 1275,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "阿蒙",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿蒙分身与红天使恶灵（附身看门人）相遇，恶灵冒险与阿蒙合作，双方在补完主的事上想法不同，但达成暂时合作。"
+    },
+    {
+      "fromChapterSeq": 1275,
+      "toChapterSeq": 1275,
+      "characterA": {
+        "name": "卡特琳娜·佩莱",
+        "relationDimensionsToOther": {
+          "attitude": "无",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被附身者"
+        }
+      },
+      "characterB": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "附身者"
+        }
+      },
+      "relationSummary": "红天使恶灵附身卡特琳娜，利用其身份与阿蒙会面，卡特琳娜处于被控制状态。"
+    },
+    {
+      "fromChapterSeq": 1279,
+      "toChapterSeq": 1281,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "罗伊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在贝尔丹城遇见受规则处罚的非凡者罗伊等人，为其实现愿望并共同分析‘0-02’规则，属于临时协作，无持续关系。"
+    },
+    {
+      "fromChapterSeq": 1279,
+      "toChapterSeq": 1281,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "帕莎",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在贝尔丹城遇见受规则处罚的非凡者帕莎等人，为其实现愿望并共同分析‘0-02’规则，属于临时协作，无持续关系。"
+    },
+    {
+      "fromChapterSeq": 1279,
+      "toChapterSeq": 1281,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "菲尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在贝尔丹城遇见受规则处罚的非凡者菲尔等人，为其实现愿望并共同分析‘0-02’规则，属于临时协作，无持续关系。"
+    },
+    {
+      "fromChapterSeq": 1279,
+      "toChapterSeq": 1281,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "拜尔斯",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在贝尔丹城遇见受规则处罚的非凡者拜尔斯等人，为其实现愿望并共同分析‘0-02’规则，属于临时协作，无持续关系。"
+    }
+  ]
+}

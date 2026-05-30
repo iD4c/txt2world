@@ -1,0 +1,1008 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩联合奥黛丽、伦纳德深入《格罗塞尔游记》集体潜意识海洋，探索夏塔丝、龙泽尔、格罗塞尔的梦境，获取第二纪历史。在‘诚实大厅’内心想法暴露，与伦纳德、奥黛丽互动。发现‘奇迹之城’利维希德，探索古神居所，观察到壁画控制书中世界与现实世界，以及预言《格罗塞尔游记》与‘0-08’相遇。王座后青铜大门封印着未知恐怖，三人被污染后脱离。克莱恩事后询问‘魔镜’阿罗德斯关于地底封印，得知其来自地底且与灰雾有相似支柱感。向女神祈祷地底封印问题未获回应。主持塔罗会小聚会，选择‘生命手杖’交换‘无暗十字’，并获得‘耕种者’途径序列5配方。用‘生命手杖’制造惊悚场景扮演‘诡法师’。发现‘红天使’恶灵附身‘看门人’归来，向女神祈祷得到‘祂来到这里，大地将起刀兵’的启示。战争爆发，弗萨克空袭贝克兰德，克莱恩安置仆佣，确认战争全面爆发。回程时被‘红天使’恶灵拦截，恶灵透露未将情报卖给查拉图，因索伦家族与查拉图有仇。恶灵要求克莱恩发现‘白之圣女’卡特琳娜时通知，并揭露鲁恩国王乔治三世利用‘血皇帝’遗迹企图成为‘黑皇帝’的秘密。",
+      "identInfos": [
+        "塔罗会‘世界’",
+        "道恩·唐泰斯/格尔曼·斯帕罗",
+        "占卜家途径序列4‘诡法师’",
+        "灰雾之上神秘空间掌控者",
+        "愚者先生眷者"
+      ],
+      "aliases": [
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "化名"
+        },
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "化名"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1071,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这……这座大厅能让我们心中的想法直接呈现在周围，甚至具现出来？唔……我刚才看见那根巨柱时，就在想象当初‘空想之龙’安格尔威德是什么样子，我是以之前见过的那条心灵巨龙为蓝本……”"
+        },
+        {
+          "chapterSeq": 1072,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩心里则习惯性做起分析：\n“哪怕‘0-08’，也仅能影响一座大都市，难以超过这个范围，‘观众’途径的序列1‘作家’应该也差不多……而‘空想家’的‘唯一性’可以确定在亚当手中……这座‘奇迹之城’又是靠什么来保证壁画上的内容得到实现？”"
+        },
+        {
+          "chapterSeq": 1073,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩想了想，没预设倾向地说道：\n“只有三种可能，一是第二纪现实世界内的某种强大生物，至少接近序列0，被‘空想之龙’安格尔威德封印在了‘奇迹之城’利维希德的底部，自己王座的后面，不过，我认为这个可能不是太大…”"
+        },
+        {
+          "chapterSeq": 1075,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我就来自地底……”\n看到全身镜表面呈现出来的惨白单词，克莱恩背后突生凉意，瞳孔一下放大，本能就要和隔壁的秘偶互换位置。"
+        },
+        {
+          "chapterSeq": 1080,
+          "extractReason": "UPDATE",
+          "evidenceText": "“确实有一定的效果，‘诡法师’消化的重点竟然是制造惊悚的场景吓唬人，以及用奇异的手法让人惶恐……这真的有点像‘导演’，只不过是恐怖片导演…"
+        },
+        {
+          "chapterSeq": 1086,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵闻言嘿嘿一笑道：\n“那你觉得亚利斯塔·图铎成为‘血皇帝’后有理性和机会留下秘密遗迹吗？”\n“没有。”克莱恩缓慢摇头。\n“红天使”恶灵随之摊了摊手道：\n“既然是亚利斯塔成为‘血皇帝’前留下的遗迹，且不被当时支持祂的六神知晓，那会是什么呢？在有选择的情况下，你会走一条注定疯狂的道路吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1067,
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074,
+        1075,
+        1076,
+        1077,
+        1078,
+        1079,
+        1080,
+        1081,
+        1082,
+        1083,
+        1084,
+        1085,
+        1086
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽与克莱恩、伦纳德探索《格罗塞尔游记》中夏塔丝、龙泽尔、格罗塞尔的梦境，引导获取第二纪历史信息和‘法官’‘惩戒骑士’配方。在‘诚实大厅’内心想法暴露，与克莱恩、伦纳德互动。发现‘奇迹之城’利维希德并探索，观察壁画，提出‘衰败森林’不合理细节。面对青铜大门后恐怖污染，脱离后返回灰雾，接受心理分析。战后返回现实，协助安抚海柔尔等被寄生者。弗萨克空袭贝克兰德时，在圣赛缪尔教堂安抚民众。",
+      "identInfos": [
+        "塔罗会‘正义’",
+        "霍尔伯爵之女",
+        "观众途径序列5‘梦境行者’",
+        "金毛大狗苏茜的主人"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1067,
+          "extractReason": "UPDATE",
+          "evidenceText": "受“正义”奥黛丽影响，夏塔丝的梦境开始呈现精灵一族的生活习俗和语言起源。"
+        },
+        {
+          "chapterSeq": 1068,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽抬手指了指一个正咕噜喝酒，时不时拉开嗓子吼上两声表示赞美的巨人：\n“那就是格罗塞尔。"
+        },
+        {
+          "chapterSeq": 1069,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽也平静祥和地微张双臂，使用了“安抚”。"
+        },
+        {
+          "chapterSeq": 1072,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽先是有些羞耻，接着快速调整心态，努力让自己变得坦然。\n“……不愧是‘心理医生’，调整得真快……”克莱恩随即产生了这么一个想法。"
+        },
+        {
+          "chapterSeq": 1084,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽取下薄纱手套，点了点头，认可了主教的说法，不再急着回家，转而问道：\n“现在的情况怎么样了？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1067,
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074,
+        1084
+      ]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德与克莱恩、奥黛丽探索《格罗塞尔游记》集体潜意识海洋，获取历史信息。在‘诚实大厅’暴露内心，与克莱恩斗嘴。面对青铜大门后恐怖污染，脱离后返回灰雾。事后与帕列斯·索罗亚斯德讨论阿蒙、亚当及‘观众’途径秘密，并告知莫贝特·索罗亚斯德的消息。弗萨克空袭贝克兰德时未直接出场。",
+      "identInfos": [
+        "塔罗会‘星星’",
+        "值夜者‘红手套’",
+        "体内寄生天使帕列斯·索罗亚斯德",
+        "前同事克莱恩的朋友"
+      ],
+      "aliases": [
+        {
+          "alias": "星星",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1068,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德依旧双手插兜，只是眼眸瞬间幽邃了下来。\n坐在行道椅上的龙泽尔随之陷入了沉眠。"
+        },
+        {
+          "chapterSeq": 1074,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德想了想道：\n“老头，你对阿蒙兄弟有什么了解？”\n“这得看你想知道哪方面的事情。”帕列斯·索罗亚斯德将问题又抛回给了伦纳德。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1067,
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074
+      ]
+    },
+    {
+      "name": "夏塔丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "夏塔丝是《格罗塞尔游记》中精灵王庭侍女，在梦境中向克莱恩等人讲述精灵编年史和西大陆传说。已死亡，仅存书中世界复制体。",
+      "identInfos": [
+        "精灵王庭侍女",
+        "《格罗塞尔游记》书中角色",
+        "莫贝特·索罗亚斯德之妻",
+        "第二纪古神年代人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1067,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏塔丝跟随于“天灾女王”高希纳姆身后，走到了一扇水晶窗户前。\n她看了眼王后精致繁复的长裙，偷瞄了下这位执掌天灾的“神灵”，略感好奇地问道：\n“殿下，您是在看西面吗？”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1067
+      ]
+    },
+    {
+      "name": "格罗塞尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "格罗塞尔是《格罗塞尔游记》中巨人，在梦境中展现‘衰败森林’、‘巨人王庭’等记忆，提供了进入王庭的秘密通道信息。",
+      "identInfos": [
+        "《格罗塞尔游记》书中巨人",
+        "巨人王庭看守者",
+        "灰蓝皮肤竖直独眼",
+        "第二纪古神年代人物"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1068,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽抬手指了指一个正咕噜喝酒，时不时拉开嗓子吼上两声表示赞美的巨人：\n“那就是格罗塞尔。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1068
+      ]
+    },
+    {
+      "name": "龙泽尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "龙泽尔是《格罗塞尔游记》中鲁恩士兵，在梦境中思念家乡，克莱恩等人从其梦境获得‘法官’和‘惩戒骑士’配方。已死亡，仅存书中世界复制体。",
+      "identInfos": [
+        "《格罗塞尔游记》书中角色",
+        "百年前鲁恩士兵",
+        "黑发蓝眼",
+        "思念家乡贝克兰德"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1067,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑发蓝眼的龙泽尔站在一栋房屋外，不太敢靠近地望着那里，直到里面出来一位穿陈旧长裙的妇女，他才激动地迎了上去，展开双手，试图拥抱。\n他的拥抱穿过了那名妇女，两人未有任何交集。\n龙泽尔僵立在了原地，木然地低喊了一声：\n“妈妈……”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1067
+      ]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "佛尔思见到老师多里安·格雷，获得‘旅行家’魔药配方、材料和灵界探索注意事项。得知‘学徒’途径序列4至1名称，被要求未来晋升半神后向‘门’先生祈祷。离开时偶遇‘秘之圣者’布提斯。战争爆发后，与休关注局势，思考对策。",
+      "identInfos": [
+        "塔罗会‘魔术师’",
+        "畅销小说作家",
+        "亚伯拉罕家族学生",
+        "序列6‘记录官’"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1076,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思直接穿墙来到这里，没引起任何人注意，然后，她按照约定的节奏屈指敲响了房门。\n没过多久，肩膀宽阔，胳膊粗壮，穿着黑色正装的多里安·格雷·亚伯拉罕解除反锁，拧动了把手。"
+        },
+        {
+          "chapterSeq": 1078,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思…忽然看见一个披黑色风衣的人走了过来。\n这人扫了她一眼就自然移开了目光，而佛尔思背部的肌肉陡然紧绷。\n她的眼中已映出对方的样子：\n不到四十，褐色头发微卷，似乎异常坚硬，幽黑眼眸深邃，仿佛藏着数不清的事物。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1076,
+        1078,
+        1084
+      ]
+    },
+    {
+      "name": "休·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "休表面放弃调查，将军情九处功勋换成金镑，实则已预订‘法官’魔药配方。战争爆发后，与佛尔思关注局势，思考对策。",
+      "identInfos": [
+        "塔罗会‘审判’",
+        "原军情九处外围人员",
+        "佛尔思好友",
+        "东区边缘居住"
+      ],
+      "aliases": [
+        {
+          "alias": "审判",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1077,
+          "extractReason": "UPDATE",
+          "evidenceText": "休又一次见到了那位戴黄金面具，对自己抱有明显善意的军情九处人员。\n…休抿着嘴唇，点了点头，似乎终于下定了决心般说道：\n“我不要那个配方了。”\n“你，放弃了？”\n“我，我积攒的功勋都换成金镑吧。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1077
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克将‘巨人王庭’秘密通道情报告知首席科林·伊利亚特，换得成年心灵巨龙大脑和挑选圣级封印物的机会。在塔罗会小聚会中，用‘生命手杖’换取‘无暗十字’，并询问‘耕种者’途径魔药配方。最终选择‘生命手杖’进行交换。",
+      "identInfos": [
+        "塔罗会‘太阳’",
+        "白银城居民",
+        "序列5‘光之祭司’",
+        "信仰愚者"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1076,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格回味起了刚才在灰雾之上，由“世界”先生分享的情报。\n…“必须告诉首席！”戴里克猛地站了起来，冲出家门，直奔圆塔，如愿见到了“六人议事团”首席科林·伊利亚特。"
+        },
+        {
+          "chapterSeq": 1079,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格布置好仪式，看着一个黑色泥土聚成的人偶捧着一根原木色没什么特异之处的手杖靠近过来，将它放到了祭坛上。\n…虚幻的献祭与赐予之门打开，收走了“生命手杖”，留下了一个布满铜绿长着尖刺的十字架。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1076,
+        1077,
+        1079
+      ]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "科林·伊利亚特听取戴里克关于‘巨人王庭’秘密通道情报，同意提供奖励，包括成年心灵巨龙大脑和‘耕种者’途径魔药配方。向戴里克介绍四件圣级封印物：‘曦银之剑’、‘黄昏面具’、‘生命手杖’、‘堕落长笛’。戴里克最终选择‘生命手杖’。科林暂时留下‘无暗十字’以展示给长老们。",
+      "identInfos": [
+        "白银城‘六人议事团’首席",
+        "序列4‘猎魔者’",
+        "头发花白",
+        "浅蓝眼眸"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1077,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林看了他一眼，离开原本的位置，缓步走到窗边，回过身体道：\n“有四件封印物相对比较适合你。\n“第一件叫做‘曦银之剑’，它是一千三百年前一位长老死亡后遗留的。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1076,
+        1077,
+        1079
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会小聚会中分析‘耕种者’途径配方试探。海战中观察弗萨克苏尼亚海舰队动向，判断战争爆发。在苏尼亚海深渊漩涡附近航行。",
+      "identInfos": [
+        "塔罗会‘倒吊人’",
+        "风暴教会枢机主教",
+        "序列5‘海洋歌者’",
+        "‘幽蓝复仇者号’船长"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1078,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰看了看“世界”格尔曼·斯帕罗道：\n“这应该是你们首席的一个试探，看能否让白银城周围的环境得到改变。"
+        },
+        {
+          "chapterSeq": 1083,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰·威尔逊的“幽蓝复仇者号”正在这样的环境下航行…突然，他目光一凝，有些许银白在瞳孔里闪现，看见远处的大雾中，一艘悬着风帆，体型庞大的船只无声驶过。\n这船只并不孤单，后面还跟了许多同类，一艘、两艘、三艘……它们组成了长长的舰队。\n“弗萨克的苏尼亚海舰队……它们全部出动了……这是要去哪里？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1078,
+        1083
+      ]
+    },
+    {
+      "name": "多里安·格雷·亚伯拉罕",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "多里安·格雷在贝克兰德与佛尔思见面，提供‘旅行家’魔药配方、非凡特性和辅助材料，以及灵界探索注意事项。要求佛尔思未来晋升半神后向‘门’先生祈祷，并告知‘学徒’途径高序列魔药名称。",
+      "identInfos": [
+        "佛尔思的老师",
+        "亚伯拉罕家族成员",
+        "序列7‘占星人’",
+        "为解除血脉诅咒而奔波"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1076,
+          "extractReason": "UPDATE",
+          "evidenceText": "多里安·格雷·亚伯拉罕解除反锁，拧动了把手。\n…多里安简单回答道：\n“为解决诅咒问题，我家族的人都加入了那个组织。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1076,
+        1078
+      ]
+    },
+    {
+      "name": "帕特里克·布雷恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "帕特里克·布雷恩举行仪式召唤海特尔天使，接受老师派遣的‘看门人’助手（实为‘红天使’恶灵附身）。仪式后遭遇惊悚事件。",
+      "identInfos": [
+        "灵教团人造死神派半神",
+        "序列4‘不死者’",
+        "狂信徒",
+        "海特尔的学生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1080,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕特里克·布雷恩就站于那里。\n他同样换了身黑色长袍，却未将兜帽拉起，露出了轮廓深刻，黑发褐瞳，较为瘦长的脸孔。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1080,
+        1081
+      ]
+    },
+    {
+      "name": "索伦·艾因霍恩·梅迪奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "‘红天使’恶灵附身‘看门人’作为海特尔助手归来，与灵教团合作返回贝克兰德。参加帕特里克仪式后自行离开。拦截克莱恩，透露未将情报卖给查拉图，要求合作对付‘白之圣女’卡特琳娜，并揭露鲁恩国王乔治三世企图成为‘黑皇帝’的秘密。",
+      "identInfos": [
+        "‘红天使’恶灵",
+        "索伦·艾因霍恩·梅迪奇三位一体",
+        "战争之神",
+        "阴谋家",
+        "曾为天使之王"
+      ],
+      "aliases": [
+        {
+          "alias": "红天使",
+          "type": "称号"
+        },
+        {
+          "alias": "梅迪奇",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1081,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那道魂灵只有一个，年轻英俊，满头红发，脸上多有腐烂痕迹，眉心长着旌旗印记，身穿染血黑甲的魂灵。\n克莱恩对这道魂灵一点也不陌生，直接就认出了对方：\n“红天使”恶灵，索伦·艾因霍恩·梅迪奇！"
+        },
+        {
+          "chapterSeq": 1086,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵闻言嘿嘿一笑道：\n“那你觉得亚利斯塔·图铎成为‘血皇帝’后有理性和机会留下秘密遗迹吗？”\n“没有。”克莱恩缓慢摇头。\n“红天使”恶灵随之摊了摊手道：\n“既然是亚利斯塔成为‘血皇帝’前留下的遗迹，且不被当时支持祂的六神知晓，那会是什么呢？在有选择的情况下，你会走一条注定疯狂的道路吗？”"
+        }
+      ],
+      "lifeStatus": "灵体状态",
+      "appearanceChapterSeqs": [
+        1081,
+        1082,
+        1086
+      ]
+    },
+    {
+      "name": "海特尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "海特尔是灵教团人造死神派天使、大祭司，通过仪式派遣‘看门人’助手监视帕特里克·布雷恩。",
+      "identInfos": [
+        "灵教团人造死神派大祭司",
+        "死亡领域天使",
+        "帕特里克·布雷恩的老师",
+        "沉睡于陵寝"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1081,
+          "extractReason": "UPDATE",
+          "evidenceText": "一道苍老冰凉，让人灵魂似乎要直接脱离身躯的嗓音传了出来：\n“做得不错。\n“你最近在唤醒神的事情上有什么收获？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1081
+      ]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿里安娜未在本次chunk原文中直接出场，仅作为背景被提及。",
+      "identInfos": [
+        "黑夜修道院院长",
+        "十三位大主教之首",
+        "隐秘之仆",
+        "天使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1082,
+          "extractReason": "UPDATE",
+          "evidenceText": "而过了足足一刻钟，他也未见到那位黑夜修道院院长，十三位大主教之首的隐秘天使，阿里安娜。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩召唤‘魔镜’阿罗德斯询问地底封印和《格罗塞尔游记》来源，得知其来自地底且与灰雾有相似支柱感，并确认‘智慧之龙’赫拉伯根是知识与智慧之神。",
+      "identInfos": [
+        "‘魔镜’阿罗德斯",
+        "来自地底的银镜",
+        "克莱恩的仆人",
+        "擅长窥秘"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1075,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我就来自地底……”\n看到全身镜表面呈现出来的惨白单词，克莱恩背后突生凉意，瞳孔一下放大，本能就要和隔壁的秘偶互换位置。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1074,
+        1075
+      ]
+    },
+    {
+      "name": "帕列斯·索罗亚斯德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "帕列斯·索罗亚斯德在伦纳德体内与其讨论阿蒙、亚当及‘观众’途径秘密，并得知后裔莫贝特的消息。",
+      "identInfos": [
+        "寄生伦纳德的天使",
+        "索罗亚斯德家族序列1",
+        "‘偷盗者’途径",
+        "被阿蒙追杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1074,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德想了想道：\n“老头，你对阿蒙兄弟有什么了解？”\n“这得看你想知道哪方面的事情。”帕列斯·索罗亚斯德将问题又抛回给了伦纳德。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1074
+      ]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "梅丽莎在贝克兰德技术大学遭遇弗萨克空袭，目睹同学伤亡，逃往地铁寻找哥哥班森。找到班森后，情绪平复，炸弹被克莱恩暗中干预未击中。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "贝克兰德技术大学学生",
+        "热爱机械"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1083,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎·莫雷蒂走在他们中间，抬头看了眼主教学楼顶部的壁钟，脚步不由自主加快了少许。\n…突然，一个铁灰色的东西从天而降，落在了广场中央。\n轰隆！\n大地剧烈颤抖，主教学楼的玻璃全部被震碎，梅丽莎若不是相隔较远，可能已被气浪掀翻。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1083
+      ]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "班森在空袭后与梅丽莎会合，安抚妹妹，两人安全。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "王国财政部门职员",
+        "黑发褐瞳"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1083,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，她看见了一道熟悉的身影，那是没戴帽子的，黑发褐瞳的班森。\n班森一看到梅丽莎，立刻就迎了过来，脸上焦急缓和，愤怒呈现，大声吼道：\n“你怎么跑过来了？怎么不躲去地底！我这边很安全的！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1083
+      ]
+    },
+    {
+      "name": "斯塔琳·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "斯塔琳在空袭中惊恐躲藏，后与丈夫卢克·萨默尔前往教堂躲避。",
+      "identInfos": [
+        "乔伍德区明斯克街17号女主人",
+        "卢克·萨默尔的妻子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1084,
+          "extractReason": "UPDATE",
+          "evidenceText": "斯塔琳·萨默尔和女仆们在远处传来的爆炸声中，惊恐地躲到了房间的角落里，只觉脚下的大地都在轻轻震颤。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1084
+      ]
+    },
+    {
+      "name": "卢克·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "卢克·萨默尔在空袭后赶回家中，带妻子斯塔琳前往教堂躲避，并分析贝克兰德最安全，决定多买食物。",
+      "identInfos": [
+        "斯塔琳的丈夫",
+        "身材魁梧",
+        "乔伍德区居民"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1084,
+          "extractReason": "UPDATE",
+          "evidenceText": "身材魁梧的卢克表情严肃地回答道：\n“刚好经过附近，直接就回来了。\n“快，披上你的外套，我们现在就去教堂！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1084
+      ]
+    },
+    {
+      "name": "黛西",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "黛西在贝克兰德桥区域公立学校，因空袭被组织前往教堂，回想起大雾霾阴影，表达对灾难频发的悲哀。",
+      "identInfos": [
+        "贝克兰德桥区域公立学校学生",
+        "曾经历大雾霾",
+        "生活在东区"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1084,
+          "extractReason": "UPDATE",
+          "evidenceText": "黛西和她的同学们并没有察觉到北区、西区的遭遇…还是有老师来到她们的教室，组织她们排队前往最近的教堂。\n这让黛西一下回想起了去年的贝克兰德大雾霾，那个时候，她们也被要求躲入学校旁边的教堂。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1084
+      ]
+    },
+    {
+      "name": "乔治三世",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "鲁恩国王乔治三世，通过一系列改革（废除《谷物法案》、政府雇员统一考试、军队关系重整等）完成‘黑皇帝’成神仪式，企图成为序列0‘黑皇帝’。此秘密由‘红天使’恶灵揭露。",
+      "identInfos": [
+        "鲁恩王国国王",
+        "奥古斯都家族",
+        "企图成为‘黑皇帝’",
+        "‘审判者’途径转‘黑皇帝’途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1086,
+          "extractReason": "UPDATE",
+          "evidenceText": "“红天使”恶灵又摩挲起下巴，啧啧笑道：\n“你似乎知道‘黑皇帝’的仪式啊。\n“这不就简单了吗？鲁恩现在这位国王最近两三年在做什么？《谷物法案》废除，政府雇员统一考试，军队关系重整，打压上议院和贵族，增强下议院权柄……这不都是报纸上刊登的事情吗？\n“而且，‘审判者’途径可以转到‘黑皇帝’途径不是常识吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "高希纳姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘天灾女王’高希纳姆在夏塔丝梦境中出现，告知西大陆存在与否取决于精灵的认知。",
+      "identInfos": [
+        "精灵王后",
+        "‘天灾女王’",
+        "第二纪古神苏尼亚索列姆的配偶",
+        "执掌天灾"
+      ],
+      "aliases": [
+        {
+          "alias": "天灾女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1067,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏塔丝跟随于“天灾女王”高希纳姆身后，走到了一扇水晶窗户前。\n她看了眼王后精致繁复的长裙，偷瞄了下这位执掌天灾的“神灵”，略感好奇地问道：\n“殿下，您是在看西面吗？”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        1067
+      ]
+    },
+    {
+      "name": "布提斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "‘秘之圣者’布提斯在贝克兰德出现，佛尔思偶遇。多里安·格雷提供其画像并警告佛尔思小心。",
+      "identInfos": [
+        "极光会‘秘之圣者’",
+        "序列4‘秘法师’",
+        "亚伯拉罕家族背叛者",
+        "不到四十，褐发微卷"
+      ],
+      "aliases": [
+        {
+          "alias": "秘之圣者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1078,
+          "extractReason": "UPDATE",
+          "evidenceText": "她的眼中已映出对方的样子：\n不到四十，褐色头发微卷，似乎异常坚硬，幽黑眼眸深邃，仿佛藏着数不清的事物。\n“秘之圣者”布提斯…"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        1078
+      ]
+    },
+    {
+      "name": "埃莱克特拉主教",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃莱克特拉主教在空袭前拜访道恩·唐泰斯，通知教会和政府将联合举行防空演习。",
+      "identInfos": [
+        "圣赛缪尔教堂主教"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1082,
+          "extractReason": "UPDATE",
+          "evidenceText": "瓦尔特当即转身，下楼安排，没过多久，他重新回来道：\n“先生，埃莱克特拉主教已经告辞离开，他让我转告您，今天上午务必去圣赛缪尔教堂，说是教会和政府将联合举行一场防空演习。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    }
+  ],
+  "factions": [
+    {
+      "name": "灵教团人造死神派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "帕特里克·布雷恩举行仪式召唤天使海特尔，海特尔派遣‘看门人’助手（实为‘红天使’恶灵附身）监视帕特里克。仪式中使用‘灵舞’和各种头骨等物品。",
+      "identInfos": [
+        "信仰人造死神",
+        "首领为大祭司海特尔",
+        "贝克兰德负责人帕特里克·布雷恩",
+        "与‘红天使’恶灵合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1080,
+          "extractReason": "UPDATE",
+          "evidenceText": "帕特里克·布雷恩就站于那里。\n他同样换了身黑色长袍，却未将兜帽拉起，露出了轮廓深刻，黑发褐瞳，较为瘦长的脸孔。\n…随着帕特里克·布雷恩抬起右手，那些戴兜帽的信徒跳起了略有点抽搐，颇为癫狂，节奏感十足的舞蹈。\n这是“灵舞”，是死神钟爱的仪式方法"
+        }
+      ]
+    },
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会举行小型聚会，‘太阳’戴里克用‘生命手杖’交换‘无暗十字’，‘倒吊人’阿尔杰分析白银城试探。克莱恩以‘世界’身份参与。战争爆发后，塔罗会成员各自应对。",
+      "identInfos": [
+        "由‘愚者’召集的隐秘组织",
+        "成员包括‘正义’‘倒吊人’‘太阳’‘世界’等",
+        "定期在灰雾之上聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1078,
+          "extractReason": "UPDATE",
+          "evidenceText": "灰雾之上，一场只有“太阳”戴里克、“倒吊人”阿尔杰、“世界”格尔曼·斯帕罗的小型聚会。\n但与之前类似情况不同的是，这次有“愚者”先生见证"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "白银城首席科林·伊利亚特听取戴里克关于‘巨人王庭’秘密通道情报，提供奖励。科林向戴里克介绍四件圣级封印物，戴里克选择‘生命手杖’交换‘无暗十字’。科林留下‘无暗十字’展示给长老。",
+      "identInfos": [
+        "神弃之地幸存者城邦",
+        "信仰愚者",
+        "首席科林·伊利亚特",
+        "探索巨人王庭"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1077,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林看了他一眼，离开原本的位置，缓步走到窗边，回过身体道：\n“有四件封印物相对比较适合你。\n“第一件叫做‘曦银之剑’，它是一千三百年前一位长老死亡后遗留的。"
+        }
+      ]
+    },
+    {
+      "name": "弗萨克帝国",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "弗萨克帝国发动战争，空袭贝克兰德。飞空艇部队由‘天气术士’庇佑，突袭北区和西区。弗萨克苏尼亚海舰队全部出动，前往苏尼亚岛。",
+      "identInfos": [
+        "北大陆军事强国",
+        "与鲁恩王国敌对",
+        "艾因霍恩家族执掌‘红祭司’途径",
+        "与战神教会结盟"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1082,
+          "extractReason": "UPDATE",
+          "evidenceText": "层云不算稀薄的空中，一艘艘涂着深棕颜色的飞空艇正密密麻麻靠近。\n这些飞空艇上绘有斜条纹的红、白、黄三色标志，这是弗萨克的国旗！"
+        },
+        {
+          "chapterSeq": 1083,
+          "extractReason": "UPDATE",
+          "evidenceText": "“弗萨克的苏尼亚海舰队……它们全部出动了……这是要去哪里？”阿尔杰双脚骤然落地，踩在了甲板上。"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩王国",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "鲁恩王国遭弗萨克空袭，贝克兰德北区、西区受损严重。王国对弗萨克宣战，战争全面爆发。国王乔治三世企图成为‘黑皇帝’。",
+      "identInfos": [
+        "南北大陆军事实力最强的国家",
+        "首都贝克兰德",
+        "国王乔治三世",
+        "与弗萨克帝国开战"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1084,
+          "extractReason": "UPDATE",
+          "evidenceText": "“号外！号外！王国对弗萨克宣战！”\n“号外！号外！王国对弗萨克宣战！”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "生命手杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物‘生命手杖’通过塔罗会交易给克莱恩，用于辅助扮演‘诡法师’。它能让周围动植物快速生长繁殖，抽打生灵增加失控异变概率，触碰治愈重伤。负面效果包括携带者身体异变。克莱恩用它制造惊悚场景消化魔药。",
+      "identInfos": [
+        "白银城圣级封印物",
+        "原木色手杖",
+        "能驱使超凡生物",
+        "来自‘耕种者’途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1077,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“第三件叫‘生命手杖’，它能驱使智慧不高的超凡生物，短时间内降低它们的疯狂程度，它能以残缺的灵和各种材料，完成极致的“生命炼成”…凡是被这根手杖抽打过的生灵，疯狂与失控的倾向都会增加，身体也有一定的概率异变，长出西瓜、蘑菇、小麦等事物…"
+        },
+        {
+          "chapterSeq": 1079,
+          "extractReason": "UPDATE",
+          "evidenceText": "虚幻的献祭与赐予之门打开，收走了“生命手杖”，留下了一个布满铜绿长着尖刺的十字架。"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "‘无暗十字’是远古太阳神遗留物，克莱恩用它与‘太阳’戴里克交换‘生命手杖’。它能释放纯净光芒净化或清除残留精神烙印。戴里克将其带回白银城，首席科林验证为主遗留物品。",
+      "identInfos": [
+        "铜绿色十字架，长有尖刺",
+        "远古太阳神遗留物",
+        "使用需沾染持有者血液",
+        "能净化污染、析出特性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1079,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格布置好仪式…虚幻的献祭与赐予之门打开，收走了“生命手杖”，留下了一个布满铜绿长着尖刺的十字架。\n…科林·伊利亚特直接将拇指按在了一根荆棘上，任由鲜红的血液流淌而出。\n斑驳的铜绿开始剥离，“无暗十字”显露出了由纯净光芒组成的实体，照得整个房间再无丝毫阴暗之处。"
+        }
+      ]
+    },
+    {
+      "name": "愚者牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "未在本chunk中明确出现。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩左掌戴的人皮手套，具备‘传送’等能力。探索集体潜意识时未佩戴。",
+      "identInfos": [
+        "人皮手套",
+        "克莱恩常用神奇物品",
+        "可放牧灵魂",
+        "已升级可放牧七个灵魂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1068,
+          "extractReason": "UPDATE",
+          "evidenceText": "根据克莱恩的经验，这其实是前往格罗塞尔梦境边缘的道路。\n这一次，无需他虚假开启“蠕动的饥饿”，利用“活尸”的力量打开巨人守卫居所的沉重大门"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 61,
+      "toChapterSeq": 80,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "塔罗会上下级盟友关系延续，克莱恩完善仪式魔法并成功回应奥黛丽的祈求，巩固了愚者与正义的施助与受助关系。"
+    },
+    {
+      "fromChapterSeq": 61,
+      "toChapterSeq": 80,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "阿尔杰·威尔逊",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "塔罗会上下级盟友关系延续，克莱恩成功回应阿尔杰的祈求，加深了倒吊人对愚者的敬畏与信任。"
+    },
+    {
+      "fromChapterSeq": 62,
+      "toChapterSeq": 63,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "乔伊斯·迈尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩为乔伊斯解梦，揭示苜蓿号惨案线索，促成乔伊斯报案，推动主线调查。"
+    },
+    {
+      "fromChapterSeq": 70,
+      "toChapterSeq": 78,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "邓恩指导克莱恩防范封印物，带队追踪比伯，并正式邀请克莱恩加入值夜者，巩固了上下级信任关系。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 76,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "燕尾服小丑",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩与密修会燕尾服小丑发生冲突，最终克莱恩利用封印物将其击杀，事后尸体留下诡异线索，成为后续调查的关键。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 76,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "燕尾服小丑",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "邓恩作为值夜者队长率队与燕尾服小丑交战，使用梦魇能力配合队友作战。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "艾尔·哈森",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "燕尾服小丑",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "艾尔·哈森作为资深值夜者与燕尾服小丑交战，使用诗篇能力配合战斗。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "洛络塔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "燕尾服小丑",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "洛络塔作为掘墓人近战攻击燕尾服小丑，配合其他值夜者作战。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "瑞尔·比伯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "克莱恩参与追踪并面对失控成怪物的瑞尔·比伯，比伯被击杀后自爆，其持有的笔记成为事件核心。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "邓恩·史密斯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "瑞尔·比伯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "邓恩使用梦魇能力控制瑞尔·比伯，配合洛络塔击杀怪物。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "洛络塔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "瑞尔·比伯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "洛络塔找到瑞尔·比伯弱点并从内部扯出肠子，完成击杀。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "艾尔·哈森",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "瑞尔·比伯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "艾尔·哈森使用诗篇能力迟缓瑞尔·比伯，配合战斗。"
+    },
+    {
+      "fromChapterSeq": 71,
+      "toChapterSeq": 74,
+      "characterA": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "瑞尔·比伯",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "伦纳德参与封印物看守并配合控制瑞尔·比伯。"
+    },
+    {
+      "fromChapterSeq": 68,
+      "toChapterSeq": 69,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "阿德米索尔",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "阿德米索尔因高灵感感知到克莱恩身上的死亡气息并惨叫，短暂接触，无后续。"
+    },
+    {
+      "fromChapterSeq": 75,
+      "toChapterSeq": 76,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "艾尔·哈森",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "克莱恩在击杀燕尾服小丑后救助受伤的艾尔·哈森，体现值夜者队友之间的互助关系。"
+    },
+    {
+      "fromChapterSeq": 75,
+      "toChapterSeq": 76,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "博尔吉亚",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩在击杀燕尾服小丑后救助受伤的博尔吉亚，体现值夜者队友之间的互助关系。"
+    },
+    {
+      "fromChapterSeq": 75,
+      "toChapterSeq": 76,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "伦纳德自行服用药剂，克莱恩协助其他队友，体现战斗中的默契与信任。"
+    },
+    {
+      "fromChapterSeq": 77,
+      "toChapterSeq": 77,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "艾尔·哈森",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "艾尔·哈森在事后与克莱恩交流战斗细节，分享非凡者经验。"
+    },
+    {
+      "fromChapterSeq": 78,
+      "toChapterSeq": 79,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "弗莱",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "弗莱提议并指导克莱恩面对尸体以克服心理障碍，体现老队员对新人的关照，并共同处理尸体留下的异常线索。"
+    },
+    {
+      "fromChapterSeq": 78,
+      "toChapterSeq": 79,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "老尼尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "队友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "relationSummary": "老尼尔为受伤的值夜者队友进行治疗，克莱恩协助看守武器库，体现日常协作。"
+    }
+  ]
+}

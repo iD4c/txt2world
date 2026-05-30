@@ -1,0 +1,1139 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "在chunk-31中，克莱恩以格尔曼·斯帕罗身份活动。他接受胖药师达克威尔的保镖委托，护送“概率之骰”前往奥拉维岛。途中利用“全黑之眼”恐吓骰子，使其暂时安静，并丢出1点逼退可能来自极光会的追踪者。抵达奥拉维后，将骰子交给生命学派“命运议员”瑞乔德封印，但对方附加的幸运对他无效。他委托“月亮”埃姆林从伦纳德·米切尔处购得神奇物品“火种”，发现伦纳德体内寄生有索罗亚斯德家族天使，并清除手套上的天使气息残留。在塔罗会上，他解读罗塞尔日记，得知穿越可能与灰雾有关。之后，他为消化“无面人”魔药，接受冒险家互助会委托，假扮海军上将艾弥留斯·利维特作为替身，签订临时契约并获得高级符咒“第九律”，开始真实扮演。",
+      "identInfos": [
+        "穿越者，现为序列6“无面人”",
+        "格尔曼·斯帕罗，疯狂冒险家",
+        "塔罗会首领“愚者”",
+        "前值夜者，化名夏洛克·莫里亚蒂"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "化名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 604,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩接受胖药师达克威尔的保镖委托，护送其将“0”级封印物“概率之骰”（怪物途径唯一性）送往奥拉维岛。"
+        },
+        {
+          "chapterSeq": 606,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拿起“概率之骰”并打开了卷烟盒——里面摆放着来自秘偶大师的“全黑之眼”。他嘴角缓慢咧开，露出和善的笑容，低声对手里的骰子道：“来，我请你听音乐会。”"
+        },
+        {
+          "chapterSeq": 610,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩委托“月亮”埃姆林从伦纳德·米切尔处购得神奇物品“火种”（可窃取非凡能力），发现伦纳德体内寄生有索罗亚斯德家族天使，并清除手套上的天使气息残留。"
+        },
+        {
+          "chapterSeq": 612,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩为消化“无面人”魔药，接受冒险家互助会委托，假扮海军上将艾弥留斯·利维特（半神）作为替身，签订临时契约并获得高级符咒“第九律”，开始真实扮演。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622]
+    },
+    {
+      "name": "达克威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "胖药师达克威尔委托格尔曼·斯帕罗护送“概率之骰”到奥拉维岛。途中他遭遇雷劈、梦中猝死边缘、子弹走火等厄运，最终在克莱恩帮助下顺利抵达，将骰子交给“命运议员”瑞乔德封印。他支付了部分报酬，并承诺请老师的老师支付尾款。",
+      "identInfos": [
+        "胖药师",
+        "罗伊·金的学生",
+        "生命学派成员",
+        "养有一只叫哈里的猫头鹰"
+      ],
+      "aliases": [
+        {
+          "alias": "胖药师",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 603,
+          "extractReason": "UPDATE",
+          "evidenceText": "他自称是您认识的药师，有个任务想要委托给您……我即将有一段旅行，去别的岛屿……我需要一位保镖……"
+        },
+        {
+          "chapterSeq": 604,
+          "extractReason": "UPDATE",
+          "evidenceText": "轰隆！一道银白的闪电劈下，在克莱恩有反应前直直命中了达克威尔。达克威尔顿时抽搐着倒下，浑身冒烟，皮肤发焦，电蛇乱窜。"
+        },
+        {
+          "chapterSeq": 605,
+          "extractReason": "UPDATE",
+          "evidenceText": "达克威尔掏出那个戒指盒，沉重地打开了盖子。几乎没有转动空间的戒指盒内，那颗乳白色的骰子不知什么时候已做出改变，红色的两点朝上！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [603, 604, 605, 606, 607, 610, 611]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“水银之蛇”威尔·昂赛汀通过千纸鹤梦境告知克莱恩如何处理“概率之骰”，包括其特性和恐吓方法。",
+      "identInfos": [
+        "水银之蛇",
+        "命运之蛇",
+        "生命学派议长",
+        "序列1“水银之蛇”"
+      ],
+      "aliases": [
+        {
+          "alias": "水银之蛇",
+          "type": "称号"
+        },
+        {
+          "alias": "命运之蛇",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 606,
+          "extractReason": "UPDATE",
+          "evidenceText": "它叫“概率之骰”。是我们学派内部最高等级的封印物，我认为它能达到“0”级的标准。……要想真正地封印“概率之骰”相当复杂……利用它具备活着的特性，依靠有效的手段恐吓它，这样它会乖巧，不，安静一段时间，大概12个小时……"
+        }
+      ],
+      "lifeStatus": "沉睡中",
+      "appearanceChapterSeqs": [606]
+    },
+    {
+      "name": "哈里",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "猫头鹰哈里是达克威尔的宠物，能说话，协助监控骰子。",
+      "identInfos": [
+        "达克威尔的猫头鹰",
+        "会说话",
+        "自称哈里先生"
+      ],
+      "aliases": [
+        {
+          "alias": "哈里先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 603,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "猫头鹰咕哝道，“还有，向我提问时得有礼貌，请叫哈里先生。”"
+        },
+        {
+          "chapterSeq": 605,
+          "extractReason": "UPDATE",
+          "evidenceText": "猫头鹰哈里先生同样愣了几秒，然后尖叫着道：“快，快！他左边第二个暗袋里有瓶药剂，快给他喂下！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [603, 604, 605, 606, 607]
+    },
+    {
+      "name": "阿罗德斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩通过无线电收报机联络魔镜阿罗德斯，询问哪里能弄到窃取别人非凡能力的神奇物品，阿罗德斯提供了多个画面线索，并主动告知伦纳德·米切尔体内寄生着索罗亚斯德家族的天使。",
+      "identInfos": [
+        "魔镜",
+        "阿罗德斯",
+        "拥有灵智的封印物",
+        "能回答问题并提问"
+      ],
+      "aliases": [
+        {
+          "alias": "魔镜",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 608,
+          "extractReason": "UPDATE",
+          "evidenceText": "灵界之上的伟大存在，你忠诚的仆人阿罗德斯已经抵达，并向您问好。……哪里能弄到可以窃取别人非凡能力的神奇物品？……哒哒哒的声音忽然激烈，虚幻的白纸上飞快浮现出一幅幅画面……"
+        },
+        {
+          "chapterSeq": 609,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔体内寄生着一个索罗亚斯德家族的天使，祂曾经篡改过我的问题。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [608, 609]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "伦纳德·米切尔作为值夜者红手套，体内寄生着索罗亚斯德家族的天使。他将神奇物品“火种”以7000镑卖给埃姆林·怀特，并调查兰尔乌斯案和卡平案，发现大侦探夏洛克·莫里亚蒂在其中出现。他察觉埃姆林来自丰收教堂。",
+      "identInfos": [
+        "值夜者红手套",
+        "墨发碧瞳的诗人",
+        "体内寄生有索罗亚斯德家族天使",
+        "曾与克莱恩在廷根共事"
+      ],
+      "aliases": [
+        {
+          "alias": "诗人同学",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 608,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是贝克兰德最著名的地标，高耸的哥特式钟楼……那是门牌号为7的联排房屋，那是随意披着黑色大衣，戴着红色手套，极为潇洒的伦纳德·米切尔……"
+        },
+        {
+          "chapterSeq": 609,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德·米切尔体内寄生着一个索罗亚斯德家族的天使，祂曾经篡改过我的问题。"
+        },
+        {
+          "chapterSeq": 613,
+          "extractReason": "UPDATE",
+          "evidenceText": "梦境里，黛西又回到了东区……她听见了咚咚咚的敲门声。她扭头望去，发现来访者是位穿黑白格警服的年轻男子。这警官墨发碧瞳……夏洛克·莫里亚蒂先生……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [608, 609, 610, 612, 613, 621]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林·怀特受“世界”委托，前往平斯特街7号与伦纳德·米切尔交易，购买神奇物品“火种”。他携带徽章，喝下药剂防备入梦。交易成功后，将手套献祭给“愚者”。在塔罗会上，他作为“月亮”参与。",
+      "identInfos": [
+        "血族，吸血鬼",
+        "塔罗会成员“月亮”",
+        "隶属于大地母神教会丰收教堂"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 609,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特拿着枚眼珠大小的奇特徽章，在心里嘿了一声：……去北区平斯特街找一个叫做伦纳德·米切尔的值夜者……"
+        },
+        {
+          "chapterSeq": 610,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德，你究竟是谁？……埃姆林没立刻回答，反倒环顾了一圈，啧啧笑道：“果然很厉害，我几乎没有察觉就被拖入梦境了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [609, 610, 612]
+    },
+    {
+      "name": "艾弥留斯·利维特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "王国中苏尼亚海最高海军统帅，序列4半神，古板严肃。他需要一位替身处理日常事务，独自去完成隐秘事情。他识破格尔曼·斯帕罗是非凡者，但同意让其扮演替身，并签订契约，提供高级符咒“第九律”。",
+      "identInfos": [
+        "海军上将",
+        "艾弥留斯·利维特",
+        "半神，序列4",
+        "仲裁人途径",
+        "利维特家族成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 620,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他是王国在中苏尼亚海的最高海军统帅。艾弥留斯·利维特上将阁下！一位真正的半神！"
+        },
+        {
+          "chapterSeq": 622,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是一份契约……在末尾签上你的名字。……它叫“第九律”，可以在给予少量灵性的情况下，呈现出与我类似的威严感觉……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [620, 621, 622]
+    },
+    {
+      "name": "比尔特·白兰度",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥拉维“甜柠檬”酒吧老板，前冒险家，组织“冒险家互助会”。他请格尔曼·斯帕罗扮演艾弥留斯·利维特上将的替身，并协助完成交易。他试图组建互助会，对格尔曼展示友善。",
+      "identInfos": [
+        "甜柠檬酒吧老板",
+        "冒险家互助会组织者",
+        "前冒险家",
+        "序列6或7非凡者"
+      ],
+      "aliases": [
+        {
+          "alias": "比尔特",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 614,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我是这里的老板比尔特·白兰度。我曾经也是一位冒险家……我希望能组织大家，建立一个松散的同盟……"
+        },
+        {
+          "chapterSeq": 620,
+          "extractReason": "UPDATE",
+          "evidenceText": "我们在帮一位大人物寻找替身。……那位大人物需要独自行动去处理一件不能被别人知道的隐秘事情……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [614, 618, 619, 620, 621, 622]
+    },
+    {
+      "name": "索托斯·扬",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "索托斯·扬是比尔特·白兰度的副手，“冒险家互助会”重要成员。他协助比尔特邀请格尔曼·斯帕罗接受替身任务，并提供苏尼亚海东面情报，包括“疾病中将”被格尔曼刺杀的消息。",
+      "identInfos": [
+        "比尔特副手",
+        "冒险家互助会成员",
+        "戴暗红头巾，古铜肤色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 618,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "索托斯·扬是他的副手，“冒险家互助会”这个松散组织的重要成员。"
+        },
+        {
+          "chapterSeq": 620,
+          "extractReason": "UPDATE",
+          "evidenceText": "头儿，那位大人物后天就要抵达了。……我们只有两个选择……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [618, 619, 620]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔从睡眠中醒来，发现“0-08”自行书写了他夜间未知行为的描述，他发现自己身上有陌生的变化，指甲缝有黑色污泥，但通灵无果。",
+      "identInfos": [
+        "前值夜者，晋升序列5“守夜人”",
+        "持有0级封印物“0-08”",
+        "克莱恩的仇敌",
+        "参与廷根事件幕后黑手"
+      ],
+      "aliases": [
+        {
+          "alias": "0-08",
+          "type": "物品"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 604,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔从深沉的睡眠中醒来，第一反应是确认自身的状况。……他不出预料地看见“0-08”静静摆放于书桌上……他望向镜子，发现里面的自己竟有种陌生的感觉……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [604]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "佛尔思在威廉姆斯街发现废弃小教堂有挖掘痕迹，并将观察到的弗萨克人和因蒂斯人出没情况整理报告献祭给“愚者”，帮助克莱恩察觉恶灵的阴谋。",
+      "identInfos": [
+        "塔罗会成员“魔术师”",
+        "作家",
+        "休的室友"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 607,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思·沃尔又一次乘马车抵达了这里。……她发现了一个异常……某个半坍塌的角落里，地面不知被谁挖掘过……她整理素材，用仪式献祭给了“愚者”先生……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [607, 608]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽·霍尔偿还债务，并为苏茜调配“心理医生”魔药，苏茜晋升序列7“心理医生”。她在塔罗会上与“隐者”交流，了解阿蒙和亚当的身份，并询问“时之虫”用途。",
+      "identInfos": [
+        "塔罗会成员“正义”",
+        "贵族小姐",
+        "序列6“催眠师”",
+        "霍尔伯爵之女"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 613,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽应酬完这里的贵族子弟们，派仆人去巴伐特银行取了一笔现金出来。……她为苏茜调配了“心理医生”魔药。"
+        },
+        {
+          "chapterSeq": 617,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿蒙属于你们口中的天使之王？……是的，在白银城的记载里……奥黛丽详细解释道。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [613, 615, 617]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "苏茜是奥黛丽的金毛大狗，在奥黛丽帮助下晋升序列7“心理医生”。",
+      "identInfos": [
+        "奥黛丽的宠物金毛大狗",
+        "序列7“心理医生”",
+        "能说话"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 613,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜，你等下将有一份礼物，期待吗？……苏茜读出了奥黛丽发自内心的喜悦……她将“心理医生”魔药调配了出来。……苏茜的声音在她的耳畔响起：“奥黛丽，我成功了！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [613]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“倒吊人”阿尔杰在塔罗会上求购“海洋歌者”魔药配方，向“隐者”提出交易，并在白银城洛薇雅被释放事件上为“太阳”提供分析，指出戴里克反而更安全。",
+      "identInfos": [
+        "塔罗会成员“倒吊人”",
+        "序列6“风眷者”",
+        "风暴教会成员",
+        "航海家"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 615,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”阿尔杰环顾了一圈，主动说道：“我需要‘海洋歌者’的魔药配方。”"
+        },
+        {
+          "chapterSeq": 616,
+          "extractReason": "UPDATE",
+          "evidenceText": "不，我的看法正好相反。……这样一来，‘太阳’将比以往更加安全！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [615, 616]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“太阳”戴里克发现洛薇雅长老被释放并在图书馆出现，惊恐之下在塔罗会上寻求建议。他打算去弄清楚首席和其他长老的意图。",
+      "identInfos": [
+        "塔罗会成员“太阳”",
+        "白银城居民",
+        "序列5“太阳神官”"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 614,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格练习完“太阳神官”的种种非凡能力……他看见了一道熟悉的身影。她是被关押了许久的六人议事团长老洛薇雅·蒂芙尼！"
+        },
+        {
+          "chapterSeq": 616,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克原本打算提前求购“太阳神官”后面的序列6魔药配方，但洛薇雅长老被释放让他暂时放弃了这个计划……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [614, 616]
+    },
+    {
+      "name": "洛薇雅·蒂芙尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城六人议事团长老，序列5“牧羊人”，之前因被“真实造物主”污染被关押，现在被释放，出现在图书馆。她的出现引起戴里克恐慌。",
+      "identInfos": [
+        "白银城长老",
+        "序列5“牧羊人”",
+        "曾率队被真实造物主污染",
+        "银灰头发，淡灰眼眸"
+      ],
+      "aliases": [
+        {
+          "alias": "洛薇雅",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 614,
+          "extractReason": "UPDATE",
+          "evidenceText": "她是被关押了许久的六人议事团长老洛薇雅·蒂芙尼！……我已经解除了隔离。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [614]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城首席长老，率领探索小队探索回归深渊的巨人王庭，已返回白银城。他的决策间接导致洛薇雅被释放。",
+      "identInfos": [
+        "白银城首席长老",
+        "六人议事团成员",
+        "率领探索小队寻找巨人王庭"
+      ],
+      "aliases": [
+        {
+          "alias": "首席",
+          "type": "职务"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 614,
+          "extractReason": "UPDATE",
+          "evidenceText": "那里有一位位探索小队队员在休息，那是六人议事团首席长老科林·伊利亚特率领的探索小队队员！他们在不久前结束了基于小男孩杰克描述的探索……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [614]
+    },
+    {
+      "name": "嘉德丽雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "“隐者”嘉德丽雅在塔罗会上提供知识，透露阿蒙为造物主之子，另一位是神秘的亚当，并确认“时之虫”可用于仪式或高级符咒。",
+      "identInfos": [
+        "塔罗会成员“隐者”",
+        "星之上将",
+        "序列5“星象师”",
+        "掌握大量神秘学知识"
+      ],
+      "aliases": [
+        {
+          "alias": "隐者",
+          "type": "代号"
+        },
+        {
+          "alias": "星之上将",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 617,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅扫了她一眼，语气不变地说道：“传闻最初那位造物主分化成各个神灵各个种族的时候，祂的体内还诞生了两个婴儿，其中一个就是‘渎神者’阿蒙。”……另外一位是亚当。"
+        },
+        {
+          "chapterSeq": 617,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅回忆了两秒道：“‘偷盗者’途径。……那‘时之虫’能用来做什么呢？……它是富含灵性的，有独特效果的材料，能用于某些仪式，或制作高级符咒……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [615, 616, 617]
+    },
+    {
+      "name": "瑞乔德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "生命学派“命运议员”，受重伤躲藏在奥拉维石桥下，成功封印“概率之骰”。他本想给克莱恩附加幸运作为报酬，但失败，后改为让达克威尔去赌场赢回尾款。",
+      "identInfos": [
+        "生命学派命运议员",
+        "受重伤",
+        "能封印‘概率之骰’",
+        "序列非凡者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 611,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "卡诺停住脚步，将装骰子的戒指盒扔向了桥洞：“议员先生，罗伊·金的学生将骰子送过来了。”“很好。”阴暗的桥洞深处传出一道嘶哑的声音。"
+        },
+        {
+          "chapterSeq": 612,
+          "extractReason": "UPDATE",
+          "evidenceText": "瑞乔德叹了口气道：“你去把达克威尔叫过来，我为他附加幸运，让他代替你去赌场赢钱。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [611, 612]
+    },
+    {
+      "name": "卡诺",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥拉维圣德拉科教堂敲钟人，生命学派成员，大地母神教会人体炼成的失败产品，身体不对称。他引导克莱恩和达克威尔找到瑞乔德。",
+      "identInfos": [
+        "敲钟人",
+        "生命学派成员",
+        "人体炼成产物",
+        "身体不对称的丑陋男子"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 611,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他是敲钟人卡诺？……他看起来四十岁左右，五官单独而言，没有任何问题，可组合在一起，却充满了不协调感。……我并不是一个自然诞生的人，我是大地母神教会人体炼成的产品……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [611]
+    },
+    {
+      "name": "罗伊·金",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "胖药师达克威尔的老师，生命学派成员，被军方关押于总督府。达克威尔提及他，并让卡诺和瑞乔德知道自己的身份。",
+      "identInfos": [
+        "达克威尔的老师",
+        "生命学派成员",
+        "被军方关押"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 611,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是罗伊·金的学生。……我已经猜到了，罗伊·金描述过他的特点。"
+        }
+      ],
+      "lifeStatus": "被囚禁",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩写信给阿兹克，询问绕过寄生天使提醒宿主的方法，并请教“时之虫”的用途。",
+      "identInfos": [
+        "序列4及以上强者",
+        "死亡执政官",
+        "克莱恩的老师",
+        "失忆的长生者"
+      ],
+      "aliases": [
+        {
+          "alias": "死亡执政官",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 618,
+          "extractReason": "UPDATE",
+          "evidenceText": "略作思考，他抽出张信纸，铺陈于棕褐色的书桌上。……他先关心了阿兹克先生最近的状况，然后提及自己寻找可以窃取别人非凡能力的神奇物品时，发现有人存在被外来者寄生的情况。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [618]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗塞尔日记中提到查拉图是“奇迹师”，序列2或序列1。克莱恩之前知道其存在，本次在阅读日记时再次提及作为天使之一。",
+      "identInfos": [
+        "奇迹师",
+        "序列2天使",
+        "罗塞尔日记中提到"
+      ],
+      "aliases": [
+        {
+          "alias": "奇迹师",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 609,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩直接或间接接触过的天使不多……一个是罗塞尔日记内的‘奇迹师’查拉图……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "修·迪尔查",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "休受佛尔思委托，向黑夜和蒸汽教会举报威廉姆斯街的异常。",
+      "identInfos": [
+        "赏金猎人",
+        "佛尔思的室友",
+        "塔罗会成员“审判”候选"
+      ],
+      "aliases": [
+        {
+          "alias": "休",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 608,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思迅速有了主意，决定把举报这件事情交给经验丰富的休来做。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [608]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在chunk-31中如期举行聚会。‘愚者’阅读罗塞尔日记，成员交流情报：奥黛丽偿还债务并询问阿蒙和亚当身份；戴里克报告洛薇雅长老被释放，阿尔杰分析局势；嘉德丽雅提供天使之王和时之虫知识；埃姆林参与交易；‘世界’与‘月亮’单独交流。",
+      "identInfos": [
+        "由“愚者”创建的秘密组织",
+        "成员以塔罗牌为代号",
+        "主要成员有正义、倒吊人、太阳、魔术师等",
+        "定期在灰雾之上聚会"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 615,
+          "extractReason": "UPDATE",
+          "evidenceText": "周一下午，灰雾之上。克莱恩肘部支着扶手，双掌交叉轻握地看着一道道深红的光芒同时亮起，接着退化为一个个模糊的身影。然后，他听见了“正义”小姐轻快的问候声……"
+        },
+        {
+          "chapterSeq": 617,
+          "extractReason": "UPDATE",
+          "evidenceText": "“隐者”嘉德丽雅扫了她一眼，语气不变地说道：“传闻最初那位造物主分化成各个神灵各个种族的时候，祂的体内还诞生了两个婴儿，其中一个就是‘渎神者’阿蒙。”"
+        }
+      ]
+    },
+    {
+      "name": "生命学派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "生命学派成员在奥拉维岛活动，达克威尔将“概率之骰”交给命运议员瑞乔德封印。卡诺作为敲钟人潜伏在风暴教会。克莱恩知晓生命学派掌握“怪物”途径。",
+      "identInfos": [
+        "掌握怪物途径的隐秘组织",
+        "信仰命运，议长是水银之蛇威尔·昂赛汀",
+        "有命运议员等成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 605,
+          "extractReason": "UPDATE",
+          "evidenceText": "果然是生命学派……“怪物”途径……克莱恩若有所思点头。"
+        },
+        {
+          "chapterSeq": 611,
+          "extractReason": "UPDATE",
+          "evidenceText": "卡诺边提起马灯，边说道：“瑞乔德议员……直接带去见他。”"
+        }
+      ]
+    },
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩怀疑利用“全黑之眼”恐吓骰子可能引来极光会圣者，途中确有疑似极光会强者出现，但被骰子1点逼退。",
+      "identInfos": [
+        "信仰真实造物主的隐秘组织",
+        "有圣者和A先生等成员",
+        "掌握秘祈人途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 610,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩睁开眼睛，表情异常严肃地思考起对策。……‘吞尾者’乌洛琉斯或‘极光会’的圣者？……他不再犹豫，依据这几天对类似情况做出的预案，前倾身体，拿起了那枚“概率之骰”。"
+        }
+      ]
+    },
+    {
+      "name": "冒险家互助会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在奥拉维加入比尔特·白兰度组织的冒险家互助会，委托制作神奇物品，并接下替身任务。该组织松散，旨在共同对抗海盗。",
+      "identInfos": [
+        "由比尔特·白兰度组织的松散同盟",
+        "成员在奥拉维活动",
+        "提供交易便利和互助"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 614,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我希望能组织大家，建立一个松散的同盟，在面对危险时联合起来。……它叫‘冒险家互助会’。”"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "值夜者红手套在贝克兰德威廉姆斯街围捕弗萨克和因蒂斯间谍，并计划毁掉地底的图铎-特伦索斯特联合帝国遗迹。伦纳德参与其中。",
+      "identInfos": [
+        "黑夜女神教会非凡者队伍",
+        "红手套为精英小队",
+        "负责处理超凡事件"
+      ],
+      "aliases": [
+        {
+          "alias": "红手套",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 621,
+          "extractReason": "UPDATE",
+          "evidenceText": "与此同时，大街上有火光腾起，有种种超自然现象冒出。……一位位或戴红手套或戴黑手套的值夜者出现……红手套集结，其余值夜者离开镜中世界……毁掉地底那座源于邪恶年代的遗迹！"
+        }
+      ]
+    },
+    {
+      "name": "机械之心",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "蒸汽与机械教会非凡者队伍，与值夜者联合行动围捕间谍，但后撤离，将遗迹留给值夜者处理。",
+      "identInfos": [
+        "蒸汽与机械教会非凡者队伍"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 621,
+          "extractReason": "UPDATE",
+          "evidenceText": "他还看见了蒸汽与机械教会的贝克兰德教区大主教霍拉米克……紧接着，霍拉米克命令所有“机械之心”成员撤离……"
+        }
+      ]
+    },
+    {
+      "name": "索罗亚斯德家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "第四纪所罗门帝国的天使家族，掌握“偷盗者”途径。其一位天使寄生在伦纳德·米切尔体内。克莱恩清除手套上的天使气息残留，并留有时之虫。",
+      "identInfos": [
+        "第四纪所罗门帝国的天使家族",
+        "掌握偷盗者途径",
+        "与阿蒙家族敌对"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 609,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "伦纳德·米切尔体内寄生着一个索罗亚斯德家族的天使，祂曾经篡改过我的问题。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "概率之骰",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "怪物途径唯一性化成的0级封印物，掌控概率。达克威尔护送它到奥拉维岛，途中自行转动导致厄运。克莱恩用“全黑之眼”恐吓使其暂时安静，最终由生命学派命运议员瑞乔德用蛇皮封印。",
+      "identInfos": [
+        "0级封印物",
+        "怪物途径唯一性",
+        "乳白色骰子，红色点数",
+        "能放大好运或厄运概率"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 605,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "是它，是它！是这枚骰子让我倒霉！它现在是1点，我做什么事都会失败！"
+        },
+        {
+          "chapterSeq": 606,
+          "extractReason": "UPDATE",
+          "evidenceText": "它叫“概率之骰”。是我们学派内部最高等级的封印物，我认为它能达到“0”级的标准。它掌控的是每件事情的概率……"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "来自秘偶大师的非凡特性，含有“真实造物主”精神污染。克莱恩用它恐吓“概率之骰”，使其暂时安静。",
+      "identInfos": [
+        "秘偶大师非凡特性",
+        "含有真实造物主精神污染",
+        "黑色眼球状"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 606,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拿起“概率之骰”并打开了卷烟盒——里面摆放着来自秘偶大师的“全黑之眼”。……他嘴角缓慢咧开，露出和善的笑容，低声对手里的骰子道：“来，我请你听音乐会。”"
+        }
+      ]
+    },
+    {
+      "name": "火种",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "一件可窃取别人非凡能力的手套型神奇物品，能提高魅力，说服力，50米内窃取目标一项非凡能力，负面影响为可能丢失物品或自身能力。克莱恩通过“月亮”埃姆林从伦纳德·米切尔处以7000镑购得，并用海神权杖清除了手套上的天使气息。",
+      "identInfos": [
+        "红色手套模样的神奇物品",
+        "能窃取非凡能力",
+        "原属伦纳德·米切尔",
+        "偷盗者途径物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 612,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "它叫“火种”，能提高使用者的魅力，让他的话语具备极强的说服力，它能在50米范围内窃取目标的一项非凡能力……"
+        }
+      ]
+    },
+    {
+      "name": "第九律",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "艾弥留斯·利维特上将用自己的血液、古老法典和0级封印物制作的高级符咒，能散发半神威严，指定限制，有效期为一年。克莱恩签订替身契约后获得。",
+      "identInfos": [
+        "高级符咒",
+        "艾弥留斯·利维特制作",
+        "能产生半神威严",
+        "有效期一年"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 622,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这是我利用自己的血液、第四纪的古老法典和王室的‘0’级封印物制作的高级符咒。它叫“第九律”，可以在给予少量灵性的情况下，呈现出与我类似的威严感觉……"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩持有的神奇物品手套，能放牧灵魂。在本次chunk中，克莱恩使用它与敌人战斗。",
+      "identInfos": [
+        "人皮手套，能放牧五个灵魂",
+        "克莱恩的主要神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 612,
+          "extractReason": "UPDATE",
+          "evidenceText": "正常战斗时，左手‘蠕动的饥饿’，右手‘火种’，光是想想，就觉得挺厉害……"
+        }
+      ]
+    },
+    {
+      "name": "海神权杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在灰雾之上使用海神权杖回应祈祷，为船只附加超凡效果抵御风暴，并用来清除献给“愚者”的“火种”手套上的天使气息。",
+      "identInfos": [
+        "海神卡维图瓦遗留的权杖",
+        "能掌控海洋与风暴",
+        "克莱恩放在灰雾之上使用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 607,
+          "extractReason": "UPDATE",
+          "evidenceText": "主卧内，克莱恩进入灰雾之上，招手让“海神权杖”从杂物堆里飞了出来。……他拿着这根顶部镶嵌青蓝“宝石”的短杖，迅速回应了自身的祈求。"
+        },
+        {
+          "chapterSeq": 612,
+          "extractReason": "UPDATE",
+          "evidenceText": "拿起早摆放于身前的“海神权杖”，克莱恩以居高临下的姿态让那一颗颗青蓝色“宝石”同时亮起。……一束束闪电就像暴雨，携带灰雾的少许力量，相继落在了那小小的虚幻人脸上。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩用来召唤信使的铜哨，本次用于给阿兹克先生寄信。",
+      "identInfos": [
+        "阿兹克·艾格斯赠予的铜哨",
+        "能召唤巨大白骨信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 618,
+          "extractReason": "UPDATE",
+          "evidenceText": "他边说边抽出张信纸……拿出铜哨，凑至嘴边，用力吹了一下。白骨喷泉般涌出，组合成了那巨大的信使……"
+        }
+      ]
+    },
+    {
+      "name": "无线电收报机",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩使用无线电收报机联络魔镜阿罗德斯，询问信息并问答。",
+      "identInfos": [
+        "能联络魔镜阿罗德斯的物品",
+        "放在灰雾之上使用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 608,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩睁开眼睛的时候，窗外绯红月光已然照入，薄纱般笼罩了昏暗的房间，笼罩了那台于书桌上自行吐着虚幻白纸的无线电收报机。"
+        }
+      ]
+    },
+    {
+      "name": "千纸鹤",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "威尔·昂赛汀留下的千纸鹤，克莱恩曾用来在梦中联系他询问“概率之骰”处理方法。但克莱恩发现千纸鹤材质脆弱，担心多次使用会破损。",
+      "identInfos": [
+        "命运之蛇威尔·昂赛汀的信物",
+        "可入梦联系"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 606,
+          "extractReason": "UPDATE",
+          "evidenceText": "进入主卧，从钱夹里取出那只千纸鹤并展开于桌上后……他拿起铅笔，写下了简单的问句：“那枚骰子怎么处理？”"
+        },
+        {
+          "chapterSeq": 618,
+          "extractReason": "UPDATE",
+          "evidenceText": "他发现了一件不太好的事情，那千纸鹤不是什么神奇物品或非凡武器，就是普普通通一张纸折成，被橡皮擦反复摩擦后已出现脆弱的迹象……"
+        }
+      ]
+    },
+    {
+      "name": "光之阶梯",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "灰雾之上通往深处的阶梯，克莱恩猜测与自身序列有关。",
+      "identInfos": [
+        "灰雾之上的阶梯",
+        "疑似对应序列",
+        "通往灰白雾气"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 609,
+          "extractReason": "UPDATE",
+          "evidenceText": "他记得这片神秘空间的深处，有一座通往天国般的光之阶梯，隐约对应着自身的序列。那阶梯仿佛为巨人建造，目的地是一层浮在半空的，似乎托着什么的灰白雾气。"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在塔罗会上阅读三页罗塞尔日记，内容涉及探索深渊边界、对女儿贝尔纳黛的感情、以及仿制穿越银牌看到无边无际灰雾的经历。",
+      "identInfos": [
+        "罗塞尔大帝用中文写的日记",
+        "记录穿越、非凡知识、隐秘历史"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 615,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩接过了那三页罗塞尔日记……阅读起手里的黄褐色羊皮纸：“四月二十二日，我们准备进入那里，探索深渊。”……"
+        },
+        {
+          "chapterSeq": 615,
+          "extractReason": "UPDATE",
+          "evidenceText": "制作我记忆里的那个神秘银牌，大概率是它导致了我穿越！……我的眼前似乎出现了一片无边无际的灰白雾气，但之后什么都没有发生。"
+        }
+      ]
+    },
+    {
+      "name": "0-08",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "0级封印物羽毛笔，被因斯·赞格威尔持有。本章中它自行书写因斯夜间行为，导致因斯发现自己异常。",
+      "identInfos": [
+        "0级封印物",
+        "羽毛笔形态",
+        "能编织故事影响现实"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 604,
+          "extractReason": "UPDATE",
+          "evidenceText": "他不出预料地看见“0-08”静静摆放于书桌上，仿佛一支最普通最常见的羽毛笔。然而，它昨晚已经被锁在了一个有层层象征符号和魔法标识的金属匣子内。"
+        }
+      ]
+    }
+  ]
+}

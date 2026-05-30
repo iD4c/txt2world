@@ -1,0 +1,204 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 1067,
+      "toChapterSeq": 1086,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "克莱恩与奥黛丽、伦纳德共同深入《格罗塞尔游记》集体潜意识海洋探索，在诚实大厅中奥黛丽得知克莱恩的真名，但信任关系未受影响，继续合作探索。"
+    },
+    {
+      "fromChapterSeq": 1067,
+      "toChapterSeq": 1086,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "施助人"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "伦纳德在诚实大厅无意中喊出克莱恩的真名，但双方信任关系未受影响，继续合作探索书中世界。"
+    },
+    {
+      "fromChapterSeq": 1067,
+      "toChapterSeq": 1086,
+      "characterA": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "盟友",
+          "narrativeRole": "受助人"
+        }
+      },
+      "relationSummary": "奥黛丽与伦纳德在克莱恩的带领下共同探索书中世界，彼此信任合作，共同面对危险。"
+    },
+    {
+      "fromChapterSeq": 1075,
+      "toChapterSeq": 1075,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "无",
+          "bond": "无",
+          "narrativeRole": "被询问者"
+        }
+      },
+      "characterB": {
+        "name": "阿罗德斯",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "克莱恩召唤魔镜阿罗德斯询问地底封印等信息，阿罗德斯透露自己来自地底，并因感受到克莱恩身上的支柱气息而臣服。"
+    },
+    {
+      "fromChapterSeq": 1076,
+      "toChapterSeq": 1076,
+      "characterA": {
+        "name": "多里安·格雷·亚伯拉罕",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "上级",
+          "favorability": "信任",
+          "bond": "师",
+          "narrativeRole": "委托者"
+        }
+      },
+      "characterB": {
+        "name": "佛尔思·沃尔",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "信任",
+          "bond": "徒",
+          "narrativeRole": "受托者"
+        }
+      },
+      "relationSummary": "多里安给予佛尔思“旅行家”魔药配方和材料，期望她晋升半神后查明亚伯拉罕家族诅咒根源。"
+    },
+    {
+      "fromChapterSeq": 1079,
+      "toChapterSeq": 1086,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "监视者"
+        }
+      },
+      "characterB": {
+        "name": "帕特里克·布雷恩",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被监视者"
+        }
+      },
+      "relationSummary": "红天使恶灵附身看门人作为海特尔的助手，实则监视帕特里克，并对其施加压力。"
+    },
+    {
+      "fromChapterSeq": 1082,
+      "toChapterSeq": 1086,
+      "characterA": {
+        "name": "索伦·艾因霍恩·梅迪奇",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "上级",
+          "favorability": "冷淡",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "characterB": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "下级",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "relationSummary": "红天使恶灵拦截克莱恩，提出合作要求：若克莱恩发现卡特琳娜踪迹则通知他，并主动透露乔治三世利用血皇帝遗迹成神的秘密。因索伦家族与查拉图有仇，恶灵未向查拉图泄露克莱恩身份。"
+    },
+    {
+      "fromChapterSeq": 1081,
+      "toChapterSeq": 1081,
+      "characterA": {
+        "name": "梅丽莎·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "兄",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "班森·莫雷蒂",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "同级",
+          "favorability": "信任",
+          "bond": "妹",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "贝克兰德遭空袭时，梅丽莎前往寻找哥哥班森，两人会合后互相扶持。"
+    }
+  ]
+}

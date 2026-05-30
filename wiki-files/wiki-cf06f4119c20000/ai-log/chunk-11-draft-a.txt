@@ -1,0 +1,1096 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以夏洛克·莫里亚蒂之名抵达贝克兰德，租住乔伍德区明斯克街15号，化身为私家侦探。他投资发明家雷帕德改良脚踏车，占股35%。承接第一单委托帮多丽丝太太找猫，后接受伊恩寻找侦探泽瑞尔的任务。调查发现泽瑞尔已死，通灵得知与兹曼格党处刑人默尔索相关。默尔索闯入家中袭击，被克莱恩用合同纸片击杀。报警后接受军方特殊部门“审讯者”询问，通过考验被保释。事件关联因蒂斯大使指使默尔索寻找伊恩及重要物品。为求安全，到勇敢者酒吧购买武器并试图雇佣非凡者保镖马里奇，但对方因任务涉及大国而拒绝。",
+      "identInfos": [
+        "穿越者，原身克莱恩·莫雷蒂",
+        "塔罗会“愚者”",
+        "序列8“小丑”",
+        "化名夏洛克·莫里亚蒂",
+        "私家侦探，住乔伍德区明斯克街15号"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "莫里亚蒂",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 214,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩提着与他体型不太相称的夸张皮箱，步履稳健地踏上了鲁恩王国首都贝克兰德的地面。"
+        },
+        {
+          "chapterSeq": 214,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔伍德区明斯克街15号……联排房屋……每周租金18苏勒……"
+        },
+        {
+          "chapterSeq": 215,
+          "extractReason": "UPDATE",
+          "evidenceText": "夏洛克·莫里亚蒂，你可以直接叫我夏洛克。"
+        },
+        {
+          "chapterSeq": 215,
+          "extractReason": "UPDATE",
+          "evidenceText": "我想雇佣一个厉害的保镖，非常厉害，超越了人类极限的那种。"
+        },
+        {
+          "chapterSeq": 221,
+          "extractReason": "UPDATE",
+          "evidenceText": "他选择的是普通蜡烛，反正是自己向自己祈求，自己召唤自己，没必要那么讲究。"
+        },
+        {
+          "chapterSeq": 228,
+          "extractReason": "UPDATE",
+          "evidenceText": "嗖！克莱恩腕部微按，抖出了手中的制式合同。噗！制式合同准确地扎入了默尔索的喉咙，扎入了他的气管。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽在塔罗会中接受“倒吊人”献祭的七彩蜥龙脑垂体，通过“愚者”的献祭仪式获得材料，成功晋升序列8“读心者”。她引导好友休和佛尔思接触愚者尊名，休不慎诵念后被拉入灰雾。奥黛丽用引导的方式让休发现写有愚者尊名的纸张，对其进行考查。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "贵族少女，霍尔家族",
+        "序列8“读心者”",
+        "居住在贝克兰德皇后区"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        },
+        {
+          "alias": "正义小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 220,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽手中多了瓶光泽不断变化，似乎能照入每个人心底的液体。她自信地喝下了这瓶“读心者”魔药，顺利地渡过了非凡特性的融入阶段，获得了晋升。"
+        },
+        {
+          "chapterSeq": 225,
+          "extractReason": "UPDATE",
+          "evidenceText": "让受到引导的人觉得那就是本身的意愿，正是观众能力的体现。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        216,
+        218,
+        219,
+        220,
+        221,
+        225
+      ]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰在塔罗会上提交19页罗塞尔日记，并执行“愚者”的献祭尝试，成功将七彩蜥龙脑垂体献祭给“愚者”，由“愚者”赐予“正义”。他思考“愚者”可能处于一定困境中，通过尝试逐步摆脱束缚。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会非凡者",
+        "常在海上活动",
+        "序列7“航海家”"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        },
+        {
+          "alias": "倒吊人先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 216,
+          "extractReason": "UPDATE",
+          "evidenceText": "愚者先生，我这次共获得了19页罗塞尔日记。"
+        },
+        {
+          "chapterSeq": 221,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰忍受着皮肤被刀刮过般的疼痛，从衣兜里拿出一个深棕色玻璃小瓶，拧开盖子，倒出了不少形似芝麻的颗粒。……他忙拿起早就准备好的七彩蜥龙脑垂体，……递到了那扇虚幻之门前。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        216,
+        218,
+        219,
+        220,
+        221
+      ]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "戴里克在巡逻中参加塔罗会，见证了“倒吊人”提交日记和“愚者”的献祭尝试。他对“愚者”的描述结合白银城历史产生联想。在“正义”与“倒吊人”的交易中，他用之前积累的补偿换取“相近序列”的解释。",
+      "identInfos": [
+        "塔罗会“太阳”",
+        "白银城少年",
+        "渴望成为“太阳”非凡者",
+        "父母死于诅咒"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        },
+        {
+          "alias": "太阳同学",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 216,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克·伯格保持着内敛的沉默，安静地听着同伴们回忆之前遭遇的那个怪物……突然，戴里克眼前一花，感觉自己被浓浓的灰雾包围了。"
+        },
+        {
+          "chapterSeq": 219,
+          "extractReason": "UPDATE",
+          "evidenceText": "我愿意用之前积累的补偿换取答案。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        216,
+        218,
+        219,
+        220
+      ]
+    },
+    {
+      "name": "伊恩·赖特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "伊恩，十五六岁大男孩，被人追踪，委托夏洛克·莫里亚蒂调查前任雇主泽瑞尔侦探的下落。他成熟冷静，有强迫症。委托完成后，他欠莫里亚蒂三件事，提供购买武器的渠道。他可能涉及因蒂斯大使寻找的重要物品。",
+      "identInfos": [
+        "十五六岁大男孩",
+        "穿着老旧大衣，戴圆顶帽子",
+        "鲜红双眼，面容青涩清秀",
+        "做事成熟谨慎",
+        "可能与因蒂斯大使寻找的重要物品有关"
+      ],
+      "aliases": [
+        {
+          "alias": "伊恩",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 222,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "你可以称呼我伊恩。"
+        },
+        {
+          "chapterSeq": 222,
+          "extractReason": "UPDATE",
+          "evidenceText": "我之前受雇于另外一位侦探，泽瑞尔·维克托·李先生，帮助他搜集一些消息和情报。"
+        },
+        {
+          "chapterSeq": 225,
+          "extractReason": "UPDATE",
+          "evidenceText": "他还欠你三件事情……贝克兰德桥区域，铁门街，‘勇敢者酒吧’，找卡斯帕斯·坎立宁，就说是‘老头’介绍的。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        222,
+        225,
+        227,
+        228
+      ]
+    },
+    {
+      "name": "默尔索",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "默尔索，兹曼格党“处刑人”，高原人，瘦削精悍，追踪伊恩。他受因蒂斯大使指使寻找伊恩及重要物品。闯入夏洛克·莫里亚蒂家中袭击，被莫里亚蒂用制式合同击杀。死后遗留非凡特性。",
+      "identInfos": [
+        "兹曼格党处刑人",
+        "高原人，肤色偏黑，眼窝深陷",
+        "受因蒂斯大使指使寻找伊恩",
+        "被夏洛克·莫里亚蒂击杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 227,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我要找的人叫做伊恩，伊恩·赖特，他有双鲜红的眼睛，大概十五六岁，喜欢穿棕色的、老旧的大衣，戴同色的圆顶帽子，我想你应该认识他。"
+        },
+        {
+          "chapterSeq": 228,
+          "extractReason": "UPDATE",
+          "evidenceText": "身穿黑衣的敌人速度超过了他的想象……克莱恩终于认出了袭击者是谁。他皮肤偏黑，瘦削精悍，眼窝深陷，正是兹曼格党的“处刑人”默尔索。"
+        },
+        {
+          "chapterSeq": 228,
+          "extractReason": "UPDATE",
+          "evidenceText": "制式合同准确地扎入了默尔索的喉咙……默尔索跌倒在了克莱恩的身前，身体抽搐了几下，再也没有了动静。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        227,
+        228,
+        229
+      ]
+    },
+    {
+      "name": "雷帕德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "雷帕德，发明家，蒸汽与机械之神信徒，在报纸上寻求投资改良新型交通工具。克莱恩·莫里亚蒂投资100金镑，占股35%，并建议他开发更简单的脚踏车。",
+      "identInfos": [
+        "发明家",
+        "蒸汽与机械之神信徒",
+        "开发人力汽车，接受克莱恩投资"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 227,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我就是雷帕德，请进。"
+        },
+        {
+          "chapterSeq": 227,
+          "extractReason": "UPDATE",
+          "evidenceText": "我投资你100金镑，加上我刚才的建议，我共占据……你可以占据百分之三十五的股份！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        227
+      ]
+    },
+    {
+      "name": "卡斯帕斯·坎立宁",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "卡斯帕斯·坎立宁，勇敢者酒吧的武器贩子，绰号“老头”，脸上有巨大伤疤，瘸腿。他为克莱恩提供左轮手枪和子弹，并介绍非凡者保镖马里奇。",
+      "identInfos": [
+        "勇敢者酒吧武器贩子",
+        "绰号“老头”",
+        "脸上有伤疤，酒糟鼻，瘸腿",
+        "认识非凡者马里奇"
+      ],
+      "aliases": [
+        {
+          "alias": "老头",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 232,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "卡斯帕斯·坎立宁在哪里？……三号桌球室里。"
+        },
+        {
+          "chapterSeq": 232,
+          "extractReason": "UPDATE",
+          "evidenceText": "他脸上有一道翻口的、巨大的伤疤，从右眼角一直拉伸到了右侧嘴边，他的鼻子是典型的酒糟鼻，几乎完全染上了红色。"
+        },
+        {
+          "chapterSeq": 233,
+          "extractReason": "UPDATE",
+          "evidenceText": "马里奇是我认识的人里面最可怕的一个，他甚至不害怕子弹。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        232,
+        233
+      ]
+    },
+    {
+      "name": "马里奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "马里奇，非凡者，脸色苍白，眼藏恶意，略显癫狂，能与活尸打牌。克莱恩试图雇佣他为保镖，但他因任务涉及大国而拒绝。",
+      "identInfos": [
+        "非凡者",
+        "脸色苍白，眼藏恶意",
+        "能与活尸相处",
+        "认为涉及大国的任务太困难"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 233,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "是你要找保镖？……我得罪了一个大人物，背后可能有一个国家支撑的大人物。……这个任务无价。你出去吧。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        233
+      ]
+    },
+    {
+      "name": "休",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "休，奥黛丽的朋友，非凡者，序列9“仲裁人”。她在A先生非凡者聚会购买“治安官”配方，被神秘面具男以任务换取材料联系。不慎诵念愚者尊名，梦中被拉入灰雾，后寻求太阳信徒净化。",
+      "identInfos": [
+        "奥黛丽好友，非凡者",
+        "序列9“仲裁人”",
+        "娇小，及肩黄发",
+        "购买“治安官”配方",
+        "诵念愚者尊名后被拉入灰雾"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 225,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "休，佛尔思，这是你们应该得到的报酬。"
+        },
+        {
+          "chapterSeq": 226,
+          "extractReason": "UPDATE",
+          "evidenceText": "不属于这个时代的愚者……刚念完那段古赫密斯语的休愣了几秒，腰背一弹，猛地坐直。"
+        },
+        {
+          "chapterSeq": 231,
+          "extractReason": "UPDATE",
+          "evidenceText": "序列8‘治安官’魔药配方，450镑……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        225,
+        226,
+        231
+      ]
+    },
+    {
+      "name": "佛尔思",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "佛尔思，奥黛丽的朋友，非凡者，序列9“学徒”，作家。她与休一起参加非凡聚会，协助休应对诵念愚者尊名后的情况，并一起寻求净化。她支持休接受神秘面具男的任务。",
+      "identInfos": [
+        "奥黛丽好友，非凡者",
+        "序列9“学徒”",
+        "作家，褐发微卷",
+        "休的同伴"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 225,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "休，佛尔思，这是你们应该得到的报酬。"
+        },
+        {
+          "chapterSeq": 226,
+          "extractReason": "UPDATE",
+          "evidenceText": "佛尔思的嘴角止不住地上扬，感慨道：这比我《暴风山庄》这本书到目前为止获得的总稿酬还要多……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        225,
+        226,
+        231
+      ]
+    },
+    {
+      "name": "斯塔琳·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "斯塔琳·萨默尔，克莱恩的房东太太，金发蓝眼，容貌娇美，三十岁左右。她向克莱恩介绍房屋情况，讨论租金和贝克兰德生活开销。",
+      "identInfos": [
+        "克莱恩的房东",
+        "金发蓝眼，三十岁左右",
+        "住在乔伍德区明斯克街17号"
+      ],
+      "aliases": [
+        {
+          "alias": "萨默尔太太",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 215,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我是来找萨默尔太太租赁房屋的……这位女主人三十岁左右，金发蓝眼，容貌娇美，保养得体。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        215,
+        231
+      ]
+    },
+    {
+      "name": "卢克·萨默尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "卢克·萨默尔，斯塔琳的丈夫，考伊姆公司经理，煤烟减排协会成员，业余机械爱好者，身材魁梧，留小胡子。他邀请克莱恩共进晚餐。",
+      "identInfos": [
+        "斯塔琳的丈夫",
+        "考伊姆公司经理",
+        "煤烟减排协会成员",
+        "身材魁梧，有两撇小胡子"
+      ],
+      "aliases": [
+        {
+          "alias": "萨默尔先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 215,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一位身材魁梧的男子走了进来……卢克，这位是莫里亚蒂先生……这是我的丈夫……考伊姆公司的经理……煤烟减排协会的成员。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        215,
+        231
+      ]
+    },
+    {
+      "name": "于尔根·库珀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "于尔根·库珀，高级事务律师，多丽丝太太的孙子，穿双排扣黑色长礼服，性格正式严肃。他委托克莱恩找猫，后为克莱恩提供保释，并同意作为克莱恩的合作律师。",
+      "identInfos": [
+        "高级事务律师",
+        "多丽丝太太的孙子",
+        "穿着正式，性格严肃",
+        "克莱恩的邻居与合作律师"
+      ],
+      "aliases": [
+        {
+          "alias": "于尔根",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 222,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "于尔根，于尔根·库珀，一位高级事务律师。"
+        },
+        {
+          "chapterSeq": 230,
+          "extractReason": "UPDATE",
+          "evidenceText": "手续都办好了，你去缴纳10镑保释金就可以离开了。……和你去办手续，于尔根律师等着保释你。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        222,
+        230
+      ]
+    },
+    {
+      "name": "多丽丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "多丽丝，老太太，克莱恩的第一位委托人，委托寻找走失的黑猫布罗迪。她对布罗迪感情深厚。",
+      "identInfos": [
+        "老太太，戴黑色软帽",
+        "养猫布罗迪",
+        "克莱恩的第一位委托人",
+        "于尔根的奶奶"
+      ],
+      "aliases": [
+        {
+          "alias": "多丽丝太太",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 222,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一位是戴着黑色毛绒软帽的老太太……多丽丝女士是我奶奶……布罗迪走失后，我奶奶的精神都出现了问题。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        222
+      ]
+    },
+    {
+      "name": "因蒂斯大使",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "因蒂斯共和国派驻贝克兰德的大使，棕发蓝眼，穿着华丽，长相耐看。他指使默尔索寻找伊恩·赖特及一件重要物品，涉及非凡事件。",
+      "identInfos": [
+        "因蒂斯共和国驻贝克兰德大使",
+        "棕发蓝眼，穿着华丽",
+        "指使默尔索寻找伊恩和重要物品"
+      ],
+      "aliases": [
+        {
+          "alias": "大使先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 228,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "默尔索前方是一个没戴帽子的中年男士，他白色衬衣的领口和袖口有着繁复的、层叠的、花瓣状的装饰……棕发蓝眼，脸庞瘦削带胡茬却颇有味道……大使先生。"
+        },
+        {
+          "chapterSeq": 228,
+          "extractReason": "UPDATE",
+          "evidenceText": "不管你怎么做，一定要把伊恩·赖特找出来……伊恩·赖特可能涉及一件非常重要的物品。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        228
+      ]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "A先生，非凡者聚会的主持者，在聚会中出售“治安官”配方，由休购买。他保持沉默，具有威慑力。",
+      "identInfos": [
+        "非凡者聚会主持",
+        "穿带兜帽长袍",
+        "沉默寡言",
+        "聚会中出售“治安官”配方"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 231,
+          "extractReason": "UPDATE",
+          "evidenceText": "A先生依旧安静地、单独地坐于最前方的沙发上，用居高临下的姿态看着众人。"
+        },
+        {
+          "chapterSeq": 231,
+          "extractReason": "UPDATE",
+          "evidenceText": "根据A先生的说法，在他这里交易应该很安全很保密……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        231
+      ]
+    },
+    {
+      "name": "太阳信徒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "太阳信徒，在A先生的聚会中为休和佛尔思进行净化驱邪仪式，戴白色硬壳面具，自称太阳信徒。",
+      "identInfos": [
+        "永恒烈阳信徒",
+        "戴白色硬壳面具",
+        "在非凡者聚会中为休和佛尔思驱邪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 231,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我是一个太阳信徒，你们知道的，在贝克兰德，在整个王国，这并不多见。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        231
+      ]
+    },
+    {
+      "name": "朱利安",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "朱利安，萨默尔家的女仆，穿黑白女仆裙。她为克莱恩开门，并送红茶，后带克莱恩看房。",
+      "identInfos": [
+        "萨默尔家的女仆",
+        "穿黑白女仆裙"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 215,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一位穿黑白女仆裙的年轻女子颇为戒备地望着克莱恩道：请问您有什么事情？……朱利安，侯爵红茶。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        215
+      ]
+    },
+    {
+      "name": "审讯者",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "军方特殊部门的“审讯者”，序列7，穿黑衬衣，蓝眸冷漠，具有精神压迫的非凡能力。他审问克莱恩关于默尔索与大使的关联，确认口供真实性。",
+      "identInfos": [
+        "军方特殊部门“审讯者”",
+        "序列7",
+        "穿黑衬衣，蓝眸冷漠",
+        "具有精神压迫能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 230,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他穿黑衬衣，没套马甲，披了件非正装的黑色外套，眉毛稀疏，蓝眸冷漠，脸庞的线条仿佛一片片刀锋，刚硬到缺乏足够的柔和。"
+        },
+        {
+          "chapterSeq": 230,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩就感受到了难以想象的压迫力，只觉自家精神内似有一道道电流窜过，连成带刺的鞭子，不断地抽打灵魂。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        230
+      ]
+    },
+    {
+      "name": "泽瑞尔·维克托·李",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "泽瑞尔·维克托·李，侦探，伊恩的前雇主，黄褐色短发。他已死亡，尸体在东区下水道被发现，被老鼠啃咬，灵性被处理，无法通灵。死亡与默尔索及因蒂斯大使寻找的重要物品有关。",
+      "identInfos": [
+        "侦探",
+        "伊恩的前雇主",
+        "黄褐色短发",
+        "已死亡，尸体在东区下水道"
+      ],
+      "aliases": [
+        {
+          "alias": "泽瑞尔先生",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 222,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我之前受雇于另外一位侦探，泽瑞尔·维克托·李先生，帮助他搜集一些消息和情报。"
+        },
+        {
+          "chapterSeq": 224,
+          "extractReason": "UPDATE",
+          "evidenceText": "泽瑞尔已经死了，再过几天，估计会被啃得只剩骨头……"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [
+        222,
+        223,
+        224,
+        225
+      ]
+    },
+    {
+      "name": "格莱林特子爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "格莱林特子爵，休和佛尔思的雇主，奥黛丽的朋友，允许休和佛尔思从他的书房借书，其中夹有愚者尊名的纸张。",
+      "identInfos": [
+        "子爵",
+        "奥黛丽的朋友",
+        "休和佛尔思的雇主"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 225,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "坐在沙发上的格莱林特子爵也有点艳羡……‘尊敬的格莱林特子爵，我可以借这两本书吗？’"
+        },
+        {
+          "chapterSeq": 225,
+          "extractReason": "UPDATE",
+          "evidenceText": "格莱林特子爵的先祖破译了一些罗塞尔大帝的特殊符号？"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        225
+      ]
+    },
+    {
+      "name": "法辛警长",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "法辛警长，乔伍德区莱斯警察分局的警长，颔下有棕黄色短须。他询问克莱恩关于默尔索的案件。",
+      "identInfos": [
+        "警长",
+        "颔下有棕黄色短须",
+        "处理默尔索案件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 229,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那位颔下留着棕黄色短须的警长将克莱恩带到一边，做初步的询问……法辛警长。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [
+        229
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会在灰雾之上举行聚会，“愚者”通过献祭仪式让“倒吊人”将七彩蜥龙脑垂体赐予“正义”，奥黛丽晋升序列8“读心者”。奥黛丽引导好友休接触愚者尊名，休被拉入灰雾，考查新成员。克莱恩计划在塔罗会颁布刺杀因蒂斯大使的任务。",
+      "identInfos": [
+        "由“愚者”召集的神秘组织",
+        "成员包括“正义”、“倒吊人”、“太阳”",
+        "每周一在灰雾之上聚会",
+        "涉及高序列强者和隐秘知识"
+      ],
+      "aliases": [
+        {
+          "alias": "塔罗聚会",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 216,
+          "extractReason": "UPDATE",
+          "evidenceText": "准备聚会。……这算是我彻底改变的生活里为数不多的未变的事情了……"
+        },
+        {
+          "chapterSeq": 220,
+          "extractReason": "UPDATE",
+          "evidenceText": "我的想法是，你通过仪式，将非凡材料献祭给我，我再赐予‘正义’小姐，这样的交易形式对你们双方都有利。"
+        }
+      ]
+    },
+    {
+      "name": "兹曼格党",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "兹曼格党，贝克兰德黑帮，由高原人组成，敢打敢杀。其处刑人默尔索受因蒂斯大使指使寻找伊恩，后被夏洛克·莫里亚蒂击杀。",
+      "identInfos": [
+        "贝克兰德黑帮",
+        "主要由高原人组成",
+        "处刑人默尔索",
+        "受因蒂斯大使指使"
+      ],
+      "aliases": [
+        {
+          "alias": "兹曼格",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 224,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "默尔索，默尔索派我来等待一个叫做伊恩的男孩。……他是我们兹曼格党的‘处刑人’。"
+        }
+      ]
+    },
+    {
+      "name": "因蒂斯共和国",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "因蒂斯共和国，驻贝克兰德大使指使默尔索寻找伊恩·赖特及一件重要物品。大使的行为可能代表国家势力介入非凡事件。",
+      "identInfos": [
+        "北大陆强国",
+        "共和国体制",
+        "驻贝克兰德大使涉及寻找重要物品"
+      ],
+      "aliases": [
+        {
+          "alias": "因蒂斯",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 228,
+          "extractReason": "UPDATE",
+          "evidenceText": "这件事情竟然牵涉到其他国家？……很可能是因蒂斯共和国派驻贝克兰德的大使……"
+        }
+      ]
+    },
+    {
+      "name": "鲁恩王国军方特殊部门",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "鲁恩王国军方特殊部门，拥有“审讯者”等非凡者，负责调查涉及非凡因素及外国大使的案件。他们审问克莱恩，确认其口供真实性。",
+      "identInfos": [
+        "鲁恩王国军方机构",
+        "拥有非凡者“审讯者”",
+        "处理涉及非凡和外国大使的案件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 230,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "仲裁人”途径的序列7，“审讯者”！事情是转给了军方的特殊部门？"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "七彩蜥龙脑垂体",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "七彩蜥龙脑垂体，非凡材料，由“倒吊人”阿尔杰提供，通过献祭仪式交给“愚者”，再由“愚者”赐予“正义”奥黛丽，用于调制“读心者”魔药，奥黛丽成功晋升。",
+      "identInfos": [
+        "非凡材料",
+        "用于“读心者”魔药",
+        "不断变化色泽，表面柔软有丘壑感"
+      ],
+      "aliases": [
+        {
+          "alias": "脑垂体",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 220,
+          "extractReason": "UPDATE",
+          "evidenceText": "她愕然看到‘祭台’上多了一样事物，不断变化着色泽，布满丘壑的柔软事物。‘七彩蜥龙的脑垂体！’"
+        }
+      ]
+    },
+    {
+      "name": "愚者尊名纸张",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "写有愚者尊名的古旧纸张，由格莱林特子爵的先祖破译罗塞尔特殊符号所得，夹在《鲁恩王国贵族史》中。休发现并诵念尊名，导致被拉入灰雾。",
+      "identInfos": [
+        "写有愚者尊名的古旧纸张",
+        "夹在《鲁恩王国贵族史》中",
+        "由格莱林特子爵的先祖破译"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 225,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "纸张正面布满了罗塞尔大帝创造的那些特殊符号，背后则书写着一段古赫密斯文。‘不属于这个时代的愚者；灰雾之上的神秘主宰；执掌好运的黄黑之王。’"
+        }
+      ]
+    },
+    {
+      "name": "阳炎符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阳炎符咒，克莱恩之前制作的两枚底牌，在当前chunk中被提及。克莱恩在灰雾之上存放物品时可能携带。",
+      "identInfos": [
+        "克莱恩制作的符咒",
+        "利用永恒烈阳神血力量",
+        "具有强大攻击力"
+      ],
+      "aliases": [
+        {
+          "alias": "阳炎",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 221,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩将那些现实物品暂时放置于‘愚者’高背椅的后方，并留下了阿兹克铜哨……"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克铜哨，阿兹克留给克莱恩的信使召唤物。克莱恩在灰雾之上存放物品时将其留在高背椅后方。",
+      "identInfos": [
+        "阿兹克留给克莱恩的铜哨",
+        "用于召唤信使",
+        "具有神秘力量"
+      ],
+      "aliases": [
+        {
+          "alias": "铜哨",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 221,
+          "extractReason": "UPDATE",
+          "evidenceText": "将那些现实物品暂时放置于‘愚者’高背椅的后方，并留下了阿兹克铜哨。"
+        }
+      ]
+    },
+    {
+      "name": "默尔索的非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "默尔索死后遗留的非凡特性，形似深红色果冻。克莱恩将其藏于灰雾之上，可用于制作魔药或出售。",
+      "identInfos": [
+        "默尔索死后遗留",
+        "形似深红色果冻",
+        "可用于制作魔药"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 229,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩掌中多了一块形似地球果冻的深红色物品。‘这就是默尔索遗留的非凡特性？’"
+        }
+      ]
+    },
+    {
+      "name": "左轮手枪",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩从勇敢者酒吧卡斯帕斯处购得的特制左轮，枪管偏长，银白色，胡桃木握手，配五十发子弹，用于防身。",
+      "identInfos": [
+        "特制左轮手枪",
+        "银白色，胡桃木握手",
+        "从勇敢者酒吧购得"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 232,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克莱恩试了下空枪，装好五发子弹，将左轮塞入了早就买好的腋下枪袋里……一把大威力的特制左轮和五十发子弹。3镑10苏勒。"
+        }
+      ]
+    },
+    {
+      "name": "读心者魔药",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "读心者魔药，序列8，奥黛丽用七彩蜥龙脑垂体调制并服食，成功晋升。",
+      "identInfos": [
+        "序列8魔药",
+        "由奥黛丽调制",
+        "使用七彩蜥龙脑垂体为主材料"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 220,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽手中多了瓶光泽不断变化，似乎能照入每个人心底的液体。她自信地喝下了这瓶‘读心者’魔药。"
+        }
+      ]
+    },
+    {
+      "name": "治安官魔药配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "治安官魔药配方，序列8，休在A先生的非凡者聚会中以450镑购买，主要材料为恐惧魔虫的眼睛和银白战熊的右掌。",
+      "identInfos": [
+        "序列8魔药配方",
+        "主要材料：恐惧魔虫眼睛、银白战熊右掌",
+        "休以450镑购得"
+      ],
+      "aliases": [
+        {
+          "alias": "治安官配方",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 231,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "序列8‘治安官’魔药配方，450镑……‘恐惧魔虫的眼睛一对，银白战熊的右掌。’"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "罗塞尔日记，由“倒吊人”阿尔杰在塔罗会上提交19页，克莱恩阅读了其中6页，内容涉及“门”先生、第四纪历史、非凡特性定律、罗塞尔政变筹备等秘辛。",
+      "identInfos": [
+        "罗塞尔大帝的日记",
+        "记载隐秘历史和非凡知识",
+        "由塔罗会成员搜集"
+      ],
+      "aliases": [
+        {
+          "alias": "罗塞尔的日记",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 216,
+          "extractReason": "UPDATE",
+          "evidenceText": "愚者先生，我这次共获得了19页罗塞尔日记。……很快，六页日记完成，来到了克莱恩手里。"
+        }
+      ]
+    }
+  ]
+}

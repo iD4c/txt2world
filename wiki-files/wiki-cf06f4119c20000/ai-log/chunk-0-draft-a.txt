@@ -1,0 +1,737 @@
+{
+  "characters": [
+    {
+      "name": "周明瑞",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "周明瑞穿越到异世界，发现自己占据了一具刚自杀未遂的身体，成为历史系毕业生克莱恩·莫雷蒂。他头部有枪伤但奇迹愈合，通过记忆碎片了解原主身份。为弄清穿越原因，他尝试源自地球的转运仪式，意外进入灰雾世界，将奥黛丽·霍尔和阿尔杰·威尔逊拉入其中，自号“愚者”，与两人组成塔罗会。在值夜者上门调查后，被邓恩·史密斯邀请加入值夜者成为文职人员，并发现罗塞尔大帝的日记是用中文简体字书写。",
+      "identInfos": [
+        "穿越者，穿越至克莱恩·莫雷蒂",
+        "原地球键盘民俗学家",
+        "塔罗会愚者",
+        "值夜者文职人员",
+        "霍伊大学历史系毕业生",
+        "太阳穴有贯穿伤但愈合"
+      ],
+      "aliases": [
+        {
+          "alias": "愚者",
+          "type": "代号"
+        },
+        {
+          "alias": "克莱恩",
+          "type": "简称"
+        },
+        {
+          "alias": "克莱恩·莫雷蒂",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "痛！好痛！头好痛！光怪陆离满是低语的梦境迅速支离破碎，熟睡中的周明瑞只觉脑袋抽痛异常，仿佛被人用棒子狠狠抡了一下，不，更像是遭尖锐的物品刺入太阳穴并伴随有搅动！"
+        },
+        {
+          "chapterSeq": 1,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩·莫雷蒂，北大陆鲁恩王国阿霍瓦郡廷根市人，霍伊大学历史系刚毕业的学生……"
+        },
+        {
+          "chapterSeq": 5,
+          "extractReason": "UPDATE",
+          "evidenceText": "弥漫的灰雾映入他的眼眸，朦胧、模糊、无边无际。……他自号“愚者”，三人组成塔罗会，约定每周一聚会。"
+        },
+        {
+          "chapterSeq": 20,
+          "extractReason": "UPDATE",
+          "evidenceText": "那几张泛黄的书页推给了克莱恩。克莱恩将它们转正，只是瞄了一眼，整个人就呆在了那里！因为这是自己最熟悉的文字：中文！他妈还是简体字！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    },
+    {
+      "name": "韦尔奇·麦格文",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "韦尔奇·麦格文是克莱恩的同学，来自康斯顿的银行家儿子，与克莱恩、娜娅共同研究一本第四纪安提哥努斯家族笔记。在克莱恩穿越前，韦尔奇和娜娅已在韦尔奇住所内离奇自杀。",
+      "identInfos": [
+        "霍伊大学历史系毕业生",
+        "银行家之子",
+        "安提哥努斯家族笔记持有者",
+        "与克莱恩、娜娅共同研究笔记"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 9,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "韦尔奇找到我，说是获得了一本第四纪元的笔记。……韦尔奇·麦格文就是鲁恩王国间海郡康斯顿城一名银行家的儿子"
+        },
+        {
+          "chapterSeq": 10,
+          "extractReason": "UPDATE",
+          "evidenceText": "韦尔奇先生用头撞墙，撞了很多下，撞得满墙都是血，娜娅女士将自己淹死在了一个水盆里"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [9, 10]
+    },
+    {
+      "name": "娜娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "娜娅是克莱恩的同学，与韦尔奇、克莱恩共同研究第四纪笔记。她在韦尔奇住所内自杀身亡，将自己淹死在水盆里。",
+      "identInfos": [
+        "霍伊大学历史系毕业生",
+        "与韦尔奇、克莱恩共同研究第四纪笔记"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 9,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "韦尔奇找到我，说是获得了一本第四纪元的笔记。……想请我和娜娅帮忙解读记载的内容"
+        },
+        {
+          "chapterSeq": 10,
+          "extractReason": "UPDATE",
+          "evidenceText": "娜娅女士将自己淹死在了一个水盆里"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [9, 10]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽·霍尔是鲁恩王国贵族少女，拥有一面古代铜镜。在克莱恩的转运仪式中，她被意外拉入灰雾世界，成为塔罗会成员，代号“正义”。她委托“倒吊人”阿尔杰获取“观众”魔药配方，并恳请“愚者”见证。",
+      "identInfos": [
+        "塔罗会正义",
+        "鲁恩贵族少女",
+        "金发碧眼",
+        "霍尔伯爵之女"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 5,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "奥黛丽·霍尔坐在梳妆台前，摩挲着桌上花纹古老、表面有裂的铜镜。……一片灰白的迷雾之上，奥黛丽·霍尔恢复了视线"
+        },
+        {
+          "chapterSeq": 7,
+          "extractReason": "ALIAS",
+          "evidenceText": "决定了，我的称号是，‘正义’！"
+        },
+        {
+          "chapterSeq": 6,
+          "extractReason": "UPDATE",
+          "evidenceText": "我手上的序列9配方，一份叫做‘水手’，……第二份序列9配方叫做‘观众’。……奥黛丽听得眼睛发亮"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [5, 6, 7, 8]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿尔杰·威尔逊是疑似风暴教会非凡者，擅长海上作战。在克莱恩的转运仪式中，他被拉入灰雾世界，成为塔罗会成员，代号“倒吊人”。他拥有“水手”和“观众”两份序列9魔药配方，并与奥黛丽达成交易。",
+      "identInfos": [
+        "塔罗会倒吊人",
+        "疑似风暴教会非凡者",
+        "擅长海上作战",
+        "拥有水手、观众魔药配方"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 5,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "阿尔杰·威尔逊站在甲板上，身体随着颠簸而起伏……一个造型古怪的玻璃瓶与他的手掌间有深红爆发"
+        },
+        {
+          "chapterSeq": 7,
+          "extractReason": "ALIAS",
+          "evidenceText": "倒吊人。"
+        },
+        {
+          "chapterSeq": 6,
+          "extractReason": "UPDATE",
+          "evidenceText": "我手上的序列9配方，一份叫做‘水手’，……第二份序列9配方叫做‘观众’。……我需要鬼鲨的血"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [5, 6, 7, 8]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "梅丽莎是克莱恩的妹妹，廷根技术学校学生，热爱机械，立志成为蒸汽机械师。她勤俭持家，照顾兄长，在克莱恩穿越后为他准备豌豆炖羔羊肉，并用自制机械乌龟安慰他。",
+      "identInfos": [
+        "克莱恩的妹妹",
+        "廷根技术学校蒸汽与机械系学生",
+        "擅长机械制作",
+        "勤俭持家"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 3,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "梅丽莎与大部分女孩不同，从小喜欢齿轮、发条、轴承等事物，立志要做一名蒸汽机械师。"
+        },
+        {
+          "chapterSeq": 3,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩，你把剩下的面包都拿出来，今天记得买新的，还有肉和豌豆……我给你做豌豆炖羔羊肉。"
+        },
+        {
+          "chapterSeq": 16,
+          "extractReason": "UPDATE",
+          "evidenceText": "梅丽莎站起身，……拿出一个由齿轮、锈铁、弹簧和发条等拼凑成的乌龟状物品。……感觉烦恼的时候，看着它这么动一动，会舒服很多"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [3, 11, 16, 20]
+    },
+    {
+      "name": "邓恩·史密斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "邓恩·史密斯是值夜者小队队长，拥有进入梦境的能力。他调查韦尔奇和娜娅自杀案，通过梦境考验确认克莱恩失忆，并邀请克莱恩加入值夜者成为文职人员。他介绍了非凡者、魔药、失控、封印物等知识。",
+      "identInfos": [
+        "值夜者队长",
+        "灰色眼眸",
+        "不眠者非凡者",
+        "擅长入梦"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 12,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "邓恩·史密斯。……值夜者，邓恩·史密斯。"
+        },
+        {
+          "chapterSeq": 13,
+          "extractReason": "UPDATE",
+          "evidenceText": "我进入你的梦里，做必要的引导。……我能确认你真的因为这次的事件遗失了部分记忆"
+        },
+        {
+          "chapterSeq": 14,
+          "extractReason": "UPDATE",
+          "evidenceText": "你可以考虑加入我们，做文职人员……或者直接成为非凡者"
+        },
+        {
+          "chapterSeq": 18,
+          "extractReason": "UPDATE",
+          "evidenceText": "非凡者……服食魔药……序列数字越低，魔药品阶越高……我们是守护者，也是一群时刻对抗着危险和疯狂的可怜虫"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [12, 13, 14, 15, 17, 18, 19, 20]
+    },
+    {
+      "name": "比奇·蒙巴顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "比奇·蒙巴顿是负责莫雷蒂家所在街区的警察，嗓音尖细。在韦尔奇和娜娅自杀案中，他陪同三位警官上门调查克莱恩。",
+      "identInfos": [
+        "警察",
+        "嗓音尖细",
+        "负责莫雷蒂家街区"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 10,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我，蒙巴顿，比奇·蒙巴顿。……警察。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [10]
+    },
+    {
+      "name": "老尼尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "老尼尔是值夜者文职人员，负责武器、材料和文献库。他曾经是正式成员，因年龄和身体原因转为文职。他研究罗塞尔大帝的日记，试图解读其自创符号。",
+      "identInfos": [
+        "值夜者文职人员",
+        "前正式成员",
+        "武器、材料和文献库看守",
+        "研究罗塞尔日记"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 19,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "老尼尔，……他曾经是一位正式成员，……希望与文献典籍为伴。"
+        },
+        {
+          "chapterSeq": 20,
+          "extractReason": "UPDATE",
+          "evidenceText": "尼尔先生正在用当时不同日期的历史事件，尤其皇帝身边的事件，与日记对应那天的记载做比较，从而解读出更多的符号。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [20]
+    },
+    {
+      "name": "罗塞尔·古斯塔夫",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "罗塞尔·古斯塔夫是北大陆历史上重要人物，发明蒸汽机、改良帆船、推翻因蒂斯王国统治，后自称凯撒大帝。他发明了塔罗占卜和纸牌玩法，留下用中文简体字书写的日记。克莱恩发现其日记是用中文书写，确认其为穿越者前辈。",
+      "identInfos": [
+        "因蒂斯帝国开创者",
+        "蒸汽机发明者",
+        "塔罗牌发明者",
+        "穿越者前辈",
+        "中文简体字日记"
+      ],
+      "aliases": [
+        {
+          "alias": "罗塞尔大帝",
+          "type": "称号"
+        },
+        {
+          "alias": "凯撒大帝",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 4,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "罗塞尔·古斯塔夫发明了蒸汽机，改良了帆船，推翻了因蒂斯王国的统治……后来又自称‘凯撒大帝’。……他还发明了塔罗占卜"
+        },
+        {
+          "chapterSeq": 20,
+          "extractReason": "UPDATE",
+          "evidenceText": "这些‘符号’被临摹描绘得很丑，有些微变形，但自己绝对不会认错……中文！他妈还是简体字！"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [4, 20]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森是克莱恩的哥哥，在进出口公司做文员，维持家庭生计。他支持弟弟妹妹读书，因出差在外未出场。",
+      "identInfos": [
+        "克莱恩的哥哥",
+        "进出口公司文员",
+        "家庭经济支柱"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "父亲是皇家陆军上士……还有一个哥哥，一个妹妹，共同住在公寓的两居室内……目前全靠在进出口公司当文员的哥哥维持"
+        },
+        {
+          "chapterSeq": 3,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森为了保住工作，维持生活，只能接受更加繁重的任务，必须经常加班，或是前往环境恶劣的地方出差"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1, 3]
+    },
+    {
+      "name": "戴莉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴莉是值夜者队伍中的“通灵者”，对外伪装为阿霍瓦郡最知名的通灵者。她使用灵性材料辅助通灵，检查克莱恩的记忆和韦尔奇住所的灵，但未发现残留痕迹。",
+      "identInfos": [
+        "值夜者通灵者",
+        "擅长通灵",
+        "穿着黑袍",
+        "真名戴莉"
+      ],
+      "aliases": [
+        {
+          "alias": "通灵者",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 13,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "专家对外伪装的身份是阿霍瓦郡最知名的通灵者。……她实际上的身份呢？真正的‘通灵者’。"
+        },
+        {
+          "chapterSeq": 14,
+          "extractReason": "UPDATE",
+          "evidenceText": "原本的灵都消失了，包括韦尔奇和娜娅的，现在在这里的小家伙们什么都不知道。……没发现残留痕迹"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [13, 14]
+    },
+    {
+      "name": "罗珊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "罗珊是值夜者文职人员，负责接待等工作。她父亲曾是值夜者正式队员，五年前牺牲。她在克莱恩加入时引导他办理手续。",
+      "identInfos": [
+        "值夜者文职人员",
+        "父亲是牺牲的值夜者",
+        "棕发女孩"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 17,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "忘记自我介绍了，我叫罗珊，父亲是值夜者正式队员，五年前牺牲在了一次意外里。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [17, 20]
+    },
+    {
+      "name": "奥利安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥利安娜是值夜者队伍的会计，曾经是连环杀手“血腥屠夫”的潜在受害者。她为克莱恩办理了预支薪水手续。",
+      "identInfos": [
+        "值夜者会计",
+        "曾卷入非凡事件",
+        "黑发碧眼"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 20,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "奥利安娜太太……会计……如果不是值夜者们及时赶到，我就是第六位受害者了……那个连环杀手……‘血腥屠夫’"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [20]
+    },
+    {
+      "name": "伦纳德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "伦纳德是值夜者正式成员，黑发碧眼，有诗人气质。他参与了对克莱恩住所的搜查，并曾在下楼梯时摔倒。",
+      "identInfos": [
+        "值夜者正式成员",
+        "黑发碧眼",
+        "诗人气质"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 10,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "年轻警官走到书桌旁，拿起了那本更像日记的‘笔记’。……黑鬓绿瞳，长相不错，有股诗人的浪漫气质。"
+        },
+        {
+          "chapterSeq": 17,
+          "extractReason": "UPDATE",
+          "evidenceText": "伦纳德就干过这种蠢事，他在成为‘不眠者’的第一天……然后他就变成了车轮"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [10, 17]
+    },
+    {
+      "name": "温蒂·斯林",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "温蒂·斯林是面包房店主，七十来岁的老奶奶，克莱恩称她斯林太太。她卖给克莱恩黑麦面包，并谈及《谷物法案》废除带来的降价。",
+      "identInfos": [
+        "面包房店主",
+        "斯林太太",
+        "七十来岁"
+      ],
+      "aliases": [
+        {
+          "alias": "斯林太太",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 4,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "面包房的店主是位七十来岁的老奶奶，叫做温蒂·斯林……斯林太太，8磅黑麦面包。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [4]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔是前黑夜女神教会大主教，晋升“看门人”失败后失控，携带0-08封印物潜逃。值夜者高层要求一旦发现其行踪立即上报。",
+      "identInfos": [
+        "前大主教",
+        "晋升看门人失败失控",
+        "携带0-08封印物潜逃",
+        "瞎了一只眼睛",
+        "暗金发色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 19,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "因斯·赞格威尔，男，四十岁，前大主教，晋升失败的‘看门人’，被魔鬼引诱，堕落成恶，带着封印物‘0-08’潜逃……瞎了一只眼睛"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [19]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会由“愚者”克莱恩创立，成员包括“正义”奥黛丽·霍尔和“倒吊人”阿尔杰·威尔逊。他们在灰雾之上定期聚会，约定每周一下午三点进行，交流神秘知识、资源交换和委托任务。首次聚会中，“正义”和“倒吊人”达成了“观众”魔药配方的交易。",
+      "identInfos": [
+        "由愚者克莱恩创立",
+        "灰雾之上的隐秘聚会",
+        "成员包含正义、倒吊人",
+        "定期聚会交流神秘知识",
+        "初期以塔罗牌主牌为代号"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 7,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那我们就算是塔罗会的创始成员了！"
+        },
+        {
+          "chapterSeq": 7,
+          "extractReason": "UPDATE",
+          "evidenceText": "每个周一，下午三点，尽量独处……多尝试几次……"
+        },
+        {
+          "chapterSeq": 6,
+          "extractReason": "UPDATE",
+          "evidenceText": "如果愚者先生做我们交易的见证……"
+        }
+      ]
+    },
+    {
+      "name": "值夜者",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "值夜者是黑夜女神教会的非凡者队伍，负责处理超自然事件。廷根市值夜者小队以“黑荆棘安保公司”为伪装，队长邓恩·史密斯。成员包括正式队员和文职人员，守护查尼斯门，管理封印物和文献。克莱恩被邀请加入成为文职人员。",
+      "identInfos": [
+        "黑夜女神教会非凡者队伍",
+        "廷根市伪装为黑荆棘安保公司",
+        "队长邓恩·史密斯",
+        "处理超自然事件",
+        "管理查尼斯门和封印物"
+      ],
+      "aliases": [
+        {
+          "alias": "黑荆棘安保公司",
+          "type": "简称"
+        },
+        {
+          "alias": "特殊行动部第七小组",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 13,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "值夜者，邓恩·史密斯。"
+        },
+        {
+          "chapterSeq": 17,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑荆棘安保公司。……鲁恩王国阿霍瓦郡警察厅特殊行动部第七小组。"
+        },
+        {
+          "chapterSeq": 19,
+          "extractReason": "UPDATE",
+          "evidenceText": "我们是守护者，也是一群时刻对抗着危险和疯狂的可怜虫。"
+        }
+      ]
+    },
+    {
+      "name": "安提哥努斯家族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "安提哥努斯家族是第四纪的古老家族，其成员留下的笔记涉及“黑皇帝”、与名为图铎的人秘密交易，以及前往霍纳奇斯山脉主峰“夜之国”的任务。笔记疑似导致接触者自杀。",
+      "identInfos": [
+        "第四纪古老家族",
+        "神秘笔记涉及霍纳奇斯山脉夜之国",
+        "笔记导致接触者自杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 9,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "作者是一个叫做‘安提哥努斯’的家族的成员。……他提到了‘黑皇帝’……和某个叫做图铎的人进行一项秘密交易……前往‘霍纳奇斯’山脉的主峰，去拜访位于顶端的‘夜之国’"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "安提哥努斯家族笔记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "一本第四纪的笔记，由韦尔奇获得，克莱恩和娜娅共同解读。笔记记载了安提哥努斯家族成员的经历和秘密，包括黑皇帝、图铎和夜之国等。在韦尔奇和娜娅自杀后，笔记失踪，成为值夜者调查重点。",
+      "identInfos": [
+        "第四纪安提哥努斯家族笔记",
+        "记载黑皇帝、图铎、夜之国",
+        "导致接触者自杀并失踪"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 9,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "那是一本第四纪元的笔记。……作者是一个叫做‘安提哥努斯’的家族的成员。"
+        },
+        {
+          "chapterSeq": 13,
+          "extractReason": "UPDATE",
+          "evidenceText": "现场没有那本第四纪遗留的笔记，整栋房屋里都没有……你是唯一的线索"
+        }
+      ]
+    },
+    {
+      "name": "0-08 封印物",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "0-08是一件羽毛笔形状的封印物，不需要墨水也能书写。它属于最高保密等级的0级封印物，因异常危险而被严格管控。前大主教因斯·赞格威尔带着它潜逃。",
+      "identInfos": [
+        "羽毛笔形状",
+        "无需墨水书写",
+        "0级封印物",
+        "因斯·赞格威尔携带潜逃"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 19,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "0-08的外形是一支常见的羽毛笔，但不需要墨水也能书写"
+        }
+      ]
+    },
+    {
+      "name": "罗塞尔大帝的日记",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "罗塞尔大帝遗留的日记，用其自创的特殊符号书写。值夜者保存有副本，老尼尔正尝试解读。克莱恩发现这些符号实际是中文简体字，确认罗塞尔是穿越者。",
+      "identInfos": [
+        "罗塞尔·古斯塔夫的日记",
+        "自创符号写成",
+        "实为中文简体字",
+        "克莱恩能读懂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 20,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "罗塞尔·古斯塔夫死前遗失的日记……用自己发明的奇怪符号来记录。……中文！他妈还是简体字！"
+        }
+      ]
+    },
+    {
+      "name": "左轮手枪",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "左轮手枪原属于韦尔奇·麦格文，在克莱恩穿越后出现在他房间。克莱恩将其藏匿，并用于防身。邓恩允许他保留，并配备猎魔子弹。",
+      "identInfos": [
+        "黄铜光泽左轮手枪",
+        "原属韦尔奇",
+        "克莱恩曾用来制造自杀假象",
+        "值夜者允许保留"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "墨水之前，笔记本右侧，一根肚腹圆润的深色钢笔静静安放……笔帽搁于一把泛着黄铜色泽的左轮手枪旁边。"
+        },
+        {
+          "chapterSeq": 12,
+          "extractReason": "UPDATE",
+          "evidenceText": "韦尔奇先生丢失了一把左轮手枪……我在床板背面。"
+        }
+      ]
+    },
+    {
+      "name": "猎魔子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "猎魔子弹是值夜者配发的特殊弹药，用于对付非凡生物和诡异事件。克莱恩被分配十发猎魔子弹，并每日可领取三十发普通子弹进行射击训练。",
+      "identInfos": [
+        "特殊弹药",
+        "用于对抗非凡存在",
+        "配发给值夜者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 20,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "记得领取十发‘猎魔子弹’。……配合‘猎魔子弹’，真遇到什么奇诡的危险，你也能保护自己"
+        }
+      ]
+    },
+    {
+      "name": "转运仪式",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "转运仪式源自地球的《秦汉秘传方术纪要》，克莱恩尝试后导致穿越，并在此后尝试时进入灰雾世界。仪式需主食四份和特定咒文四步。",
+      "identInfos": [
+        "源自地球方术",
+        "用主食和咒文进行",
+        "导致克莱恩穿越并进入灰雾世界"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 2,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "只需将所在地区的主食弄四份，放到房间四个角落……用四步逆时针走出一个正方形……福生玄黄仙尊……福生玄黄天君……福生玄黄上帝……福生玄黄天尊"
+        },
+        {
+          "chapterSeq": 5,
+          "extractReason": "UPDATE",
+          "evidenceText": "弥漫的灰雾映入他的眼眸，朦胧、模糊、无边无际……自己漂浮在一片无垠灰雾的边缘"
+        }
+      ]
+    }
+  ]
+}

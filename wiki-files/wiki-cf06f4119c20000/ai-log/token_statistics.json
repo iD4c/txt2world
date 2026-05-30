@@ -1,0 +1,62 @@
+{
+  "characterRelationExtractWorkerInDtl": {
+    "avg": 18720,
+    "max": 22835,
+    "min": 11252,
+    "sd": 2784
+  },
+  "characterRelationExtractWorkerOutDtl": {
+    "avg": 3964,
+    "max": 11342,
+    "min": 15,
+    "sd": 2068
+  },
+  "chunkPlotReaderInDtl": {
+    "avg": 0,
+    "max": 0,
+    "min": 0,
+    "sd": 0
+  },
+  "chunkPlotReaderOutDtl": {
+    "avg": 0,
+    "max": 0,
+    "min": 0,
+    "sd": 0
+  },
+  "chunkWikiDraftWorkerInDtl": {
+    "avg": 54007,
+    "max": 54623,
+    "min": 53391,
+    "sd": 616
+  },
+  "chunkWikiDraftWorkerOutDtl": {
+    "avg": 13044,
+    "max": 14492,
+    "min": 11596,
+    "sd": 1448
+  },
+  "compactMemoryWorkerInDtl": {
+    "avg": 0,
+    "max": 0,
+    "min": 0,
+    "sd": 0
+  },
+  "compactMemoryWorkerOutDtl": {
+    "avg": 0,
+    "max": 0,
+    "min": 0,
+    "sd": 0
+  },
+  "wikiEntityMergeReviewWorkerInDtl": {
+    "avg": 34702,
+    "max": 62661,
+    "min": 12344,
+    "sd": 20920
+  },
+  "wikiEntityMergeReviewWorkerOutDtl": {
+    "avg": 2128,
+    "max": 3409,
+    "min": 1400,
+    "sd": 909
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩在神弃之地与白银城首席科林·伊利亚特、长老洛薇雅、戴里克进入巨人王居所，面对“暗天使”萨斯利尔遗留的恶灵。战斗中，他因影子被切割而灵失去完整性，情绪失控，通过虚拟人格恢复理智。与恶灵交战时，他利用“真实造物主”的侵蚀伪装失控，诱杀“观众圣者”分化体，后联合科林等人切断恶灵与第一块“亵渎石板”的联系，最终恶灵被净化。但阿蒙趁机窃取石板，“真实造物主”侵蚀部分脱离形成阴影巨手追击。科林牺牲，临终告知戴里克白银城诅咒真相。克莱恩目睹一切，对源质和最初造物主有了更深认识。",
+      "identInfos": [
+        "穿越者",
+        "源堡主人",
+        "塔罗会“愚者”",
+        "占卜家途径序列3“古代学者”",
+        "道恩·唐泰斯",
+        "格尔曼·斯帕罗"
+      ],
+      "aliases": [
+        {
+          "alias": "格尔曼·斯帕罗",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "道恩·唐泰斯",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1251,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩左手捂住脸庞，任由一条条“灵之虫”在指缝间钻进钻出。他现在最无法理解的是另外一件事情，那就是自己明明已打开了“暗天使”沉睡的宫殿，注视着这里的神灵和天使之王们却没一点反应。"
+        },
+        {
+          "chapterSeq": 1252,
+          "extractReason": "UPDATE",
+          "evidenceText": "看见坍塌高塔后走来的那道人影，白银城探索小队的成员们纷纷摆出了戒备的姿态……克莱恩咧开嘴角，笑容满面地说道：“大家好，我是格尔曼·斯帕罗。你们应该庆幸，我还能控制自己，要不然你们已经因为直视我而失去理智。”"
+        },
+        {
+          "chapterSeq": 1254,
+          "extractReason": "UPDATE",
+          "evidenceText": "在等待白银城探索小队的时候，他已经召唤过“正义”小姐，让她给自己补了一个源于自己腹诽状态的，“小丑”般的虚拟人格，让灵在一定时间内变得完整！"
+        },
+        {
+          "chapterSeq": 1257,
+          "extractReason": "UPDATE",
+          "evidenceText": "答案是，“倒吊人”的侵蚀。他有，“影子”没有的，正是“真实造物主”留下的侵蚀，这是“源堡”力量都暂时无法消去的影响！所以，他故意让自身遭侵蚀的部分被“精神瘟疫”感染，伪装出自己行将失控的假象……"
+        },
+        {
+          "chapterSeq": 1261,
+          "extractReason": "UPDATE",
+          "evidenceText": "“所以，我在自己的默许下，和‘黑夜女神’合作，建立了‘救赎蔷薇’，准备刺杀自己，通过复活摆脱‘原初’，真正地掌握‘混沌海’和相应的五条非凡途径？”克莱恩嘴角上翘，将问题转回了远古太阳神陨落之谜。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城首席，率领戴里克和洛薇雅进入巨人王居所，与克莱恩并肩对抗“暗天使”恶灵。他制定以伤换胜的计划，化身银骑士与恶灵激战，最终为切断恶灵与“亵渎石板”的联系，以自身覆盖恶灵并让戴里克攻击，壮烈牺牲。临终前告知戴里克白银城诅咒真相：神级封印物“大地的恩赐”虽让黑面草生长，但也导致居民需弑亲才能避免变恶灵，并指出“大地母神”非巨人王后欧弥贝拉。",
+      "identInfos": [
+        "白银城首席",
+        "序列3“银骑士”",
+        "曾经的“猎魔者”",
+        "花白头发，脸有陈旧伤疤",
+        "两米多高"
+      ],
+      "aliases": [
+        {
+          "alias": "首席阁下",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特将首要对付的目标确定为了那个受到“暗天使”污染的恩尤尼，并围绕这点，制定出了以伤换胜的计划。他不害怕承受伤害，只担心没有这样的机会。"
+        },
+        {
+          "chapterSeq": 1265,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特的身影浮现了出来。他穿着破破烂烂的银色盔甲，露出有着不少陈旧疤痕的脸庞，静静坐在那里，就如同结束了最后一场战争的战士。他的两把晨曦直剑已经变成了碎片，他的气息已然消失……"
+        },
+        {
+          "chapterSeq": 1266,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特叹了口气，继续说道：“正是因为有了它，白银城周围区域才能长出黑面草，让我们没有在深暗年代彻底沉沦……也正是因为有了它，我们才背负起被诅咒的命运，只有被直系亲属弑杀的人才不会变成可怕的恶灵。”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266]
+    },
+    {
+      "name": "洛薇雅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城“六人议事团”长老，信仰“真实造物主”。“暗天使”苏醒时，因位格压制身体直接崩溃，但灵仍保持理智，以自身血肉和阴影覆盖恶灵，为队友创造攻击机会，最终被恶灵击杀。死前喊出“我没有背叛白银城……”，并死死护住一个人类头骨。",
+      "identInfos": [
+        "白银城“六人议事团”长老",
+        "序列4“黑骑士”",
+        "信仰“真实造物主”",
+        "穿紫纹黑袍",
+        "放牧有多个魂灵"
+      ],
+      "aliases": [
+        {
+          "alias": "长老",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1262,
+          "extractReason": "UPDATE",
+          "evidenceText": "“暗天使”醒了过来时……“六人议事团”长老洛薇雅在“暗天使”睁开眼睛后，毫无反抗之力地直接失控，变成了一片流动的阴影和藏在阴影帷幕后的眼睛……"
+        },
+        {
+          "chapterSeq": 1263,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛薇雅那双淡灰的眼眸流露出了实质般的痛苦，她的声音虚幻飘渺地回荡了起来：“我没有背叛白银城……”"
+        },
+        {
+          "chapterSeq": 1263,
+          "extractReason": "UPDATE",
+          "evidenceText": "她崩溃成一团血肉的身体蜷缩了起来，用那一条条没有皮肤的，满是鲜红黏液的手臂将那个乳白色的，偏大型的人类头骨紧紧抱在“胸前”，压到了身下。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城“太阳”途径半神，塔罗会“太阳”。随首席和洛薇雅进入巨人王居所，与克莱恩联手对抗“暗天使”恶灵。在首席命令下，使用“阳炎”和“无暗之枪”攻击被首席限制的恶灵，最终在首席牺牲后，推开巨人王居所大门，看见阳光和大海，完成使命。",
+      "identInfos": [
+        "白银城居民，塔罗会“太阳”",
+        "序列4“无暗者”",
+        "身高刚过两米",
+        "使用“雷神的怒吼”巨锤"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1265,
+          "extractReason": "UPDATE",
+          "evidenceText": "听到首席的话语，戴里克怔了一下，然后本能张开了双臂。这个过程中，他的视线骤然模糊，喉咙里发出了一声压抑到极点，低沉到极点的声音。一团布满神圣火焰的光球凭空而降……"
+        },
+        {
+          "chapterSeq": 1266,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克用手臂抹了下眼睛，专注地听着首席讲述。科林·伊利亚特叹了口气，继续说道：“那个隐秘与我们白银城的第二件神级封印物有关。它叫‘大地的恩赐’。”"
+        },
+        {
+          "chapterSeq": 1266,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴里克凝聚出一柄炽白灿烂的“无暗之枪”，让它噼里啪啦地飞向了“暗天使”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "贝克兰德战场，奥黛丽以“梦境行者”能力潜入联军阵地散布“精神瘟疫”，并与弗萨克“银骑士”半神激战。目睹战神陨落、黑夜女神与大地母神联手导致战争突然结束，返回城内看到市民茫然景象，心生感慨。",
+      "identInfos": [
+        "塔罗会“正义”",
+        "霍尔伯爵之女",
+        "序列4“梦境行者”",
+        "心理炼金会成员",
+        "金发碧眼"
+      ],
+      "aliases": [
+        {
+          "alias": "正义小姐",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1251,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽眼眸骤然变成金色，让自己能够看得更远。小心翼翼行走间，她眼前的雾气突然变淡了不少。与此同时，她的非凡能力出现了消退。神秘减弱……奥黛丽脑海内瞬间闪过了“世界”先生曾经提及的一些概念和情报。"
+        },
+        {
+          "chapterSeq": 1253,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽的体表忽然凸显出了一片片灰白的龙鳞，这是她看见不该看见的事物带来的影响。她抓住不知能够维持多久的机会，利用“梦境穿梭”，进入联军阵地，游走于一个个士兵间，隐蔽地留下了一个个“精神瘟疫”种子。"
+        },
+        {
+          "chapterSeq": 1266,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽沉默地审视着这样的场景，一路回到了皇后区，回到了自家别墅内。她看见自己的父亲、母亲、长兄、管家、男仆、女佣都异常迷茫地望着窗外，表情与街上的市民们完全一致。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1251, 1253, 1258, 1266]
+    },
+    {
+      "name": "阿蒙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿蒙趁克莱恩等人切断恶灵与“亵渎石板”联系后，潜入巨人王居所，窃取第一块“亵渎石板”逃离，阴影巨手追击。",
+      "identInfos": [
+        "“偷盗者”途径天使之王",
+        "远古太阳神次子",
+        "戴单片眼镜",
+        "欺诈之神"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1265,
+          "extractReason": "UPDATE",
+          "evidenceText": "那是戴着单片眼镜和尖顶软帽的“时天使”阿蒙。阿蒙对着他笑了笑……阿蒙的身影随即虚化，直接穿门而出，消失不见。"
+        },
+        {
+          "chapterSeq": 1265,
+          "extractReason": "UPDATE",
+          "evidenceText": "那块“亵渎石板”骤然振动，发出了嗡嗡嗡的声音，仿佛活了过来。它挣脱了与阴影巨手之间剩余的不够稳固的虚幻之“光”，猛地投向了阿蒙！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1265]
+    },
+    {
+      "name": "贝尔纳黛",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "在迷雾海非安全航道继续寻找父亲罗塞尔的最后陵寝，遭遇风暴与危险，但未放弃。",
+      "identInfos": [
+        "“神秘女王”",
+        "罗塞尔之女",
+        "“黎明号”船长",
+        "序列3“贤者”"
+      ],
+      "aliases": [
+        {
+          "alias": "神秘女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1251,
+          "extractReason": "UPDATE",
+          "evidenceText": "贝尔纳黛的“黎明号”不断被抛飞，在这天地之威下显得异常渺小，摇摇欲坠。这位神秘女王立在船头，平静地注视着这一切，时不时使用“皇帝的新衣”等童话魔法维持住船只的平衡。"
+        },
+        {
+          "chapterSeq": 1266,
+          "extractReason": "UPDATE",
+          "evidenceText": "“神秘女王”贝尔纳黛及时使用了自己另外那件“0”级封印物，让船只躲过了可怕的灾难。她眉头微微皱起，似乎预感到了什么，但旋即舒展开来，让“黎明号”继续在非安全航道前行……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1251, 1266]
+    },
+    {
+      "name": "伦纳德·米切尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在贝克兰德圣希尔兰大教堂外，目睹天空一半黄昏一半黑夜的异象，观察着“机械之心”成员。",
+      "identInfos": [
+        "值夜者“红手套”队长",
+        "塔罗会“星星”",
+        "诗人同学",
+        "寄生天使帕列斯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着红色手套的伦纳德抬起脑袋，望向了一半黄昏一半黑夜的天空。他喉咙里发出了无声的叹息，然后将目光投向了圣希尔兰大教堂的门口。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1258]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在罗思德群岛“慷慨之城”拜亚姆，目睹反抗军进城，并与达尼兹交谈时观察到海天异象。",
+      "identInfos": [
+        "塔罗会“倒吊人”",
+        "风暴教会枢机主教",
+        "序列4“灾难主祭”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰的目光随着那一个个肤色较深的本地人移动着，没有回应达尼兹。达尼兹的心情很是放松，笑呵呵又道：“没想到我们再次见面会是这样的场景。”阿尔杰抬起头来，正要开口，忽然心中一动，将视线投向了西北方的天空。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1258]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在罗思德群岛，作为“愚者”眷者促使反抗军与鲁恩谈判，目睹反抗军进入拜亚姆。",
+      "identInfos": [
+        "原“黄金梦想号”水手长",
+        "格尔曼·斯帕罗的眷者",
+        "序列5“混乱导师”"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹看着反抗军进入城市，接管了许多地方，终于暗中松了口气，侧头对旁边的阿尔杰道：“你看，在这座城市的大多数地方，他们都很受欢迎。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1258]
+    },
+    {
+      "name": "安德森·胡德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在伦堡首都附近战场，识破属下投降意图，准备应对时目睹“知识与智慧之神”神国降临。",
+      "identInfos": [
+        "猎人途径序列5“收割者”",
+        "原“知识教会”非凡者",
+        "半神猎杀者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1259,
+          "extractReason": "UPDATE",
+          "evidenceText": "安德森拍掉手上的尘埃，侧头对身边的副手笑道：“也不知道还能坚持多久……你们有什么话想要留下来？我可以帮忙写遗书。”"
+        },
+        {
+          "chapterSeq": 1259,
+          "extractReason": "UPDATE",
+          "evidenceText": "这时，高空那轮太阳突然膨胀，变得极其巨大……一座虚幻的高塔凸显了出来，它每一层都是由厚厚的书籍组成……这高塔延伸入天空，仿佛将整个世界都圈进了自己内部……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1259]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "在贝克兰德奥德拉家别墅内，作为血族伯爵目睹城内植物疯狂生长的异象。",
+      "identInfos": [
+        "塔罗会“月亮”",
+        "血族子爵",
+        "丰收教堂成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1259,
+          "extractReason": "UPDATE",
+          "evidenceText": "成为了伯爵的埃姆林·怀特双手插兜，立在窗边，沐浴着黄昏与黑夜交织的光芒，看着同族们略显不安地讨论时事。突然，他灵感触动，将目光投向了窗外。花园内，一丛丛枯黄的杂草重新染上青碧……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1259]
+    },
+    {
+      "name": "恩尤尼",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的秘偶，被“暗天使”沉睡处力量污染，发生异变，长出虚黑羽翼，并分裂出“观众圣者”和“太阳圣者”分化体，成为恶灵一方的主要战力。最终被克莱恩等人击败消散。",
+      "identInfos": [
+        "克莱恩（格尔曼·斯帕罗）的前秘偶",
+        "被“暗天使”力量污染异变",
+        "背生层层虚黑羽翼",
+        "黑发及肩微卷"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1251,
+          "extractReason": "UPDATE",
+          "evidenceText": "秘偶恩尤尼的投影被巨人王居所内涌出的力量侵蚀，变成了我目前无法理解的怪物……"
+        },
+        {
+          "chapterSeq": 1254,
+          "extractReason": "UPDATE",
+          "evidenceText": "脸上蒙着阴影，黑发微微卷着并垂至肩头的恩尤尼嗓音低沉地继续说道……"
+        },
+        {
+          "chapterSeq": 1254,
+          "extractReason": "UPDATE",
+          "evidenceText": "恩尤尼右边的身体突然断裂，让那个“老迈”的脑袋带走了三分之一的躯体。……恩尤尼左边的身体也断裂了，那个“年轻”的脑袋带走了三分之一的血肉。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1253, 1254]
+    },
+    {
+      "name": "萨斯利尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "远古太阳神的天使，“暗天使”，神之左手，天国副君。巨人王居所内留有沉睡的恶灵，具有“全知全能”特质，与第一块“亵渎石板”相连。苏醒后展现多种途径能力，最终被克莱恩等人切断与石板联系而净化。遗留精神透露远古太阳神陨落缘由：原初意志苏醒，主动策划了刺杀。",
+      "identInfos": [
+        "远古太阳神的天天使",
+        "神之左手，天国副君",
+        "救赎蔷薇建立者",
+        "执掌“混沌海”部分权柄"
+      ],
+      "aliases": [
+        {
+          "alias": "暗天使",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 1260,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "沉睡于铁黑色宝座上的，与巨人身高相仿的那名男子就是神之左手，天国副君，“暗天使”萨斯利尔！"
+        },
+        {
+          "chapterSeq": 1261,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我从‘混沌海’走出来没多久就察觉到了这个问题，特意分化出部分人格，融合‘堕落’权柄和‘倒吊人’途径的非凡特性，创造了另一个自己……”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [1260, 1261, 1262, 1263, 1264, 1265]
+    },
+    {
+      "name": "威尔·昂赛汀",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未直接出场，但克莱恩在战斗中尝试借用其“重启”能力挽救科林·伊利亚特未果。",
+      "identInfos": [
+        "“命运之蛇”",
+        "序列1“水银之蛇”",
+        "生命学派议长"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1265,
+          "extractReason": "UPDATE",
+          "evidenceText": "不远处的克莱恩提起了“星之杖”，尝试再现威尔·昂赛汀的“重启”，以此挽救科林·伊利亚特，但是，他连续失败几次后成功使用出的能力却没有让一切逆转……"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1265]
+    },
+    {
+      "name": "苏尼亚索列姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未直接出场，但在与“暗天使”恶灵的战斗中，克莱恩使用过“海神权杖”的“闪电风暴”能力，该权杖与其有关。另外，克莱恩曾向风暴之主祈祷。",
+      "identInfos": [
+        "风暴之主",
+        "序列0真神",
+        "远古太阳神的天使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1264,
+          "extractReason": "UPDATE",
+          "evidenceText": "轰隆！一道道银白电蛇蹿出，带着强烈的毁灭气息，密密麻麻地劈向了第一块“亵渎石板”。这是来自“海神权杖”的“闪电风暴”！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1264]
+    },
+    {
+      "name": "查拉图",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未直接出场，但克莱恩在恶灵削弱后试图召唤其历史投影未成，提及危险性。",
+      "identInfos": [
+        "占卜家途径序列2“奇迹师”",
+        "密修会首领"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1262,
+          "extractReason": "UPDATE",
+          "evidenceText": "再想召唤查拉图的历史孔隙影像，危险的是他自己。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1262]
+    },
+    {
+      "name": "阿里安娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "未直接出场，但克莱恩反复使用“星之杖”重现其“隐秘”能力，用于自身隐蔽和逃脱。",
+      "identInfos": [
+        "黑夜教会苦修士首领",
+        "“隐秘之仆”",
+        "序列2天使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1264,
+          "extractReason": "UPDATE",
+          "evidenceText": "这是“隐秘”的力量，同样来自于黑夜教会的苦修士首领阿里安娜。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [1264]
+    }
+  ],
+  "factions": [
+    {
+      "name": "救赎蔷薇",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "由“暗天使”萨斯利尔与黑夜女神等合作建立的组织，旨在刺杀远古太阳神以摆脱“原初”苏醒。成员包括风暴之主、永恒烈阳、知识与智慧之神、梅迪奇、乌洛琉斯等天使之王。最终成功击杀远古太阳神，但分食尸体时部分成员背叛。",
+      "identInfos": [
+        "第三纪刺杀远古太阳神组织",
+        "成员包括多位天使之王",
+        "因远古太阳神体内“原初”苏醒而创建"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1261,
+          "extractReason": "UPDATE",
+          "evidenceText": "“所以，我召集了列奥德罗、奥赛库斯、赫拉伯根、梅迪奇和乌洛琉斯，与阿曼妮西斯邀请的神灵和天使之王们成立了‘救赎蔷薇’。”"
+        },
+        {
+          "chapterSeq": 1261,
+          "extractReason": "UPDATE",
+          "evidenceText": "“最终，祂们成功击杀了我……按照原本的计划，我将在‘巨人王庭’复活……但列奥德罗、奥赛库斯和赫拉伯根背叛了我，分食了我的身躯……”"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "神弃之地的城邦，居民因神级封印物“大地的恩赐”得以种植黑面草生存，但背负弑亲诅咒。首席科林·伊利亚特率探索小队进入巨人王庭，与克莱恩合作对抗恶灵。科林牺牲，长老洛薇雅战死，戴里克推开通往外界的门，见到阳光大海。",
+      "identInfos": [
+        "神弃之地人类城邦",
+        "信仰造物主（已堕落的远古太阳神）",
+        "居民多为巨人后裔",
+        "长期受黑暗诅咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1266,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林·伊利亚特叹了口气，继续说道：“正是因为有了它，白银城周围区域才能长出黑面草，让我们没有在深暗年代彻底沉沦……也正是因为有了它，我们才背负起被诅咒的命运，只有被直系亲属弑杀的人才不会变成可怕的恶灵。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "第一块“亵渎石板”",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "诞生于“混沌海”的古老石板，铭刻着所有途径的序列配方，是“暗天使”恶灵的力量源泉。克莱恩等人切断其与恶灵的联系后，阿蒙窃取石板逃离。",
+      "identInfos": [
+        "诞生于“混沌海”",
+        "铭刻所有途径序列配方",
+        "石板灰白色，斑驳沧桑",
+        "记载序列0“完美者”等配方"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1261,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩脑海内闪过了目前能看到的少量内容，心中一下产生了个认知：“亵渎石板”！第一块“亵渎石板”！诞生于“混沌海”的第一块“亵渎石板”！"
+        },
+        {
+          "chapterSeq": 1265,
+          "extractReason": "UPDATE",
+          "evidenceText": "那块“亵渎石板”骤然振动，发出了嗡嗡嗡的声音，仿佛活了过来。它挣脱了与阴影巨手之间剩余的不够稳固的虚幻之“光”，猛地投向了阿蒙！"
+        }
+      ]
+    },
+    {
+      "name": "星之杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "“0-62”号封印物，黑色手杖镶嵌多种宝石，能重现见过的非凡能力。在巨人王居所战斗中，克莱恩使用它重现“时天使”阿蒙的“时间停滞”、“隐秘”等能力，助力击败恶灵。",
+      "identInfos": [
+        "“0-62”号封印物",
+        "黑色手杖镶嵌多种宝石",
+        "能重现见过的非凡能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "他只能试一试握在手中的封印物投影和秘偶会不会堕落反叛了。他将“星之杖”对准了前方。"
+        },
+        {
+          "chapterSeq": 1262,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩成功用“星之杖”重现了“时天使”阿蒙的非凡能力！"
+        }
+      ]
+    },
+    {
+      "name": "大地的恩赐",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "白银城的第二件神级封印物，实际上是巨人王后欧弥贝拉的尸骸。它让周围区域长出黑面草，成为白银城居民的主食，但也带来诅咒：只有被直系亲属弑杀的人才能避免变成恶灵。",
+      "identInfos": [
+        "神级封印物",
+        "巨人王后欧弥贝拉的尸骸",
+        "产生黑面草",
+        "带来弑亲诅咒"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1266,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“那个隐秘与我们白银城的第二件神级封印物有关。它叫‘大地的恩赐’。”……“欧弥贝拉早就已经死去，祂的尸骸就在白银城，就是‘大地的恩赐’……”"
+        }
+      ]
+    },
+    {
+      "name": "生命手杖",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩持有的治疗封印物，在战斗后用于治疗科林和洛薇雅的伤势，但因其负面影响，洛薇雅头上长出麦穗。",
+      "identInfos": [
+        "治疗封印物",
+        "可接续断肢、愈合伤势",
+        "会带来身体异变"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩表面催促，实际却将那根“生命手杖”扔向了恢弘台阶下方，扔向了洛薇雅，让她给自己和科林·伊利亚特治疗伤势。"
+        },
+        {
+          "chapterSeq": 1258,
+          "extractReason": "UPDATE",
+          "evidenceText": "洛薇雅受到的创伤也得到了恢复，只是后脑不知什么时候长出了几根金黄色的麦穗……"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩的封印物手套，在靠近“暗天使”恶灵时被堕落影响，试图反噬主人，后被克莱恩用“星之杖”压制。",
+      "identInfos": [
+        "人皮手套形态封印物",
+        "可放牧灵魂",
+        "具备“旅行家”等能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 1260,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩低下头来，看见“蠕动的饥饿”恢复了人皮手套的状态，掌心位置裂开了一道夸张的缝隙，里面是两排虚幻的，白森森的牙齿。这件封印物正试图撕咬克莱恩的血肉，将他的身和灵一起吃掉。“蠕动的饥饿”堕落了！"
+        }
+      ]
+    },
+    {
+      "name": "无暗十字",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "未直接在本chunk出现，但戴里克使用的“无暗之枪”、“阳炎”等能力源于“无暗者”途径，而克莱恩之前在塔罗会展示过无暗十字，本chunk中戴里克作为“无暗者”战斗，其净化能力与此物品相关。但原文未直接提及此物品，故不抽取。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "characterRelations": [
+    {
+      "fromChapterSeq": 833,
+      "toChapterSeq": 835,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被攻击者"
+        }
+      },
+      "characterB": {
+        "name": "绝望女士",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "厌恶",
+          "bond": "无",
+          "narrativeRole": "攻击者"
+        }
+      },
+      "relationSummary": "绝望魔女潘娜蒂亚认出塞尼奥尔是傀儡，双方互相试探后，潘娜蒂亚主动攻击克莱恩，克莱恩被迫周旋。"
+    },
+    {
+      "fromChapterSeq": 836,
+      "toChapterSeq": 841,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "绝望女士",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被合作者"
+        }
+      },
+      "relationSummary": "克莱恩主动提出合作，共同开门离开迷雾小镇，潘娜蒂亚提供黑曜石，克莱恩负责开门。"
+    },
+    {
+      "fromChapterSeq": 842,
+      "toChapterSeq": 842,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "敌对",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被欺骗者"
+        }
+      },
+      "characterB": {
+        "name": "绝望女士",
+        "relationDimensionsToOther": {
+          "attitude": "欺骗",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "欺骗者"
+        }
+      },
+      "relationSummary": "潘娜蒂亚抢先出门，并使用诅咒木偶试图杀死克莱恩，合作关系彻底破裂。"
+    },
+    {
+      "fromChapterSeq": 836,
+      "toChapterSeq": 841,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "合作者"
+        }
+      },
+      "characterB": {
+        "name": "A先生",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被合作者"
+        }
+      },
+      "relationSummary": "A先生以“见证”身份加入合作，克莱恩利用他牵制潘娜蒂亚。"
+    },
+    {
+      "fromChapterSeq": 838,
+      "toChapterSeq": 840,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "信息接收者"
+        }
+      },
+      "characterB": {
+        "name": "查拉图",
+        "relationDimensionsToOther": {
+          "attitude": "利用",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "重要信息来源"
+        }
+      },
+      "relationSummary": "查拉图提供开门符号和诡法师配方，意图利用克莱恩改变历史命运；克莱恩获取信息但心存警惕。"
+    },
+    {
+      "fromChapterSeq": 845,
+      "toChapterSeq": 848,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "合作",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "被教导者"
+        }
+      },
+      "characterB": {
+        "name": "奥黛丽·霍尔",
+        "relationDimensionsToOther": {
+          "attitude": "友好",
+          "hierarchy": "无",
+          "favorability": "信任",
+          "bond": "无",
+          "narrativeRole": "教导者"
+        }
+      },
+      "relationSummary": "奥黛丽在灰雾上对克莱恩进行心理治疗，安抚其精神，引导他直面恐惧，克莱恩精神状态好转。"
+    },
+    {
+      "fromChapterSeq": 846,
+      "toChapterSeq": 852,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "对峙",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "被调查者"
+        }
+      },
+      "characterB": {
+        "name": "伦纳德·米切尔",
+        "relationDimensionsToOther": {
+          "attitude": "怀疑",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "调查者"
+        }
+      },
+      "relationSummary": "伦纳德怀疑道恩·唐泰斯与潜入事件有关，调查后前往廷根验证克莱恩·莫雷蒂是否死亡，发现空棺后入梦质问。"
+    },
+    {
+      "fromChapterSeq": 851,
+      "toChapterSeq": 851,
+      "characterA": {
+        "name": "周明瑞",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "characterB": {
+        "name": "加尔文",
+        "relationDimensionsToOther": {
+          "attitude": "中立",
+          "hierarchy": "无",
+          "favorability": "无感",
+          "bond": "无",
+          "narrativeRole": "无"
+        }
+      },
+      "relationSummary": "加尔文向克莱恩提出走私军火合作，克莱恩表示考虑。"
+    }
+  ]
+}

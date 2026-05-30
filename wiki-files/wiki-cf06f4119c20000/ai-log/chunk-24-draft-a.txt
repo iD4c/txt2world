@@ -1,0 +1,1036 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩破坏A先生的真实造物主降临仪式，投出万能钥匙引发诅咒使仪式崩溃，并重创A先生。随后与A先生激战，利用阿兹克铜哨召唤信使抵挡致命攻击，最终跳崖逃脱。因疾病和伤势艰难生存，后被神秘天使级存在解救，A先生被抹杀。克莱恩从阿兹克处获得神奇物品蠕动的饥饿，决定出海寻找美人鱼以晋升序列5无面人。他以新模样周明瑞年轻版短暂返回贝克兰德，祭奠遇难者，并在车站与班森和梅丽莎擦肩而过，离开贝克兰德。",
+      "identInfos": [
+        "穿越者，原名周明瑞",
+        "前值夜者克莱恩·莫雷蒂复活身份",
+        "现化名夏洛克·莫里亚蒂，私家侦探",
+        "塔罗会首领“愚者”",
+        "序列6无面人",
+        "曾用名格尔曼·斯帕罗"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "化名"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "周明瑞",
+          "type": "原名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 477,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩理智停止了尝试，站在那里，思绪电转。突然，他想到了某样东西！来不及去考虑后果，他将手伸入衣兜，抓住了一件充满金属质感的物品。蹬蹬蹬！克莱恩前跨几步，用力甩动胳膊，将攥在掌心的那件物品扔了出去，扔向祭坛。黄铜色的辉芒一闪，那物品进入了层叠的光层。那是一把形制古朴的钥匙。那是“万能钥匙”。"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拿出了阿兹克铜哨，将它凑到嘴边，在喷嚏和咳嗽声里艰难地吹了一下！没有任何前置动静的情况下，他通过灵视看见白骨喷泉般涌出，飞快勾勒成眼窝有漆黑火焰在燃烧的巨大信使。"
+        },
+        {
+          "chapterSeq": 480,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克略感诧异地望了他一眼，但最终什么也没说，轻轻颔首道：“等你取回，让信使带给我，我研究之后就立刻还给你，或者你直接抄录相应的内容给我。”他顿了顿，似乎也想起了什么事情，于是从衣兜里拿出一只轻薄得仿佛人皮制成的手套，递给克莱恩道：“有关的记忆我已经唤醒，不再需要它，呵呵，它是那个海盗中将的遗物，我有做一些封印，让它平时不会饥饿，但每使用一次，就必须用一个人类的血肉和灵魂喂饱它，否则，它将吞噬你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [474, 477, 478, 479, 480, 481, 482]
+    },
+    {
+      "name": "A先生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "A先生在绝望女士配合下，于地下遗迹大厅举行真实造物主降临仪式，献祭四名侍者，并利用东区等地的怨念与负面情绪。仪式被克莱恩用万能钥匙破坏，遭受重创，但仍追杀克莱恩，最终被一位神秘天使级存在抹杀。",
+      "identInfos": [
+        "极光会成员",
+        "序列5牧羊人",
+        "面容漂亮妖异似女性",
+        "曾刺杀因蒂斯大使贝克朗",
+        "真实造物主降临仪式主持者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 477,
+          "extractReason": "UPDATE",
+          "evidenceText": "A先生嘶哑着笑了起来：“没用的，小爬虫，仪式已经正式开始，以你的力量是无法打破和中断的，即使序列5的非凡者，也办不到！“但你也是幸运的，你将活着见证我主的降临，融入祂的身躯。”"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩就看见A先生似乎变成了铅笔画，被橡皮擦飞快抹掉，毫无反抗之力，只留下茫然里带着不甘，疯狂中藏着绝望的眼神铭刻于现场唯一观众的脑海内。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [475, 477, 478, 479]
+    },
+    {
+      "name": "绝望女士",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "绝望女士是魔女教派序列4的绝望魔女，与A先生合作，负责在东区等地制造致命雾霾，造成数万人死亡，以掩盖王室与魔女教派合作的秘密。她行踪隐秘，但很快被神秘天使级存在找到并抹杀，其消失时眼神充满惊惧与绝望。",
+      "identInfos": [
+        "魔女教派成员",
+        "序列4绝望魔女",
+        "贝克兰德大雾霾事件制造者",
+        "与A先生合作",
+        "被“0-17”封印物抹杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 475,
+          "extractReason": "UPDATE",
+          "evidenceText": "绝望女士表情沉静而柔和，仿佛在完成一件艺术品。她没有异常地行走于路人中间，嘴角微勾，低声笑道：“鲁恩王国的历史将铭记这一天：“贝克兰德大雾霾事件。”"
+        },
+        {
+          "chapterSeq": 478,
+          "extractReason": "UPDATE",
+          "evidenceText": "她的眼眸里，对面秀美呆滞的女性瞳孔幽深浓黑，仿佛藏着一片纯粹的无光之暗。“你不是！你是……”绝望魔女的话语戛然而止，整个人就像一副素描，被橡皮擦悄然抹掉了，未留一点痕迹。她最后的眼神充满惊惧与绝望，她所在的位置空空荡荡，像是从来没有坐过人。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [474, 475, 478]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔在与阿兹克战斗时，被未知存在抓住拖入灵界，使用邪神脐带逃脱，但失去该物品并遭受诅咒，实力降至55%。他随后与戴黄金面具的男子会合，抓住0-08，并决定隐藏地下遗迹。",
+      "identInfos": [
+        "前黑夜女神教会大主教",
+        "叛逃者",
+        "执掌0级封印物0-08",
+        "杀死克莱恩·莫雷蒂的凶手",
+        "与王室派系合作"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 476,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔消失的地方，光芒突然不见，染上了最浓郁最深沉的黑暗。黑暗之中，有吟唱诗歌的声音传出，安宁静谧，催人入眠……这样的“黑夜”里，一道人影走了出来，正是刚才被拖入灵界的因斯·赞格威尔。"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔收起疑惑，点了点头，转身来到停止了书写的“0-08”旁边，一把将它抓住。他的身影有些蹒跚，双脚位置堆着在战斗里几乎撕裂的裤子。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [475, 476, 479]
+    },
+    {
+      "name": "埃德萨克·奥古斯都",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃德萨克王子在得知特莉丝奇克曾是男人的真相后，情绪崩溃，但最终选择放走特莉丝，并自称要活在美好的故事里迎接结尾。之后，他依照安排吞枪自尽，成为王室与魔女教派合作败露后的牺牲品。",
+      "identInfos": [
+        "鲁恩王国奥古斯都家族王子",
+        "与魔女特莉丝奇克有感情纠葛",
+        "被王室派系作为牺牲品",
+        "吞枪自尽",
+        "参与掩盖王室与魔女教派合作"
+      ],
+      "aliases": [
+        {
+          "alias": "埃德萨克王子",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我？就让我活在这个美好的故事里，迎接它最后的结尾，无论是好是坏。”特莉丝吸了口气，不再停留，进入了暗门。"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃德萨克的眼睛活了过来，他吸了口气，拿起桌上的左轮，抵住了自己的太阳穴，那里面有一颗能泯灭灵体的子弹。他回过头，眷念地望了眼外面的高尔夫场地和正在散步的马匹。砰！他扣动了扳机。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [474, 479]
+    },
+    {
+      "name": "特莉丝奇克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特莉丝奇克（原特里斯）向埃德萨克王子坦白自己曾是男人，并揭示两人的相遇是王室与魔女教派的安排。她随后被埃德萨克放走，在逃亡贝克兰德途中遭遇神秘天使级存在，但依靠蓝宝石指环逃脱。",
+      "identInfos": [
+        "原为男性特里斯",
+        "魔女途径非凡者",
+        "现为女性，化名特莉丝奇克",
+        "被魔女教派控制",
+        "曾与埃德萨克王子同居"
+      ],
+      "aliases": [
+        {
+          "alias": "特莉丝",
+          "type": "简称"
+        },
+        {
+          "alias": "特里斯",
+          "type": "原名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝先是一愣，旋即露出戏谑的笑容：“知道的很多嘛……“那你是否清楚，我曾经是一个男人，我的真名是特里斯。”"
+        },
+        {
+          "chapterSeq": 478,
+          "extractReason": "UPDATE",
+          "evidenceText": "她选择的是重返贝克兰德。只有这人口超过500万，各种隐秘势力、诸多非凡者混杂的大都市，才能帮助她躲过魔女教派后续的追踪！"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [474, 478]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克在与因斯·赞格威尔战斗中被律令法师放逐，但安全归来，透露因斯·赞格威尔受伤逃遁。他从克莱恩处得知亵渎之牌，并赠予克莱恩神奇物品蠕动的饥饿，建议克莱恩暂离贝克兰德。",
+      "identInfos": [
+        "死神后裔，不死者",
+        "序列高深，曾是克莱恩的历史教员",
+        "多次轮回失忆",
+        "与克莱恩结盟对抗因斯·赞格威尔",
+        "持有铜哨召唤信使"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "“放逐！”戴黄金面具的男子指着阿兹克·艾格斯，将他的身影丢入虚空，不知扔向了哪里。"
+        },
+        {
+          "chapterSeq": 480,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿兹克略感诧异地望了他一眼，但最终什么也没说，轻轻颔首道：“等你取回，让信使带给我，我研究之后就立刻还给你，或者你直接抄录相应的内容给我。”他顿了顿，似乎也想起了什么事情，于是从衣兜里拿出一只轻薄得仿佛人皮制成的手套，递给克莱恩道：“有关的记忆我已经唤醒，不再需要它，呵呵，它是那个海盗中将的遗物，我有做一些封印，让它平时不会饥饿，但每使用一次，就必须用一个人类的血肉和灵魂喂饱它，否则，它将吞噬你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [479, 480]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "老科勒是克莱恩在东区的线人，生活刚有起色，买了火腿准备迎接新年，但在贝克兰德大雾霾中突然染病倒地死亡。临死前试图拿出香烟，追问为什么。",
+      "identInfos": [
+        "东区居民，前流浪汉",
+        "克莱恩·莫雷蒂的线人",
+        "死于贝克兰德大雾霾",
+        "墓志铭：“他是个不错的工人，他曾经有过一个妻子和一对儿女，他努力地活着。”"
+      ],
+      "aliases": [
+        {
+          "alias": "科勒",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 476,
+          "extractReason": "UPDATE",
+          "evidenceText": "老科勒抱着装于纸袋内的火腿，急匆匆往租住的公寓返回。……扑通！老科勒开始模糊的视线看见几步之外同样有人摔倒，喘不过气来，年纪和他差不多，也是五十来岁，鬓角斑白。忽然之间，他有了明悟，知道自己即将死亡。……他听见了自己在问：“为什么？”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [476]
+    },
+    {
+      "name": "丽芙",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "丽芙是东区浆洗女工，在大雾霾中与女儿弗莱娅双双染病死亡。她临死前让女儿去拿钱看病，但弗莱娅也倒下。",
+      "identInfos": [
+        "东区浆洗女工",
+        "黛西的母亲",
+        "死于贝克兰德大雾霾",
+        "与女儿弗莱娅相拥而亡"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 476,
+          "extractReason": "UPDATE",
+          "evidenceText": "丽芙刚拉开房门，忽然踉跄了一下，跌倒在地。咳咳咳！她发出剧烈的咳嗽声，脸庞涨得通红，身上每一处关节都酸痛难忍。……“弗莱娅，你怎么了？咳咳，你也生病了？”丽芙焦急地喊道，“钱在，咳，在柜子挡住的，咳，墙壁破洞里，你，快，快去医院！找好的，好的医生！”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [476]
+    },
+    {
+      "name": "弗莱娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "弗莱娅是丽芙的大女儿，在大雾霾中与母亲丽芙一同染病死亡。临死前目光看向卧室，那里有她喜爱的小桌和单词册。",
+      "identInfos": [
+        "丽芙的大女儿",
+        "黛西的姐姐",
+        "死于贝克兰德大雾霾",
+        "热爱学习单词"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 476,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，她感觉自己的肺部烧了起来，身体一下软倒，连带丽芙也重新摔在地面。……她的身体突地抽搐了起来。丽芙的咳嗽戛然而止。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [476]
+    },
+    {
+      "name": "黛西",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "黛西是丽芙的小女儿，在大雾霾发生时在学校，被老师强行带去教堂，躲过一劫。她奔跑回家后发现母亲和姐姐已死，追赶运尸马车失败，发出撕心裂肺的哭泣。",
+      "identInfos": [
+        "丽芙的小女儿",
+        "东区居民",
+        "贝克兰德大雾霾幸存者",
+        "母亲和姐姐死于雾霾"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 476,
+          "extractReason": "UPDATE",
+          "evidenceText": "黛西惊恐慌乱地站了起来，跟着人群往学校旁边的教堂跑去。……黛西竭力挣扎，撕心裂肺地喊道：“妈妈！弗莱娅！”"
+        },
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "黛西停在了那里，看着两具尸体被抬出，看着妈妈丽芙紧紧抱着姐姐弗莱娅，看着她们被抬到围着黑布，临时征用的送货马车上，看着被盖上白布的她们消失在自己眼前。……突然，她整个人软了下去，嗓子里挤出了一道哭泣声：“妈妈……“弗莱娅……”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [476, 481]
+    },
+    {
+      "name": "圣安东尼·史蒂文森",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "圣安东尼是黑夜女神教会贝克兰德教区大主教，圣者。他收到奥黛丽传递的情报后，唤醒0级封印物0-17，并带领值夜者调查地下遗迹，发现仪式已被破坏，遗迹被清扫。",
+      "identInfos": [
+        "黑夜女神教会大主教",
+        "贝克兰德教区负责人",
+        "圣者",
+        "唤醒封印物0-17"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "黑夜女神教会十三位大主教之一，贝克兰德教区的负责人，圣者安东尼·史蒂文森拿到了从霍尔伯爵府邸传来的紧急电报。"
+        },
+        {
+          "chapterSeq": 480,
+          "extractReason": "UPDATE",
+          "evidenceText": "石柱断折的大厅内，还剩残骸的祭坛周围出现了一群穿黑色风衣，戴丝绸礼帽的值夜者，为首之人正是黑夜女神教会贝克兰德教区大主教圣者安东尼·史蒂文森。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [474, 480]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "奥黛丽在贝克兰德大雾霾事件后感到自豪和沉重。她正式成年，参加王后主持的成年礼晚会。她阅读报纸得知死亡人数，情绪低落，但最终绽放笑容。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会成员“正义”",
+        "序列7读心者",
+        "贝克兰德贵族少女",
+        "成年礼在1349年最后一天"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽站在窗边，看着淡黄与铁黑交错的雾气飞快消散，看着不属于冬日的大雨磅礴而落，心情平稳了不少。……霍尔伯爵一边将外套和帽子交给侍者，一边露出温和的笑容：“解决了，但具体过程还不清楚，我的小公主，你这次真是帮了大忙，你值得一吨重的勋章！”"
+        },
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "今天，我将她正式介绍给你们。“奥黛丽·霍尔小姐。”砰！砰！砰！落地窗外，烟花升空，炸出一片又一片梦幻的光亮。1349年最后一天的晚上，奥黛丽在社交意义上正式成年了。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [477, 481, 482]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "埃姆林在丰收教堂帮助分发草药治疗瘟疫感染者，得知心理暗示仅让他每天回教堂，并未强制改信，大为错愕。他自称已找到解决心理暗示的办法，即将离开。",
+      "identInfos": [
+        "吸血鬼",
+        "丰收教堂义工",
+        "塔罗会成员“月亮”",
+        "被乌特拉夫斯基神父心理暗示",
+        "大地母神信徒（表面）"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林·怀特穿着教士袍，站在厨房内，时而往大铁锅里丢着不同的草药，并辅以一定的搅拌。……乌特拉夫斯基神父动了下眉毛，略显诧异地说道：“我并没有强制你改变信仰。“我留的心理暗示只是让你每天回到教堂，希望你能借此充分体会生命的可贵，丰收的喜悦。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [482]
+    },
+    {
+      "name": "乌特拉夫斯基神父",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乌特拉夫斯基神父在丰收教堂接收异信者瘟疫病人，与埃姆林一起分发药剂。他透露心理暗示仅让埃姆林每天回教堂，并未强制改信，并坦然接收所有生命。",
+      "identInfos": [
+        "大地母神教会神父",
+        "丰收教堂主持",
+        "序列6黎明骑士",
+        "曾击败并囚禁埃姆林"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌特拉夫斯基神父没有回应，望着那些病人，温和笑道：“再有两三天，他们应该就能痊愈了。”……乌特拉夫斯基神父坦然点头：“是的。”……“他们同样是生命，无辜的生命。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [482]
+    },
+    {
+      "name": "班森·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班森通过政府雇员考试，计划带梅丽莎迁居贝克兰德。新年期间，他回忆克莱恩，餐桌上多摆一副餐具。他于1月3日与梅丽莎乘蒸汽列车抵达贝克兰德，在车站与克莱恩（新模样）擦肩而过。",
+      "identInfos": [
+        "克莱恩·莫雷蒂的哥哥",
+        "政府雇员",
+        "举家迁往贝克兰德",
+        "在车站与克莱恩相遇未认出"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森进入房屋，边摘掉帽子，脱去外套，边呵呵笑道：“我已经订好1月3日去贝克兰德的蒸汽列车车票，二等座。”"
+        },
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "班森很有经验地护着妹妹和钱夹，提着皮箱，顺着人潮，走出了车站。忽然，他们同时感觉有一道视线扫过。循迹望去，班森和梅丽莎看见了一位黑发整齐，眼眸深棕的年轻绅士。那戴着金边眼镜的绅士按了按礼帽，目光越过他们，投向了远方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [482]
+    },
+    {
+      "name": "梅丽莎·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "梅丽莎与班森一同前往贝克兰德，在车站与克莱恩擦肩而过，未认出兄长。她之前担忧贝克兰德空气差，但仍随班森迁居。",
+      "identInfos": [
+        "克莱恩·莫雷蒂的妹妹",
+        "与班森一同迁居贝克兰德",
+        "在车站与克莱恩相遇未认出"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "坐在餐厅内，面前摊着几份报纸的梅丽莎略显忧虑地说道：“班森，贝克兰德的空气太差了，之前几天才因为大雾霾造成的中毒和疾病，死了好几万人……”"
+        },
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "循迹望去，班森和梅丽莎看见了一位黑发整齐，眼眸深棕的年轻绅士。那戴着金边眼镜的绅士按了按礼帽，目光越过他们，投向了远方。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [482]
+    },
+    {
+      "name": "戴黄金面具的男子",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴黄金面具的男子是与因斯·赞格威尔合作的神秘人，使用放逐能力将阿兹克放逐，并催促因斯隐藏遗迹，避免被教会发现。",
+      "identInfos": [
+        "与因斯·赞格威尔合作",
+        "能力为放逐",
+        "戴黄金面具",
+        "参与地下遗迹事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "“放逐！”戴黄金面具的男子指着阿兹克·艾格斯，将他的身影丢入虚空，不知扔向了哪里。旋即，他转身面对皱眉看着自己的因斯·赞格威尔。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [479]
+    },
+    {
+      "name": "乔治三世",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乔治三世面对三大教会的质问，宣布将埃德萨克王子定为叛国并已自裁，同时做出巨大让步，包括允许教会派遣人员进入军方，推动多项改革法案。",
+      "identInfos": [
+        "鲁恩王国国王",
+        "奥古斯都家族",
+        "在大雾霾事件后做出政治让步"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "戴着王冠，脸庞坚毅，留着两撇小胡子的乔治三世坐在御座上，看着面前的行宫伯爵，久久不语。……“解释？埃德萨克王子受魔女诱惑，与邪教勾结，试图谋反，这就是解释！他阴谋败露，已经自裁，他们还要什么解释！”乔治三世忽然暴怒。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [481]
+    },
+    {
+      "name": "芬克尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "芬克尔是埃德萨克王子的老管家，侍立于日晒屋内。在埃德萨克放走特莉丝后，他可能负责阻止追捕。最终，他被神秘天使级存在抹杀。",
+      "identInfos": [
+        "埃德萨克王子的老管家",
+        "被“0-17”抹杀"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "她的背后，博物柜内摆放的瓷器等物已然摔在了厚软的地毯上，老管家芬克尔则侍立于旁边。"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "那人影穿着戴兜帽的古典长袍，黑色的眼眸藏于阴影之中，面容呆滞没有表情。芬克尔瞳孔一缩，当即张开嘴巴，试图念出一个古赫密斯语单词，但却愕然察觉自己的鼻子在消失，自己的声音已不见。他的表情里顿时多了几分绝望，然后整个人如同虚空内的污迹，被抹布擦得干干净净，再没有丝毫残余。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [474, 479]
+    },
+    {
+      "name": "霍尔伯爵",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "霍尔伯爵回家后告知奥黛丽事件已解决，并透露大雾霾造成超过万人死亡。他称赞奥黛丽帮了大忙。",
+      "identInfos": [
+        "奥黛丽的父亲",
+        "鲁恩王国伯爵",
+        "贵族"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "霍尔伯爵一边将外套和帽子交给侍者，一边露出温和的笑容：“解决了，但具体过程还不清楚，我的小公主，你这次真是帮了大忙，你值得一吨重的勋章！”……“但这次依然造成了较为严重的伤亡，贝克兰德的雾霾竟然能变得如此致命……虽然统计结果还没有出来，可我估计东区、码头区和工厂区有超过万人因此而死亡，并且瘟疫还在蔓延，你最近尽量不要出门。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [481]
+    },
+    {
+      "name": "凯特琳夫人",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "凯特琳夫人是奥黛丽的母亲，在奥黛丽成年礼时与霍尔伯爵一起陪伴她，并赞美她的美丽。",
+      "identInfos": [
+        "奥黛丽的母亲",
+        "霍尔伯爵夫人"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 482,
+          "extractReason": "UPDATE",
+          "evidenceText": "就在这时，她的父亲霍尔伯爵和母亲凯特琳夫人敲门进来，同声赞美道：“你的美丽胜过今晚的所有人，宝贝，该出去了，王后正等待着你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [482]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "苏茜是奥黛丽的宠物金毛大狗，已服食观众魔药能说话。在雾霾时，她与奥黛丽一起在窗边观察。",
+      "identInfos": [
+        "奥黛丽的宠物金毛大狗",
+        "非凡生物，会说话",
+        "观众途径"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 477,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这有些不对劲。”金毛大狗苏茜蹲在她旁边，同样眺望着那原本常见的雾霾。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [477]
+    },
+    {
+      "name": "戴莉·西蒙妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "戴莉是值夜者死灵导师，在圣安东尼大主教唤醒0-17时负责值守查尼斯门。她遵照命令进入流程。",
+      "identInfos": [
+        "值夜者死灵导师",
+        "曾与克莱恩同事"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "今日率领小队负责值守的是“死灵导师”戴莉·西蒙妮。未等她开口询问，圣安东尼大主教就沉声吩咐道：“做好准备，进入流程，我要唤醒一件封印物。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [474]
+    },
+    {
+      "name": "艾伦医生",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "艾伦医生未直接出场，仅在克莱恩回忆中提及。但在当前chunk中无直接原文出现。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    },
+    {
+      "name": "迈克·约瑟夫记者",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "迈克记者未直接出场，仅克莱恩计划匿名写信给他求助照顾黛西。无当前chunk直接原文。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": [],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": []
+    }
+  ],
+  "factions": [
+    {
+      "name": "极光会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "极光会A先生与魔女教派合作，试图举行真实造物主降临仪式，利用大雾霾和负面情绪。仪式被克莱恩破坏，A先生被抹杀。极光会此后可能背负所有恶名。",
+      "identInfos": [
+        "信仰真实造物主",
+        "成员多为疯子",
+        "曾刺杀贝克朗大使",
+        "在贝克兰德活动"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 475,
+          "extractReason": "UPDATE",
+          "evidenceText": "清柔的女声带上了笑意：“这正是我们的想法，我负责‘纵火’，你们则借助这个机会，扩大趋势，制造通道或容器，让你们那位主降临于世间。“而你们付出的唯一代价是，背负上所有的恶名，获得军方和三大教会最大程度的仇恨，但我认为你们应该不会介意。”"
+        }
+      ]
+    },
+    {
+      "name": "魔女教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "魔女教派与王室派系合作，派出绝望女士制造贝克兰德大雾霾，试图掩盖大量人口失踪的仪式。绝望女士被0-17抹杀，教派可能继续追踪特莉丝。",
+      "identInfos": [
+        "信仰原初魔女",
+        "成员多为女性，由男性刺客转化",
+        "与王室派系秘密合作",
+        "制造贝克兰德大雾霾事件"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "特莉丝嘴角上翘，侧头嗤笑了一声：“可怜的人啊，连喜欢这种事情都被别人安排好了，就像那牵着线的木偶。“你还不明白吗？你属于可以牺牲的对象，而我，既是王室和魔女教派合作需要的人质，也是欺骗所必须的伪装。”"
+        }
+      ]
+    },
+    {
+      "name": "王室派系",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "鲁恩王室某个派系与魔女教派、因斯·赞格威尔合作，在地下遗迹进行涉及大量人口的秘密仪式，并试图用大雾霾掩盖。事后，乔治三世将责任推给埃德萨克王子和魔女，做出政治让步。",
+      "identInfos": [
+        "鲁恩王国奥古斯都家族部分成员",
+        "与魔女教派、因斯·赞格威尔合作",
+        "涉及大量人口失踪的秘密仪式",
+        "事后推卸责任并改革"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 475,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔应该是在和王室某个派系合作……能于贝克兰德附近发掘并隐藏那么大一个地下遗迹的势力必然是鲁恩王国的主导者之一……"
+        },
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "“解释？埃德萨克王子受魔女诱惑，与邪教勾结，试图谋反，这就是解释！他阴谋败露，已经自裁，他们还要什么解释！”乔治三世忽然暴怒。……“就这样告诉他们！既然他们想要新秩序，那我就给他们新秩序！”"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "黑夜女神教会贝克兰德教区大主教圣安东尼唤醒0-17封印物处理原初魔女相关事件，并带领值夜者调查地下遗迹，发现仪式已被破坏。教会获得国王让步，可派遣人员进入军方。",
+      "identInfos": [
+        "七神教会之一",
+        "掌握封印物0-17",
+        "在贝克兰德大雾霾事件中行动",
+        "获得政治让步"
+      ],
+      "aliases": [
+        {
+          "alias": "女神教会",
+          "type": "简称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "圣赛缪尔教堂，一个安静的房间内。黑夜女神教会十三位大主教之一，贝克兰德教区的负责人，圣者安东尼·史蒂文森拿到了从霍尔伯爵府邸传来的紧急电报。"
+        },
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "允许三大教会派遣人员进入军方！"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "风暴教会在贝克兰德大雾霾事件中反应迅速，制造风暴和雷雨驱散毒雾，缓解疫情。",
+      "identInfos": [
+        "七神教会之一",
+        "信仰风暴之主",
+        "在大雾霾事件中驱散雾霾"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 477,
+          "extractReason": "UPDATE",
+          "evidenceText": "乔伍德区，圣风大教堂。它的外面突地浮现肉眼可见的恐怖风暴，然后向着东面鼓荡起了难以想象的飓风。呜！沉积的雾气被吹散，浓郁的黄色与铁黑飞快淡化。"
+        }
+      ]
+    },
+    {
+      "name": "蒸汽与机械教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "蒸汽与机械教会在当前chunk中未被直接提及，但在克莱恩思考中作为嫌疑排除。无直接原文。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "军情九处",
+      "wikiSectionType": "势力",
+      "importanceLevel": "LOW",
+      "summary": "军情九处为军方情报机构，克莱恩推测其可能负责相关事件。无当前chunk直接原文。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    }
+  ],
+  "items": [
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "万能钥匙在克莱恩投掷入祭台后被分解，内部诅咒爆发，连接门先生的呐喊，污染了仪式怨念，导致祭台失衡爆炸。钥匙彻底毁坏，非凡特性化为光粒聚合。",
+      "identInfos": [
+        "形制古朴的黄铜色钥匙",
+        "内含门先生诅咒",
+        "源于亚伯拉罕家族",
+        "被克莱恩用于破坏降临仪式"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 477,
+          "extractReason": "UPDATE",
+          "evidenceText": "黄铜色的辉芒一闪，那物品进入了层叠的光层。那是一把形制古朴的钥匙。那是“万能钥匙”。"
+        },
+        {
+          "chapterSeq": 477,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见“万能钥匙”分解成了最微小的光粒和一片虚幻扭曲的绯红。那抹绯红在快速变淡中竭力挣扎，猛地爆开！"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "蠕动的饥饿是阿兹克赠予克莱恩的神奇物品，原为海盗中将遗物。它是人皮制成的手套，可放牧五个灵魂，使用对应能力。阿兹克施加了封印，使其平时不饥饿，但每次使用需用人类血肉和灵魂喂养。克莱恩在灰雾之上研究，确定其当前放牧有“无面人”、“心理医生”、“审讯官”、“梦魇”、“光之祭司”五种能力，并立誓逐步释放痛苦灵魂。",
+      "identInfos": [
+        "人皮制成的手套",
+        "放牧五个灵魂使用能力",
+        "原为海盗中将遗物",
+        "有饥饿反噬特性",
+        "当前放牧：无面人、心理医生、审讯官、梦魇、光之祭司"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 480,
+          "extractReason": "UPDATE",
+          "evidenceText": "他顿了顿，似乎也想起了什么事情，于是从衣兜里拿出一只轻薄得仿佛人皮制成的手套，递给克莱恩道：“有关的记忆我已经唤醒，不再需要它，呵呵，它是那个海盗中将的遗物，我有做一些封印，让它平时不会饥饿，但每使用一次，就必须用一个人类的血肉和灵魂喂饱它，否则，它将吞噬你。”"
+        },
+        {
+          "chapterSeq": 481,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩听到了不甘的呐喊和痛苦的呻吟。一张张扭曲的，狰狞的，哀嚎着的透明脸孔旋即凸显于他的灵感内……克莱恩的灵性蔓延到哪里，就能与相应的“脸孔”结合，使用它所具备的能力。"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿兹克铜哨被克莱恩用于召唤白骨信使，抵挡A先生的致命攻击，信使阵亡。克莱恩因此感到惭愧，但阿兹克表示信使可在冥界重生。",
+      "identInfos": [
+        "阿兹克·艾格斯的信使召唤物",
+        "可召唤白骨信使",
+        "信使阵亡后可重生"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩拿出了阿兹克铜哨，将它凑到嘴边，在喷嚏和咳嗽声里艰难地吹了一下！没有任何前置动静的情况下，他通过灵视看见白骨喷泉般涌出，飞快勾勒成眼窝有漆黑火焰在燃烧的巨大信使。"
+        },
+        {
+          "chapterSeq": 480,
+          "extractReason": "UPDATE",
+          "evidenceText": "它，它在我和A先生的战斗里阵亡了，它救了我一命。”阿兹克看了他一眼，摇头笑道：“不用在意，只要不是被天使级的强者杀掉，或者用特殊的办法，只要冥界还存在，它都能在那里缓慢重生。"
+        }
+      ]
+    },
+    {
+      "name": "0-08",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "0-08是一支羽毛笔模样的0级封印物，曾短暂失控，疯狂书写荒诞故事。它将因斯·赞格威尔的裤子掉落写为合理，并引来未知存在抓住因斯。后被因斯收回。",
+      "identInfos": [
+        "0级封印物",
+        "外形为羽毛笔",
+        "能书写命运",
+        "会尝试写死主人",
+        "被因斯·赞格威尔执掌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 475,
+          "extractReason": "UPDATE",
+          "evidenceText": "“0-08”这支羽毛笔继续写道：“有人遗憾，有人庆幸，因斯·赞格威尔身上有一根‘邪神脐带’……通过使用‘脐带’，他顺利摆脱了未知存在的禁锢……但他也彻底失去了那件神奇的物品，并将在短时间内承受邪神子嗣无法降生的怨恨。这让他的实力就像百货商店换季时的某些商品一样，只剩原本的55%，嗯，这个数字非常精确。”"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "因斯·赞格威尔收起疑惑，点了点头，转身来到停止了书写的“0-08”旁边，一把将它抓住。"
+        }
+      ]
+    },
+    {
+      "name": "0-17",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "0-17是黑夜女神教会保存的0级封印物，实为一位活着的天使，外表为年轻女性，无灵智。凡靠近者会消失。圣安东尼唤醒它处理原初魔女相关事件，它迅速抹杀了绝望女士、芬克尔等人，并对克莱恩微笑后消失。",
+      "identInfos": [
+        "0级封印物",
+        "活着的天使，女性外貌",
+        "黑色头发眼睛，面容秀美呆滞",
+        "靠近者会消失",
+        "保存在贝克兰德教区"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 474,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这不是一件物品。“这是一个活着的天使。“祂外表秀美，头发和眼睛都是黑色，疑似年轻的女性，实际年龄无法估算。“……祂没有思考的能力，失去了所有的灵智。“……凡是靠近祂的人和物品，都会彻底消失……”"
+        },
+        {
+          "chapterSeq": 479,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩就看见A先生似乎变成了铅笔画，被橡皮擦飞快抹掉，毫无反抗之力……那身影侧过脑袋，望向了自己。那是一张秀美的脸庞，但没有丝毫的表情，黑色的眼眸幽暗深邃，却缺乏灵性。就在克莱恩的心脏狂跳，以为自己也会无声无息消失……那女子的嘴角缓缓扯动，向上勾起，露出了一个微笑。"
+        }
+      ]
+    },
+    {
+      "name": "阳炎符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "阳炎符咒未在当前chunk直接出现，但在克莱恩回忆中提及曾使用。无当前chunk原文。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "生物毒素瓶未在当前chunk直接使用，仅克莱恩思考时提及。无当前chunk原文。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "全黑之眼未在当前chunk直接使用，仅克莱恩思考时提及。无当前chunk原文。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "黑皇帝牌是罗塞尔制作的亵渎之牌之一，包含黑皇帝途径成神知识。克莱恩计划将其交给阿兹克研究。无当前chunk直接原文，仅对话提及。",
+      "identInfos": [
+        "亵渎之牌",
+        "黑皇帝途径",
+        "罗塞尔大帝制作",
+        "包含成神秘密"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 480,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩没提悬赏，害怕因此泄露塔罗会、灰雾之上神秘空间和“正义”小姐的秘密，所以只能用这种委婉的方式感谢阿兹克先生的帮助和付出。……阿兹克略感诧异地望了他一眼，但最终什么也没说，轻轻颔首道：“等你取回，让信使带给我，我研究之后就立刻还给你，或者你直接抄录相应的内容给我。”"
+        }
+      ]
+    },
+    {
+      "name": "左轮手枪",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩随身携带的左轮手枪，用于射击A先生，但子弹被祭台屏障消融或未能致命。无当前chunk直接原文描述其特性，仅作为普通武器使用。根据规则，普通武器不单独抽取，但此处作为克莱恩常用物品提及，暂保留。然而，规则要求物品必须有明确实体形态且对剧情有重要影响，普通左轮手枪不符合，因而不应抽取。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "猎魔子弹",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "银色猎魔子弹，被克莱恩射向祭台，但被光层消融。属于消耗品，无后续影响，不单独建立条目。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "纸人替身",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩多次使用纸人替身躲避致命攻击。属于魔术师非凡能力衍生物，不单独作为物品。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "沉眠符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩自制符咒，但在战斗中被疾病打断未能使用。一次性物品，无后续影响，不创建。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "蓝宝石指环",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "特莉丝左手小指的蓝宝石指环，在遭遇0-17时四分五裂，救了她一命。可能为神奇物品，但仅出现一次且损毁。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 478,
+          "extractReason": "UPDATE",
+          "evidenceText": "但当特莉丝低下头，却惊愕地发现左手小指的蓝宝石指环不知什么时候已四分五裂，失去了全部的光彩。"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙衍生物",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "万能钥匙被毁后留下的非凡特性光粒，正在聚合。属物品残留，无需单独创建。",
+      "identInfos": [],
+      "aliases": [],
+      "evidences": []
+    }
+  ]
+}

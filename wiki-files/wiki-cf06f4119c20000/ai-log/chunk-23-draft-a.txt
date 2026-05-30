@@ -1,0 +1,1077 @@
+{
+  "characters": [
+    {
+      "name": "克莱恩·莫雷蒂",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩晋升序列6“无面人”，领悟扮演守则：可假扮任何人但只能是自己。他体验灵性与魔药的契合，通过变化为周明瑞的形象，进一步理解自我。他计划搜集美人鱼线索以完成晋升仪式。他与莎伦合作处理拉夫特·庞德挖掘地道之事，遭遇地下遗迹恶灵。恶灵请求帮助解除封印，但克莱恩和莎伦拒绝。恶灵透露“红祭司”亵渎之牌线索及“救赎蔷薇”组织。克莱恩灰雾占卜确认恶灵恶意。埃姆林·怀特受血族始祖启示向“愚者”祈求，克莱恩延迟响应后将其拉入塔罗会，代号“月亮”，并解除其心理暗示。塔罗会上，克莱恩阅读罗塞尔日记，得知“奇迹师”与死而复生的关联，怀疑灰雾与占卜家途径有深层联系。他从“太阳”处了解白银城探索循环困境，提示“救赎蔷薇”。他察觉埃德萨克王子周围有封印物“0-08”制造的巧合，决定借交卸任务退出调查。在红蔷薇庄园，克莱恩遭遇特莉丝（已晋升“欢愉魔女”），她透露被迫改名“特莉丝奇克”，克莱恩意识到“奇克”是原初魔女真名。他逃离后遭遇陨石袭击，被阿兹克救入灵界。因阿兹克隐患，两人落入地底，遭遇因斯·赞格威尔及其帮手。克莱恩化身因斯外貌逃亡，通过关卡，最终借助光门离开地底，并伪装成守卫制造混乱。他通知塔罗会“正义”奥黛丽，透露魔女和原初魔女信息。",
+      "identInfos": [
+        "夏洛克·莫里亚蒂侦探",
+        "塔罗会“愚者”",
+        "序列6“无面人”",
+        "占卜家途径非凡者",
+        "曾为值夜者克莱恩·莫雷蒂",
+        "持有阿兹克铜哨"
+      ],
+      "aliases": [
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "愚者",
+          "type": "称号"
+        },
+        {
+          "alias": "世界",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 454,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这也许是因为，我一直在扮演克莱恩·莫雷蒂，嗯……从某种意义上来讲，夏洛克·莫里亚蒂只是克莱恩的伪装，并非另外的人。”"
+        },
+        {
+          "chapterSeq": 455,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“你应该是异种途径的‘怨魂’，下一步就是成为半神的关键节点，我不知道你是否有‘木偶’的魔药配方，但我可以帮助你获得，甚至成为你仪式的组成部分，这就是我允诺的报酬。”"
+        },
+        {
+          "chapterSeq": 456,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“序列0：红祭司！”"
+        },
+        {
+          "chapterSeq": 458,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“埃姆林·怀特，我现在交给你一件事情。找机会向‘愚者’祈祷。”"
+        },
+        {
+          "chapterSeq": 467,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我选‘月亮’牌！”"
+        },
+        {
+          "chapterSeq": 470,
+          "extractReason": "UPDATE",
+          "evidenceText": "“特莉丝奇克。”"
+        },
+        {
+          "chapterSeq": 471,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奇克，嘿，这是‘原初魔女’的真名……”"
+        },
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“阿兹克·艾格斯明显还未恢复全部的记忆和实力，他借助灵界和星界尝试的穿行在这个时候恰好因这方面的隐患出了问题，于是，他和夏洛克·莫里亚蒂落到了距离因斯·赞格威尔和他的朋友不远的地方。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "白银城探索小队在堕落造物主神庙陷入时间循环，反复经历探索与战斗。戴里克在塔罗会帮助下，利用愚者提示的“救赎蔷薇”和壁画中的命运天使“吞尾者”乌洛琉斯信息，由首席科林打破循环，擒获来自恩马特港的小男孩杰克，得知可通过巨人王庭废墟抵达海边，为白银城带来希望。",
+      "identInfos": [
+        "白银城居民",
+        "塔罗会“太阳”",
+        "序列7“太阳神官”",
+        "持有“飓风之斧”",
+        "曾受阿蒙寄生"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 454,
+          "extractReason": "UPDATE",
+          "evidenceText": "闪电逐渐平复，黑暗变成了大地的主宰。白银城的探索小队经过不长但也不短的跋涉和零零星星的战斗，终于抵达了目的地。"
+        },
+        {
+          "chapterSeq": 460,
+          "extractReason": "UPDATE",
+          "evidenceText": "那些场景有：坍塌的城墙；白蓝交错的建筑；与白银城风格类似的“堕落造物主”神庙……这样的一幕幕重复了五遍，但每次都有些细节上的不同。"
+        },
+        {
+          "chapterSeq": 466,
+          "extractReason": "UPDATE",
+          "evidenceText": "命运天使，‘吞尾者’乌洛琉斯。”"
+        },
+        {
+          "chapterSeq": 467,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他家，我家在恩马特港！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [454, 455, 457, 460, 461, 462, 465, 466, 467]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会上，奥黛丽帮助“太阳”分析循环困境。她收到“愚者”关于埃德萨克王子和原初魔女的警告。她向母亲坦白非凡者身份，并透露埃德萨克王子身边的魔女隐患，其母亲安排通知教会。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会“正义”",
+        "序列7“读心者”",
+        "心理炼金会成员",
+        "宠物狗苏茜"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 460,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘太阳’先生，发生了什么事情？探索真实，额，堕落造物主神庙的行动并不顺利？”"
+        },
+        {
+          "chapterSeq": 463,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃德萨克·奥古斯都王子？他会与什么危险的，可能导致惨剧的大事有关系？而且，这件事情似乎已经得到了“愚者”先生的注视！"
+        },
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“妈妈，我有事情瞒着你们。”……“我已经，我已经是一个非凡者。”"
+        },
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“她是一位‘欢愉魔女’。而更让我恐惧的是，她的名字叫特莉丝奇克。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [460, 461, 462, 463, 464, 472]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林受血族始祖启示，向“愚者”祈求。愚者延迟响应后将其拉入塔罗会，代号“月亮”，并解除其心理暗示。他讲述了血族历史，包括“血月女王”奥尔尼娅。",
+      "identInfos": [
+        "吸血鬼",
+        "塔罗会“月亮”",
+        "丰收教堂义工",
+        "喜欢人偶",
+        "受乌特拉夫斯基神父心理暗示"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 458,
+          "extractReason": "UPDATE",
+          "evidenceText": "“始祖告诉我，末日已经很近，我们必须为此做好准备，而你，埃姆林·怀特，在始祖的启示里，是几个关键之一。”"
+        },
+        {
+          "chapterSeq": 467,
+          "extractReason": "UPDATE",
+          "evidenceText": "“找机会向‘愚者’祈祷。”"
+        },
+        {
+          "chapterSeq": 468,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我选‘月亮’牌！”"
+        },
+        {
+          "chapterSeq": 469,
+          "extractReason": "UPDATE",
+          "evidenceText": "“大灾变之后，血族离开了南北大陆历史舞台的中央……直到我们的女王，‘血月女王’奥尔尼娅成为特伦索斯特帝国那位夜皇的妻子。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [458, 459, 463, 464, 465, 467, 468, 469]
+    },
+    {
+      "name": "科林·伊利亚特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "白银城“六人议事团”首席，带领探索小队进入堕落造物主神庙，陷入时间循环。他根据戴里克的提示，识别出“命运天使”乌洛琉斯，打破循环，擒获小男孩杰克。",
+      "identInfos": [
+        "白银城首席",
+        "半神级强者",
+        "猎魔者",
+        "曾净化阿蒙时之虫"
+      ],
+      "aliases": [
+        {
+          "alias": "猎魔者",
+          "type": "称号"
+        },
+        {
+          "alias": "首席",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 454,
+          "extractReason": "UPDATE",
+          "evidenceText": "“猎魔者”科林环顾一圈，脸色有些沉凝，就像看见了白银城的未来。"
+        },
+        {
+          "chapterSeq": 466,
+          "extractReason": "UPDATE",
+          "evidenceText": "“命运天使，‘吞尾者’乌洛琉斯。”"
+        },
+        {
+          "chapterSeq": 467,
+          "extractReason": "UPDATE",
+          "evidenceText": "科林浅蓝色的眼眸迅速变淡，染上了银色，到了最后，眸子甚至竖直起来，映照出了小男孩杰克的身影。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [454, 455, 457, 460, 465, 466, 467]
+    },
+    {
+      "name": "特莉丝",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "特莉丝已晋升为“欢愉魔女”，成为埃德萨克王子的情妇。她透露自身被操纵，被迫改名“特莉丝奇克”，并请求克莱恩举报自己以摆脱控制。",
+      "identInfos": [
+        "原为男性“教唆者”特里斯",
+        "魔女教派成员",
+        "晋升“欢愉魔女”",
+        "被改名“特莉丝奇克”",
+        "埃德萨克王子情妇"
+      ],
+      "aliases": [
+        {
+          "alias": "特莉丝奇克",
+          "type": "另一个身份名称"
+        },
+        {
+          "alias": "特里斯",
+          "type": "别名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 470,
+          "extractReason": "UPDATE",
+          "evidenceText": "“特莉丝奇克。”"
+        },
+        {
+          "chapterSeq": 470,
+          "extractReason": "UPDATE",
+          "evidenceText": "“有人在操纵我的人生，总是有巧合让我事后惊悚。而且我也越来越不像自己了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [470, 471]
+    },
+    {
+      "name": "阿兹克·艾格斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "阿兹克在克莱恩遭遇陨石袭击时出现，将其救入灵界。但因自身隐患，两人落入地底，遭遇因斯·赞格威尔。阿兹克自称曾为序列“不死者”，让克莱恩先逃。",
+      "identInfos": [
+        "克莱恩的老师和朋友",
+        "长生者，失忆",
+        "序列“不死者”",
+        "持有强大铜哨",
+        "与死神关系密切"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“不用担心我，我回忆起了不少事情，知道自己曾经待在一个序列很久，那个序列叫‘不死者’。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [472, 473]
+    },
+    {
+      "name": "因斯·赞格威尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "因斯·赞格威尔出现在地底，与阿兹克对峙。他是前黑夜女神教会大主教，叛逃者，持有封印物“0-08”。",
+      "identInfos": [
+        "前黑夜女神教会大主教",
+        "叛逃者",
+        "持有封印物“0-08”",
+        "序列4“守夜人”",
+        "独眼，暗金发色"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“因斯·赞格威尔和他的朋友”"
+        },
+        {
+          "chapterSeq": 473,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那身影穿着纯黑色的神职人员长袍，五官如同古典雕塑，深刻分明。他发色暗金，眸子深蓝，鼻梁高挺，戴着顶老者喜爱的软帽，鬓角与中年外貌不太相衬地有些发白。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [473]
+    },
+    {
+      "name": "拉夫特·庞德",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "图铎家族后裔，从男爵。他挖掘地道试图接触地下遗迹恶灵，被克莱恩和莎伦阻止。恶灵附身他后与两人交谈，请求解除封印。",
+      "identInfos": [
+        "图铎家族后裔",
+        "从男爵",
+        "挖掘地下遗迹",
+        "被恶灵附身"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 456,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正是被外界认为有精神方面疾病的拉夫特·庞德从男爵，隐藏起来的第四纪图铎家族后裔。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [456]
+    },
+    {
+      "name": "莎伦",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩的前保镖小姐，异种途径“怨魂”。她与克莱恩合作处理拉夫特·庞德，并拒绝帮助恶灵解除封印。",
+      "identInfos": [
+        "异种途径“怨魂”",
+        "克莱恩的前保镖",
+        "马里奇的同伴",
+        "穿着哥特式宫廷长裙"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 455,
+          "extractReason": "UPDATE",
+          "evidenceText": "“你应该是异种途径的‘怨魂’，下一步就是成为半神的关键节点”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [455, 456, 457]
+    },
+    {
+      "name": "埃德萨克·奥古斯都",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "鲁恩王国王子。克莱恩向他交卸调查塔利姆猝死案的任务。他被魔女特莉丝迷惑，卷入危险事件。",
+      "identInfos": [
+        "鲁恩王国王子",
+        "风暴之主信徒",
+        "被魔女特莉丝迷惑"
+      ],
+      "aliases": [
+        {
+          "alias": "埃德萨克王子",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 459,
+          "extractReason": "UPDATE",
+          "evidenceText": "“莫里亚蒂侦探，王子殿下在街口的马车上等你，希望了解调查的进度。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [459, 470]
+    },
+    {
+      "name": "杰克",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "小男孩杰克出现在堕落造物主神庙深处，自称来自恩马特港，与父亲乘船寻找“主的圣所”。他已成怪物，胸腹间有其他人器官。揭示可通过巨人王庭废墟抵达海边。",
+      "identInfos": [
+        "来自恩马特港",
+        "与父亲寻找造物主圣所",
+        "半怪物状态",
+        "胸腹有他人器官"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 455,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“我叫，我叫杰克……”"
+        }
+      ],
+      "lifeStatus": "昏迷中",
+      "appearanceChapterSeqs": [455, 466, 467]
+    },
+    {
+      "name": "约书亚",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "白银城探索小队成员，戴里克队友，戴有赤红手套的神奇物品。",
+      "identInfos": [
+        "白银城居民",
+        "探索小队成员",
+        "戴赤红手套"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 455,
+          "extractReason": "UPDATE",
+          "evidenceText": "“约书亚，有一件在某次探索里获得并成功兑换下来的神奇物品。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [455, 457, 466, 467]
+    },
+    {
+      "name": "海因姆",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "白银城探索小队成员，戴里克队友。",
+      "identInfos": [
+        "白银城居民",
+        "探索小队成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 465,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“海因姆，你看到了吗？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [465]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“倒吊人”，为“太阳”分析时间循环困境，提供“太阳神官”魔药配方，猜测杰克可能来自苏尼亚海。",
+      "identInfos": [
+        "风暴教会非凡者",
+        "塔罗会“倒吊人”",
+        "序列5“航海家”",
+        "为教会高层"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 460,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我只能想到两种可能，一是你们遭遇了超过半神半人层次的梦魇或幻觉类能力……”"
+        },
+        {
+          "chapterSeq": 461,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那个‘倾听者’同样带着他的孩子，年龄和‘太阳’描述的杰克很接近。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [460, 461, 462, 463]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会“魔术师”，为“正义”提供镜龙眼睛作为“心理医生”材料，并询问食灵者胃袋。她信仰蒸汽与机械之神，但信仰不虔诚。",
+      "identInfos": [
+        "塔罗会“魔术师”",
+        "序列9“学徒”",
+        "作家",
+        "满月诅咒受害者"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 462,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我已经收到回信，我的老师那里有镜龙的眼睛一对，价格是1000镑。”"
+        },
+        {
+          "chapterSeq": 461,
+          "extractReason": "UPDATE",
+          "evidenceText": "“为什么没有蒸汽与机械之神？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [460, 461, 462, 463]
+    },
+    {
+      "name": "乌特拉夫斯基",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "丰收教堂主教，大地母神教会成员。他对埃姆林施加心理暗示，使其成为义工。",
+      "identInfos": [
+        "丰收教堂主教",
+        "大地母神教会成员",
+        "对埃姆林施加心理暗示"
+      ],
+      "aliases": [
+        {
+          "alias": "乌特拉夫斯基神父",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 458,
+          "extractReason": "UPDATE",
+          "evidenceText": "“乌特拉夫斯基神父站在那里，衬得吸血鬼就像一个小孩。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [458]
+    },
+    {
+      "name": "尼拜斯·奥德拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "古老血族，活跃于第四纪。他受始祖启示向埃姆林传递向“愚者”祈祷的任务。",
+      "identInfos": [
+        "血族强者",
+        "奥德拉家族先祖",
+        "沉睡于棺柩中"
+      ],
+      "aliases": [
+        {
+          "alias": "尼拜斯大人",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 458,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“尼拜斯·奥德拉是位活跃于第四纪的强大血族”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [458, 459, 467]
+    },
+    {
+      "name": "卡西米·奥德拉",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "血族，举办聚会的主人，尼拜斯的孙子。",
+      "identInfos": [
+        "血族",
+        "尼拜斯之孙",
+        "奥德拉家族成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 458,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“今晚宴会的主人，卡西米·奥德拉端着酒杯走了过来”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [458, 459]
+    },
+    {
+      "name": "于尔根",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩的律师朋友，将去南方度假，推荐同事给克莱恩。",
+      "identInfos": [
+        "律师",
+        "克莱恩的朋友",
+        "养猫布罗迪"
+      ],
+      "aliases": [
+        {
+          "alias": "于尔根律师",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 454,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我是来通知你一声，如果这段时间需要保释和处理法律纠纷，你可以找我的同事”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [454]
+    },
+    {
+      "name": "老科勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "克莱恩在东区雇佣的线人，每周15苏勒搜集情报。克莱恩提醒他注意安全，并让他照看丽芙一家。",
+      "identInfos": [
+        "东区线人",
+        "克莱恩雇佣",
+        "每周15苏勒报酬"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 469,
+          "extractReason": "UPDATE",
+          "evidenceText": "“这周以内，我就会去南方度假……这两镑是你接下来两周的报酬。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [469]
+    },
+    {
+      "name": "伊思兰特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽的心理学教师，心理炼金会成员。她为奥黛丽讲授“观众”“读心者”能力。",
+      "identInfos": [
+        "奥黛丽的心理学教师",
+        "心理炼金会成员"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 472,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“伊思兰特老师”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [472]
+    },
+    {
+      "name": "凯特琳·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "霍尔伯爵夫人，奥黛丽的母亲。奥黛丽向她坦白非凡者身份和埃德萨克王子身边的魔女隐患，她安排通知教会。",
+      "identInfos": [
+        "霍尔伯爵夫人",
+        "奥黛丽的母亲"
+      ],
+      "aliases": [
+        {
+          "alias": "伯爵夫人",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“妈妈，我有事情瞒着你们。”……“我已经，我已经是一个非凡者。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [472]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的宠物金毛大狗，因误食“观众”魔药获得能力，已能说话。",
+      "identInfos": [
+        "奥黛丽的宠物狗",
+        "金毛大狗",
+        "拥有读心能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 463,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奥黛丽，你遇到了什么问题？你的琴声告诉我，你有烦恼的事情。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [463, 472]
+    },
+    {
+      "name": "吞尾者乌洛琉斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "命运天使，称号“吞尾者”。白银城探索小队在壁画中识别出祂的形象，祂留下的力量导致时间循环。",
+      "identInfos": [
+        "命运天使",
+        "天使之王",
+        "吞尾者",
+        "代表循环河流"
+      ],
+      "aliases": [
+        {
+          "alias": "命运天使",
+          "type": "称号"
+        },
+        {
+          "alias": "吞尾者",
+          "type": "称号"
+        },
+        {
+          "alias": "乌洛琉斯",
+          "type": "名字"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 466,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“命运天使，‘吞尾者’乌洛琉斯。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [466]
+    },
+    {
+      "name": "奥尔尼娅",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "血族女王，“血月女王”，曾是特伦索斯特帝国夜皇的妻子。埃姆林讲述血族历史时提及。",
+      "identInfos": [
+        "血族女王",
+        "血月女王",
+        "夜皇的妻子"
+      ],
+      "aliases": [
+        {
+          "alias": "血月女王",
+          "type": "称号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 469,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“等到我们的女王，带领我们走出黑暗时期的‘血月女王’奥尔尼娅成为特伦索斯特帝国那位夜皇的妻子”"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [469]
+    },
+    {
+      "name": "芬克尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "埃德萨克王子的老管家。",
+      "identInfos": [
+        "埃德萨克王子的管家"
+      ],
+      "aliases": [
+        {
+          "alias": "老管家",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 459,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“来访者并非陌生人，而是埃德萨克王子的那位老管家。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [459, 470]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会新增成员“月亮”埃姆林·怀特。成员们帮助“太阳”解决时间循环困境，讨论壁画与“救赎蔷薇”。愚者警告“正义”和“魔术师”贝克兰德有大事酝酿。",
+      "identInfos": [
+        "愚者领导的隐秘聚会",
+        "成员代号为塔罗牌",
+        "每周一聚会",
+        "宗旨是等价交换"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 460,
+          "extractReason": "UPDATE",
+          "evidenceText": "“准备聚会”。"
+        },
+        {
+          "chapterSeq": 468,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我默许了一个隐秘聚会的成立，就在这里。”"
+        }
+      ]
+    },
+    {
+      "name": "救赎蔷薇",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "由被污染的天使建立的极端隐秘组织，与“真实造物主”诞生密切相关。恶灵提及，塔罗会讨论其在壁画中的线索。",
+      "identInfos": [
+        "由被污染的天使建立",
+        "与真实造物主诞生相关",
+        "极端隐秘"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 457,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“‘救赎蔷薇’与‘真实造物主’的诞生有着密切的关系，你们绝对无法想象的某些家伙都曾经是‘救赎蔷薇’的成员，只不过后来脱离了这个组织。”"
+        }
+      ]
+    },
+    {
+      "name": "血族",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "埃姆林·怀特所属种族，始祖给予末日启示，要求向“愚者”祈祷。尼拜斯·奥德拉是古老血族。埃姆林讲述血族历史，包括“血月女王”时期。",
+      "identInfos": [
+        "异种途径种族",
+        "信奉月亮",
+        "始祖莉莉丝",
+        "生命漫长"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 458,
+          "extractReason": "UPDATE",
+          "evidenceText": "“始祖告诉我，末日已经很近，我们必须为此做好准备”"
+        }
+      ]
+    },
+    {
+      "name": "白银城",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "探索小队在堕落造物主神庙外陷入时间循环，首席科林带领队伍第七次尝试后打破循环，擒获小男孩杰克，得知通往海边的路线。",
+      "identInfos": [
+        "神弃之地人类城市",
+        "信奉造物主",
+        "六人议事团统治"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 454,
+          "extractReason": "UPDATE",
+          "evidenceText": "白银城的探索小队经过不长但也不短的跋涉和零零星星的战斗，终于抵达了目的地。"
+        }
+      ]
+    },
+    {
+      "name": "魔女教派",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "特莉丝晋升为“欢愉魔女”，被改名“特莉丝奇克”，与王室有牵连。克莱恩向塔罗会透露魔女隐患。",
+      "identInfos": [
+        "信奉原初魔女",
+        "掌握魔女途径",
+        "成员多为男性转女性"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 470,
+          "extractReason": "UPDATE",
+          "evidenceText": "“有人在操纵我的人生，总是有巧合让我事后惊悚。”"
+        },
+        {
+          "chapterSeq": 471,
+          "extractReason": "UPDATE",
+          "evidenceText": "“奇克，嘿，这是‘原初魔女’的真名……”"
+        }
+      ]
+    },
+    {
+      "name": "黑夜女神教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "奥黛丽的母亲接到女儿通知后，联系女神教会。教会曾派员保护霍尔家。",
+      "identInfos": [
+        "正神教会之一",
+        "值夜者所属"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 472,
+          "extractReason": "UPDATE",
+          "evidenceText": "“我先让隐藏的守卫出现，假装是他传递了消息，然后再去找女神教会派来保护我们一家的非凡者。”"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "红祭司牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "恶灵展示“红祭司”亵渎之牌，表明它曾持有者死于图铎地下遗迹。克莱恩得知此牌存在。",
+      "identInfos": [
+        "亵渎之牌之一",
+        "序列0：红祭司",
+        "罗塞尔·古斯塔夫形象",
+        "在图铎地下遗迹"
+      ],
+      "aliases": [
+        {
+          "alias": "亵渎之牌",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 456,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“序列0：红祭司！”"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩在逃离时吹响铜哨求救，召唤出信使送信。",
+      "identInfos": [
+        "阿兹克留给克莱恩的铜哨",
+        "可召唤信使",
+        "冰冷古老"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 471,
+          "extractReason": "UPDATE",
+          "evidenceText": "“他拿起那枚冰冷古老的铜哨，放入口中，鼓气一吹。”"
+        }
+      ]
+    },
+    {
+      "name": "阳炎符咒",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩在地底逃亡时未携带，留在灰雾之上。",
+      "identInfos": [
+        "克莱恩制作的符咒",
+        "窃取永恒烈阳神血",
+        "有强大净化能力"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 471,
+          "extractReason": "UPDATE",
+          "evidenceText": "“生物毒素瓶”和“太阳胸针”等涉及卡平事件、“怨魂”事件，所以他谨慎地将它们留在了灰雾之上，而“秘偶大师”罗萨戈遗留的“全黑之眼”很难通过庄园守卫的检查，也得到了同样的待遇。"
+        }
+      ]
+    },
+    {
+      "name": "万能钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩随身携带的神奇物品，可穿越障碍，但会带来迷路负面效果。",
+      "identInfos": [
+        "神奇物品",
+        "可穿越障碍",
+        "有迷路副作用",
+        "来自乌特拉夫斯基神父"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 471,
+          "extractReason": "UPDATE",
+          "evidenceText": "“一件是可以让人穿越障碍的‘万能钥匙’，它的迷路效果能通过‘卜杖法’抵消，且平时看起来就是普普通通的钥匙”"
+        }
+      ]
+    },
+    {
+      "name": "飓风之斧",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "戴里克在探索中使用飓风之斧劈砍壁画，尝试打破循环。",
+      "identInfos": [
+        "神奇物品",
+        "戴里克所有",
+        "可引动闪电"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 465,
+          "extractReason": "UPDATE",
+          "evidenceText": "“戴里克举起‘飓风之斧’，狠狠劈向了壁画上的那道河流。”"
+        }
+      ]
+    },
+    {
+      "name": "0-08",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "封印物“0-08”，外表为普通羽毛笔，可制造巧合。因斯·赞格威尔持有，克莱恩察觉其影响，并因它制造巧合阻止特莉丝与自己见面。",
+      "identInfos": [
+        "封印物0-08",
+        "外表为羽毛笔",
+        "可制造巧合",
+        "因斯·赞格威尔持有"
+      ],
+      "aliases": [
+        {
+          "alias": "0-08",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 459,
+          "extractReason": "UPDATE",
+          "evidenceText": "“那支普普通通的羽毛笔自己书写了起来，就像有一只无形的手在持握着它。”"
+        }
+      ]
+    },
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩将太阳胸针留在灰雾之上，未带入红蔷薇庄园。后用于解除埃姆林心理暗示。",
+      "identInfos": [
+        "克莱恩购买的神奇物品",
+        "有净化和驱邪能力",
+        "带来炎热感受"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 469,
+          "extractReason": "UPDATE",
+          "evidenceText": "“‘太阳胸针’的净化和驱散效果会同步伤害吸血鬼。”"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+{
+  "characters": [
+    {
+      "name": "格尔曼·斯帕罗",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩以格尔曼·斯帕罗身份乘白玛瑙号前往拜亚姆，在船上发现并制服潜逃的海盗达尼兹，将其作为人质和仆役，利用其名声吓退红骷髅海盗团。船停班西港时，不顾危险外出救援因邪教异变被困的乘客和船员，先后净化众多活尸和飞翔头颅，击杀堕落的风暴主教米勒，并救出堂娜一家、迪默多夫妇等人。察觉到班西港（古称宾西）涉及救赎蔷薇和天使之王梅迪奇的秘密，决定通过塔罗会向风暴教会举报。抵达拜亚姆后释放达尼兹，不久达尼兹被血之上将手下钢铁麦维提袭击重伤逃回，克莱恩用伤害转移治愈其致命伤，并决定狩猎血之上将一伙。期间扮演无面人，调查冒险家温特离奇死亡事件，发现其因捡拾非凡特性贴身佩戴而受污染死亡。",
+      "identInfos": [
+        "克莱恩·莫雷蒂的新身份",
+        "擅长占卜、纸人替身、火焰跳跃",
+        "持有蠕动的饥饿手套和太阳胸针",
+        "冷酷而疯狂，内心存有善意"
+      ],
+      "aliases": [
+        {
+          "alias": "斯帕罗叔叔",
+          "type": "称呼"
+        },
+        {
+          "alias": "夏洛克·莫里亚蒂",
+          "type": "另一个身份名称"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 503,
+          "extractReason": "UPDATE",
+          "evidenceText": "发现价值3000镑的海盗化妆改扮登船，克莱恩顿时有些警惕，微笑对旁边的堂娜和丹顿姐弟俩说了一句：\n　　“有个朋友。”"
+        },
+        {
+          "chapterSeq": 507,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩戴上半高丝绸礼帽，拿起黑色硬木手杖，边拧动门把手，边平淡回应道：\n　　“他们和我合作过。\n　　“他们替我保守了秘密。\n　　“他请我吃过鱼人肉。\n　　“他帮我赔偿了‘白鲨’的损失。”"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩左掌的手套猛地爆发出压抑许久的饥饿，蠕动着长出了一枚枚暗金色的鳞片。\n　　紧接着，他的眸子里映照出了深蓝色长袍轻轻荡漾的米勒主教。\n　　无声无息间，这位正要制造大量风刃的中年男子脑袋突地后仰，身体凝固了一秒。"
+        },
+        {
+          "chapterSeq": 518,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩回忆了下“钢铁”麦维提的悬赏金额，反问道：\n　　“血之上将？”\n　　“是的，告诉船长，告诉，告诉船长！”达尼兹喘着气道。"
+        },
+        {
+          "chapterSeq": 518,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩伸手，按到了自己的伤口上，旋即往外一抹。\n　　达尼兹的悲伤一下卡住，只觉胸腹间已麻木的疼痛突然消失不见，左手却仿佛断折。"
+        },
+        {
+          "chapterSeq": 522,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩只觉一切都安静了下来，仿佛来到了不属于现实的领域。\n　　他的瞳孔被纯粹的黑色占据，就连眼白都被驱除。\n　　无需再用“梦境占卜”的技巧，已晋升“无面人”的他在初步进入现实的灰雾帮助下，直接看见了温特灵性残留的，不愿消散的念头。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 515, 516, 517, 518, 519, 520, 521, 522]
+    },
+    {
+      "name": "达尼兹",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "达尼兹在达米尔港化妆登船被发现，被克莱恩制服作为人质和仆役，被迫洗衣服、讲述海盗信息。班西港异变时跟随克莱恩参与救援，表现出火焰能力。抵达拜亚姆后被释放，但很快遭钢铁麦维提袭击重伤，逃回向克莱恩求救，被治愈后决定协助狩猎血之上将。暴露了自己的房产信息，并开始搜集麦维提情报。",
+      "identInfos": [
+        "冰山中将艾德雯娜的第四水手长",
+        "外号烈焰，赏金3000镑",
+        "擅长火鸦、火焰长枪等火系能力",
+        "性格外向话多，曾受基础教育"
+      ],
+      "aliases": [
+        {
+          "alias": "烈焰",
+          "type": "绰号"
+        },
+        {
+          "alias": "齐格",
+          "type": "化名"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 503,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "发现价值3000镑的海盗化妆改扮登船，克莱恩顿时有些警惕，微笑对旁边的堂娜和丹顿姐弟俩说了一句：\n　　“有个朋友。”"
+        },
+        {
+          "chapterSeq": 503,
+          "extractReason": "ALIAS",
+          "evidenceText": "达尼兹打开房门，发现是堂娜和丹顿姐弟俩。\n　　“斯帕罗叔叔，你们不是朋友吗？他，他怎么和刚才长得不一样了！”\n　　克莱恩找了张椅子坐下，未做掩饰，平淡说道：\n　　“准确来说，他是我的战俘。”"
+        },
+        {
+          "chapterSeq": 505,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹，他是‘冰山中将’的手下，‘黄金梦想号’的第四水手长..."
+        },
+        {
+          "chapterSeq": 508,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹前倾身体，拖动手臂，“扔”出了那团火焰，让它轰的一下砸在了僵直的脑袋上。\n　　火光腾起，赤红燃烧，那脑袋的皮肤飞快焦黑，发出了嗞嗞嗞的声音。"
+        },
+        {
+          "chapterSeq": 518,
+          "extractReason": "UPDATE",
+          "evidenceText": "达尼兹竭力奔跑着，眼前的场景已出现摇晃。\n　　他捂住胸腹的双手无力垂下，暴露出一个狰狞的，夸张的，能看见内脏的伤口。\n　　“告诉船长，老林恩被发现了，‘钢铁’麦维提，为了，为了那个宝藏！”"
+        },
+        {
+          "chapterSeq": 518,
+          "extractReason": "UPDATE",
+          "evidenceText": "他看见格尔曼·斯帕罗伸手，按到了自己的伤口上，旋即往外一抹。\n　　达尼兹的悲伤一下卡住，只觉胸腹间已麻木的疼痛突然消失不见，左手却仿佛断折。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 515, 516, 517, 518, 519, 520, 521, 522]
+    },
+    {
+      "name": "艾尔兰",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "白玛瑙号船长，在班西港异变时与克莱恩合作救援，后一同前往风暴教堂，目睹牧师杰斯死亡，协助击杀堕落主教米勒，事后向风暴教会汇报并处理后续，赠送克莱恩鱼人鳔作为礼物。",
+      "identInfos": [
+        "白玛瑙号船长",
+        "前海军水手长",
+        "曾与海盗战斗",
+        "性格沉稳公正"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 503,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "船长艾尔兰进入餐厅，路过附近"
+        },
+        {
+          "chapterSeq": 506,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔兰取出黄棕色的单筒望远镜，来回踱了几步。\n　　他半抬起手，对航海长道：\n　　“今晚停靠班西港。"
+        },
+        {
+          "chapterSeq": 510,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔兰先侧身让堂娜等人进入，然后才指着祈祷大厅道：\n　　“我认识的牧师杰斯死在了里面，脑袋和身体分离，而主教米勒不知道去了哪里”"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "接住“太阳胸针”的艾尔兰当即感受到了炎热的滋味"
+        },
+        {
+          "chapterSeq": 512,
+          "extractReason": "UPDATE",
+          "evidenceText": "艾尔兰接住那团拇指大小的东西，略显疑惑地瞄了一眼。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513]
+    },
+    {
+      "name": "堂娜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "乘客布兰奇家的女儿，与弟弟丹顿目睹信使后对克莱恩产生信任。班西港异变时，在青柠檬餐厅外看见无头活尸，后被克莱恩救出，经历战斗，对非凡者既恐惧又好奇，最终理解克莱恩的守护之心。",
+      "identInfos": [
+        "乌尔迪·布兰奇之女",
+        "丹顿的姐姐",
+        "曾见信使，对非凡世界好奇",
+        "天真勇敢的少女"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 503,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "斯帕罗叔叔！”因为有了共同的秘密，小男孩丹顿已悄然改变了称呼。\n　　堂娜眨了眨眼睛，充分表现出了自己的疑惑。"
+        },
+        {
+          "chapterSeq": 507,
+          "extractReason": "UPDATE",
+          "evidenceText": "堂娜的身体猛地后躲，瞳孔剧烈收缩，嘴巴半张开来，尖叫之声已至唇边。"
+        },
+        {
+          "chapterSeq": 509,
+          "extractReason": "UPDATE",
+          "evidenceText": "堂娜想了想，鼓起勇气，上前一步，问道：“斯帕罗叔叔，既然那样的力量必定带来危险和疯狂，你，你为什么要选择？”"
+        },
+        {
+          "chapterSeq": 517,
+          "extractReason": "UPDATE",
+          "evidenceText": "堂娜和丹顿两姐弟早早就等在了门口。\n　　“斯帕罗叔叔，你手里拿着的是什么？”堂娜好奇问了一句。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 515, 516, 517]
+    },
+    {
+      "name": "丹顿",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜的弟弟，与姐姐一同经历班西港事件，对克莱恩的非凡能力既崇拜又害怕，最后被克莱恩的守护宣言触动。",
+      "identInfos": [
+        "堂娜的弟弟",
+        "与姐姐一同经历非凡事件",
+        "崇拜格尔曼·斯帕罗"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 503,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "斯帕罗叔叔！”因为有了共同的秘密，小男孩丹顿已悄然改变了称呼。"
+        },
+        {
+          "chapterSeq": 507,
+          "extractReason": "UPDATE",
+          "evidenceText": "和姐姐一起见过白骨信使的丹顿恍然问道"
+        },
+        {
+          "chapterSeq": 513,
+          "extractReason": "UPDATE",
+          "evidenceText": "堂娜和丹顿同时点了点头，对斯帕罗叔叔的话似懂非懂，但还是牢牢记住了“守护”这个词。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [503, 505, 507, 508, 509, 510, 511, 512, 513, 515, 516, 517]
+    },
+    {
+      "name": "克里维斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜一家的保镖，前冒险家，在班西港事件中协助保护雇主，听从克莱恩指挥，表现沉稳可靠。",
+      "identInfos": [
+        "堂娜一家的保镖",
+        "前冒险家",
+        "性格沉稳，经验丰富"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 503,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "克里维斯放下刀叉，默然两秒道：\n　　“你朋友？”"
+        },
+        {
+          "chapterSeq": 508,
+          "extractReason": "UPDATE",
+          "evidenceText": "克里维斯等到敲击声平息，一手握枪，一手后拉，打开了大门。"
+        },
+        {
+          "chapterSeq": 509,
+          "extractReason": "UPDATE",
+          "evidenceText": "克里维斯提着马灯，走在前面，忽然看见一个东西飞了过来，砸在地面，滚了几下。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [503, 504, 505, 506, 507, 508, 509, 510, 511]
+    },
+    {
+      "name": "乌尔迪·布兰奇",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜和丹顿的父亲，进出口商人，在班西港事件中受到惊吓，后委托克莱恩如有需要可联系，并愿意支付报酬。",
+      "identInfos": [
+        "堂娜、丹顿之父",
+        "进出口商人",
+        "年收入1500镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 505,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "堂娜的父亲乌尔迪·布兰奇走到窗边，眺望远方。"
+        },
+        {
+          "chapterSeq": 516,
+          "extractReason": "UPDATE",
+          "evidenceText": "乌尔迪·布兰奇犹豫了一秒，上前半步道：\n　　“斯帕罗先生，你会在拜亚姆停留吗？\n　　“如果我想雇佣，不，请你帮忙，该怎么联系你？”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [504, 505, 506, 507, 508, 509, 516]
+    },
+    {
+      "name": "塞西尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜一家的保镖之一，在班西港事件中协助保护雇主，参与防御和撤离。",
+      "identInfos": [
+        "堂娜一家的保镖",
+        "有一定战斗经验"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 504,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "塞西尔和另一位保镖蒂格则守在他们身边，全神戒备。"
+        },
+        {
+          "chapterSeq": 507,
+          "extractReason": "UPDATE",
+          "evidenceText": "塞西尔刷的一下站起，两步来到堂娜的身边，疑惑望向狂风大作的窗外。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [504, 505, 507, 508, 509, 510]
+    },
+    {
+      "name": "蒂格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "堂娜一家的保镖之一，在班西港事件中协助保护雇主，对海盗悬赏金有所了解。",
+      "identInfos": [
+        "堂娜一家的保镖",
+        "了解海盗悬赏行情"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 504,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "塞西尔和另一位保镖蒂格则守在他们身边"
+        },
+        {
+          "chapterSeq": 505,
+          "extractReason": "UPDATE",
+          "evidenceText": "另外一边的保镖蒂格理了下头发，呵呵笑道"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [504, 505, 507, 508, 509, 510]
+    },
+    {
+      "name": "迪默多",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "白玛瑙号乘客，和妻子新婚度假，在班西港事件中被克莱恩从青柠檬餐厅救出，随队伍安全返回船上。",
+      "identInfos": [
+        "白玛瑙号乘客",
+        "新婚度假",
+        "班西港事件中被救者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 509,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "迪默多是位不到三十的男子，这次是在和新婚妻子度假。"
+        },
+        {
+          "chapterSeq": 509,
+          "extractReason": "UPDATE",
+          "evidenceText": "他拉住新婚妻子的手，边走向门口，边礼貌笑道：\n　　“我们所有东西都在船上，当然是和你们一起。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [509, 510, 511]
+    },
+    {
+      "name": "米勒",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "班西港风暴教堂主教，实际为古老邪恶习俗复苏的邪教徒首领，在异变中杀害牧师杰斯并制造怪物，后被克莱恩联手击杀，其非凡特性被交还代罚者。",
+      "identInfos": [
+        "班西港风暴教堂主教",
+        "堕落邪教徒首领",
+        "掌控风刃，能制造无头怪物"
+      ],
+      "aliases": [
+        {
+          "alias": "米勒主教",
+          "type": "称呼"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 510,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "米勒主教？”“是的，主教先生，我看见杰斯死了，究竟出了什么事情？”"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "米勒主教眼中的暗红光芒更盛，同时抬起了双手。\n　　嗖嗖嗖嗖嗖！\n　　这一刻，风刃的攻击就仿佛机枪在扫射"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "他发出一声像是来自大海深处的喘息，蓝色长袍下突然钻出了一条条滑腻的，恶心的触手！"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "等到那灿烂的光柱消失，他已不成人形，变成了一摊由白骨和血肉构成的怪物"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [510, 511]
+    },
+    {
+      "name": "杰斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "班西港风暴教堂牧师，发现邪教徒秘密后被堕落主教米勒杀害，其死亡是班西港事件的导火索之一。",
+      "identInfos": [
+        "班西港风暴教堂牧师",
+        "被米勒主教杀害"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 507,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾尔兰笑着靠拢过去，拍了下那熟悉身影的肩膀：\n　　“杰斯，你们主教呢？”\n　　被这么拍了一下后，那位牧师的脑袋出现明显晃动。\n　　接着，它向前一倒，砰当一声掉在了地上，连续做出翻滚。"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [507, 510]
+    },
+    {
+      "name": "钢铁麦维提",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "血之上将塞尼奥尔的二副，序列6强者，身体如钢铁，带领手下在拜亚姆控制黄金梦想号联络点，伏击达尼兹致其重伤，因涉及宝藏钥匙引发冲突。",
+      "identInfos": [
+        "血之上将塞尼奥尔的二副",
+        "外号钢铁",
+        "赏金6000镑",
+        "身体坚硬，不怕刀枪火焰"
+      ],
+      "aliases": [
+        {
+          "alias": "钢铁",
+          "type": "绰号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 518,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他看见一个背对自己的人站了起来，身材高大，皮肤黝黑，肌肉结实，头发卷得仿佛一粒粒弹珠。\n　　“钢铁”麦维提！达尼兹的瞳孔急剧收缩。\n　　这是“血之上将”塞尼奥尔的二副，赏金6000镑的大海盗！"
+        },
+        {
+          "chapterSeq": 520,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘钢铁’麦维提是旗舰二副，我们猜测有序列6，身体如同钢铁，能硬挡子弹和炮弹，不怕火烧，不怕溺水，不怕多种魔法”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [518, 520]
+    },
+    {
+      "name": "奥黛丽·霍尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "CORE",
+      "summary": "塔罗会正义牌持有者，在离开贝克兰德前成功晋升序列7心理医生，获得安抚、读心、狂乱等能力，并命名新神奇物品谎言。在塔罗会上完成多项交易，获知班西港涉及救赎蔷薇和天使之王梅迪奇。",
+      "identInfos": [
+        "霍尔伯爵之女",
+        "塔罗会正义牌",
+        "序列7心理医生",
+        "金发碧眼，美貌纯真"
+      ],
+      "aliases": [
+        {
+          "alias": "正义",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽站在二楼的白色镶金栏杆后，看着一楼的仆人来来往往，忙忙碌碌。"
+        },
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽几乎没有思考，直接回答道：\n　　“妈妈，我想去教会的慈善组织。”"
+        },
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "有了“正义”小姐做示范，“魔术师”佛尔思也开口道：\n　　“‘愚者’先生，我这里也有三页新的罗塞尔日记。”"
+        },
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "“正义”奥黛丽当即开口，目光明亮地望着埃姆林·怀特道：\n　　“‘月亮’先生，有长者之树果实和镜龙血液的情报了吗？”"
+        },
+        {
+          "chapterSeq": 518,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽欣喜地对金毛大狗说道。\n　　苏茜被教育得有些迷茫，只能张嘴回应一个单词：\n　　“汪！”"
+        },
+        {
+          "chapterSeq": 519,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽拿起银色的面具，将它放在掌中，观察了几秒。\n　　然后，她蔓延出灵性，像在灰雾之上那样给予对方一定的想法。\n　　她看见银色的面具开始内卷，化成一只中间镂空的，花纹精致的，略显巨大的耳饰。"
+        },
+        {
+          "chapterSeq": 519,
+          "extractReason": "UPDATE",
+          "evidenceText": "奥黛丽·霍尔成功晋升序列7“心理医生”。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [514, 515, 516, 519]
+    },
+    {
+      "name": "阿尔杰·威尔逊",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会倒吊人，风暴教会代罚者，在拜亚姆奉教区主教之命调查死神钥匙传闻，在赌场偶遇达尼兹，通过试探确认其与格尔曼·斯帕罗的关系，并答应帮忙留意钢铁麦维提行踪，推测出格尔曼是愚者眷者。完成交易获得龙眼海雕眼珠资金。",
+      "identInfos": [
+        "塔罗会倒吊人",
+        "风暴教会代罚者",
+        "蓝发，混血儿",
+        "擅长谋划，经验丰富"
+      ],
+      "aliases": [
+        {
+          "alias": "倒吊人",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 520,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰拉了拉棕色的厚外套，按了按大陆流传过来的鸭舌帽，推开半掩的房门，在一位位保镖的注视下，进入了赌场。"
+        },
+        {
+          "chapterSeq": 520,
+          "extractReason": "UPDATE",
+          "evidenceText": "他摘掉帽子，走到一张玩德州扑克的桌子前，拍了下目标的肩膀，伏低腰背，凑至对方的耳畔，压着嗓音道：\n　　“烈焰。”"
+        },
+        {
+          "chapterSeq": 521,
+          "extractReason": "UPDATE",
+          "evidenceText": "阿尔杰从对方的口吻和要求推测道。\n　　“你有新的帮手了？"
+        },
+        {
+          "chapterSeq": 521,
+          "extractReason": "UPDATE",
+          "evidenceText": "大胆假设，小心求证！\n　　达尼兹收起这把赢的筹码，嘟囔着说道：\n　　“也不是什么大事，那里有一些古老的习俗在复苏，导致了一位风暴主教的堕落。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [520, 521]
+    },
+    {
+      "name": "埃姆林·怀特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会月亮，血族成员，在塔罗会上成为正义购买长者之树果实和镜龙血液的中间人，赚取100镑报酬；因金钱不足未购买血族男爵遗产，计划通过学习历史寻找白银城线索。",
+      "identInfos": [
+        "塔罗会月亮",
+        "血族成员",
+        "喜好收藏人偶",
+        "丰收教堂药剂师"
+      ],
+      "aliases": [
+        {
+          "alias": "月亮",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "“月亮”埃姆林·怀特刚恢复视线，就看见对面的“正义”小姐望向斑驳长桌最上首"
+        },
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "埃姆林下巴轻点道：\n　　“一共750镑。”\n　　“只要付出这么一笔钱，它们就将属于你。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [514, 515, 516]
+    },
+    {
+      "name": "戴里克·伯格",
+      "wikiSectionType": "人物",
+      "importanceLevel": "HIGH",
+      "summary": "塔罗会太阳，白银城居民，在塔罗会上提供古神传说，获得太阳神官配方，开始着手晋升序列7，被倒吊人提醒在献祭仪式时注意首席的察觉。",
+      "identInfos": [
+        "塔罗会太阳",
+        "白银城居民",
+        "序列6光之祭司"
+      ],
+      "aliases": [
+        {
+          "alias": "太阳",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克紧随其后：\n　　“伟大的‘愚者’先生，我抄录了一些古神的传说。”"
+        },
+        {
+          "chapterSeq": 515,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克期待地接过那张羊皮纸，半是放松半是激动地浏览了一遍。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [514, 515, 516]
+    },
+    {
+      "name": "佛尔思·沃尔",
+      "wikiSectionType": "人物",
+      "importanceLevel": "MEDIUM",
+      "summary": "塔罗会魔术师，学徒魔药消化完毕，委托倒吊人交易获得食灵者胃袋，准备晋升戏法大师，并受托购买无线电收报机。",
+      "identInfos": [
+        "塔罗会魔术师",
+        "亚伯拉罕家族学徒",
+        "作家，医生"
+      ],
+      "aliases": [
+        {
+          "alias": "魔术师",
+          "type": "代号"
+        }
+      ],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "‘魔术师’佛尔思也开口道：\n　　“‘愚者’先生，我这里也有三页新的罗塞尔日记。”"
+        },
+        {
+          "chapterSeq": 515,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思想到上周在“倒吊人”先生那里吃的亏，略感委屈地回应道：\n　　“好的。”"
+        },
+        {
+          "chapterSeq": 517,
+          "extractReason": "UPDATE",
+          "evidenceText": "“魔术师”佛尔思对无线电，甚至整个机械领域的事情都了解不多"
+        },
+        {
+          "chapterSeq": 517,
+          "extractReason": "UPDATE",
+          "evidenceText": "她迅速锁定了请教的对象：阿维勒是写科学幻想小说的"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [514, 515, 516, 517]
+    },
+    {
+      "name": "福克斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "青柠檬餐厅老板，在班西港异变之夜劝阻客人外出，言行诡异，似与本地习俗有关。",
+      "identInfos": [
+        "青柠檬餐厅老板",
+        "班西港居民",
+        "知晓本地禁忌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 508,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "这人影穿着黑色燕尾服，没戴帽子，鼻梁上架着副眼镜，脸庞多肉，近乎圆形。\n　　“福克斯先生，你想表达什么？”克里维斯认出这是青柠檬餐厅的老板。"
+        },
+        {
+          "chapterSeq": 508,
+          "extractReason": "UPDATE",
+          "evidenceText": "福克斯没什么表情地说道：\n　　“在班西，大雾和天气变化剧烈的夜晚，最好不要外出，不要回应敲门”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [508, 509]
+    },
+    {
+      "name": "帕沃·考特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "电报局职员，声称在异变之夜返回电报局，但言行可疑，其出现使电报局气氛更加诡异。",
+      "identInfos": [
+        "班西港电报局职员",
+        "失踪后突然出现"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 509,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他是我的，同事，今晚风起前出去，再没有回来。\n　　“他叫，帕沃·考特。”"
+        },
+        {
+          "chapterSeq": 512,
+          "extractReason": "UPDATE",
+          "evidenceText": "我是，帕沃·考特，梅兰妮的同事。\n　　“她就在，我的旁边，她很好。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [512]
+    },
+    {
+      "name": "梅兰妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "电报局女职员，最初拒绝开门，后同事帕沃·考特返回，其言行与本地禁忌相悖，可疑。",
+      "identInfos": [
+        "班西港电报局女职员",
+        "恪守禁忌又打破禁忌"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 507,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "你们，可不可以，帮我留意，一个人。\n　　“他是我的，同事，今晚风起前出去，再没有回来。”"
+        },
+        {
+          "chapterSeq": 512,
+          "extractReason": "UPDATE",
+          "evidenceText": "是的，我很好。\n　　“你们不需要，再留意，帕沃·考特，回来了。”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [509, 512]
+    },
+    {
+      "name": "哈里斯",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "白玛瑙号大副，陪同艾尔兰船长在班西港行动，协助救人，参与风暴教堂事件。",
+      "identInfos": [
+        "白玛瑙号大副",
+        "艾尔兰的副手"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 506,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他的大副哈里斯哈哈一笑道"
+        },
+        {
+          "chapterSeq": 510,
+          "extractReason": "UPDATE",
+          "evidenceText": "大副哈里斯解除反锁，打开了大门。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [506, 507, 510]
+    },
+    {
+      "name": "苏茜",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "奥黛丽的金毛大狗，正学习语言和非凡知识，在奥黛丽晋升心理医生时提供安抚帮助。",
+      "identInfos": [
+        "奥黛丽的金毛大狗",
+        "正在学习语言",
+        "能使用简单话语"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "她侧过脑袋，浅笑着对蹲在一旁的金毛大狗道：\n　　“苏茜，期待吗？你又能尽情奔跑在碧绿的田野上”"
+        },
+        {
+          "chapterSeq": 519,
+          "extractReason": "UPDATE",
+          "evidenceText": "苏茜被教育得有些迷茫，只能张嘴回应一个单词：\n　　“汪！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [514, 519]
+    },
+    {
+      "name": "温特",
+      "wikiSectionType": "人物",
+      "importanceLevel": "LOW",
+      "summary": "冒险家，因捡拾非凡特性制成的项链受污染而死，死后房间内长满蘑菇和昆虫，通灵得知其遗憾未能向蕊妮表白。",
+      "identInfos": [
+        "拜亚姆冒险家",
+        "因捡非凡特性受污染而死",
+        "暗恋亚麻色头发少女蕊妮"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 522,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我一直以为温特出海了，没想到，他一直在家里，病得很重。"
+        },
+        {
+          "chapterSeq": 522,
+          "extractReason": "UPDATE",
+          "evidenceText": "温特的房间内到处都是虫子，有飞蛾，有苍蝇，有蝴蝶，有蜜蜂，有蟑螂"
+        },
+        {
+          "chapterSeq": 522,
+          "extractReason": "UPDATE",
+          "evidenceText": "在他的胸口，有一条银制的项链，坠子正是之前那枚青绿色宝石"
+        }
+      ],
+      "lifeStatus": "已死亡",
+      "appearanceChapterSeqs": [522]
+    },
+    {
+      "name": "蕊妮",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "温特暗恋的亚麻色头发少女，出现在其死前最后残念中，温特后悔未表白。",
+      "identInfos": [
+        "亚麻色头发少女",
+        "温特暗恋对象"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 522,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "一个容貌清秀眼睛水润的亚麻色头发少女，她正坐在海边，周围环绕着温特不甘愿的声音：\n　　“蕊妮，我要死了，我好后悔，后悔从来没告诉过你，我爱你”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [522]
+    },
+    {
+      "name": "老林恩",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "黄金梦想号在罗思德群岛的联络人，被钢铁麦维提控制，导致达尼兹被伏击。",
+      "identInfos": [
+        "黄金梦想号联络人",
+        "年迈",
+        "被钢铁麦维提控制"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 518,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "老家伙，今天没喝酒？”达尼兹笑着打了声招呼。\n　　立在门口的是“黄金梦想号”在罗思德群岛的联络人之一，老林恩。"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [518]
+    },
+    {
+      "name": "乔戈里",
+      "wikiSectionType": "人物",
+      "importanceLevel": "TEMP",
+      "summary": "拜亚姆海浪教堂教区主教，指派阿尔杰调查死神钥匙传闻。",
+      "identInfos": [
+        "拜亚姆教区主教",
+        "精神矍铄的老者"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 520,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "教区主教乔戈里对阿尔杰的态度很满意，回以相同的礼仪"
+        },
+        {
+          "chapterSeq": 520,
+          "extractReason": "UPDATE",
+          "evidenceText": "他庄重握拳，击打了下左胸：\n　　“好的，乔戈里阁下！\n　　“风暴与你同在！”"
+        }
+      ],
+      "lifeStatus": "活着",
+      "appearanceChapterSeqs": [520]
+    }
+  ],
+  "factions": [
+    {
+      "name": "塔罗会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "在本次chunk中，塔罗会举行多次聚会，成员正义晋升心理医生，倒吊人获知班西港秘密，太阳获得晋升配方，魔术师准备晋升戏法大师，月亮成为中间人。愚者透露救赎蔷薇和天使之王梅迪奇信息，并借世界之口引导风暴教会处理班西港隐患。",
+      "identInfos": [
+        "由愚者召集的隐秘聚会",
+        "成员以塔罗牌为代号",
+        "定期交流情报和交易物品",
+        "成员分布世界各地"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "漫无边际的灰雾之上，宏伟的宫殿静静屹立。\n　　又一次来到这里的“月亮”埃姆林·怀特刚恢复视线，就看见对面的“正义”小姐望向斑驳长桌最上首"
+        }
+      ]
+    },
+    {
+      "name": "风暴教会",
+      "wikiSectionType": "势力",
+      "importanceLevel": "HIGH",
+      "summary": "班西港风暴教堂主教堕落，代罚者小队镇压古老习俗复苏，但背后涉及救赎蔷薇，塔罗会计划通过倒吊人间接警示教会。拜亚姆教区主教乔戈里关注死神钥匙传闻。",
+      "identInfos": [
+        "风暴之主的教会",
+        "掌握代罚者组织",
+        "在海上势力庞大",
+        "班西港设有教堂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 506,
+          "extractReason": "UPDATE",
+          "evidenceText": "传说在三百多年前，鲁恩的军队第一次占领这座岛屿的时候，有超过五百名士兵在一场大雾后离奇失踪...直到风暴教会在这里修了座教堂，派遣了主教。"
+        },
+        {
+          "chapterSeq": 512,
+          "extractReason": "UPDATE",
+          "evidenceText": "教会总部已经回电，即将派人来彻查米勒主教堕落的原因"
+        },
+        {
+          "chapterSeq": 520,
+          "extractReason": "UPDATE",
+          "evidenceText": "最近有流传一个消息，说是‘冰山中将’得到了死神的钥匙，整个苏尼亚海的海盗都沸腾了。教区主教沉声说道，“你追查下这件事情。”"
+        }
+      ]
+    },
+    {
+      "name": "血之上将海盗团",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "以血之上将塞尼奥尔为首的海盗团，拥有七八艘船，旗舰血肉之树号，在苏尼亚海臭名昭著。其手下钢铁麦维提在拜亚姆伏击达尼兹，企图夺取冰山中将得到的钥匙。克莱恩开始谋划狩猎该海盗团。",
+      "identInfos": [
+        "塞尼奥尔领导的海盗团",
+        "旗舰血肉之树号",
+        "手下包括钢铁麦维提",
+        "满手血腥，罪恶深重"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 520,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“血之上将”塞尼奥尔疑似恶灵，凡面对他的人，都会离奇死亡"
+        },
+        {
+          "chapterSeq": 520,
+          "extractReason": "UPDATE",
+          "evidenceText": "他有大概七八艘船，旗舰是‘血肉之树’号"
+        }
+      ]
+    },
+    {
+      "name": "黄金梦想号",
+      "wikiSectionType": "势力",
+      "importanceLevel": "MEDIUM",
+      "summary": "冰山中将艾德雯娜的海盗船，船员多为兼职海盗的冒险家，在拜亚姆的联络点被钢铁麦维提控制，达尼兹险些丧命。",
+      "identInfos": [
+        "冰山中将艾德雯娜的船",
+        "船员多为兼职海盗",
+        "获得一把巨大黑铁钥匙",
+        "联络点被血之上将控制"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 505,
+          "extractReason": "UPDATE",
+          "evidenceText": "他是‘冰山中将’的手下，‘黄金梦想号’的第四水手长"
+        },
+        {
+          "chapterSeq": 518,
+          "extractReason": "UPDATE",
+          "evidenceText": "告诉船长，老林恩被发现了，‘钢铁’麦维提，为了，为了那个宝藏"
+        }
+      ]
+    },
+    {
+      "name": "救赎蔷薇",
+      "wikiSectionType": "势力",
+      "importanceLevel": "CORE",
+      "summary": "由天使之王梅迪奇等创立的神秘组织，与真实造物主有关。其曾位于班西港古称宾西，愚者在塔罗会上向成员透露此信息，并借倒吊人之手警示风暴教会。",
+      "identInfos": [
+        "由天使之王创立",
+        "与真实造物主有关",
+        "曾位于宾西（班西古称）",
+        "创立者包括梅迪奇"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 515,
+          "extractReason": "UPDATE",
+          "evidenceText": "创立‘救赎蔷薇’的梅迪奇，祂的血脉后裔居住在宾西。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "太阳胸针",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩持有的神奇物品，能释放纯净光芒、光明之火、太阳圣水等，对不死生物有强大克制效果。在班西港用于净化怪物和击杀堕落主教，并借给艾尔兰制造圣水。",
+      "identInfos": [
+        "克莱恩持有的太阳领域神奇物品",
+        "能产生光和火焰",
+        "对不死生物特效"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩抬起左掌，一把扯下大衣内的“太阳胸针”，丢给了距离他最近的艾尔兰船长"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "接住“太阳胸针”的艾尔兰当即感受到了炎热的滋味"
+        }
+      ]
+    },
+    {
+      "name": "阿兹克铜哨",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩持有的神奇物品，能吸引不死类怪物，在班西港用于引开无头活尸，便于集中消灭。",
+      "identInfos": [
+        "阿兹克·艾格斯的铜哨",
+        "能吸引不死生物",
+        "克莱恩的重要物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 509,
+          "extractReason": "UPDATE",
+          "evidenceText": "他左手探入衣兜，去掉铁制卷烟盒的灵性之墙，取出阿兹克铜哨，将它握在掌中，时而抛起。"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "当，当，当，阿兹克铜哨掉在地上，弹动了几下。\n　　呼的一声，六个无头之人同时改变了方向，冲往阿兹克铜哨停住的位置"
+        }
+      ]
+    },
+    {
+      "name": "蠕动的饥饿",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "克莱恩的左手手套，能够放牧灵魂并使用其能力，在班西港通过放牧的灵魂施展狂乱、审讯者、光之祭司等能力，最终吞食了堕落主教米勒的血肉和灵魂。",
+      "identInfos": [
+        "克莱恩的左手手套",
+        "能放牧灵魂并使用能力",
+        "能吞食血肉灵魂"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "他左掌的手套猛地爆发出压抑许久的饥饿，蠕动着长出了一枚枚暗金色的鳞片。"
+        },
+        {
+          "chapterSeq": 511,
+          "extractReason": "UPDATE",
+          "evidenceText": "手套的掌心位置，无声无息裂开了一道缝隙，里面长出两排虚幻的，白森森的牙齿，疯狂地吞咬起血肉、白骨和灵性。"
+        }
+      ]
+    },
+    {
+      "name": "全黑之眼",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "克莱恩从罗萨戈处获得的神奇物品，用于在灰雾之上制造虚假的世界先生，本次未直接出现，但世界角色仍在塔罗会活动。",
+      "identInfos": [
+        "全黑的神奇物品",
+        "源自秘偶大师罗萨戈",
+        "用于灵魂领域"
+      ],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "塔罗牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "阿尔杰在拜亚姆购买了一副塔罗牌，可能与塔罗会象征有关。",
+      "identInfos": [
+        "一副塔罗牌",
+        "阿尔杰购买"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 521,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "他微笑掏出一把黄铜色的便士道：\n　　“给我一副塔罗牌。”"
+        }
+      ]
+    },
+    {
+      "name": "黑皇帝牌",
+      "wikiSectionType": "物品",
+      "importanceLevel": "CORE",
+      "summary": "亵渎之牌之一，对应黑皇帝途径，克莱恩在塔罗会上归还给愚者，可能用于震慑或交易。",
+      "identInfos": [
+        "亵渎之牌",
+        "对应黑皇帝途径",
+        "曾被克莱恩使用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "UPDATE",
+          "evidenceText": "她迅速发现，那张“黑皇帝”牌回来了，静静地覆盖于“愚者”先生的手侧。"
+        }
+      ]
+    },
+    {
+      "name": "谎言",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "奥黛丽的新神奇物品，银白色面具可变形为耳饰等，能提供真实变形、操纵火焰、伤害转移和危险直觉能力，负面效果是放大情绪。奥黛丽为其命名谎言。",
+      "identInfos": [
+        "银白色面具",
+        "能变形为耳饰",
+        "提供多种非凡能力",
+        "情绪放大副作用"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 519,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "盒子里面摆了张银色的面具，只能遮住上半张脸那种，正是“倒吊人”卖给她的那件神奇物品。"
+        },
+        {
+          "chapterSeq": 519,
+          "extractReason": "UPDATE",
+          "evidenceText": "“从今天开始，你的名字就是‘谎言’，最美丽的谎言~”"
+        }
+      ]
+    },
+    {
+      "name": "长者之树果实",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理医生魔药主材料之一，由月亮埃姆林为正义奥黛丽购得，价格包含在750镑内。",
+      "identInfos": [
+        "序列7心理医生主材料",
+        "埃姆林为奥黛丽购买"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "埃姆林下巴轻点道：\n　　“一共750镑。”\n　　“只要付出这么一笔钱，它们就将属于你。”\n　　“当然，还有我的报酬，100镑。”"
+        }
+      ]
+    },
+    {
+      "name": "镜龙血液",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "心理医生魔药主材料之一，由月亮埃姆林为正义奥黛丽购得。",
+      "identInfos": [
+        "序列7心理医生主材料",
+        "埃姆林为奥黛丽购买"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 514,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "埃姆林下巴轻点道：\n　　“一共750镑。”"
+        }
+      ]
+    },
+    {
+      "name": "太阳神官配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "序列7太阳神官魔药配方，由倒吊人提供，太阳戴里克获得，配方包括黎明雄鸡的红冠等材料。",
+      "identInfos": [
+        "序列7太阳神官配方",
+        "戴里克获得",
+        "阿尔杰提供"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 515,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "序列7，“太阳神官”，主材料：黎明雄鸡的红冠一朵，光辉契灵树的果实一枚"
+        },
+        {
+          "chapterSeq": 515,
+          "extractReason": "UPDATE",
+          "evidenceText": "“太阳”戴里克期待地接过那张羊皮纸"
+        }
+      ]
+    },
+    {
+      "name": "食灵者胃袋",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "戏法大师魔药主材料之一，由太阳提供，魔术师佛尔思支付300镑，将于两天内交易。",
+      "identInfos": [
+        "序列7戏法大师主材料",
+        "佛尔思购买",
+        "戴里克提供"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 515,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "“太阳”戴里克看着对面的女士，诚恳地说道：\n　　“‘魔术师’小姐，你的食灵者胃袋已经准备好。”"
+        }
+      ]
+    },
+    {
+      "name": "风眷者配方",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "序列6风眷者魔药配方，倒吊人阿尔杰已获得主材料之一龙眼海雕眼珠，另一材料在筹备中。",
+      "identInfos": [
+        "序列6风眷者配方",
+        "阿尔杰晋升所需"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 515,
+          "extractReason": "UPDATE",
+          "evidenceText": "“倒吊人”身上现在只有十几镑...但完成这一系列交易后...足够支付主材料所需要的2000镑。"
+        }
+      ]
+    },
+    {
+      "name": "血族麻醉气体",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "月亮埃姆林提供的特殊麻醉气体，可使整船人陷入沉睡，售价100镑一罐，倒吊人将用于幽灵船行动。",
+      "identInfos": [
+        "血族制造的麻醉气体",
+        "可使整船人沉睡",
+        "售价100镑"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 516,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "很简单，我可以提供一种神奇的麻醉气体，它能有效蔓延，没有刺激性的气味，即使在甲板上，直接嗅到也会导致昏迷"
+        }
+      ]
+    },
+    {
+      "name": "鱼人鳔",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "艾尔兰船长赠送给克莱恩的鱼人非凡材料，可用于制作物品，在海上很有用，价值150镑以上。",
+      "identInfos": [
+        "鱼人身上的非凡材料",
+        "艾尔兰赠送",
+        "可制作神奇物品"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 513,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "艾尔兰哈哈一笑道：\n　　“我给你这东西，也不是为了回报你的搭救。\n　　“鱼人的鳔，可以拿去制作物品，在海上很有用。”"
+        }
+      ]
+    },
+    {
+      "name": "米勒主教的非凡特性",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "堕落主教米勒死后析出的非凡特性，淡蓝剔透，内有青绿痕迹，克莱恩暂时保管后交还代罚者。",
+      "identInfos": [
+        "序列6风暴主教特性",
+        "淡蓝色，内有青绿痕迹"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 512,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "米勒主教的非凡特性已凝聚完毕，只有拇指大小，淡蓝剔透，但里面时不时会刮起青绿色的痕迹"
+        },
+        {
+          "chapterSeq": 512,
+          "extractReason": "UPDATE",
+          "evidenceText": "克莱恩走到艾尔兰旁边，将米勒主教的非凡特性掏出，丢了过去"
+        }
+      ]
+    },
+    {
+      "name": "无线电收报机",
+      "wikiSectionType": "物品",
+      "importanceLevel": "LOW",
+      "summary": "世界委托魔术师购买的物品，用于监听海盗无线电，魔术师正在寻找购买渠道。",
+      "identInfos": [
+        "世界委托购买",
+        "用于监听海盗通讯"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 516,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "女士们，能帮我买一台无线电收报机吗？\n　　“我……可以试一试。”魔术师佛尔思不甚在意地答应了下来。"
+        }
+      ]
+    },
+    {
+      "name": "深红月冕",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩之前获得的玫瑰学派神奇物品，本次chunk未直接使用，但作为其持有物品背景存在。",
+      "identInfos": [
+        "玫瑰学派神奇物品",
+        "克莱恩战利品"
+      ],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "生物毒素瓶",
+      "wikiSectionType": "物品",
+      "importanceLevel": "MEDIUM",
+      "summary": "克莱恩之前获得的神奇物品，能释放毒素，本次chunk未直接使用。",
+      "identInfos": [
+        "能释放毒素的神奇物品",
+        "克莱恩战利品"
+      ],
+      "aliases": [],
+      "evidences": []
+    },
+    {
+      "name": "死神钥匙",
+      "wikiSectionType": "物品",
+      "importanceLevel": "HIGH",
+      "summary": "冰山中将发现的黑铁巨匙，引发海盗争夺，被认为可能是死神的钥匙。克莱恩推测其象征意义大于实际钥匙形态。",
+      "identInfos": [
+        "黑铁巨匙",
+        "冰山中将发现",
+        "疑为死神的钥匙"
+      ],
+      "aliases": [],
+      "evidences": [
+        {
+          "chapterSeq": 519,
+          "extractReason": "DISCOVERY",
+          "evidenceText": "我们在上一次的探险里，找到了一艘沉船...发现了一把不像人类使用的，巨大的黑铁钥匙。"
+        },
+        {
+          "chapterSeq": 519,
+          "extractReason": "UPDATE",
+          "evidenceText": "无数海盗相信，这是死神的钥匙，是可以打开那个死神遗留宝藏的钥匙。"
+        }
+      ]
+    }
+  ]
+}
