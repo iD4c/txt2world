@@ -1,5 +1,7 @@
 # txt2world
 
+[English](README.md) | [中文](README-ZH.md)
+
 > 上传一本小说 TXT，让 AI 自动构建人物、势力、物品与关系图谱 Wiki。
 
 txt2world 是一个面向长篇小说的 **Narrative Knowledge System**。

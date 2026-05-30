@@ -1,5 +1,7 @@
 # txt2world
 
+[English](README.md) | [中文](README-ZH.md)
+
 > Upload a novel TXT file, and let AI automatically build a Wiki of characters, factions, items, and relationship graphs.
 
 txt2world is a **Narrative Knowledge System** for long-form fiction.
